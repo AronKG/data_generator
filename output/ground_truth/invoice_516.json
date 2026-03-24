@@ -1,0 +1,63 @@
+{
+  "id": 516,
+  "filename": "invoice_516.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "REF-61652",
+  "issue_date": "02-Mar-2024",
+  "due_date": "March 09 2024",
+  "payment_terms": "Net 90",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 662.67,
+      "discount_pct": 0,
+      "line_total": 33133.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1087.57,
+      "discount_pct": 0,
+      "line_total": 2175.14
+    }
+  ],
+  "subtotal": 35308.64,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 3530.86,
+  "shipping_amount": 0.0,
+  "total_due": 38839.5,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

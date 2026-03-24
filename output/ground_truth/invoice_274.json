@@ -1,0 +1,167 @@
+{
+  "id": 274,
+  "filename": "invoice_274.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "028229",
+  "issue_date": "2022-08-05",
+  "due_date": "19/08/2022",
+  "payment_terms": "Net 60",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 536.69,
+      "discount_pct": 10,
+      "line_total": 12075.53
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 814.04,
+      "discount_pct": 10,
+      "line_total": 2197.91
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 385.17,
+      "discount_pct": 20,
+      "line_total": 308.14
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4883.31,
+      "discount_pct": 10,
+      "line_total": 219748.95
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 434.8,
+      "discount_pct": 10,
+      "line_total": 9783.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 239.06,
+      "discount_pct": 0,
+      "line_total": 239.06
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 5201.04,
+      "discount_pct": 20,
+      "line_total": 12482.5
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 862.79,
+      "discount_pct": 20,
+      "line_total": 6902.32
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 164.89,
+      "discount_pct": 20,
+      "line_total": 395.74
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1721.34,
+      "discount_pct": 0,
+      "line_total": 1721.34
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 282.55,
+      "discount_pct": 10,
+      "line_total": 254.3
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1752.95,
+      "discount_pct": 0,
+      "line_total": 5258.85
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 236.7,
+      "discount_pct": 20,
+      "line_total": 378.72
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2961.61,
+      "discount_pct": 20,
+      "line_total": 59232.2
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 189.65,
+      "discount_pct": 5,
+      "line_total": 180.17
+    }
+  ],
+  "subtotal": 331158.73,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 49673.81,
+  "shipping_amount": 0.0,
+  "total_due": 380832.54,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

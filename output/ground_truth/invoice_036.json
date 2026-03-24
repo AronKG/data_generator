@@ -1,0 +1,63 @@
+{
+  "id": 36,
+  "filename": "invoice_036.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "040719",
+  "issue_date": "14/02/2024",
+  "due_date": "14 May 2024",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 773.73,
+      "discount_pct": 0,
+      "line_total": 2321.19
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 8292.88,
+      "discount_pct": 0,
+      "line_total": 16585.76
+    }
+  ],
+  "subtotal": 18906.95,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 3781.39,
+  "shipping_amount": 0.0,
+  "total_due": 22688.34,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

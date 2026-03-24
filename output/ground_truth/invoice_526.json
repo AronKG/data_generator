@@ -1,0 +1,70 @@
+{
+  "id": 526,
+  "filename": "invoice_526.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
+  "invoice_number": "2024-28039",
+  "issue_date": "2023-10-23",
+  "due_date": "21-Jan-2024",
+  "payment_terms": "Upon completion",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 786.42,
+      "discount_pct": 0,
+      "line_total": 786.42
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1297.55,
+      "discount_pct": 0,
+      "line_total": 12975.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 18167.77,
+      "discount_pct": 0,
+      "line_total": 181677.7
+    }
+  ],
+  "subtotal": 195439.62,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 44951.11,
+  "shipping_amount": 0.0,
+  "total_due": 240390.73,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

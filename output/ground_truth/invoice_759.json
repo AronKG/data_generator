@@ -1,0 +1,86 @@
+{
+  "id": 759,
+  "filename": "invoice_759.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "064667",
+  "issue_date": "04/11/2022",
+  "due_date": "July 10 2022",
+  "payment_terms": "Net 45",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 341.11,
+      "discount_pct": 5,
+      "line_total": 972.16
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 185.66,
+      "discount_pct": 20,
+      "line_total": 445.58
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 488.81,
+      "discount_pct": 10,
+      "line_total": 439.93
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1441.67,
+      "discount_pct": 20,
+      "line_total": 57666.8
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 5307.48,
+      "discount_pct": 15,
+      "line_total": 112783.95
+    }
+  ],
+  "subtotal": 172308.42,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 14215.44,
+  "shipping_amount": 0.0,
+  "total_due": 186523.86,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

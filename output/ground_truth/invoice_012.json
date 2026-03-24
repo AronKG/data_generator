@@ -1,0 +1,70 @@
+{
+  "id": 12,
+  "filename": "invoice_012.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 7,
+  "invoice_number": "PROFORMA-5015",
+  "issue_date": "01/15/2024",
+  "due_date": "30 January 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2053.72,
+      "discount_pct": 0,
+      "line_total": 2053.72
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1004.61,
+      "discount_pct": 0,
+      "line_total": 1004.61
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 134.12,
+      "discount_pct": 0,
+      "line_total": 1341.2
+    }
+  ],
+  "subtotal": 4399.53,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 1011.89,
+  "shipping_amount": 0.0,
+  "total_due": 5411.42,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,87 @@
+{
+  "id": 27,
+  "filename": "invoice_027.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "2023-82247",
+  "issue_date": "11 August 2022",
+  "due_date": "08/26/2022",
+  "payment_terms": "End of Month",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 509.92,
+      "discount_pct": 5,
+      "line_total": 12110.6
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 224.17,
+      "discount_pct": 20,
+      "line_total": 179.34
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1552.32,
+      "discount_pct": 5,
+      "line_total": 7373.52
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1226.18,
+      "discount_pct": 0,
+      "line_total": 1226.18
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10727.71,
+      "discount_pct": 5,
+      "line_total": 30573.97
+    }
+  ],
+  "subtotal": 51463.61,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 2573.18,
+  "shipping_amount": 0.0,
+  "total_due": 54036.79,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

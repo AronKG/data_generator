@@ -1,0 +1,130 @@
+{
+  "id": 907,
+  "filename": "invoice_907.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "2024-50508",
+  "issue_date": "16 October 2022",
+  "due_date": "November 15 2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 97.85,
+      "discount_pct": 15,
+      "line_total": 415.86
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14603.58,
+      "discount_pct": 10,
+      "line_total": 13143.22
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6352.57,
+      "discount_pct": 5,
+      "line_total": 6034.94
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2624.24,
+      "discount_pct": 15,
+      "line_total": 4461.21
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 107.19,
+      "discount_pct": 0,
+      "line_total": 535.95
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 826.33,
+      "discount_pct": 10,
+      "line_total": 743.7
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1540.14,
+      "discount_pct": 0,
+      "line_total": 15401.4
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 291.87,
+      "discount_pct": 5,
+      "line_total": 6931.91
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 176.47,
+      "discount_pct": 20,
+      "line_total": 3529.4
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 139.19,
+      "discount_pct": 15,
+      "line_total": 2957.79
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1613.29,
+      "discount_pct": 10,
+      "line_total": 2903.92
+    }
+  ],
+  "subtotal": 57059.3,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 13123.64,
+  "shipping_amount": 285.96,
+  "total_due": 70468.9,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

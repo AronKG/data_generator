@@ -1,0 +1,234 @@
+{
+  "id": 833,
+  "filename": "invoice_833.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "INV-99563",
+  "issue_date": "2024-04-05",
+  "due_date": "04/12/2024",
+  "payment_terms": "Net 7",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-97229",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 24,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7908.01,
+      "discount_pct": 0,
+      "line_total": 395400.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 591.94,
+      "discount_pct": 0,
+      "line_total": 29597.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1287.38,
+      "discount_pct": 15,
+      "line_total": 10942.73
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1031.94,
+      "discount_pct": 0,
+      "line_total": 5159.7
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5194.25,
+      "discount_pct": 10,
+      "line_total": 4674.82
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 591.54,
+      "discount_pct": 20,
+      "line_total": 4732.32
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 757.74,
+      "discount_pct": 0,
+      "line_total": 757.74
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1568.74,
+      "discount_pct": 0,
+      "line_total": 1568.74
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2170.17,
+      "discount_pct": 5,
+      "line_total": 6184.98
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 75.81,
+      "discount_pct": 0,
+      "line_total": 75.81
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 7517.07,
+      "discount_pct": 0,
+      "line_total": 7517.07
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 215.47,
+      "discount_pct": 0,
+      "line_total": 2154.7
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7583.8,
+      "discount_pct": 10,
+      "line_total": 6825.42
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 977.31,
+      "discount_pct": 15,
+      "line_total": 4153.57
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 8859.61,
+      "discount_pct": 10,
+      "line_total": 15947.3
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 29.39,
+      "discount_pct": 20,
+      "line_total": 23.51
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 520.16,
+      "discount_pct": 5,
+      "line_total": 494.15
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7073.97,
+      "discount_pct": 20,
+      "line_total": 16977.53
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3256.05,
+      "discount_pct": 10,
+      "line_total": 14652.23
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 109.64,
+      "discount_pct": 0,
+      "line_total": 1096.4
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3376.52,
+      "discount_pct": 5,
+      "line_total": 3207.69
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 545.16,
+      "discount_pct": 0,
+      "line_total": 545.16
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 107.31,
+      "discount_pct": 0,
+      "line_total": 107.31
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 169.68,
+      "discount_pct": 10,
+      "line_total": 152.71
+    }
+  ],
+  "subtotal": 532949.09,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 101260.33,
+  "shipping_amount": 123.33,
+  "total_due": 634332.75,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

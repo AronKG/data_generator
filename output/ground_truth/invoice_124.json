@@ -1,0 +1,94 @@
+{
+  "id": 124,
+  "filename": "invoice_124.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "PROFORMA89319",
+  "issue_date": "26-Oct-2024",
+  "due_date": "25 November 2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 642.62,
+      "discount_pct": 20,
+      "line_total": 2570.48
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 975.34,
+      "discount_pct": 15,
+      "line_total": 2487.12
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2930.68,
+      "discount_pct": 5,
+      "line_total": 2784.15
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 783.85,
+      "discount_pct": 0,
+      "line_total": 1567.7
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2996.92,
+      "discount_pct": 0,
+      "line_total": 8990.76
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 410.69,
+      "discount_pct": 0,
+      "line_total": 10267.25
+    }
+  ],
+  "subtotal": 28667.46,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 5733.49,
+  "shipping_amount": 0.0,
+  "total_due": 34400.95,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

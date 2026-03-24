@@ -1,0 +1,71 @@
+{
+  "id": 962,
+  "filename": "invoice_962.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
+  "invoice_number": "031707",
+  "issue_date": "12-Sep-2024",
+  "due_date": "19/09/2024",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-90511",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 17333.89,
+      "discount_pct": 0,
+      "line_total": 52001.67
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6482.21,
+      "discount_pct": 0,
+      "line_total": 64822.1
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 352.37,
+      "discount_pct": 0,
+      "line_total": 3523.7
+    }
+  ],
+  "subtotal": 120347.47,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 18052.12,
+  "shipping_amount": 0.0,
+  "total_due": 138399.59,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

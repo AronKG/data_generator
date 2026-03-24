@@ -1,0 +1,62 @@
+{
+  "id": 720,
+  "filename": "invoice_720.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 0,
+  "invoice_number": "TAX-INV-55477",
+  "issue_date": "16 March 2022",
+  "due_date": "30-Mar-2022",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 213.96,
+      "discount_pct": 0,
+      "line_total": 2139.6
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 111.88,
+      "discount_pct": 0,
+      "line_total": 1118.8
+    }
+  ],
+  "subtotal": 3258.4,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 619.1,
+  "shipping_amount": 0.0,
+  "total_due": 3877.5,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

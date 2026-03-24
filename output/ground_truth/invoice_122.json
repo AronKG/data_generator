@@ -1,0 +1,82 @@
+{
+  "id": 122,
+  "filename": "invoice_122.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "INVOICE-2025-42692",
+  "issue_date": "03/20/2024",
+  "due_date": "May 04 2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 33.08,
+      "discount_pct": 10,
+      "line_total": 29.77
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1753.12,
+      "discount_pct": 15,
+      "line_total": 7450.76
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 594.4,
+      "discount_pct": 10,
+      "line_total": 26748.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7675.82,
+      "discount_pct": 0,
+      "line_total": 7675.82
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 599.06,
+      "discount_pct": 0,
+      "line_total": 5990.6
+    }
+  ],
+  "subtotal": 47894.95,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 7184.24,
+  "shipping_amount": 0.0,
+  "total_due": 55079.19,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

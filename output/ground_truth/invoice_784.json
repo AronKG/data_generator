@@ -1,0 +1,71 @@
+{
+  "id": 784,
+  "filename": "invoice_784.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "2022-68180",
+  "issue_date": "2024-02-05",
+  "due_date": "26-Feb-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1602.77,
+      "discount_pct": 0,
+      "line_total": 16027.7
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 308.98,
+      "discount_pct": 0,
+      "line_total": 1544.9
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 418.34,
+      "discount_pct": 0,
+      "line_total": 836.68
+    }
+  ],
+  "subtotal": 18409.28,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 18409.28,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

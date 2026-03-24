@@ -1,0 +1,242 @@
+{
+  "id": 861,
+  "filename": "invoice_861.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
+  "invoice_number": "INVOICE-2024-90803",
+  "issue_date": "March 08 2022",
+  "due_date": "22 March 2022",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1318.97,
+      "discount_pct": 0,
+      "line_total": 6594.85
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2628.18,
+      "discount_pct": 5,
+      "line_total": 12483.85
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2465.79,
+      "discount_pct": 0,
+      "line_total": 12328.95
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 408.32,
+      "discount_pct": 10,
+      "line_total": 367.49
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 307.65,
+      "discount_pct": 15,
+      "line_total": 2615.03
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 245.39,
+      "discount_pct": 0,
+      "line_total": 6134.75
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1130.35,
+      "discount_pct": 0,
+      "line_total": 1130.35
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3677.86,
+      "discount_pct": 5,
+      "line_total": 17469.83
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2605.67,
+      "discount_pct": 0,
+      "line_total": 13028.35
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 184.72,
+      "discount_pct": 0,
+      "line_total": 9236.0
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 264.68,
+      "discount_pct": 20,
+      "line_total": 5293.6
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 950.21,
+      "discount_pct": 15,
+      "line_total": 20191.96
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2026.4,
+      "discount_pct": 15,
+      "line_total": 43061.0
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 19.86,
+      "discount_pct": 15,
+      "line_total": 16.88
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 3265.01,
+      "discount_pct": 0,
+      "line_total": 32650.1
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 12191.33,
+      "discount_pct": 15,
+      "line_total": 10362.63
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4728.76,
+      "discount_pct": 0,
+      "line_total": 4728.76
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 272.63,
+      "discount_pct": 5,
+      "line_total": 2589.99
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 351.2,
+      "discount_pct": 20,
+      "line_total": 7024.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 868.96,
+      "discount_pct": 15,
+      "line_total": 18465.4
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4795.99,
+      "discount_pct": 15,
+      "line_total": 4076.59
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 93.36,
+      "discount_pct": 20,
+      "line_total": 3734.4
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1624.04,
+      "discount_pct": 0,
+      "line_total": 3248.08
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 822.26,
+      "discount_pct": 5,
+      "line_total": 2343.44
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1277.14,
+      "discount_pct": 0,
+      "line_total": 31928.5
+    }
+  ],
+  "subtotal": 271104.78,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 51509.91,
+  "shipping_amount": 289.95,
+  "total_due": 322904.64,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

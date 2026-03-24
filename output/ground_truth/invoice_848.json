@@ -1,0 +1,87 @@
+{
+  "id": 848,
+  "filename": "invoice_848.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "INVOICE-2025-59436",
+  "issue_date": "February 09 2022",
+  "due_date": "24-Feb-2022",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 170.94,
+      "discount_pct": 10,
+      "line_total": 153.85
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 1133.06,
+      "discount_pct": 5,
+      "line_total": 26910.17
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 272.47,
+      "discount_pct": 20,
+      "line_total": 10898.8
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3838.74,
+      "discount_pct": 20,
+      "line_total": 30709.92
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 183.35,
+      "discount_pct": 10,
+      "line_total": 165.01
+    }
+  ],
+  "subtotal": 68837.75,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 68837.75,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

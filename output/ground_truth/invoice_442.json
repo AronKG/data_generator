@@ -1,0 +1,151 @@
+{
+  "id": 442,
+  "filename": "invoice_442.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "RCPT81364",
+  "issue_date": "29/12/2024",
+  "due_date": "28 January 2025",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 339.65,
+      "discount_pct": 0,
+      "line_total": 3396.5
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 598.42,
+      "discount_pct": 10,
+      "line_total": 5385.78
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3093.75,
+      "discount_pct": 10,
+      "line_total": 5568.75
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3590.0,
+      "discount_pct": 0,
+      "line_total": 89750.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2459.58,
+      "discount_pct": 5,
+      "line_total": 2336.6
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 549.98,
+      "discount_pct": 0,
+      "line_total": 5499.8
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 225.45,
+      "discount_pct": 0,
+      "line_total": 11272.5
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1435.55,
+      "discount_pct": 20,
+      "line_total": 3445.32
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 2005.27,
+      "discount_pct": 20,
+      "line_total": 40105.4
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 167.23,
+      "discount_pct": 5,
+      "line_total": 158.87
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1728.84,
+      "discount_pct": 10,
+      "line_total": 77797.8
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 425.24,
+      "discount_pct": 10,
+      "line_total": 382.72
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 228.59,
+      "discount_pct": 5,
+      "line_total": 217.16
+    }
+  ],
+  "subtotal": 245317.2,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 49063.44,
+  "shipping_amount": 47.9,
+  "total_due": 294428.54,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

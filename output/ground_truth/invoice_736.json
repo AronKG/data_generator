@@ -1,0 +1,102 @@
+{
+  "id": 736,
+  "filename": "invoice_736.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "081074",
+  "issue_date": "31 October 2023",
+  "due_date": "30-Nov-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6879.76,
+      "discount_pct": 15,
+      "line_total": 5847.8
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 569.61,
+      "discount_pct": 0,
+      "line_total": 569.61
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 5869.2,
+      "discount_pct": 0,
+      "line_total": 29346.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6859.84,
+      "discount_pct": 5,
+      "line_total": 162921.2
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13315.12,
+      "discount_pct": 0,
+      "line_total": 66575.6
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10516.44,
+      "discount_pct": 0,
+      "line_total": 52582.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1267.3,
+      "discount_pct": 0,
+      "line_total": 31682.5
+    }
+  ],
+  "subtotal": 349524.91,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 66409.73,
+  "shipping_amount": 0.0,
+  "total_due": 415934.64,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

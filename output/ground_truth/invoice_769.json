@@ -1,0 +1,87 @@
+{
+  "id": 769,
+  "filename": "invoice_769.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "2023-13268",
+  "issue_date": "27-Jan-2022",
+  "due_date": "February 03 2022",
+  "payment_terms": "Net 15",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 544.25,
+      "discount_pct": 20,
+      "line_total": 2177.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 6327.87,
+      "discount_pct": 0,
+      "line_total": 158196.75
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4128.14,
+      "discount_pct": 10,
+      "line_total": 3715.33
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 295.78,
+      "discount_pct": 5,
+      "line_total": 842.97
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 138.89,
+      "discount_pct": 0,
+      "line_total": 138.89
+    }
+  ],
+  "subtotal": 165070.94,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 165070.94,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

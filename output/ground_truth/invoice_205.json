@@ -1,0 +1,154 @@
+{
+  "id": 205,
+  "filename": "invoice_205.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "086545",
+  "issue_date": "08/24/2023",
+  "due_date": "22/11/2023",
+  "payment_terms": "Net 15",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2282.34,
+      "discount_pct": 20,
+      "line_total": 91293.6
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4419.59,
+      "discount_pct": 10,
+      "line_total": 198881.55
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 491.86,
+      "discount_pct": 5,
+      "line_total": 11681.67
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 426.37,
+      "discount_pct": 10,
+      "line_total": 1918.66
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 101.2,
+      "discount_pct": 5,
+      "line_total": 288.42
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 630.48,
+      "discount_pct": 20,
+      "line_total": 504.38
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1882.3,
+      "discount_pct": 5,
+      "line_total": 1788.18
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 288.05,
+      "discount_pct": 20,
+      "line_total": 460.88
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1840.22,
+      "discount_pct": 0,
+      "line_total": 5520.66
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 150.82,
+      "discount_pct": 10,
+      "line_total": 271.48
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 254.29,
+      "discount_pct": 10,
+      "line_total": 5721.53
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 809.39,
+      "discount_pct": 0,
+      "line_total": 4046.95
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 2477.85,
+      "discount_pct": 0,
+      "line_total": 2477.85
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1482.3,
+      "discount_pct": 0,
+      "line_total": 2964.6
+    }
+  ],
+  "subtotal": 327820.41,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 75398.69,
+  "shipping_amount": 0.0,
+  "total_due": 403219.1,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

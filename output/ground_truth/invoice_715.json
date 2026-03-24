@@ -1,0 +1,190 @@
+{
+  "id": 715,
+  "filename": "invoice_715.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
+  "invoice_number": "TAX-INV-2025-19381",
+  "issue_date": "August 26 2023",
+  "due_date": "24-Nov-2023",
+  "payment_terms": "Net 60",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 618.22,
+      "discount_pct": 0,
+      "line_total": 1236.44
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 651.63,
+      "discount_pct": 0,
+      "line_total": 1954.89
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6648.28,
+      "discount_pct": 5,
+      "line_total": 6315.87
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4490.25,
+      "discount_pct": 0,
+      "line_total": 4490.25
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 335.06,
+      "discount_pct": 0,
+      "line_total": 335.06
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 8001.13,
+      "discount_pct": 0,
+      "line_total": 40005.65
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 779.67,
+      "discount_pct": 20,
+      "line_total": 6237.36
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 189.09,
+      "discount_pct": 20,
+      "line_total": 756.36
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1864.27,
+      "discount_pct": 5,
+      "line_total": 1771.06
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2764.7,
+      "discount_pct": 10,
+      "line_total": 124411.5
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1378.49,
+      "discount_pct": 20,
+      "line_total": 1102.79
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1697.77,
+      "discount_pct": 0,
+      "line_total": 42444.25
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1801.1,
+      "discount_pct": 15,
+      "line_total": 1530.93
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 8448.38,
+      "discount_pct": 0,
+      "line_total": 8448.38
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 519.42,
+      "discount_pct": 0,
+      "line_total": 25971.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 321.1,
+      "discount_pct": 15,
+      "line_total": 272.94
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 190.15,
+      "discount_pct": 20,
+      "line_total": 456.36
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1604.75,
+      "discount_pct": 0,
+      "line_total": 8023.75
+    }
+  ],
+  "subtotal": 275764.84,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 52395.32,
+  "shipping_amount": 54.69,
+  "total_due": 328214.85,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

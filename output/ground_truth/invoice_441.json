@@ -1,0 +1,206 @@
+{
+  "id": 441,
+  "filename": "invoice_441.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "TAX-INV/2025/95458",
+  "issue_date": "06/17/2024",
+  "due_date": "02 July 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-68727",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 20,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2365.64,
+      "discount_pct": 0,
+      "line_total": 4731.28
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2088.83,
+      "discount_pct": 20,
+      "line_total": 8355.32
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 774.84,
+      "discount_pct": 0,
+      "line_total": 3874.2
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 46890.41,
+      "discount_pct": 20,
+      "line_total": 375123.28
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 240.15,
+      "discount_pct": 20,
+      "line_total": 576.36
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 97.12,
+      "discount_pct": 20,
+      "line_total": 77.7
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 812.93,
+      "discount_pct": 0,
+      "line_total": 812.93
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 680.7,
+      "discount_pct": 0,
+      "line_total": 6807.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 978.62,
+      "discount_pct": 0,
+      "line_total": 9786.2
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 109.2,
+      "discount_pct": 20,
+      "line_total": 2184.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6860.91,
+      "discount_pct": 0,
+      "line_total": 6860.91
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 244.32,
+      "discount_pct": 0,
+      "line_total": 2443.2
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 1055.36,
+      "discount_pct": 10,
+      "line_total": 1899.65
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 972.41,
+      "discount_pct": 20,
+      "line_total": 7779.28
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 12580.0,
+      "discount_pct": 0,
+      "line_total": 629000.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 222.21,
+      "discount_pct": 10,
+      "line_total": 1999.89
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1063.34,
+      "discount_pct": 0,
+      "line_total": 2126.68
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1713.86,
+      "discount_pct": 0,
+      "line_total": 5141.58
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 963.55,
+      "discount_pct": 10,
+      "line_total": 867.19
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 7112.19,
+      "discount_pct": 0,
+      "line_total": 71121.9
+    }
+  ],
+  "subtotal": 1141568.55,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 171235.28,
+  "shipping_amount": 0.0,
+  "total_due": 1312803.83,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

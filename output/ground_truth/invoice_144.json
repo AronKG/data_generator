@@ -1,0 +1,87 @@
+{
+  "id": 144,
+  "filename": "invoice_144.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "INVOICE94768",
+  "issue_date": "03 April 2022",
+  "due_date": "2022-04-17",
+  "payment_terms": "Immediate",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 1871.63,
+      "discount_pct": 5,
+      "line_total": 5334.15
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 698.82,
+      "discount_pct": 0,
+      "line_total": 698.82
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7011.21,
+      "discount_pct": 15,
+      "line_total": 11919.06
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 2221.43,
+      "discount_pct": 0,
+      "line_total": 6664.29
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 125.02,
+      "discount_pct": 0,
+      "line_total": 6251.0
+    }
+  ],
+  "subtotal": 30867.32,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 30867.32,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

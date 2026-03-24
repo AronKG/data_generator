@@ -1,0 +1,127 @@
+{
+  "id": 198,
+  "filename": "invoice_198.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
+  "invoice_number": "REF-94454",
+  "issue_date": "2022-03-19",
+  "due_date": "18-Apr-2022",
+  "payment_terms": "End of Month",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 14370.65,
+      "discount_pct": 5,
+      "line_total": 682605.88
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 779.57,
+      "discount_pct": 0,
+      "line_total": 7795.7
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1858.5,
+      "discount_pct": 20,
+      "line_total": 14868.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1548.45,
+      "discount_pct": 0,
+      "line_total": 38711.25
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1697.46,
+      "discount_pct": 5,
+      "line_total": 1612.59
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2420.04,
+      "discount_pct": 0,
+      "line_total": 24200.4
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 123.06,
+      "discount_pct": 10,
+      "line_total": 221.51
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 143.64,
+      "discount_pct": 20,
+      "line_total": 114.91
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2086.39,
+      "discount_pct": 0,
+      "line_total": 2086.39
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 427.53,
+      "discount_pct": 0,
+      "line_total": 4275.3
+    }
+  ],
+  "subtotal": 776491.93,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 116473.79,
+  "shipping_amount": 174.84,
+  "total_due": 893140.56,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

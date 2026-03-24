@@ -1,0 +1,70 @@
+{
+  "id": 847,
+  "filename": "invoice_847.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "2022-32773",
+  "issue_date": "11-Jul-2023",
+  "due_date": "2023-07-26",
+  "payment_terms": "2/10 Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 48954.21,
+      "discount_pct": 0,
+      "line_total": 146862.63
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 317.44,
+      "discount_pct": 0,
+      "line_total": 634.88
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 103.21,
+      "discount_pct": 0,
+      "line_total": 1032.1
+    }
+  ],
+  "subtotal": 148529.61,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 148529.61,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

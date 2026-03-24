@@ -1,0 +1,134 @@
+{
+  "id": 237,
+  "filename": "invoice_237.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "TAX-INV-49236",
+  "issue_date": "09/08/2023",
+  "due_date": "23-Sep-2023",
+  "payment_terms": "Net 15",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-80445",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1343.51,
+      "discount_pct": 0,
+      "line_total": 1343.51
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5741.26,
+      "discount_pct": 15,
+      "line_total": 9760.14
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1590.53,
+      "discount_pct": 10,
+      "line_total": 1431.48
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9697.48,
+      "discount_pct": 20,
+      "line_total": 193949.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 495.0,
+      "discount_pct": 0,
+      "line_total": 1485.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 140.66,
+      "discount_pct": 0,
+      "line_total": 281.32
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2216.3,
+      "discount_pct": 0,
+      "line_total": 110815.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 370.6,
+      "discount_pct": 0,
+      "line_total": 18530.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 2919.0,
+      "discount_pct": 20,
+      "line_total": 2335.2
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 3037.87,
+      "discount_pct": 10,
+      "line_total": 68352.07
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 13270.75,
+      "discount_pct": 0,
+      "line_total": 663537.5
+    }
+  ],
+  "subtotal": 1071820.82,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 160773.12,
+  "shipping_amount": 0.0,
+  "total_due": 1232593.94,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

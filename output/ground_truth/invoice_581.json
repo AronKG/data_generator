@@ -1,0 +1,71 @@
+{
+  "id": 581,
+  "filename": "invoice_581.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
+  "invoice_number": "TAX-INV-2023-84473",
+  "issue_date": "2023-09-25",
+  "due_date": "2023-10-02",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1598.74,
+      "discount_pct": 0,
+      "line_total": 79937.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 6391.13,
+      "discount_pct": 0,
+      "line_total": 159778.25
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 497.87,
+      "discount_pct": 0,
+      "line_total": 1493.61
+    }
+  ],
+  "subtotal": 241208.86,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 55478.04,
+  "shipping_amount": 0.0,
+  "total_due": 296686.9,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

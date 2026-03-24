@@ -1,0 +1,70 @@
+{
+  "id": 768,
+  "filename": "invoice_768.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
+  "invoice_number": "016973",
+  "issue_date": "15/09/2023",
+  "due_date": "22/09/2023",
+  "payment_terms": "Immediate",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-37718",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2574.0,
+      "discount_pct": 0,
+      "line_total": 2574.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 224.73,
+      "discount_pct": 0,
+      "line_total": 5618.25
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 611.29,
+      "discount_pct": 0,
+      "line_total": 611.29
+    }
+  ],
+  "subtotal": 8803.54,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 2024.81,
+  "shipping_amount": 0.0,
+  "total_due": 10828.35,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

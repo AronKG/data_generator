@@ -1,0 +1,102 @@
+{
+  "id": 224,
+  "filename": "invoice_224.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "2024-37018",
+  "issue_date": "17 July 2024",
+  "due_date": "01 August 2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-15470",
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 58.79,
+      "discount_pct": 10,
+      "line_total": 529.11
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 470.37,
+      "discount_pct": 20,
+      "line_total": 376.3
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1889.76,
+      "discount_pct": 10,
+      "line_total": 85039.2
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 361.29,
+      "discount_pct": 0,
+      "line_total": 9032.25
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 312.35,
+      "discount_pct": 0,
+      "line_total": 937.05
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4761.46,
+      "discount_pct": 0,
+      "line_total": 47614.6
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1089.96,
+      "discount_pct": 0,
+      "line_total": 27249.0
+    }
+  ],
+  "subtotal": 170777.51,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 17077.75,
+  "shipping_amount": 0.0,
+  "total_due": 187855.26,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

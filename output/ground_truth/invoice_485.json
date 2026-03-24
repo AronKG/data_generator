@@ -1,0 +1,135 @@
+{
+  "id": 485,
+  "filename": "invoice_485.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "RCPT-2023-76968",
+  "issue_date": "17/10/2024",
+  "due_date": "31-Oct-2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 31865.53,
+      "discount_pct": 0,
+      "line_total": 31865.53
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 405.42,
+      "discount_pct": 0,
+      "line_total": 4054.2
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 525.82,
+      "discount_pct": 20,
+      "line_total": 420.66
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2331.32,
+      "discount_pct": 5,
+      "line_total": 2214.75
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 44.95,
+      "discount_pct": 15,
+      "line_total": 114.62
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 412.68,
+      "discount_pct": 15,
+      "line_total": 1753.89
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2772.91,
+      "discount_pct": 5,
+      "line_total": 2634.26
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 106.1,
+      "discount_pct": 0,
+      "line_total": 5305.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1952.3,
+      "discount_pct": 0,
+      "line_total": 97615.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 6902.42,
+      "discount_pct": 15,
+      "line_total": 11734.11
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1513.75,
+      "discount_pct": 10,
+      "line_total": 6811.88
+    }
+  ],
+  "subtotal": 164523.9,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 9871.43,
+  "shipping_amount": 231.64,
+  "total_due": 174626.97,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

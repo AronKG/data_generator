@@ -1,0 +1,122 @@
+{
+  "id": 280,
+  "filename": "invoice_280.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "2024-42907",
+  "issue_date": "January 11 2022",
+  "due_date": "2022-02-10",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2138.78,
+      "discount_pct": 15,
+      "line_total": 18179.63
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 9056.53,
+      "discount_pct": 5,
+      "line_total": 430185.18
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 536.69,
+      "discount_pct": 0,
+      "line_total": 2683.45
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 484.82,
+      "discount_pct": 5,
+      "line_total": 921.16
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1016.19,
+      "discount_pct": 0,
+      "line_total": 1016.19
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2681.02,
+      "discount_pct": 15,
+      "line_total": 2278.87
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 943.61,
+      "discount_pct": 5,
+      "line_total": 896.43
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7755.18,
+      "discount_pct": 10,
+      "line_total": 348983.1
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1712.22,
+      "discount_pct": 0,
+      "line_total": 1712.22
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5216.13,
+      "discount_pct": 15,
+      "line_total": 8867.42
+    }
+  ],
+  "subtotal": 815723.65,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 40786.18,
+  "shipping_amount": 0.0,
+  "total_due": 856509.83,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,95 @@
+{
+  "id": 877,
+  "filename": "invoice_877.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "002914",
+  "issue_date": "August 03 2022",
+  "due_date": "18-Aug-2022",
+  "payment_terms": "Net 90",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 346.45,
+      "discount_pct": 0,
+      "line_total": 3464.5
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2845.2,
+      "discount_pct": 5,
+      "line_total": 8108.82
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1503.37,
+      "discount_pct": 0,
+      "line_total": 75168.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 172.43,
+      "discount_pct": 10,
+      "line_total": 310.37
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 328.0,
+      "discount_pct": 0,
+      "line_total": 3280.0
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 68.37,
+      "discount_pct": 0,
+      "line_total": 683.7
+    }
+  ],
+  "subtotal": 91015.89,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 11832.07,
+  "shipping_amount": 0.0,
+  "total_due": 102847.96,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

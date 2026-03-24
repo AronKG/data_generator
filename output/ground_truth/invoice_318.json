@@ -1,0 +1,158 @@
+{
+  "id": 318,
+  "filename": "invoice_318.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "RCPT/2024/04025",
+  "issue_date": "2023-04-09",
+  "due_date": "April 23 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-59259",
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 935.09,
+      "discount_pct": 20,
+      "line_total": 1496.14
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1403.06,
+      "discount_pct": 0,
+      "line_total": 1403.06
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 17636.76,
+      "discount_pct": 10,
+      "line_total": 79365.42
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 52.89,
+      "discount_pct": 10,
+      "line_total": 238.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 676.51,
+      "discount_pct": 0,
+      "line_total": 33825.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 148.7,
+      "discount_pct": 5,
+      "line_total": 3531.62
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 484.88,
+      "discount_pct": 0,
+      "line_total": 1454.64
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 275.23,
+      "discount_pct": 0,
+      "line_total": 13761.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2867.5,
+      "discount_pct": 0,
+      "line_total": 8602.5
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9857.82,
+      "discount_pct": 0,
+      "line_total": 9857.82
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 692.8,
+      "discount_pct": 15,
+      "line_total": 2944.4
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1412.93,
+      "discount_pct": 15,
+      "line_total": 60049.53
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2976.03,
+      "discount_pct": 15,
+      "line_total": 7588.88
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 493.31,
+      "discount_pct": 20,
+      "line_total": 9866.2
+    }
+  ],
+  "subtotal": 233985.21,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 44457.19,
+  "shipping_amount": 25.09,
+  "total_due": 278467.49,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

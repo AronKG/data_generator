@@ -1,0 +1,82 @@
+{
+  "id": 648,
+  "filename": "invoice_648.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "INVOICE66278",
+  "issue_date": "26 September 2022",
+  "due_date": "October 10 2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-67110",
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 915.04,
+      "discount_pct": 20,
+      "line_total": 7320.32
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 116.25,
+      "discount_pct": 15,
+      "line_total": 98.81
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1699.42,
+      "discount_pct": 0,
+      "line_total": 42485.5
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 97.43,
+      "discount_pct": 0,
+      "line_total": 4871.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17477.79,
+      "discount_pct": 0,
+      "line_total": 17477.79
+    }
+  ],
+  "subtotal": 72253.92,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 3612.7,
+  "shipping_amount": 0.0,
+  "total_due": 75866.62,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

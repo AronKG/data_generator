@@ -1,0 +1,82 @@
+{
+  "id": 783,
+  "filename": "invoice_783.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
+  "invoice_number": "054057",
+  "issue_date": "10/18/2024",
+  "due_date": "11/01/2024",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-18990",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2393.22,
+      "discount_pct": 5,
+      "line_total": 2273.56
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1526.1,
+      "discount_pct": 0,
+      "line_total": 1526.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 518.27,
+      "discount_pct": 20,
+      "line_total": 4146.16
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 3997.82,
+      "discount_pct": 15,
+      "line_total": 33981.47
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 138.24,
+      "discount_pct": 0,
+      "line_total": 414.72
+    }
+  ],
+  "subtotal": 42342.01,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 8468.4,
+  "shipping_amount": 0.0,
+  "total_due": 50810.41,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

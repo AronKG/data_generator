@@ -1,0 +1,87 @@
+{
+  "id": 83,
+  "filename": "invoice_083.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "SI50977",
+  "issue_date": "11/05/2022",
+  "due_date": "26-Nov-2022",
+  "payment_terms": "Net 21",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-65860",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 45.01,
+      "discount_pct": 20,
+      "line_total": 1800.4
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 539.01,
+      "discount_pct": 0,
+      "line_total": 5390.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 1869.9,
+      "discount_pct": 5,
+      "line_total": 8882.02
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10224.96,
+      "discount_pct": 10,
+      "line_total": 46012.32
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 290.61,
+      "discount_pct": 15,
+      "line_total": 2470.19
+    }
+  ],
+  "subtotal": 64555.03,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 4518.85,
+  "shipping_amount": 0.0,
+  "total_due": 69073.88,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,186 @@
+{
+  "id": 888,
+  "filename": "invoice_888.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "031002",
+  "issue_date": "February 23 2022",
+  "due_date": "2022-04-09",
+  "payment_terms": "Net 60",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1190.58,
+      "discount_pct": 10,
+      "line_total": 3214.57
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 390.3,
+      "discount_pct": 20,
+      "line_total": 15612.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 117.41,
+      "discount_pct": 10,
+      "line_total": 105.67
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2730.33,
+      "discount_pct": 20,
+      "line_total": 21842.64
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5062.21,
+      "discount_pct": 0,
+      "line_total": 253110.5
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4009.02,
+      "discount_pct": 0,
+      "line_total": 20045.1
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 14121.94,
+      "discount_pct": 0,
+      "line_total": 42365.82
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 787.5,
+      "discount_pct": 0,
+      "line_total": 1575.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6887.67,
+      "discount_pct": 0,
+      "line_total": 6887.67
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 54.09,
+      "discount_pct": 15,
+      "line_total": 1149.41
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9149.59,
+      "discount_pct": 0,
+      "line_total": 228739.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 811.94,
+      "discount_pct": 10,
+      "line_total": 730.75
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 101.31,
+      "discount_pct": 0,
+      "line_total": 101.31
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2199.74,
+      "discount_pct": 5,
+      "line_total": 2089.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 69.61,
+      "discount_pct": 0,
+      "line_total": 3480.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1290.05,
+      "discount_pct": 20,
+      "line_total": 1032.04
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2954.22,
+      "discount_pct": 10,
+      "line_total": 2658.8
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1053.35,
+      "discount_pct": 0,
+      "line_total": 5266.75
+    }
+  ],
+  "subtotal": 610008.03,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 610008.03,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

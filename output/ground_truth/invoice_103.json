@@ -1,0 +1,82 @@
+{
+  "id": 103,
+  "filename": "invoice_103.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "RCPT-4166",
+  "issue_date": "March 24 2022",
+  "due_date": "14/04/2022",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-16333",
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1105.35,
+      "discount_pct": 5,
+      "line_total": 1050.08
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 896.57,
+      "discount_pct": 0,
+      "line_total": 2689.71
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 19165.78,
+      "discount_pct": 10,
+      "line_total": 172492.02
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 173.86,
+      "discount_pct": 0,
+      "line_total": 173.86
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1540.65,
+      "discount_pct": 0,
+      "line_total": 7703.25
+    }
+  ],
+  "subtotal": 184108.92,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 42345.05,
+  "shipping_amount": 0.0,
+  "total_due": 226453.97,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

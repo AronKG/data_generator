@@ -1,0 +1,82 @@
+{
+  "id": 557,
+  "filename": "invoice_557.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "INVOICE-68677",
+  "issue_date": "2023-12-14",
+  "due_date": "January 13 2024",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-76914",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9023.81,
+      "discount_pct": 5,
+      "line_total": 8572.62
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1711.28,
+      "discount_pct": 0,
+      "line_total": 42782.0
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1634.69,
+      "discount_pct": 0,
+      "line_total": 1634.69
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3430.96,
+      "discount_pct": 10,
+      "line_total": 3087.86
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 399.64,
+      "discount_pct": 20,
+      "line_total": 15985.6
+    }
+  ],
+  "subtotal": 72062.77,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 3603.14,
+  "shipping_amount": 0.0,
+  "total_due": 75665.91,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

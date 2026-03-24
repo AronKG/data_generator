@@ -1,0 +1,87 @@
+{
+  "id": 141,
+  "filename": "invoice_141.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "BILL-2023-43669",
+  "issue_date": "08-Feb-2024",
+  "due_date": "23/02/2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 6915.87,
+      "discount_pct": 0,
+      "line_total": 34579.35
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5085.78,
+      "discount_pct": 20,
+      "line_total": 4068.62
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1177.47,
+      "discount_pct": 0,
+      "line_total": 11774.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1755.86,
+      "discount_pct": 5,
+      "line_total": 1668.07
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2107.88,
+      "discount_pct": 0,
+      "line_total": 2107.88
+    }
+  ],
+  "subtotal": 54198.62,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 10297.74,
+  "shipping_amount": 0.0,
+  "total_due": 64496.36,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

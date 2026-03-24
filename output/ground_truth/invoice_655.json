@@ -1,0 +1,82 @@
+{
+  "id": 655,
+  "filename": "invoice_655.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "PROFORMA-2022-54351",
+  "issue_date": "June 15 2022",
+  "due_date": "09/13/2022",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6999.82,
+      "discount_pct": 10,
+      "line_total": 62998.38
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1809.35,
+      "discount_pct": 0,
+      "line_total": 1809.35
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 966.55,
+      "discount_pct": 10,
+      "line_total": 43494.75
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 273.65,
+      "discount_pct": 0,
+      "line_total": 273.65
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 66.2,
+      "discount_pct": 0,
+      "line_total": 662.0
+    }
+  ],
+  "subtotal": 109238.13,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 6554.29,
+  "shipping_amount": 0.0,
+  "total_due": 115792.42,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

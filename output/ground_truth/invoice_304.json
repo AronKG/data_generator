@@ -1,0 +1,63 @@
+{
+  "id": 304,
+  "filename": "invoice_304.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "2024-74982",
+  "issue_date": "11/12/2022",
+  "due_date": "March 11 2023",
+  "payment_terms": "Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 287.48,
+      "discount_pct": 0,
+      "line_total": 2874.8
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 960.55,
+      "discount_pct": 0,
+      "line_total": 1921.1
+    }
+  ],
+  "subtotal": 4795.9,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 335.71,
+  "shipping_amount": 0.0,
+  "total_due": 5131.61,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": 791,
+  "filename": "invoice_791.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "INV-61956",
+  "issue_date": "2024-03-29",
+  "due_date": "05/28/2024",
+  "payment_terms": "Upon completion",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2137.56,
+      "discount_pct": 0,
+      "line_total": 2137.56
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14770.61,
+      "discount_pct": 0,
+      "line_total": 73853.05
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 112.61,
+      "discount_pct": 5,
+      "line_total": 320.94
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1805.04,
+      "discount_pct": 0,
+      "line_total": 9025.2
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 126.04,
+      "discount_pct": 0,
+      "line_total": 126.04
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 875.93,
+      "discount_pct": 0,
+      "line_total": 875.93
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7264.25,
+      "discount_pct": 0,
+      "line_total": 14528.5
+    }
+  ],
+  "subtotal": 100867.22,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 5043.36,
+  "shipping_amount": 0.0,
+  "total_due": 105910.58,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

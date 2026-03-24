@@ -1,0 +1,87 @@
+{
+  "id": 450,
+  "filename": "invoice_450.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "027784",
+  "issue_date": "05/16/2024",
+  "due_date": "31/05/2024",
+  "payment_terms": "Immediate",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-21843",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 1672.55,
+      "discount_pct": 10,
+      "line_total": 4515.89
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2340.25,
+      "discount_pct": 20,
+      "line_total": 5616.6
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 301.11,
+      "discount_pct": 0,
+      "line_total": 301.11
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1366.61,
+      "discount_pct": 10,
+      "line_total": 1229.95
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 29285.92,
+      "discount_pct": 0,
+      "line_total": 1464296.0
+    }
+  ],
+  "subtotal": 1475959.55,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 73797.98,
+  "shipping_amount": 0.0,
+  "total_due": 1549757.53,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

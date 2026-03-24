@@ -1,0 +1,78 @@
+{
+  "id": 498,
+  "filename": "invoice_498.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "TAX-INV/2024/71529",
+  "issue_date": "July 22 2023",
+  "due_date": "August 12 2023",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-25856",
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 355.9,
+      "discount_pct": 10,
+      "line_total": 640.62
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1330.73,
+      "discount_pct": 0,
+      "line_total": 6653.65
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 91.58,
+      "discount_pct": 0,
+      "line_total": 91.58
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 159.83,
+      "discount_pct": 0,
+      "line_total": 479.49
+    }
+  ],
+  "subtotal": 7865.34,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 471.92,
+  "shipping_amount": 0.0,
+  "total_due": 8337.26,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

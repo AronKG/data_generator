@@ -1,0 +1,191 @@
+{
+  "id": 238,
+  "filename": "invoice_238.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
+  "invoice_number": "086406",
+  "issue_date": "05/08/2024",
+  "due_date": "08/06/2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 244.34,
+      "discount_pct": 0,
+      "line_total": 244.34
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 264.29,
+      "discount_pct": 15,
+      "line_total": 224.65
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 75.32,
+      "discount_pct": 20,
+      "line_total": 180.77
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 375.06,
+      "discount_pct": 20,
+      "line_total": 300.05
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1062.64,
+      "discount_pct": 0,
+      "line_total": 53132.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 23135.7,
+      "discount_pct": 0,
+      "line_total": 46271.4
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 80.3,
+      "discount_pct": 15,
+      "line_total": 68.25
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 5517.9,
+      "discount_pct": 20,
+      "line_total": 220716.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1557.06,
+      "discount_pct": 20,
+      "line_total": 31141.2
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3576.19,
+      "discount_pct": 10,
+      "line_total": 3218.57
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1075.57,
+      "discount_pct": 0,
+      "line_total": 3226.71
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 569.26,
+      "discount_pct": 0,
+      "line_total": 1138.52
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 474.15,
+      "discount_pct": 20,
+      "line_total": 379.32
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1773.68,
+      "discount_pct": 0,
+      "line_total": 1773.68
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1739.71,
+      "discount_pct": 15,
+      "line_total": 14787.53
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 148.02,
+      "discount_pct": 0,
+      "line_total": 7401.0
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 403.72,
+      "discount_pct": 0,
+      "line_total": 10093.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 85.13,
+      "discount_pct": 0,
+      "line_total": 85.13
+    }
+  ],
+  "subtotal": 394382.12,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 51269.68,
+  "shipping_amount": 209.08,
+  "total_due": 445860.88,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,78 @@
+{
+  "id": 903,
+  "filename": "invoice_903.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
+  "invoice_number": "BILL/2023/32433",
+  "issue_date": "16 June 2022",
+  "due_date": "16 July 2022",
+  "payment_terms": "Net 45",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 142.33,
+      "discount_pct": 10,
+      "line_total": 1280.97
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 27.64,
+      "discount_pct": 0,
+      "line_total": 691.0
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 2242.91,
+      "discount_pct": 5,
+      "line_total": 10653.82
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 969.84,
+      "discount_pct": 10,
+      "line_total": 2618.57
+    }
+  ],
+  "subtotal": 15244.36,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 3201.32,
+  "shipping_amount": 0.0,
+  "total_due": 18445.68,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

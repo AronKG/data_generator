@@ -1,0 +1,106 @@
+{
+  "id": 490,
+  "filename": "invoice_490.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "PROFORMA-2025-18864",
+  "issue_date": "09/29/2023",
+  "due_date": "October 13 2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3691.47,
+      "discount_pct": 10,
+      "line_total": 3322.32
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1906.1,
+      "discount_pct": 0,
+      "line_total": 9530.5
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 86.02,
+      "discount_pct": 15,
+      "line_total": 73.12
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 72.61,
+      "discount_pct": 5,
+      "line_total": 68.98
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 105.41,
+      "discount_pct": 5,
+      "line_total": 100.14
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 512.9,
+      "discount_pct": 0,
+      "line_total": 512.9
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1420.09,
+      "discount_pct": 20,
+      "line_total": 28401.8
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 1065.75,
+      "discount_pct": 0,
+      "line_total": 26643.75
+    }
+  ],
+  "subtotal": 68653.51,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 5663.91,
+  "shipping_amount": 274.94,
+  "total_due": 74592.36,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

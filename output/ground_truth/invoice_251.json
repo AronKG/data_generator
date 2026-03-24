@@ -1,0 +1,82 @@
+{
+  "id": 251,
+  "filename": "invoice_251.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 3,
+  "invoice_number": "TAX-INV74591",
+  "issue_date": "09-Jun-2022",
+  "due_date": "06/30/2022",
+  "payment_terms": "Net 90",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 17450.1,
+      "discount_pct": 0,
+      "line_total": 87250.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 239.21,
+      "discount_pct": 0,
+      "line_total": 717.63
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1660.27,
+      "discount_pct": 20,
+      "line_total": 6641.08
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 290.68,
+      "discount_pct": 20,
+      "line_total": 232.54
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 238.89,
+      "discount_pct": 20,
+      "line_total": 191.11
+    }
+  ],
+  "subtotal": 95032.86,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 9503.29,
+  "shipping_amount": 0.0,
+  "total_due": 104536.15,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

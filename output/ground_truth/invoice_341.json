@@ -1,0 +1,130 @@
+{
+  "id": 341,
+  "filename": "invoice_341.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "SI-2025-38619",
+  "issue_date": "05/20/2022",
+  "due_date": "03/06/2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1690.24,
+      "discount_pct": 20,
+      "line_total": 2704.38
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 10868.33,
+      "discount_pct": 20,
+      "line_total": 217366.6
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 207.76,
+      "discount_pct": 15,
+      "line_total": 4414.9
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1921.26,
+      "discount_pct": 20,
+      "line_total": 1537.01
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 351.88,
+      "discount_pct": 10,
+      "line_total": 316.69
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 373.0,
+      "discount_pct": 0,
+      "line_total": 18650.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1011.36,
+      "discount_pct": 10,
+      "line_total": 2730.67
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 599.82,
+      "discount_pct": 0,
+      "line_total": 2999.1
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 758.62,
+      "discount_pct": 20,
+      "line_total": 1820.69
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 106.66,
+      "discount_pct": 15,
+      "line_total": 2266.53
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 804.36,
+      "discount_pct": 15,
+      "line_total": 3418.53
+    }
+  ],
+  "subtotal": 258225.1,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 49062.77,
+  "shipping_amount": 0.0,
+  "total_due": 307287.87,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

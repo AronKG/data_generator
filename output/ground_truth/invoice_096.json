@@ -1,0 +1,70 @@
+{
+  "id": 96,
+  "filename": "invoice_096.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "TAX-INV-2023-67516",
+  "issue_date": "06-Jun-2023",
+  "due_date": "07/21/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 407.97,
+      "discount_pct": 0,
+      "line_total": 4079.7
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 911.62,
+      "discount_pct": 0,
+      "line_total": 911.62
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1315.91,
+      "discount_pct": 0,
+      "line_total": 3947.73
+    }
+  ],
+  "subtotal": 8939.05,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 893.9,
+  "shipping_amount": 0.0,
+  "total_due": 9832.95,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

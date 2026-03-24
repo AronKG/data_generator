@@ -1,0 +1,215 @@
+{
+  "id": 151,
+  "filename": "invoice_151.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
+  "invoice_number": "RCPT-2022-2329",
+  "issue_date": "07/07/2024",
+  "due_date": "July 22 2024",
+  "payment_terms": "Net 90",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-34269",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 636.78,
+      "discount_pct": 0,
+      "line_total": 15919.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4971.92,
+      "discount_pct": 15,
+      "line_total": 42261.32
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 171.33,
+      "discount_pct": 15,
+      "line_total": 436.89
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6898.93,
+      "discount_pct": 0,
+      "line_total": 20696.79
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1963.94,
+      "discount_pct": 15,
+      "line_total": 83467.45
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 534.1,
+      "discount_pct": 20,
+      "line_total": 1281.84
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 125.44,
+      "discount_pct": 20,
+      "line_total": 100.35
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 113.53,
+      "discount_pct": 0,
+      "line_total": 1135.3
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 9709.97,
+      "discount_pct": 0,
+      "line_total": 9709.97
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6565.01,
+      "discount_pct": 15,
+      "line_total": 5580.26
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3065.94,
+      "discount_pct": 0,
+      "line_total": 76648.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1689.44,
+      "discount_pct": 0,
+      "line_total": 42236.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 817.17,
+      "discount_pct": 0,
+      "line_total": 817.17
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1543.5,
+      "discount_pct": 0,
+      "line_total": 1543.5
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1197.25,
+      "discount_pct": 5,
+      "line_total": 28434.69
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3328.21,
+      "discount_pct": 0,
+      "line_total": 166410.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1770.3,
+      "discount_pct": 20,
+      "line_total": 35406.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 276.95,
+      "discount_pct": 0,
+      "line_total": 276.95
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1748.24,
+      "discount_pct": 5,
+      "line_total": 41520.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1449.42,
+      "discount_pct": 15,
+      "line_total": 6160.03
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 4601.39,
+      "discount_pct": 0,
+      "line_total": 115034.75
+    }
+  ],
+  "subtotal": 695078.46,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 48655.49,
+  "shipping_amount": 0.0,
+  "total_due": 743733.95,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

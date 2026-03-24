@@ -1,0 +1,70 @@
+{
+  "id": 706,
+  "filename": "invoice_706.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "064820",
+  "issue_date": "November 21 2022",
+  "due_date": "2022-12-06",
+  "payment_terms": "Net 90",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-12847",
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1140.56,
+      "discount_pct": 0,
+      "line_total": 1140.56
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 75.59,
+      "discount_pct": 0,
+      "line_total": 75.59
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1317.81,
+      "discount_pct": 0,
+      "line_total": 32945.25
+    }
+  ],
+  "subtotal": 34161.4,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 6490.67,
+  "shipping_amount": 0.0,
+  "total_due": 40652.07,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

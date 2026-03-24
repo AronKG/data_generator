@@ -1,0 +1,98 @@
+{
+  "id": 323,
+  "filename": "invoice_323.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "2022-61558",
+  "issue_date": "02-Aug-2022",
+  "due_date": "23 August 2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5762.07,
+      "discount_pct": 20,
+      "line_total": 4609.66
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1186.71,
+      "discount_pct": 0,
+      "line_total": 11867.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 7534.47,
+      "discount_pct": 5,
+      "line_total": 21473.24
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 183.47,
+      "discount_pct": 0,
+      "line_total": 1834.7
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1639.78,
+      "discount_pct": 0,
+      "line_total": 1639.78
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 750.09,
+      "discount_pct": 0,
+      "line_total": 750.09
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6290.71,
+      "discount_pct": 10,
+      "line_total": 56616.39
+    }
+  ],
+  "subtotal": 98790.96,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 12842.82,
+  "shipping_amount": 0.0,
+  "total_due": 111633.78,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

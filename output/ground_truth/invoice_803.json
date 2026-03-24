@@ -1,0 +1,95 @@
+{
+  "id": 803,
+  "filename": "invoice_803.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "BILL11782",
+  "issue_date": "08/07/2024",
+  "due_date": "21/08/2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 351.58,
+      "discount_pct": 15,
+      "line_total": 298.84
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3599.8,
+      "discount_pct": 0,
+      "line_total": 179990.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1069.56,
+      "discount_pct": 0,
+      "line_total": 3208.68
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 57.85,
+      "discount_pct": 15,
+      "line_total": 2458.62
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1145.08,
+      "discount_pct": 0,
+      "line_total": 3435.24
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 909.07,
+      "discount_pct": 0,
+      "line_total": 9090.7
+    }
+  ],
+  "subtotal": 198482.08,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 37711.6,
+  "shipping_amount": 0.0,
+  "total_due": 236193.68,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

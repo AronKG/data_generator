@@ -1,0 +1,119 @@
+{
+  "id": 849,
+  "filename": "invoice_849.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "060401",
+  "issue_date": "21-Mar-2023",
+  "due_date": "May 05 2023",
+  "payment_terms": "Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 372.61,
+      "discount_pct": 0,
+      "line_total": 9315.25
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 27086.02,
+      "discount_pct": 0,
+      "line_total": 1354301.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1303.88,
+      "discount_pct": 0,
+      "line_total": 1303.88
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9774.07,
+      "discount_pct": 0,
+      "line_total": 9774.07
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1763.2,
+      "discount_pct": 0,
+      "line_total": 5289.6
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 970.69,
+      "discount_pct": 5,
+      "line_total": 4610.78
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 892.11,
+      "discount_pct": 5,
+      "line_total": 2542.51
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 60.92,
+      "discount_pct": 0,
+      "line_total": 60.92
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 146.97,
+      "discount_pct": 0,
+      "line_total": 3674.25
+    }
+  ],
+  "subtotal": 1390872.26,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 292083.17,
+  "shipping_amount": 0.0,
+  "total_due": 1682955.43,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,94 @@
+{
+  "id": 497,
+  "filename": "invoice_497.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "INVOICE-2025-76484",
+  "issue_date": "2023-09-04",
+  "due_date": "03-Nov-2023",
+  "payment_terms": "Upon completion",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 13548.47,
+      "discount_pct": 10,
+      "line_total": 609681.15
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 89.65,
+      "discount_pct": 0,
+      "line_total": 268.95
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1605.89,
+      "discount_pct": 20,
+      "line_total": 1284.71
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7841.38,
+      "discount_pct": 5,
+      "line_total": 22347.93
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7566.8,
+      "discount_pct": 0,
+      "line_total": 7566.8
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 818.73,
+      "discount_pct": 0,
+      "line_total": 818.73
+    }
+  ],
+  "subtotal": 641968.27,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 96295.24,
+  "shipping_amount": 0.0,
+  "total_due": 738263.51,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

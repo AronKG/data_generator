@@ -1,0 +1,199 @@
+{
+  "id": 520,
+  "filename": "invoice_520.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 2,
+  "invoice_number": "027694",
+  "issue_date": "13 May 2022",
+  "due_date": "27/05/2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 19,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 113.59,
+      "discount_pct": 0,
+      "line_total": 567.95
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 2201.89,
+      "discount_pct": 5,
+      "line_total": 6275.39
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1707.5,
+      "discount_pct": 10,
+      "line_total": 1536.75
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 1206.08,
+      "discount_pct": 0,
+      "line_total": 60304.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1259.01,
+      "discount_pct": 0,
+      "line_total": 2518.02
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6461.97,
+      "discount_pct": 10,
+      "line_total": 5815.77
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 676.75,
+      "discount_pct": 0,
+      "line_total": 2030.25
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5549.29,
+      "discount_pct": 0,
+      "line_total": 138732.25
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 12346.6,
+      "discount_pct": 15,
+      "line_total": 104946.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1445.7,
+      "discount_pct": 5,
+      "line_total": 1373.41
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 574.0,
+      "discount_pct": 0,
+      "line_total": 14350.0
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 589.82,
+      "discount_pct": 15,
+      "line_total": 501.35
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 86.37,
+      "discount_pct": 5,
+      "line_total": 164.1
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 135.49,
+      "discount_pct": 0,
+      "line_total": 135.49
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 423.02,
+      "discount_pct": 0,
+      "line_total": 1269.06
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 497.28,
+      "discount_pct": 20,
+      "line_total": 19891.2
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 13121.08,
+      "discount_pct": 0,
+      "line_total": 656054.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 296.97,
+      "discount_pct": 0,
+      "line_total": 7424.25
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 351.83,
+      "discount_pct": 0,
+      "line_total": 3518.3
+    }
+  ],
+  "subtotal": 1027407.64,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 236303.76,
+  "shipping_amount": 0.0,
+  "total_due": 1263711.4,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

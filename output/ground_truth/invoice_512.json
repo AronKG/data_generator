@@ -1,0 +1,71 @@
+{
+  "id": 512,
+  "filename": "invoice_512.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
+  "invoice_number": "INVOICE57791",
+  "issue_date": "May 13 2023",
+  "due_date": "07/12/2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 166.26,
+      "discount_pct": 0,
+      "line_total": 831.3
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 31.38,
+      "discount_pct": 0,
+      "line_total": 31.38
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1347.39,
+      "discount_pct": 0,
+      "line_total": 1347.39
+    }
+  ],
+  "subtotal": 2210.07,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 182.33,
+  "shipping_amount": 0.0,
+  "total_due": 2392.4,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

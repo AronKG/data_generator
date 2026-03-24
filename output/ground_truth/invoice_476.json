@@ -1,0 +1,70 @@
+{
+  "id": 476,
+  "filename": "invoice_476.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "REF/2023/54103",
+  "issue_date": "January 30 2022",
+  "due_date": "02/14/2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-68145",
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2741.79,
+      "discount_pct": 0,
+      "line_total": 27417.9
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 9114.44,
+      "discount_pct": 0,
+      "line_total": 227861.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 294.98,
+      "discount_pct": 0,
+      "line_total": 294.98
+    }
+  ],
+  "subtotal": 255573.88,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 53670.51,
+  "shipping_amount": 0.0,
+  "total_due": 309244.39,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

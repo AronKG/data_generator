@@ -1,0 +1,102 @@
+{
+  "id": 666,
+  "filename": "invoice_666.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "TAX-INV-2024-74794",
+  "issue_date": "12-Jun-2024",
+  "due_date": "07/03/2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 55.49,
+      "discount_pct": 20,
+      "line_total": 443.92
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13215.69,
+      "discount_pct": 0,
+      "line_total": 13215.69
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2434.54,
+      "discount_pct": 0,
+      "line_total": 2434.54
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1893.82,
+      "discount_pct": 0,
+      "line_total": 47345.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1828.75,
+      "discount_pct": 0,
+      "line_total": 1828.75
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5396.63,
+      "discount_pct": 0,
+      "line_total": 5396.63
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 975.39,
+      "discount_pct": 0,
+      "line_total": 975.39
+    }
+  ],
+  "subtotal": 71640.42,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 5910.33,
+  "shipping_amount": 0.0,
+  "total_due": 77550.75,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

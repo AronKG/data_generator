@@ -1,0 +1,122 @@
+{
+  "id": 532,
+  "filename": "invoice_532.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "2025-96914",
+  "issue_date": "October 07 2022",
+  "due_date": "October 28 2022",
+  "payment_terms": "Net 15",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 266.99,
+      "discount_pct": 0,
+      "line_total": 13349.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 456.12,
+      "discount_pct": 0,
+      "line_total": 2280.6
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 17128.07,
+      "discount_pct": 20,
+      "line_total": 137024.56
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1254.41,
+      "discount_pct": 0,
+      "line_total": 1254.41
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2825.25,
+      "discount_pct": 0,
+      "line_total": 5650.5
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 2664.64,
+      "discount_pct": 10,
+      "line_total": 2398.18
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 621.13,
+      "discount_pct": 0,
+      "line_total": 621.13
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 6145.19,
+      "discount_pct": 20,
+      "line_total": 122903.8
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 154.58,
+      "discount_pct": 10,
+      "line_total": 695.61
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 77.86,
+      "discount_pct": 0,
+      "line_total": 389.3
+    }
+  ],
+  "subtotal": 286567.59,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 65910.55,
+  "shipping_amount": 0.0,
+  "total_due": 352478.14,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

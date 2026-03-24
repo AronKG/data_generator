@@ -1,0 +1,98 @@
+{
+  "id": 422,
+  "filename": "invoice_422.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "TAX-INV-2024-7910",
+  "issue_date": "31-May-2023",
+  "due_date": "2023-08-29",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-10844",
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1164.54,
+      "discount_pct": 0,
+      "line_total": 3493.62
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7882.63,
+      "discount_pct": 0,
+      "line_total": 7882.63
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 598.23,
+      "discount_pct": 10,
+      "line_total": 26920.35
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 452.55,
+      "discount_pct": 10,
+      "line_total": 407.3
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1733.08,
+      "discount_pct": 0,
+      "line_total": 8665.4
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 669.07,
+      "discount_pct": 0,
+      "line_total": 3345.35
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3940.03,
+      "discount_pct": 0,
+      "line_total": 3940.03
+    }
+  ],
+  "subtotal": 54654.68,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 7105.11,
+  "shipping_amount": 77.52,
+  "total_due": 61837.31,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

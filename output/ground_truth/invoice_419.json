@@ -1,0 +1,118 @@
+{
+  "id": 419,
+  "filename": "invoice_419.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "RCPT-2022-86614",
+  "issue_date": "25/07/2024",
+  "due_date": "2024-08-15",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Helix Beratung GmbH",
+  "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
+  "seller_email": "rechnung@helix-beratung.de",
+  "seller_phone": "+49 89 555 0199",
+  "seller_tax_id": "USt-IdNr: DE345678901",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1061.19,
+      "discount_pct": 10,
+      "line_total": 2865.21
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 361.48,
+      "discount_pct": 0,
+      "line_total": 3614.8
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1396.73,
+      "discount_pct": 0,
+      "line_total": 1396.73
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 257.65,
+      "discount_pct": 0,
+      "line_total": 2576.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1169.65,
+      "discount_pct": 0,
+      "line_total": 1169.65
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 572.64,
+      "discount_pct": 0,
+      "line_total": 5726.4
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1509.69,
+      "discount_pct": 0,
+      "line_total": 15096.9
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1389.23,
+      "discount_pct": 0,
+      "line_total": 13892.3
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 86.26,
+      "discount_pct": 5,
+      "line_total": 2048.67
+    }
+  ],
+  "subtotal": 48387.16,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 11129.05,
+  "shipping_amount": 0.0,
+  "total_due": 59516.21,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

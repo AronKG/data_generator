@@ -1,0 +1,79 @@
+{
+  "id": 522,
+  "filename": "invoice_522.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "TAX-INV/2024/65920",
+  "issue_date": "April 27 2022",
+  "due_date": "2022-05-12",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1092.25,
+      "discount_pct": 0,
+      "line_total": 2184.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 355.14,
+      "discount_pct": 15,
+      "line_total": 301.87
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 291.27,
+      "discount_pct": 10,
+      "line_total": 2621.43
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8543.74,
+      "discount_pct": 20,
+      "line_total": 6834.99
+    }
+  ],
+  "subtotal": 11942.79,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 2388.56,
+  "shipping_amount": 0.0,
+  "total_due": 14331.35,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

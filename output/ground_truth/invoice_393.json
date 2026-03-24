@@ -1,0 +1,90 @@
+{
+  "id": 393,
+  "filename": "invoice_393.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "INV/2025/84890",
+  "issue_date": "03 April 2023",
+  "due_date": "17 April 2023",
+  "payment_terms": "Net 45",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 68.87,
+      "discount_pct": 5,
+      "line_total": 3271.32
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1293.52,
+      "discount_pct": 0,
+      "line_total": 3880.56
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 1665.06,
+      "discount_pct": 0,
+      "line_total": 8325.3
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 199.04,
+      "discount_pct": 15,
+      "line_total": 1691.84
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 568.29,
+      "discount_pct": 0,
+      "line_total": 568.29
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 5989.98,
+      "discount_pct": 0,
+      "line_total": 149749.5
+    }
+  ],
+  "subtotal": 167486.81,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 21773.29,
+  "shipping_amount": 0.0,
+  "total_due": 189260.1,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

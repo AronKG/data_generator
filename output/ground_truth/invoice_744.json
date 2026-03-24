@@ -1,0 +1,102 @@
+{
+  "id": 744,
+  "filename": "invoice_744.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "SI-68202",
+  "issue_date": "11/02/2024",
+  "due_date": "01/31/2025",
+  "payment_terms": "Immediate",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-78835",
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5023.31,
+      "discount_pct": 5,
+      "line_total": 9544.29
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 133.28,
+      "discount_pct": 15,
+      "line_total": 5664.4
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 412.83,
+      "discount_pct": 0,
+      "line_total": 825.66
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5765.6,
+      "discount_pct": 0,
+      "line_total": 5765.6
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 6741.52,
+      "discount_pct": 5,
+      "line_total": 12808.89
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 712.95,
+      "discount_pct": 10,
+      "line_total": 1283.31
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 284.32,
+      "discount_pct": 5,
+      "line_total": 1350.52
+    }
+  ],
+  "subtotal": 37242.67,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 3072.52,
+  "shipping_amount": 0.0,
+  "total_due": 40315.19,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

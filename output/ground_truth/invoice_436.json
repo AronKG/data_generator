@@ -1,0 +1,110 @@
+{
+  "id": 436,
+  "filename": "invoice_436.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "078273",
+  "issue_date": "22-Aug-2024",
+  "due_date": "06/09/2024",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-17748",
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 510.91,
+      "discount_pct": 10,
+      "line_total": 459.82
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 2049.8,
+      "discount_pct": 10,
+      "line_total": 9224.1
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1392.14,
+      "discount_pct": 0,
+      "line_total": 1392.14
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 3312.4,
+      "discount_pct": 0,
+      "line_total": 33124.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 71.56,
+      "discount_pct": 0,
+      "line_total": 3578.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 891.62,
+      "discount_pct": 5,
+      "line_total": 4235.19
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 193.64,
+      "discount_pct": 20,
+      "line_total": 3872.8
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5314.42,
+      "discount_pct": 0,
+      "line_total": 132860.5
+    }
+  ],
+  "subtotal": 188746.55,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 13212.26,
+  "shipping_amount": 0.0,
+  "total_due": 201958.81,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

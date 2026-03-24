@@ -1,0 +1,222 @@
+{
+  "id": 513,
+  "filename": "invoice_513.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "REF-94957",
+  "issue_date": "February 24 2024",
+  "due_date": "2024-03-09",
+  "payment_terms": "Upon completion",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 22,
+  "line_items": [
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 113.13,
+      "discount_pct": 0,
+      "line_total": 339.39
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 79.2,
+      "discount_pct": 5,
+      "line_total": 376.2
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 197.37,
+      "discount_pct": 10,
+      "line_total": 532.9
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10160.53,
+      "discount_pct": 0,
+      "line_total": 10160.53
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 92.52,
+      "discount_pct": 10,
+      "line_total": 83.27
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 118.21,
+      "discount_pct": 0,
+      "line_total": 236.42
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 868.76,
+      "discount_pct": 0,
+      "line_total": 868.76
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1219.75,
+      "discount_pct": 15,
+      "line_total": 3110.36
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1038.39,
+      "discount_pct": 0,
+      "line_total": 25959.75
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 820.54,
+      "discount_pct": 0,
+      "line_total": 20513.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 39.12,
+      "discount_pct": 0,
+      "line_total": 1956.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1424.66,
+      "discount_pct": 10,
+      "line_total": 1282.19
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5860.56,
+      "discount_pct": 5,
+      "line_total": 5567.53
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 601.55,
+      "discount_pct": 10,
+      "line_total": 2706.97
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 730.66,
+      "discount_pct": 10,
+      "line_total": 1972.78
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1294.82,
+      "discount_pct": 5,
+      "line_total": 12300.79
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 3943.28,
+      "discount_pct": 20,
+      "line_total": 9463.87
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2926.93,
+      "discount_pct": 15,
+      "line_total": 2487.89
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 290.78,
+      "discount_pct": 0,
+      "line_total": 14539.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 907.52,
+      "discount_pct": 0,
+      "line_total": 907.52
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 8588.07,
+      "discount_pct": 0,
+      "line_total": 8588.07
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1333.62,
+      "discount_pct": 20,
+      "line_total": 53344.8
+    }
+  ],
+  "subtotal": 177298.49,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 33686.71,
+  "shipping_amount": 295.4,
+  "total_due": 211280.6,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

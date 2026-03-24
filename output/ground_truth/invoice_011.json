@@ -1,0 +1,79 @@
+{
+  "id": 11,
+  "filename": "invoice_011.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 7,
+  "invoice_number": "REF/2023/53360",
+  "issue_date": "28 November 2024",
+  "due_date": "12-Jan-2025",
+  "payment_terms": "Upon completion",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-44743",
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 13795.97,
+      "discount_pct": 15,
+      "line_total": 35179.72
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 494.55,
+      "discount_pct": 20,
+      "line_total": 1186.92
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 3750.24,
+      "discount_pct": 15,
+      "line_total": 9563.11
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4367.57,
+      "discount_pct": 0,
+      "line_total": 4367.57
+    }
+  ],
+  "subtotal": 50297.32,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 10059.46,
+  "shipping_amount": 0.0,
+  "total_due": 60356.78,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

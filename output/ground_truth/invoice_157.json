@@ -1,0 +1,126 @@
+{
+  "id": 157,
+  "filename": "invoice_157.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "TAX-INV/2024/60136",
+  "issue_date": "24/04/2022",
+  "due_date": "2022-06-08",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-58963",
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5093.27,
+      "discount_pct": 0,
+      "line_total": 10186.54
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 325.25,
+      "discount_pct": 10,
+      "line_total": 292.73
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 791.98,
+      "discount_pct": 0,
+      "line_total": 19799.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 538.91,
+      "discount_pct": 10,
+      "line_total": 485.02
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 344.77,
+      "discount_pct": 0,
+      "line_total": 1723.85
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 93.81,
+      "discount_pct": 0,
+      "line_total": 93.81
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 157.55,
+      "discount_pct": 0,
+      "line_total": 472.65
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 17391.27,
+      "discount_pct": 0,
+      "line_total": 34782.54
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 96.91,
+      "discount_pct": 5,
+      "line_total": 4603.22
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7883.21,
+      "discount_pct": 0,
+      "line_total": 7883.21
+    }
+  ],
+  "subtotal": 80323.07,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 16064.61,
+  "shipping_amount": 69.6,
+  "total_due": 96457.28,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

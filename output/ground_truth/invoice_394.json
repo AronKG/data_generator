@@ -1,0 +1,62 @@
+{
+  "id": 394,
+  "filename": "invoice_394.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
+  "invoice_number": "PROFORMA/2024/93514",
+  "issue_date": "24-Mar-2023",
+  "due_date": "23-May-2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-12225",
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 775.07,
+      "discount_pct": 0,
+      "line_total": 38753.5
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 7392.24,
+      "discount_pct": 0,
+      "line_total": 184806.0
+    }
+  ],
+  "subtotal": 223559.5,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 11177.98,
+  "shipping_amount": 0.0,
+  "total_due": 234737.48,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

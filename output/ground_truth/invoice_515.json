@@ -1,0 +1,158 @@
+{
+  "id": 515,
+  "filename": "invoice_515.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "SI/2023/50951",
+  "issue_date": "April 13 2022",
+  "due_date": "13 May 2022",
+  "payment_terms": "Net 7",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 677.2,
+      "discount_pct": 5,
+      "line_total": 643.34
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 881.75,
+      "discount_pct": 0,
+      "line_total": 4408.75
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 794.32,
+      "discount_pct": 10,
+      "line_total": 17872.2
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6372.94,
+      "discount_pct": 20,
+      "line_total": 5098.35
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 169.63,
+      "discount_pct": 20,
+      "line_total": 678.52
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 121.61,
+      "discount_pct": 0,
+      "line_total": 1216.1
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 62.1,
+      "discount_pct": 0,
+      "line_total": 186.3
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1613.64,
+      "discount_pct": 5,
+      "line_total": 1532.96
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 23186.46,
+      "discount_pct": 20,
+      "line_total": 18549.17
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3153.62,
+      "discount_pct": 0,
+      "line_total": 3153.62
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4135.55,
+      "discount_pct": 5,
+      "line_total": 7857.55
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 2830.99,
+      "discount_pct": 0,
+      "line_total": 70774.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 318.32,
+      "discount_pct": 20,
+      "line_total": 1273.28
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 8117.4,
+      "discount_pct": 10,
+      "line_total": 182641.5
+    }
+  ],
+  "subtotal": 315886.39,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 63177.28,
+  "shipping_amount": 0.0,
+  "total_due": 379063.67,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

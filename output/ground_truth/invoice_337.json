@@ -1,0 +1,87 @@
+{
+  "id": 337,
+  "filename": "invoice_337.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 7,
+  "invoice_number": "2023-10666",
+  "issue_date": "26-Aug-2023",
+  "due_date": "25-Oct-2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-36864",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 78.88,
+      "discount_pct": 15,
+      "line_total": 335.24
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5371.11,
+      "discount_pct": 15,
+      "line_total": 228272.17
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 95.79,
+      "discount_pct": 0,
+      "line_total": 2394.75
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 15562.1,
+      "discount_pct": 20,
+      "line_total": 311242.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4021.94,
+      "discount_pct": 10,
+      "line_total": 18098.73
+    }
+  ],
+  "subtotal": 560342.89,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 46228.29,
+  "shipping_amount": 0.0,
+  "total_due": 606571.18,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

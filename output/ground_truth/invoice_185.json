@@ -1,0 +1,159 @@
+{
+  "id": 185,
+  "filename": "invoice_185.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "019095",
+  "issue_date": "September 20 2022",
+  "due_date": "11-Oct-2022",
+  "payment_terms": "Net 7",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 406.47,
+      "discount_pct": 20,
+      "line_total": 650.35
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 228.85,
+      "discount_pct": 0,
+      "line_total": 5721.25
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18124.77,
+      "discount_pct": 10,
+      "line_total": 16312.29
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1352.4,
+      "discount_pct": 20,
+      "line_total": 3245.76
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3277.97,
+      "discount_pct": 10,
+      "line_total": 147508.65
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1277.35,
+      "discount_pct": 10,
+      "line_total": 1149.62
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1421.61,
+      "discount_pct": 10,
+      "line_total": 31986.23
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 433.78,
+      "discount_pct": 20,
+      "line_total": 347.02
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 9236.53,
+      "discount_pct": 15,
+      "line_total": 196276.26
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 936.27,
+      "discount_pct": 0,
+      "line_total": 23406.75
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 249.48,
+      "discount_pct": 15,
+      "line_total": 212.06
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 543.07,
+      "discount_pct": 0,
+      "line_total": 1086.14
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 10250.2,
+      "discount_pct": 0,
+      "line_total": 512510.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9789.8,
+      "discount_pct": 0,
+      "line_total": 9789.8
+    }
+  ],
+  "subtotal": 950202.18,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 950202.18,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

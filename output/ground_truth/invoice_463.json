@@ -1,0 +1,70 @@
+{
+  "id": 463,
+  "filename": "invoice_463.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
+  "invoice_number": "REF-33255",
+  "issue_date": "04 June 2023",
+  "due_date": "June 19 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-61223",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 6585.82,
+      "discount_pct": 0,
+      "line_total": 329291.0
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1525.42,
+      "discount_pct": 0,
+      "line_total": 76271.0
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 2277.03,
+      "discount_pct": 0,
+      "line_total": 113851.5
+    }
+  ],
+  "subtotal": 519413.5,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 51941.35,
+  "shipping_amount": 0.0,
+  "total_due": 571354.85,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

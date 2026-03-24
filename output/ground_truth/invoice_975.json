@@ -1,0 +1,174 @@
+{
+  "id": 975,
+  "filename": "invoice_975.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
+  "invoice_number": "2023-81094",
+  "issue_date": "09/13/2023",
+  "due_date": "20/09/2023",
+  "payment_terms": "Immediate",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 16,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1476.87,
+      "discount_pct": 10,
+      "line_total": 13291.83
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 356.85,
+      "discount_pct": 10,
+      "line_total": 8029.12
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5962.14,
+      "discount_pct": 10,
+      "line_total": 268296.3
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1819.28,
+      "discount_pct": 10,
+      "line_total": 1637.35
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 299.18,
+      "discount_pct": 0,
+      "line_total": 14959.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 189.31,
+      "discount_pct": 15,
+      "line_total": 160.91
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1479.2,
+      "discount_pct": 0,
+      "line_total": 36980.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7083.0,
+      "discount_pct": 0,
+      "line_total": 7083.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6568.84,
+      "discount_pct": 0,
+      "line_total": 65688.4
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1416.48,
+      "discount_pct": 5,
+      "line_total": 4036.97
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1201.19,
+      "discount_pct": 20,
+      "line_total": 9609.52
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6776.36,
+      "discount_pct": 5,
+      "line_total": 6437.54
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2525.58,
+      "discount_pct": 0,
+      "line_total": 126279.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1979.92,
+      "discount_pct": 5,
+      "line_total": 5642.77
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 656.96,
+      "discount_pct": 0,
+      "line_total": 3284.8
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 155.53,
+      "discount_pct": 0,
+      "line_total": 311.06
+    }
+  ],
+  "subtotal": 571727.57,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 34303.65,
+  "shipping_amount": 0.0,
+  "total_due": 606031.22,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": 125,
+  "filename": "invoice_125.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 5,
+  "invoice_number": "TAX-INV-2024-84790",
+  "issue_date": "11-Nov-2022",
+  "due_date": "11/26/2022",
+  "payment_terms": "Net 15",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-22601",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 115.66,
+      "discount_pct": 0,
+      "line_total": 231.32
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6373.63,
+      "discount_pct": 0,
+      "line_total": 159340.75
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 643.11,
+      "discount_pct": 0,
+      "line_total": 3215.55
+    }
+  ],
+  "subtotal": 162787.62,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 8139.38,
+  "shipping_amount": 0.0,
+  "total_due": 170927.0,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

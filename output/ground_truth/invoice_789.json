@@ -1,0 +1,79 @@
+{
+  "id": 789,
+  "filename": "invoice_789.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "INVOICE-50622",
+  "issue_date": "February 05 2023",
+  "due_date": "22-Mar-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 114.32,
+      "discount_pct": 0,
+      "line_total": 342.96
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 1387.41,
+      "discount_pct": 0,
+      "line_total": 4162.23
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1836.39,
+      "discount_pct": 0,
+      "line_total": 45909.75
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 542.16,
+      "discount_pct": 10,
+      "line_total": 975.89
+    }
+  ],
+  "subtotal": 51390.83,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 7708.62,
+  "shipping_amount": 0.0,
+  "total_due": 59099.45,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

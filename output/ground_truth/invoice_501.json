@@ -1,0 +1,114 @@
+{
+  "id": 501,
+  "filename": "invoice_501.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "SI/2023/75035",
+  "issue_date": "August 11 2022",
+  "due_date": "18-Aug-2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 844.5,
+      "discount_pct": 10,
+      "line_total": 7600.5
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 98.98,
+      "discount_pct": 10,
+      "line_total": 4454.1
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 118.48,
+      "discount_pct": 10,
+      "line_total": 213.26
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1560.37,
+      "discount_pct": 0,
+      "line_total": 7801.85
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6474.44,
+      "discount_pct": 0,
+      "line_total": 19423.32
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 170.81,
+      "discount_pct": 20,
+      "line_total": 683.24
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 224.19,
+      "discount_pct": 0,
+      "line_total": 672.57
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4576.93,
+      "discount_pct": 10,
+      "line_total": 4119.24
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 6139.5,
+      "discount_pct": 5,
+      "line_total": 5832.52
+    }
+  ],
+  "subtotal": 50800.6,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 2540.03,
+  "shipping_amount": 0.0,
+  "total_due": 53340.63,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

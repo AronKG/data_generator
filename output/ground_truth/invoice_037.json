@@ -1,0 +1,118 @@
+{
+  "id": 37,
+  "filename": "invoice_037.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "064529",
+  "issue_date": "04-May-2022",
+  "due_date": "03/07/2022",
+  "payment_terms": "Net 45",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1387.49,
+      "discount_pct": 20,
+      "line_total": 1109.99
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 43215.85,
+      "discount_pct": 5,
+      "line_total": 82110.11
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 970.09,
+      "discount_pct": 0,
+      "line_total": 48504.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1059.44,
+      "discount_pct": 0,
+      "line_total": 1059.44
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 9344.4,
+      "discount_pct": 5,
+      "line_total": 88771.8
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 523.49,
+      "discount_pct": 0,
+      "line_total": 523.49
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 758.2,
+      "discount_pct": 0,
+      "line_total": 758.2
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 14710.56,
+      "discount_pct": 20,
+      "line_total": 117684.48
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 9168.8,
+      "discount_pct": 15,
+      "line_total": 15586.96
+    }
+  ],
+  "subtotal": 356108.97,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 81905.06,
+  "shipping_amount": 221.51,
+  "total_due": 438235.54,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

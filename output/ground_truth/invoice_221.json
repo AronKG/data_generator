@@ -1,0 +1,98 @@
+{
+  "id": 221,
+  "filename": "invoice_221.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "067701",
+  "issue_date": "02 May 2023",
+  "due_date": "01-Jul-2023",
+  "payment_terms": "Upon completion",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1346.66,
+      "discount_pct": 5,
+      "line_total": 12793.27
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 158.99,
+      "discount_pct": 0,
+      "line_total": 158.99
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 698.26,
+      "discount_pct": 0,
+      "line_total": 698.26
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1499.27,
+      "discount_pct": 0,
+      "line_total": 37481.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 149.48,
+      "discount_pct": 5,
+      "line_total": 426.02
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10051.97,
+      "discount_pct": 0,
+      "line_total": 50259.85
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 574.31,
+      "discount_pct": 0,
+      "line_total": 1148.62
+    }
+  ],
+  "subtotal": 102966.76,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 23682.35,
+  "shipping_amount": 273.19,
+  "total_due": 126922.3,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

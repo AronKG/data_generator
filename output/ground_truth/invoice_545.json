@@ -1,0 +1,62 @@
+{
+  "id": 545,
+  "filename": "invoice_545.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
+  "invoice_number": "REF38264",
+  "issue_date": "19/10/2022",
+  "due_date": "18 November 2022",
+  "payment_terms": "Net 7",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 246.97,
+      "discount_pct": 0,
+      "line_total": 1234.85
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 90.49,
+      "discount_pct": 0,
+      "line_total": 2262.25
+    }
+  ],
+  "subtotal": 3497.1,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 734.39,
+  "shipping_amount": 0.0,
+  "total_due": 4231.49,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

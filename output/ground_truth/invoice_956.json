@@ -1,0 +1,206 @@
+{
+  "id": 956,
+  "filename": "invoice_956.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
+  "invoice_number": "027584",
+  "issue_date": "2024-05-05",
+  "due_date": "05/20/2024",
+  "payment_terms": "Net 21",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 20,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4215.59,
+      "discount_pct": 5,
+      "line_total": 4004.81
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 3901.02,
+      "discount_pct": 10,
+      "line_total": 35109.18
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1771.59,
+      "discount_pct": 20,
+      "line_total": 14172.72
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11711.77,
+      "discount_pct": 0,
+      "line_total": 11711.77
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 395.12,
+      "discount_pct": 20,
+      "line_total": 316.1
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 1298.69,
+      "discount_pct": 10,
+      "line_total": 3506.46
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1514.3,
+      "discount_pct": 0,
+      "line_total": 1514.3
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 955.6,
+      "discount_pct": 10,
+      "line_total": 860.04
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 180.19,
+      "discount_pct": 10,
+      "line_total": 486.51
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1419.31,
+      "discount_pct": 0,
+      "line_total": 2838.62
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 67.86,
+      "discount_pct": 0,
+      "line_total": 67.86
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 375.83,
+      "discount_pct": 0,
+      "line_total": 1879.15
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 99.43,
+      "discount_pct": 0,
+      "line_total": 298.29
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 6798.11,
+      "discount_pct": 0,
+      "line_total": 20394.33
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1952.5,
+      "discount_pct": 10,
+      "line_total": 8786.25
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 111.43,
+      "discount_pct": 5,
+      "line_total": 317.58
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 356.2,
+      "discount_pct": 0,
+      "line_total": 356.2
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4286.1,
+      "discount_pct": 5,
+      "line_total": 4071.8
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 796.85,
+      "discount_pct": 0,
+      "line_total": 796.85
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 672.46,
+      "discount_pct": 10,
+      "line_total": 605.21
+    }
+  ],
+  "subtotal": 112094.03,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 9247.76,
+  "shipping_amount": 29.55,
+  "total_due": 121371.34,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,178 @@
+{
+  "id": 523,
+  "filename": "invoice_523.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
+  "invoice_number": "REF-65991",
+  "issue_date": "10/08/2023",
+  "due_date": "17-Aug-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 17,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 15176.76,
+      "discount_pct": 0,
+      "line_total": 758838.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 387.75,
+      "discount_pct": 20,
+      "line_total": 620.4
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 992.04,
+      "discount_pct": 5,
+      "line_total": 2827.31
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 653.49,
+      "discount_pct": 0,
+      "line_total": 16337.25
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 591.72,
+      "discount_pct": 0,
+      "line_total": 5917.2
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2954.35,
+      "discount_pct": 10,
+      "line_total": 2658.91
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 7247.27,
+      "discount_pct": 0,
+      "line_total": 14494.54
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 110.21,
+      "discount_pct": 0,
+      "line_total": 110.21
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 217.85,
+      "discount_pct": 20,
+      "line_total": 174.28
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 224.99,
+      "discount_pct": 10,
+      "line_total": 10124.55
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 989.21,
+      "discount_pct": 20,
+      "line_total": 1582.74
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 716.21,
+      "discount_pct": 10,
+      "line_total": 1933.77
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 65.9,
+      "discount_pct": 0,
+      "line_total": 197.7
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2854.05,
+      "discount_pct": 0,
+      "line_total": 142702.5
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 219.68,
+      "discount_pct": 0,
+      "line_total": 219.68
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 901.68,
+      "discount_pct": 0,
+      "line_total": 901.68
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5933.87,
+      "discount_pct": 20,
+      "line_total": 237354.8
+    }
+  ],
+  "subtotal": 1196995.52,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 275308.97,
+  "shipping_amount": 0.0,
+  "total_due": 1472304.49,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

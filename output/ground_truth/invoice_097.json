@@ -1,0 +1,110 @@
+{
+  "id": 97,
+  "filename": "invoice_097.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "REF/2024/34705",
+  "issue_date": "09/21/2022",
+  "due_date": "11/20/2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1837.44,
+      "discount_pct": 10,
+      "line_total": 3307.39
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 27.31,
+      "discount_pct": 0,
+      "line_total": 273.1
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 138.38,
+      "discount_pct": 0,
+      "line_total": 691.9
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 77.06,
+      "discount_pct": 5,
+      "line_total": 73.21
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 559.44,
+      "discount_pct": 0,
+      "line_total": 27972.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 336.53,
+      "discount_pct": 15,
+      "line_total": 1430.25
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 110.4,
+      "discount_pct": 0,
+      "line_total": 110.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3115.21,
+      "discount_pct": 15,
+      "line_total": 26479.28
+    }
+  ],
+  "subtotal": 60337.53,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 83.99,
+  "total_due": 60421.52,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": false
+}

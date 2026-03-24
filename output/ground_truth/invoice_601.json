@@ -1,0 +1,71 @@
+{
+  "id": 601,
+  "filename": "invoice_601.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
+  "invoice_number": "087111",
+  "issue_date": "06/06/2023",
+  "due_date": "05-Aug-2023",
+  "payment_terms": "Net 7",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 457.92,
+      "discount_pct": 0,
+      "line_total": 457.92
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 72.15,
+      "discount_pct": 0,
+      "line_total": 144.3
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 45742.68,
+      "discount_pct": 0,
+      "line_total": 1143567.0
+    }
+  ],
+  "subtotal": 1144169.22,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 263158.92,
+  "shipping_amount": 0.0,
+  "total_due": 1407328.14,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

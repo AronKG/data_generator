@@ -1,0 +1,159 @@
+{
+  "id": 915,
+  "filename": "invoice_915.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "BILL-2025-45405",
+  "issue_date": "06/03/2023",
+  "due_date": "24/06/2023",
+  "payment_terms": "Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5395.17,
+      "discount_pct": 0,
+      "line_total": 26975.85
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3010.3,
+      "discount_pct": 0,
+      "line_total": 6020.6
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3379.43,
+      "discount_pct": 0,
+      "line_total": 3379.43
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 271.22,
+      "discount_pct": 5,
+      "line_total": 772.98
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 142.73,
+      "discount_pct": 0,
+      "line_total": 1427.3
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7236.88,
+      "discount_pct": 0,
+      "line_total": 14473.76
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 256.27,
+      "discount_pct": 15,
+      "line_total": 217.83
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 581.11,
+      "discount_pct": 0,
+      "line_total": 1743.33
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1124.26,
+      "discount_pct": 0,
+      "line_total": 56213.0
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 248.94,
+      "discount_pct": 0,
+      "line_total": 1244.7
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 39589.13,
+      "discount_pct": 0,
+      "line_total": 39589.13
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2831.49,
+      "discount_pct": 20,
+      "line_total": 2265.19
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 493.73,
+      "discount_pct": 0,
+      "line_total": 987.46
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 791.11,
+      "discount_pct": 10,
+      "line_total": 2136.0
+    }
+  ],
+  "subtotal": 157446.56,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 20468.05,
+  "shipping_amount": 0.0,
+  "total_due": 177914.61,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

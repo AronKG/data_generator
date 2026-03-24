@@ -1,0 +1,138 @@
+{
+  "id": 778,
+  "filename": "invoice_778.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "053964",
+  "issue_date": "07 January 2023",
+  "due_date": "April 07 2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 32808.58,
+      "discount_pct": 15,
+      "line_total": 27887.29
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 130.74,
+      "discount_pct": 20,
+      "line_total": 313.78
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 141.73,
+      "discount_pct": 0,
+      "line_total": 1417.3
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 833.19,
+      "discount_pct": 20,
+      "line_total": 1333.1
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 704.87,
+      "discount_pct": 20,
+      "line_total": 563.9
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1786.63,
+      "discount_pct": 0,
+      "line_total": 44665.75
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 576.59,
+      "discount_pct": 0,
+      "line_total": 14414.75
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 5844.11,
+      "discount_pct": 0,
+      "line_total": 17532.33
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 820.86,
+      "discount_pct": 5,
+      "line_total": 38990.85
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 335.2,
+      "discount_pct": 5,
+      "line_total": 7961.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 3527.98,
+      "discount_pct": 20,
+      "line_total": 141119.2
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8188.02,
+      "discount_pct": 15,
+      "line_total": 6959.82
+    }
+  ],
+  "subtotal": 303159.07,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 25010.62,
+  "shipping_amount": 101.51,
+  "total_due": 328271.2,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

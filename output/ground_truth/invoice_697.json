@@ -1,0 +1,210 @@
+{
+  "id": 697,
+  "filename": "invoice_697.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
+  "invoice_number": "2025-4568",
+  "issue_date": "06/10/2024",
+  "due_date": "10/20/2024",
+  "payment_terms": "Net 15",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-35004",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 454.08,
+      "discount_pct": 20,
+      "line_total": 3632.64
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 263.55,
+      "discount_pct": 5,
+      "line_total": 12518.62
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1190.07,
+      "discount_pct": 0,
+      "line_total": 1190.07
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7129.38,
+      "discount_pct": 15,
+      "line_total": 6059.97
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 972.3,
+      "discount_pct": 0,
+      "line_total": 972.3
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 97.98,
+      "discount_pct": 0,
+      "line_total": 97.98
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 188.07,
+      "discount_pct": 10,
+      "line_total": 169.26
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 279.36,
+      "discount_pct": 15,
+      "line_total": 474.91
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 112.32,
+      "discount_pct": 5,
+      "line_total": 320.11
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1284.02,
+      "discount_pct": 0,
+      "line_total": 1284.02
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 546.46,
+      "discount_pct": 20,
+      "line_total": 437.17
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 761.22,
+      "discount_pct": 20,
+      "line_total": 6089.76
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 18775.24,
+      "discount_pct": 5,
+      "line_total": 53509.43
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4218.16,
+      "discount_pct": 5,
+      "line_total": 4007.25
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 5772.92,
+      "discount_pct": 5,
+      "line_total": 10968.55
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1663.44,
+      "discount_pct": 0,
+      "line_total": 4990.32
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1714.42,
+      "discount_pct": 0,
+      "line_total": 1714.42
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1624.98,
+      "discount_pct": 0,
+      "line_total": 4874.94
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17889.05,
+      "discount_pct": 10,
+      "line_total": 16100.15
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 319.28,
+      "discount_pct": 20,
+      "line_total": 510.85
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 294.54,
+      "discount_pct": 10,
+      "line_total": 2650.86
+    }
+  ],
+  "subtotal": 132573.58,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 26514.72,
+  "shipping_amount": 246.53,
+  "total_due": 159334.83,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

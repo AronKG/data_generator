@@ -1,0 +1,183 @@
+{
+  "id": 494,
+  "filename": "invoice_494.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
+  "invoice_number": "INVOICE7253",
+  "issue_date": "December 02 2023",
+  "due_date": "December 23 2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-33861",
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 17,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3093.03,
+      "discount_pct": 0,
+      "line_total": 77325.75
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 234.1,
+      "discount_pct": 0,
+      "line_total": 2341.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1636.97,
+      "discount_pct": 0,
+      "line_total": 16369.7
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 161.86,
+      "discount_pct": 0,
+      "line_total": 485.58
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1913.51,
+      "discount_pct": 20,
+      "line_total": 1530.81
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1462.43,
+      "discount_pct": 15,
+      "line_total": 6215.33
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 233.12,
+      "discount_pct": 10,
+      "line_total": 209.81
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 150.07,
+      "discount_pct": 0,
+      "line_total": 1500.7
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4336.08,
+      "discount_pct": 0,
+      "line_total": 43360.8
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 368.85,
+      "discount_pct": 10,
+      "line_total": 1659.83
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1387.09,
+      "discount_pct": 5,
+      "line_total": 6588.68
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4808.72,
+      "discount_pct": 15,
+      "line_total": 8174.82
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 32954.53,
+      "discount_pct": 20,
+      "line_total": 263636.24
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 212.84,
+      "discount_pct": 5,
+      "line_total": 202.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1281.03,
+      "discount_pct": 15,
+      "line_total": 27221.89
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 422.57,
+      "discount_pct": 0,
+      "line_total": 10564.25
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11979.3,
+      "discount_pct": 20,
+      "line_total": 95834.4
+    }
+  ],
+  "subtotal": 563221.79,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 46465.8,
+  "shipping_amount": 0.0,
+  "total_due": 609687.59,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

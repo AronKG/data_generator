@@ -1,0 +1,63 @@
+{
+  "id": 420,
+  "filename": "invoice_420.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "SI84918",
+  "issue_date": "07-Oct-2022",
+  "due_date": "October 28 2022",
+  "payment_terms": "Net 60",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 91.38,
+      "discount_pct": 0,
+      "line_total": 91.38
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1848.08,
+      "discount_pct": 0,
+      "line_total": 1848.08
+    }
+  ],
+  "subtotal": 1939.46,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 135.76,
+  "shipping_amount": 0.0,
+  "total_due": 2075.22,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

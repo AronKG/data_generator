@@ -1,0 +1,170 @@
+{
+  "id": 354,
+  "filename": "invoice_354.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
+  "invoice_number": "PROFORMA-2024-69154",
+  "issue_date": "27/07/2024",
+  "due_date": "26 August 2024",
+  "payment_terms": "Net 21",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 16,
+  "line_items": [
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 125.24,
+      "discount_pct": 0,
+      "line_total": 1252.4
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 519.76,
+      "discount_pct": 0,
+      "line_total": 5197.6
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 62.04,
+      "discount_pct": 0,
+      "line_total": 310.2
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 123.55,
+      "discount_pct": 10,
+      "line_total": 111.19
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 202.54,
+      "discount_pct": 15,
+      "line_total": 1721.59
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 551.51,
+      "discount_pct": 10,
+      "line_total": 2481.8
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 110.41,
+      "discount_pct": 15,
+      "line_total": 93.85
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1653.28,
+      "discount_pct": 10,
+      "line_total": 14879.52
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 58.74,
+      "discount_pct": 0,
+      "line_total": 1468.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2052.53,
+      "discount_pct": 5,
+      "line_total": 48747.59
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2777.12,
+      "discount_pct": 5,
+      "line_total": 2638.26
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 96.73,
+      "discount_pct": 0,
+      "line_total": 4836.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 423.81,
+      "discount_pct": 20,
+      "line_total": 8476.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1385.39,
+      "discount_pct": 0,
+      "line_total": 69269.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 217.3,
+      "discount_pct": 0,
+      "line_total": 1086.5
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1404.5,
+      "discount_pct": 0,
+      "line_total": 1404.5
+    }
+  ],
+  "subtotal": 163975.7,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 32795.14,
+  "shipping_amount": 158.24,
+  "total_due": 196929.08,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

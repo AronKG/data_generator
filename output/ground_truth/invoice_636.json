@@ -1,0 +1,79 @@
+{
+  "id": 636,
+  "filename": "invoice_636.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "039732",
+  "issue_date": "12/28/2024",
+  "due_date": "11-Jan-2025",
+  "payment_terms": "Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 953.08,
+      "discount_pct": 0,
+      "line_total": 23827.0
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 2175.8,
+      "discount_pct": 0,
+      "line_total": 21758.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 400.89,
+      "discount_pct": 0,
+      "line_total": 2004.45
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 2443.2,
+      "discount_pct": 5,
+      "line_total": 23210.4
+    }
+  ],
+  "subtotal": 70799.85,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 5840.99,
+  "shipping_amount": 0.0,
+  "total_due": 76640.84,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

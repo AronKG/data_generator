@@ -1,0 +1,82 @@
+{
+  "id": 863,
+  "filename": "invoice_863.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "INV/2024/28665",
+  "issue_date": "2023-10-01",
+  "due_date": "15/11/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3727.47,
+      "discount_pct": 0,
+      "line_total": 3727.47
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2218.56,
+      "discount_pct": 15,
+      "line_total": 18857.76
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3333.04,
+      "discount_pct": 15,
+      "line_total": 2833.08
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 830.81,
+      "discount_pct": 0,
+      "line_total": 20770.25
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 98.67,
+      "discount_pct": 20,
+      "line_total": 78.94
+    }
+  ],
+  "subtotal": 46267.5,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 4626.75,
+  "shipping_amount": 0.0,
+  "total_due": 50894.25,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

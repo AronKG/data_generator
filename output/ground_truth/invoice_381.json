@@ -1,0 +1,126 @@
+{
+  "id": 381,
+  "filename": "invoice_381.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "2024-46388",
+  "issue_date": "2024-06-17",
+  "due_date": "2024-08-01",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-73154",
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 325.99,
+      "discount_pct": 10,
+      "line_total": 880.17
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 310.57,
+      "discount_pct": 10,
+      "line_total": 279.51
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 885.72,
+      "discount_pct": 10,
+      "line_total": 7971.48
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 160.61,
+      "discount_pct": 0,
+      "line_total": 160.61
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3036.7,
+      "discount_pct": 0,
+      "line_total": 30367.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1989.57,
+      "discount_pct": 0,
+      "line_total": 19895.7
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 96.37,
+      "discount_pct": 20,
+      "line_total": 77.1
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2885.03,
+      "discount_pct": 0,
+      "line_total": 2885.03
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1019.24,
+      "discount_pct": 5,
+      "line_total": 4841.39
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 623.33,
+      "discount_pct": 10,
+      "line_total": 14024.93
+    }
+  ],
+  "subtotal": 81382.92,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 4882.98,
+  "shipping_amount": 0.0,
+  "total_due": 86265.9,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

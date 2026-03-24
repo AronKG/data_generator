@@ -1,0 +1,186 @@
+{
+  "id": 550,
+  "filename": "invoice_550.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
+  "invoice_number": "TAX-INV-2024-1708",
+  "issue_date": "08/11/2022",
+  "due_date": "2022-08-18",
+  "payment_terms": "2/10 Net 30",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 37.83,
+      "discount_pct": 5,
+      "line_total": 359.38
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 826.97,
+      "discount_pct": 0,
+      "line_total": 8269.7
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1689.82,
+      "discount_pct": 0,
+      "line_total": 84491.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 936.59,
+      "discount_pct": 10,
+      "line_total": 8429.31
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 233.93,
+      "discount_pct": 10,
+      "line_total": 210.54
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 4640.79,
+      "discount_pct": 15,
+      "line_total": 3944.67
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 909.68,
+      "discount_pct": 5,
+      "line_total": 8641.96
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2101.36,
+      "discount_pct": 20,
+      "line_total": 42027.2
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 399.62,
+      "discount_pct": 0,
+      "line_total": 1198.86
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1640.24,
+      "discount_pct": 0,
+      "line_total": 8201.2
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1981.24,
+      "discount_pct": 5,
+      "line_total": 94108.9
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1483.42,
+      "discount_pct": 20,
+      "line_total": 2373.47
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 642.61,
+      "discount_pct": 0,
+      "line_total": 1285.22
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 663.43,
+      "discount_pct": 15,
+      "line_total": 2819.58
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 73.65,
+      "discount_pct": 0,
+      "line_total": 73.65
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3679.6,
+      "discount_pct": 15,
+      "line_total": 3127.66
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 13955.34,
+      "discount_pct": 20,
+      "line_total": 22328.54
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 18122.04,
+      "discount_pct": 0,
+      "line_total": 906102.0
+    }
+  ],
+  "subtotal": 1197992.84,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 179698.93,
+  "shipping_amount": 237.59,
+  "total_due": 1377929.36,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

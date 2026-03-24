@@ -1,0 +1,82 @@
+{
+  "id": 114,
+  "filename": "invoice_114.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
+  "invoice_number": "RCPT-2024-87853",
+  "issue_date": "01/02/2024",
+  "due_date": "05/01/2024",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 936.45,
+      "discount_pct": 5,
+      "line_total": 1779.26
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 349.15,
+      "discount_pct": 0,
+      "line_total": 698.3
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1231.18,
+      "discount_pct": 20,
+      "line_total": 984.94
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1462.66,
+      "discount_pct": 5,
+      "line_total": 13895.27
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 15762.43,
+      "discount_pct": 15,
+      "line_total": 40194.2
+    }
+  ],
+  "subtotal": 57551.97,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 10934.87,
+  "shipping_amount": 0.0,
+  "total_due": 68486.84,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

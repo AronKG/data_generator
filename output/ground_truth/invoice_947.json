@@ -1,0 +1,111 @@
+{
+  "id": 947,
+  "filename": "invoice_947.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "BILL-2025-82014",
+  "issue_date": "14 December 2022",
+  "due_date": "28 January 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Cactus and Clay Designs",
+  "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
+  "seller_email": "accounts@cactusclay.com",
+  "seller_phone": "+1 602-555-0199",
+  "seller_tax_id": "EIN: 11-9876543",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 16549.55,
+      "discount_pct": 5,
+      "line_total": 157220.73
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 534.54,
+      "discount_pct": 0,
+      "line_total": 1603.62
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14613.07,
+      "discount_pct": 20,
+      "line_total": 292261.4
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1374.53,
+      "discount_pct": 15,
+      "line_total": 1168.35
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 6168.37,
+      "discount_pct": 0,
+      "line_total": 154209.25
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 755.87,
+      "discount_pct": 20,
+      "line_total": 6046.96
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2342.37,
+      "discount_pct": 10,
+      "line_total": 6324.4
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1046.01,
+      "discount_pct": 0,
+      "line_total": 52300.5
+    }
+  ],
+  "subtotal": 671135.21,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 40268.11,
+  "shipping_amount": 0.0,
+  "total_due": 711403.32,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

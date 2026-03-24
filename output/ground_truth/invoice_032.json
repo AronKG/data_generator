@@ -1,0 +1,167 @@
+{
+  "id": 32,
+  "filename": "invoice_032.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
+  "invoice_number": "INV96654",
+  "issue_date": "01/02/2023",
+  "due_date": "16-Feb-2023",
+  "payment_terms": "Net 60",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-43732",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 10757.54,
+      "discount_pct": 15,
+      "line_total": 18287.82
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1744.96,
+      "discount_pct": 0,
+      "line_total": 1744.96
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 440.49,
+      "discount_pct": 20,
+      "line_total": 1761.96
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4760.97,
+      "discount_pct": 0,
+      "line_total": 238048.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16973.26,
+      "discount_pct": 0,
+      "line_total": 16973.26
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3998.05,
+      "discount_pct": 20,
+      "line_total": 3198.44
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2194.75,
+      "discount_pct": 5,
+      "line_total": 52125.31
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3346.41,
+      "discount_pct": 5,
+      "line_total": 3179.09
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 390.67,
+      "discount_pct": 10,
+      "line_total": 1054.81
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 115.81,
+      "discount_pct": 5,
+      "line_total": 1100.19
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 703.67,
+      "discount_pct": 0,
+      "line_total": 703.67
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 427.08,
+      "discount_pct": 15,
+      "line_total": 363.02
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 6955.25,
+      "discount_pct": 15,
+      "line_total": 29559.81
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 236.68,
+      "discount_pct": 0,
+      "line_total": 5917.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 624.37,
+      "discount_pct": 0,
+      "line_total": 1248.74
+    }
+  ],
+  "subtotal": 375266.58,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 48784.66,
+  "shipping_amount": 0.0,
+  "total_due": 424051.24,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

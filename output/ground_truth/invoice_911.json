@@ -1,0 +1,154 @@
+{
+  "id": 911,
+  "filename": "invoice_911.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "INV-2022-70898",
+  "issue_date": "23/01/2023",
+  "due_date": "2023-02-22",
+  "payment_terms": "End of Month",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-44994",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 666.83,
+      "discount_pct": 5,
+      "line_total": 15837.21
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 566.01,
+      "discount_pct": 5,
+      "line_total": 1075.42
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 582.73,
+      "discount_pct": 0,
+      "line_total": 29136.5
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1561.39,
+      "discount_pct": 5,
+      "line_total": 1483.32
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2256.73,
+      "discount_pct": 10,
+      "line_total": 50776.43
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 105.45,
+      "discount_pct": 5,
+      "line_total": 100.18
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 995.6,
+      "discount_pct": 15,
+      "line_total": 846.26
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 79.88,
+      "discount_pct": 0,
+      "line_total": 79.88
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 486.82,
+      "discount_pct": 15,
+      "line_total": 413.8
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 80.43,
+      "discount_pct": 10,
+      "line_total": 723.87
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 328.92,
+      "discount_pct": 0,
+      "line_total": 986.76
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 2303.32,
+      "discount_pct": 20,
+      "line_total": 46066.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1523.57,
+      "discount_pct": 5,
+      "line_total": 1447.39
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 319.37,
+      "discount_pct": 0,
+      "line_total": 319.37
+    }
+  ],
+  "subtotal": 149292.79,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 12316.66,
+  "shipping_amount": 0.0,
+  "total_due": 161609.45,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

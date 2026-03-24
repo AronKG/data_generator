@@ -1,0 +1,130 @@
+{
+  "id": 225,
+  "filename": "invoice_225.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "REF-86601",
+  "issue_date": "19-Jun-2023",
+  "due_date": "19-Jul-2023",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1600.6,
+      "discount_pct": 15,
+      "line_total": 13605.1
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2881.48,
+      "discount_pct": 0,
+      "line_total": 5762.96
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 539.92,
+      "discount_pct": 0,
+      "line_total": 539.92
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1438.3,
+      "discount_pct": 20,
+      "line_total": 28766.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 354.84,
+      "discount_pct": 0,
+      "line_total": 354.84
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 143.65,
+      "discount_pct": 15,
+      "line_total": 122.1
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9143.59,
+      "discount_pct": 0,
+      "line_total": 9143.59
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14991.64,
+      "discount_pct": 15,
+      "line_total": 12742.89
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 263.77,
+      "discount_pct": 10,
+      "line_total": 474.79
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 269.73,
+      "discount_pct": 20,
+      "line_total": 215.78
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 2169.04,
+      "discount_pct": 0,
+      "line_total": 21690.4
+    }
+  ],
+  "subtotal": 93418.37,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 17749.49,
+  "shipping_amount": 217.47,
+  "total_due": 111385.33,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

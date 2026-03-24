@@ -1,0 +1,98 @@
+{
+  "id": 152,
+  "filename": "invoice_152.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "SI39311",
+  "issue_date": "31 October 2023",
+  "due_date": "14/11/2023",
+  "payment_terms": "Net 45",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2320.23,
+      "discount_pct": 10,
+      "line_total": 52205.18
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 2938.88,
+      "discount_pct": 20,
+      "line_total": 4702.21
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 69.79,
+      "discount_pct": 0,
+      "line_total": 69.79
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3190.7,
+      "discount_pct": 0,
+      "line_total": 3190.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 848.63,
+      "discount_pct": 5,
+      "line_total": 40309.92
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 87.29,
+      "discount_pct": 10,
+      "line_total": 78.56
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 158.7,
+      "discount_pct": 0,
+      "line_total": 7935.0
+    }
+  ],
+  "subtotal": 108491.36,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 21698.27,
+  "shipping_amount": 266.87,
+  "total_due": 130456.5,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

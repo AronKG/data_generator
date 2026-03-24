@@ -1,0 +1,87 @@
+{
+  "id": 17,
+  "filename": "invoice_017.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
+  "invoice_number": "PROFORMA-2024-73513",
+  "issue_date": "06/04/2022",
+  "due_date": "18/06/2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-27641",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 869.19,
+      "discount_pct": 10,
+      "line_total": 782.27
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2273.5,
+      "discount_pct": 5,
+      "line_total": 6479.47
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 326.26,
+      "discount_pct": 0,
+      "line_total": 16313.0
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2727.67,
+      "discount_pct": 0,
+      "line_total": 13638.35
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 213.73,
+      "discount_pct": 10,
+      "line_total": 1923.57
+    }
+  ],
+  "subtotal": 39136.66,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 3228.77,
+  "shipping_amount": 0.0,
+  "total_due": 42365.43,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

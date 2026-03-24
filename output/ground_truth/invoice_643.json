@@ -1,0 +1,71 @@
+{
+  "id": 643,
+  "filename": "invoice_643.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
+  "invoice_number": "TAX-INV/2025/20777",
+  "issue_date": "04-Oct-2024",
+  "due_date": "25-Oct-2024",
+  "payment_terms": "End of Month",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2749.32,
+      "discount_pct": 0,
+      "line_total": 2749.32
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 312.4,
+      "discount_pct": 0,
+      "line_total": 937.2
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 2836.33,
+      "discount_pct": 0,
+      "line_total": 70908.25
+    }
+  ],
+  "subtotal": 74594.77,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 4475.69,
+  "shipping_amount": 0.0,
+  "total_due": 79070.46,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

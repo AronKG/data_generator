@@ -1,0 +1,130 @@
+{
+  "id": 703,
+  "filename": "invoice_703.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "BILL-2024-44482",
+  "issue_date": "14 January 2023",
+  "due_date": "14/04/2023",
+  "payment_terms": "Net 7",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 345.98,
+      "discount_pct": 10,
+      "line_total": 311.38
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1714.87,
+      "discount_pct": 0,
+      "line_total": 8574.35
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1417.46,
+      "discount_pct": 0,
+      "line_total": 4252.38
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14589.12,
+      "discount_pct": 5,
+      "line_total": 346491.6
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 456.47,
+      "discount_pct": 0,
+      "line_total": 1369.41
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 664.41,
+      "discount_pct": 10,
+      "line_total": 597.97
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1084.33,
+      "discount_pct": 20,
+      "line_total": 867.46
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2318.04,
+      "discount_pct": 0,
+      "line_total": 23180.4
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 5941.63,
+      "discount_pct": 5,
+      "line_total": 11289.1
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13185.54,
+      "discount_pct": 0,
+      "line_total": 13185.54
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1073.72,
+      "discount_pct": 5,
+      "line_total": 51001.7
+    }
+  ],
+  "subtotal": 461121.29,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 69168.19,
+  "shipping_amount": 97.45,
+  "total_due": 530386.93,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

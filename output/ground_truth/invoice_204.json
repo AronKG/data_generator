@@ -1,0 +1,70 @@
+{
+  "id": 204,
+  "filename": "invoice_204.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
+  "invoice_number": "INV-2022-64271",
+  "issue_date": "09-Jan-2022",
+  "due_date": "2022-01-30",
+  "payment_terms": "Net 60",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-66692",
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 269.01,
+      "discount_pct": 0,
+      "line_total": 6725.25
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 304.5,
+      "discount_pct": 0,
+      "line_total": 304.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1610.19,
+      "discount_pct": 0,
+      "line_total": 16101.9
+    }
+  ],
+  "subtotal": 23131.65,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 1156.58,
+  "shipping_amount": 0.0,
+  "total_due": 24288.23,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

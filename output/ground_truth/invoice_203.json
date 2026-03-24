@@ -1,0 +1,154 @@
+{
+  "id": 203,
+  "filename": "invoice_203.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "SI-72260",
+  "issue_date": "11 April 2024",
+  "due_date": "2024-06-10",
+  "payment_terms": "Net 90",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5116.2,
+      "discount_pct": 0,
+      "line_total": 127905.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 439.09,
+      "discount_pct": 0,
+      "line_total": 10977.25
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 144.46,
+      "discount_pct": 0,
+      "line_total": 144.46
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1064.08,
+      "discount_pct": 20,
+      "line_total": 2553.79
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 810.39,
+      "discount_pct": 15,
+      "line_total": 2066.49
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 137.1,
+      "discount_pct": 10,
+      "line_total": 123.39
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2101.2,
+      "discount_pct": 5,
+      "line_total": 5988.42
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9436.91,
+      "discount_pct": 10,
+      "line_total": 8493.22
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4273.46,
+      "discount_pct": 0,
+      "line_total": 42734.6
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1291.31,
+      "discount_pct": 5,
+      "line_total": 61337.22
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1652.36,
+      "discount_pct": 0,
+      "line_total": 1652.36
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 122.77,
+      "discount_pct": 15,
+      "line_total": 104.35
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5098.36,
+      "discount_pct": 0,
+      "line_total": 25491.8
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1790.17,
+      "discount_pct": 10,
+      "line_total": 40278.83
+    }
+  ],
+  "subtotal": 329851.18,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 69268.75,
+  "shipping_amount": 0.0,
+  "total_due": 399119.93,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

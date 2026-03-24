@@ -1,0 +1,127 @@
+{
+  "id": 977,
+  "filename": "invoice_977.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "055818",
+  "issue_date": "November 14 2022",
+  "due_date": "05 December 2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-71241",
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1837.47,
+      "discount_pct": 0,
+      "line_total": 18374.7
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 44533.0,
+      "discount_pct": 10,
+      "line_total": 40079.7
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 48.79,
+      "discount_pct": 10,
+      "line_total": 1097.78
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1034.99,
+      "discount_pct": 5,
+      "line_total": 2949.72
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 767.93,
+      "discount_pct": 0,
+      "line_total": 767.93
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4303.28,
+      "discount_pct": 0,
+      "line_total": 4303.28
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 227.56,
+      "discount_pct": 0,
+      "line_total": 5689.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3056.54,
+      "discount_pct": 0,
+      "line_total": 3056.54
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 58.28,
+      "discount_pct": 0,
+      "line_total": 58.28
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5580.03,
+      "discount_pct": 5,
+      "line_total": 132525.71
+    }
+  ],
+  "subtotal": 208902.64,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 27157.34,
+  "shipping_amount": 0.0,
+  "total_due": 236059.98,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

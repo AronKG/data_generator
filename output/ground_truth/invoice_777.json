@@ -1,0 +1,167 @@
+{
+  "id": 777,
+  "filename": "invoice_777.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "BILL/2024/03192",
+  "issue_date": "18/04/2023",
+  "due_date": "2023-04-25",
+  "payment_terms": "Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 818.19,
+      "discount_pct": 15,
+      "line_total": 3477.31
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 4930.88,
+      "discount_pct": 0,
+      "line_total": 123272.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 136.78,
+      "discount_pct": 5,
+      "line_total": 389.82
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1119.48,
+      "discount_pct": 20,
+      "line_total": 2686.75
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17882.06,
+      "discount_pct": 0,
+      "line_total": 17882.06
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 45.71,
+      "discount_pct": 0,
+      "line_total": 1142.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 554.33,
+      "discount_pct": 0,
+      "line_total": 27716.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 258.69,
+      "discount_pct": 5,
+      "line_total": 1228.78
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 7610.09,
+      "discount_pct": 20,
+      "line_total": 6088.07
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 524.03,
+      "discount_pct": 20,
+      "line_total": 419.22
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 455.09,
+      "discount_pct": 5,
+      "line_total": 432.34
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 6229.09,
+      "discount_pct": 5,
+      "line_total": 29588.18
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11304.0,
+      "discount_pct": 15,
+      "line_total": 9608.4
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2591.18,
+      "discount_pct": 5,
+      "line_total": 24616.21
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 24488.62,
+      "discount_pct": 0,
+      "line_total": 612215.5
+    }
+  ],
+  "subtotal": 860763.89,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 111899.31,
+  "shipping_amount": 147.61,
+  "total_due": 972810.81,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,94 @@
+{
+  "id": 708,
+  "filename": "invoice_708.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "PROFORMA/2022/65567",
+  "issue_date": "2022-05-24",
+  "due_date": "14-Jun-2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-45969",
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2110.55,
+      "discount_pct": 0,
+      "line_total": 2110.55
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 14786.18,
+      "discount_pct": 5,
+      "line_total": 28093.74
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 471.43,
+      "discount_pct": 20,
+      "line_total": 9428.6
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 75.7,
+      "discount_pct": 0,
+      "line_total": 75.7
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 681.12,
+      "discount_pct": 0,
+      "line_total": 17028.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 11424.78,
+      "discount_pct": 20,
+      "line_total": 45699.12
+    }
+  ],
+  "subtotal": 102435.71,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 8450.95,
+  "shipping_amount": 0.0,
+  "total_due": 110886.66,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

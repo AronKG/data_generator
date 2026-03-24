@@ -1,0 +1,63 @@
+{
+  "id": 502,
+  "filename": "invoice_502.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
+  "invoice_number": "REF/2024/66351",
+  "issue_date": "18/09/2023",
+  "due_date": "17-Nov-2023",
+  "payment_terms": "Upon completion",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1041.74,
+      "discount_pct": 0,
+      "line_total": 3125.22
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 1042.69,
+      "discount_pct": 0,
+      "line_total": 2085.38
+    }
+  ],
+  "subtotal": 5210.6,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 364.74,
+  "shipping_amount": 0.0,
+  "total_due": 5575.34,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

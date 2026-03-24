@@ -1,0 +1,106 @@
+{
+  "id": 112,
+  "filename": "invoice_112.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "SI61839",
+  "issue_date": "01/05/2023",
+  "due_date": "05/22/2023",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1991.65,
+      "discount_pct": 20,
+      "line_total": 1593.32
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2694.04,
+      "discount_pct": 15,
+      "line_total": 2289.93
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 509.77,
+      "discount_pct": 10,
+      "line_total": 458.79
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 395.37,
+      "discount_pct": 0,
+      "line_total": 790.74
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 132.18,
+      "discount_pct": 5,
+      "line_total": 6278.55
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 276.81,
+      "discount_pct": 15,
+      "line_total": 11764.42
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 37216.67,
+      "discount_pct": 5,
+      "line_total": 176779.18
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 546.59,
+      "discount_pct": 20,
+      "line_total": 1311.82
+    }
+  ],
+  "subtotal": 201266.75,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 10063.34,
+  "shipping_amount": 0.0,
+  "total_due": 211330.09,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

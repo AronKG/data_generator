@@ -1,0 +1,110 @@
+{
+  "id": 384,
+  "filename": "invoice_384.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "INV-21263",
+  "issue_date": "04/03/2022",
+  "due_date": "03 May 2022",
+  "payment_terms": "Net 90",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 16622.15,
+      "discount_pct": 10,
+      "line_total": 74799.68
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 198.75,
+      "discount_pct": 0,
+      "line_total": 198.75
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 659.73,
+      "discount_pct": 0,
+      "line_total": 659.73
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4226.88,
+      "discount_pct": 0,
+      "line_total": 8453.76
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4644.67,
+      "discount_pct": 0,
+      "line_total": 9289.34
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1124.01,
+      "discount_pct": 0,
+      "line_total": 2248.02
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 658.72,
+      "discount_pct": 0,
+      "line_total": 658.72
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3155.24,
+      "discount_pct": 20,
+      "line_total": 126209.6
+    }
+  ],
+  "subtotal": 222517.6,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 42278.34,
+  "shipping_amount": 0.0,
+  "total_due": 264795.94,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

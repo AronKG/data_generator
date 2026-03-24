@@ -1,0 +1,246 @@
+{
+  "id": 764,
+  "filename": "invoice_764.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
+  "invoice_number": "BILL/2024/94927",
+  "issue_date": "19-Jan-2023",
+  "due_date": "19-Apr-2023",
+  "payment_terms": "Net 45",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3812.38,
+      "discount_pct": 0,
+      "line_total": 95309.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1904.84,
+      "discount_pct": 5,
+      "line_total": 18095.98
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4178.94,
+      "discount_pct": 0,
+      "line_total": 104473.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 247.91,
+      "discount_pct": 0,
+      "line_total": 6197.75
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1718.41,
+      "discount_pct": 15,
+      "line_total": 4381.95
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2421.38,
+      "discount_pct": 5,
+      "line_total": 4600.62
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 82.01,
+      "discount_pct": 0,
+      "line_total": 82.01
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 269.6,
+      "discount_pct": 10,
+      "line_total": 12132.0
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4053.7,
+      "discount_pct": 15,
+      "line_total": 17228.22
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1939.08,
+      "discount_pct": 5,
+      "line_total": 46053.15
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1612.93,
+      "discount_pct": 5,
+      "line_total": 1532.28
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 176.63,
+      "discount_pct": 10,
+      "line_total": 158.97
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 624.77,
+      "discount_pct": 0,
+      "line_total": 624.77
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 1107.5,
+      "discount_pct": 0,
+      "line_total": 27687.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 210.01,
+      "discount_pct": 20,
+      "line_total": 168.01
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3455.12,
+      "discount_pct": 10,
+      "line_total": 9328.82
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 887.84,
+      "discount_pct": 0,
+      "line_total": 22196.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1360.46,
+      "discount_pct": 10,
+      "line_total": 1224.41
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1252.33,
+      "discount_pct": 0,
+      "line_total": 62616.5
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 609.57,
+      "discount_pct": 20,
+      "line_total": 24382.8
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 18905.12,
+      "discount_pct": 5,
+      "line_total": 35919.73
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 172.77,
+      "discount_pct": 0,
+      "line_total": 172.77
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 70.86,
+      "discount_pct": 0,
+      "line_total": 141.72
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 115.33,
+      "discount_pct": 0,
+      "line_total": 1153.3
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 963.76,
+      "discount_pct": 10,
+      "line_total": 867.38
+    }
+  ],
+  "subtotal": 496729.64,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 94378.63,
+  "shipping_amount": 0.0,
+  "total_due": 591108.27,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

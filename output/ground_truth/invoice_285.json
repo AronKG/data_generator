@@ -1,0 +1,150 @@
+{
+  "id": 285,
+  "filename": "invoice_285.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "REF-2024-2780",
+  "issue_date": "06 June 2023",
+  "due_date": "20/06/2023",
+  "payment_terms": "Net 21",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-30031",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 920.49,
+      "discount_pct": 5,
+      "line_total": 2623.4
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 321.84,
+      "discount_pct": 20,
+      "line_total": 514.94
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1536.51,
+      "discount_pct": 0,
+      "line_total": 4609.53
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2274.12,
+      "discount_pct": 0,
+      "line_total": 2274.12
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 43.48,
+      "discount_pct": 0,
+      "line_total": 1087.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10185.33,
+      "discount_pct": 0,
+      "line_total": 10185.33
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10277.87,
+      "discount_pct": 5,
+      "line_total": 48819.88
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1922.52,
+      "discount_pct": 0,
+      "line_total": 1922.52
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 232.94,
+      "discount_pct": 0,
+      "line_total": 698.82
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 146.55,
+      "discount_pct": 0,
+      "line_total": 7327.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 866.9,
+      "discount_pct": 0,
+      "line_total": 866.9
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 319.92,
+      "discount_pct": 0,
+      "line_total": 319.92
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1488.89,
+      "discount_pct": 15,
+      "line_total": 3796.67
+    }
+  ],
+  "subtotal": 85046.53,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 19560.7,
+  "shipping_amount": 0.0,
+  "total_due": 104607.23,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

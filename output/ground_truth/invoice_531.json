@@ -1,0 +1,87 @@
+{
+  "id": 531,
+  "filename": "invoice_531.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "SI66305",
+  "issue_date": "August 26 2024",
+  "due_date": "2024-10-10",
+  "payment_terms": "30 days from delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8473.03,
+      "discount_pct": 0,
+      "line_total": 8473.03
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 954.03,
+      "discount_pct": 15,
+      "line_total": 40546.28
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 826.7,
+      "discount_pct": 0,
+      "line_total": 2480.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1085.26,
+      "discount_pct": 0,
+      "line_total": 3255.78
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1981.35,
+      "discount_pct": 15,
+      "line_total": 42103.69
+    }
+  ],
+  "subtotal": 96858.88,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 5811.53,
+  "shipping_amount": 0.0,
+  "total_due": 102670.41,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

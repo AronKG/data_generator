@@ -1,0 +1,95 @@
+{
+  "id": 383,
+  "filename": "invoice_383.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "2025-6894",
+  "issue_date": "03/27/2024",
+  "due_date": "17 April 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-76806",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 902.05,
+      "discount_pct": 5,
+      "line_total": 4284.74
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1335.14,
+      "discount_pct": 0,
+      "line_total": 1335.14
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7436.87,
+      "discount_pct": 5,
+      "line_total": 7065.03
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17829.46,
+      "discount_pct": 0,
+      "line_total": 17829.46
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 778.21,
+      "discount_pct": 0,
+      "line_total": 2334.63
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 413.96,
+      "discount_pct": 5,
+      "line_total": 393.26
+    }
+  ],
+  "subtotal": 33242.26,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 6648.45,
+  "shipping_amount": 0.0,
+  "total_due": 39890.71,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

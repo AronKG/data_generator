@@ -1,0 +1,63 @@
+{
+  "id": 169,
+  "filename": "invoice_169.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
+  "invoice_number": "2022-60216",
+  "issue_date": "14-Aug-2023",
+  "due_date": "12/11/2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 637.4,
+      "discount_pct": 0,
+      "line_total": 3187.0
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 373.27,
+      "discount_pct": 0,
+      "line_total": 373.27
+    }
+  ],
+  "subtotal": 3560.27,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 3560.27,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

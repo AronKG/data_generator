@@ -1,0 +1,70 @@
+{
+  "id": 370,
+  "filename": "invoice_370.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
+  "invoice_number": "2023-39080",
+  "issue_date": "12/08/2023",
+  "due_date": "10/11/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 513.7,
+      "discount_pct": 0,
+      "line_total": 2568.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1204.19,
+      "discount_pct": 0,
+      "line_total": 1204.19
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2148.09,
+      "discount_pct": 0,
+      "line_total": 107404.5
+    }
+  ],
+  "subtotal": 111177.19,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 6670.63,
+  "shipping_amount": 0.0,
+  "total_due": 117847.82,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

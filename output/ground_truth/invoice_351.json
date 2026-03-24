@@ -1,0 +1,158 @@
+{
+  "id": 351,
+  "filename": "invoice_351.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
+  "invoice_number": "SI/2025/27492",
+  "issue_date": "December 19 2023",
+  "due_date": "03 January 2024",
+  "payment_terms": "Upon completion",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 517.48,
+      "discount_pct": 5,
+      "line_total": 491.61
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 83.46,
+      "discount_pct": 0,
+      "line_total": 250.38
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5389.98,
+      "discount_pct": 5,
+      "line_total": 5120.48
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 2009.64,
+      "discount_pct": 5,
+      "line_total": 1909.16
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1027.17,
+      "discount_pct": 15,
+      "line_total": 21827.36
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 463.5,
+      "discount_pct": 15,
+      "line_total": 9849.38
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2250.18,
+      "discount_pct": 0,
+      "line_total": 56254.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 273.57,
+      "discount_pct": 15,
+      "line_total": 5813.36
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 89.24,
+      "discount_pct": 5,
+      "line_total": 169.56
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 136.98,
+      "discount_pct": 0,
+      "line_total": 136.98
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 345.65,
+      "discount_pct": 10,
+      "line_total": 311.08
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 193.91,
+      "discount_pct": 5,
+      "line_total": 184.21
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9272.89,
+      "discount_pct": 15,
+      "line_total": 7881.96
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 831.67,
+      "discount_pct": 0,
+      "line_total": 4158.35
+    }
+  ],
+  "subtotal": 114358.37,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 47.31,
+  "total_due": 114405.68,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": false
+}

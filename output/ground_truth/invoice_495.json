@@ -1,0 +1,86 @@
+{
+  "id": 495,
+  "filename": "invoice_495.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "PROFORMA/2024/13921",
+  "issue_date": "December 10 2024",
+  "due_date": "January 24 2025",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-19227",
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 1405.32,
+      "discount_pct": 20,
+      "line_total": 28106.4
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 112.45,
+      "discount_pct": 20,
+      "line_total": 2249.0
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 428.07,
+      "discount_pct": 0,
+      "line_total": 428.07
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 258.11,
+      "discount_pct": 0,
+      "line_total": 258.11
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 185.07,
+      "discount_pct": 0,
+      "line_total": 9253.5
+    }
+  ],
+  "subtotal": 40295.08,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 9267.87,
+  "shipping_amount": 0.0,
+  "total_due": 49562.95,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

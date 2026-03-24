@@ -1,0 +1,70 @@
+{
+  "id": 262,
+  "filename": "invoice_262.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "INVOICE-76918",
+  "issue_date": "12/02/2024",
+  "due_date": "28 March 2024",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-88500",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 817.44,
+      "discount_pct": 0,
+      "line_total": 20436.0
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 44.2,
+      "discount_pct": 0,
+      "line_total": 44.2
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 273.31,
+      "discount_pct": 0,
+      "line_total": 6832.75
+    }
+  ],
+  "subtotal": 27312.95,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 4096.94,
+  "shipping_amount": 0.0,
+  "total_due": 31409.89,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

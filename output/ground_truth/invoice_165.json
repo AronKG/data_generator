@@ -1,0 +1,82 @@
+{
+  "id": 165,
+  "filename": "invoice_165.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "INVOICE-82291",
+  "issue_date": "24/07/2024",
+  "due_date": "31 July 2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1485.7,
+      "discount_pct": 0,
+      "line_total": 2971.4
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13409.39,
+      "discount_pct": 0,
+      "line_total": 13409.39
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 725.33,
+      "discount_pct": 10,
+      "line_total": 652.8
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1112.39,
+      "discount_pct": 0,
+      "line_total": 55619.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 119.45,
+      "discount_pct": 0,
+      "line_total": 1194.5
+    }
+  ],
+  "subtotal": 73847.59,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 4430.86,
+  "shipping_amount": 0.0,
+  "total_due": 78278.45,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

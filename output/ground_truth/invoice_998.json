@@ -1,0 +1,154 @@
+{
+  "id": 998,
+  "filename": "invoice_998.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "2023-32792",
+  "issue_date": "24-Apr-2022",
+  "due_date": "23/07/2022",
+  "payment_terms": "Net 30",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7949.98,
+      "discount_pct": 0,
+      "line_total": 23849.94
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 233.0,
+      "discount_pct": 15,
+      "line_total": 198.05
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1269.23,
+      "discount_pct": 15,
+      "line_total": 1078.85
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 5571.92,
+      "discount_pct": 0,
+      "line_total": 27859.6
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 491.07,
+      "discount_pct": 0,
+      "line_total": 24553.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1839.58,
+      "discount_pct": 15,
+      "line_total": 7818.21
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 557.03,
+      "discount_pct": 0,
+      "line_total": 2785.15
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 639.86,
+      "discount_pct": 5,
+      "line_total": 607.87
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 706.81,
+      "discount_pct": 10,
+      "line_total": 1272.26
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 17319.66,
+      "discount_pct": 0,
+      "line_total": 865983.0
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 260.84,
+      "discount_pct": 0,
+      "line_total": 521.68
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3572.98,
+      "discount_pct": 10,
+      "line_total": 160784.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 9327.64,
+      "discount_pct": 20,
+      "line_total": 373105.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 669.1,
+      "discount_pct": 0,
+      "line_total": 669.1
+    }
+  ],
+  "subtotal": 1491086.91,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 342949.99,
+  "shipping_amount": 0.0,
+  "total_due": 1834036.9,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

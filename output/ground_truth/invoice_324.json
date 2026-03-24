@@ -1,0 +1,71 @@
+{
+  "id": 324,
+  "filename": "invoice_324.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 3,
+  "invoice_number": "2025-55685",
+  "issue_date": "2024-12-25",
+  "due_date": "January 08 2025",
+  "payment_terms": "Cash on Delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-50970",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 648.34,
+      "discount_pct": 0,
+      "line_total": 648.34
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4601.98,
+      "discount_pct": 0,
+      "line_total": 23009.9
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 329.94,
+      "discount_pct": 0,
+      "line_total": 329.94
+    }
+  ],
+  "subtotal": 23988.18,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 1439.29,
+  "shipping_amount": 0.0,
+  "total_due": 25427.47,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

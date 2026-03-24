@@ -1,0 +1,142 @@
+{
+  "id": 555,
+  "filename": "invoice_555.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "PROFORMA-2023-22909",
+  "issue_date": "14-Feb-2022",
+  "due_date": "02/21/2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-93274",
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13303.25,
+      "discount_pct": 10,
+      "line_total": 11972.93
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2189.6,
+      "discount_pct": 0,
+      "line_total": 10948.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 155.97,
+      "discount_pct": 5,
+      "line_total": 296.34
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 226.82,
+      "discount_pct": 5,
+      "line_total": 430.96
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 701.27,
+      "discount_pct": 0,
+      "line_total": 701.27
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2310.51,
+      "discount_pct": 15,
+      "line_total": 1963.93
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 333.89,
+      "discount_pct": 0,
+      "line_total": 8347.25
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3497.49,
+      "discount_pct": 0,
+      "line_total": 3497.49
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 618.54,
+      "discount_pct": 0,
+      "line_total": 15463.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 307.09,
+      "discount_pct": 0,
+      "line_total": 15354.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2645.13,
+      "discount_pct": 15,
+      "line_total": 6745.08
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 220.92,
+      "discount_pct": 20,
+      "line_total": 530.21
+    }
+  ],
+  "subtotal": 76251.46,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 11437.72,
+  "shipping_amount": 0.0,
+  "total_due": 87689.18,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

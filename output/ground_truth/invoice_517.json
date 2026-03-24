@@ -1,0 +1,154 @@
+{
+  "id": 517,
+  "filename": "invoice_517.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "2024-94518",
+  "issue_date": "10 June 2022",
+  "due_date": "07/10/2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-23626",
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 232.3,
+      "discount_pct": 15,
+      "line_total": 592.37
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2963.24,
+      "discount_pct": 20,
+      "line_total": 2370.59
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1789.64,
+      "discount_pct": 20,
+      "line_total": 14317.12
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 432.3,
+      "discount_pct": 15,
+      "line_total": 1102.37
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 7978.0,
+      "discount_pct": 15,
+      "line_total": 6781.3
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 150.68,
+      "discount_pct": 10,
+      "line_total": 135.61
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 653.2,
+      "discount_pct": 5,
+      "line_total": 3102.7
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1925.14,
+      "discount_pct": 20,
+      "line_total": 4620.34
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 652.43,
+      "discount_pct": 10,
+      "line_total": 5871.87
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 281.36,
+      "discount_pct": 0,
+      "line_total": 2813.6
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 340.06,
+      "discount_pct": 20,
+      "line_total": 272.05
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 38.33,
+      "discount_pct": 0,
+      "line_total": 958.25
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7275.95,
+      "discount_pct": 15,
+      "line_total": 6184.56
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 44061.76,
+      "discount_pct": 15,
+      "line_total": 37452.5
+    }
+  ],
+  "subtotal": 86575.23,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 86575.23,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

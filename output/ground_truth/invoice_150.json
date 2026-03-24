@@ -1,0 +1,90 @@
+{
+  "id": 150,
+  "filename": "invoice_150.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "2024-5012",
+  "issue_date": "09/19/2024",
+  "due_date": "2024-11-18",
+  "payment_terms": "Due on Receipt",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1404.54,
+      "discount_pct": 5,
+      "line_total": 1334.31
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 854.1,
+      "discount_pct": 10,
+      "line_total": 768.69
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1909.48,
+      "discount_pct": 0,
+      "line_total": 95474.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 232.09,
+      "discount_pct": 10,
+      "line_total": 10444.05
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 616.75,
+      "discount_pct": 10,
+      "line_total": 5550.75
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2203.96,
+      "discount_pct": 0,
+      "line_total": 2203.96
+    }
+  ],
+  "subtotal": 115775.76,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 9551.5,
+  "shipping_amount": 0.0,
+  "total_due": 125327.26,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

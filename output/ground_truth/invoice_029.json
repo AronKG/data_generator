@@ -1,0 +1,167 @@
+{
+  "id": 29,
+  "filename": "invoice_029.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
+  "invoice_number": "SI/2024/82475",
+  "issue_date": "10-Dec-2023",
+  "due_date": "2023-12-24",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 218.91,
+      "discount_pct": 0,
+      "line_total": 656.73
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 8480.83,
+      "discount_pct": 5,
+      "line_total": 402839.42
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 523.63,
+      "discount_pct": 0,
+      "line_total": 13090.75
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 504.23,
+      "discount_pct": 15,
+      "line_total": 428.6
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2929.39,
+      "discount_pct": 15,
+      "line_total": 7469.94
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1510.94,
+      "discount_pct": 15,
+      "line_total": 12842.99
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17692.04,
+      "discount_pct": 15,
+      "line_total": 15038.23
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 44014.46,
+      "discount_pct": 0,
+      "line_total": 2200723.0
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 125.9,
+      "discount_pct": 15,
+      "line_total": 107.02
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 794.18,
+      "discount_pct": 20,
+      "line_total": 15883.6
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 101.64,
+      "discount_pct": 10,
+      "line_total": 4573.8
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 648.1,
+      "discount_pct": 10,
+      "line_total": 583.29
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 142.01,
+      "discount_pct": 0,
+      "line_total": 142.01
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 246.88,
+      "discount_pct": 20,
+      "line_total": 197.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 295.56,
+      "discount_pct": 0,
+      "line_total": 295.56
+    }
+  ],
+  "subtotal": 2674872.44,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 160492.35,
+  "shipping_amount": 87.29,
+  "total_due": 2835452.08,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

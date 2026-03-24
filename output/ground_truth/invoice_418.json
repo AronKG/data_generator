@@ -1,0 +1,106 @@
+{
+  "id": 418,
+  "filename": "invoice_418.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "2024-41118",
+  "issue_date": "24-Sep-2022",
+  "due_date": "08 October 2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 47.14,
+      "discount_pct": 0,
+      "line_total": 235.7
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1265.87,
+      "discount_pct": 0,
+      "line_total": 3797.61
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1618.31,
+      "discount_pct": 5,
+      "line_total": 76869.72
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1030.5,
+      "discount_pct": 0,
+      "line_total": 5152.5
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8773.85,
+      "discount_pct": 10,
+      "line_total": 394823.25
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 17140.9,
+      "discount_pct": 0,
+      "line_total": 51422.7
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 154.3,
+      "discount_pct": 0,
+      "line_total": 771.5
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 572.5,
+      "discount_pct": 0,
+      "line_total": 14312.5
+    }
+  ],
+  "subtotal": 547385.48,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 45159.3,
+  "shipping_amount": 0.0,
+  "total_due": 592544.78,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,198 @@
+{
+  "id": 183,
+  "filename": "invoice_183.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
+  "invoice_number": "016758",
+  "issue_date": "09/24/2023",
+  "due_date": "11/08/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 19,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2339.85,
+      "discount_pct": 10,
+      "line_total": 2105.86
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 132.94,
+      "discount_pct": 0,
+      "line_total": 664.7
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3658.17,
+      "discount_pct": 0,
+      "line_total": 182908.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 789.11,
+      "discount_pct": 15,
+      "line_total": 670.74
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 525.39,
+      "discount_pct": 20,
+      "line_total": 840.62
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1951.07,
+      "discount_pct": 15,
+      "line_total": 4975.23
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 113.43,
+      "discount_pct": 0,
+      "line_total": 226.86
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1457.11,
+      "discount_pct": 0,
+      "line_total": 1457.11
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 223.29,
+      "discount_pct": 10,
+      "line_total": 602.88
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1115.05,
+      "discount_pct": 0,
+      "line_total": 11150.5
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4240.9,
+      "discount_pct": 5,
+      "line_total": 201442.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 332.5,
+      "discount_pct": 0,
+      "line_total": 332.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3495.02,
+      "discount_pct": 0,
+      "line_total": 10485.06
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1533.09,
+      "discount_pct": 20,
+      "line_total": 2452.94
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 2971.03,
+      "discount_pct": 10,
+      "line_total": 133696.35
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 485.16,
+      "discount_pct": 5,
+      "line_total": 2304.51
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1252.77,
+      "discount_pct": 10,
+      "line_total": 2254.99
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 31213.41,
+      "discount_pct": 0,
+      "line_total": 93640.23
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 545.62,
+      "discount_pct": 15,
+      "line_total": 4637.77
+    }
+  ],
+  "subtotal": 656850.1,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 151075.52,
+  "shipping_amount": 0.0,
+  "total_due": 807925.62,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

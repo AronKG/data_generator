@@ -1,0 +1,119 @@
+{
+  "id": 288,
+  "filename": "invoice_288.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "2024-47529",
+  "issue_date": "May 31 2022",
+  "due_date": "21/06/2022",
+  "payment_terms": "Net 45",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1904.96,
+      "discount_pct": 5,
+      "line_total": 1809.71
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1565.85,
+      "discount_pct": 20,
+      "line_total": 2505.36
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 275.05,
+      "discount_pct": 20,
+      "line_total": 1100.2
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 28849.63,
+      "discount_pct": 5,
+      "line_total": 27407.15
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8909.16,
+      "discount_pct": 0,
+      "line_total": 8909.16
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 33.19,
+      "discount_pct": 0,
+      "line_total": 66.38
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1846.82,
+      "discount_pct": 0,
+      "line_total": 9234.1
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2714.16,
+      "discount_pct": 0,
+      "line_total": 135708.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1293.83,
+      "discount_pct": 5,
+      "line_total": 3687.42
+    }
+  ],
+  "subtotal": 190427.48,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 15710.27,
+  "shipping_amount": 262.83,
+  "total_due": 206400.58,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

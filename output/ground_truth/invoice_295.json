@@ -1,0 +1,79 @@
+{
+  "id": 295,
+  "filename": "invoice_295.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "2025-42955",
+  "issue_date": "21/06/2024",
+  "due_date": "19 September 2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-17712",
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11798.1,
+      "discount_pct": 10,
+      "line_total": 106182.9
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 32.04,
+      "discount_pct": 0,
+      "line_total": 32.04
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2095.89,
+      "discount_pct": 10,
+      "line_total": 5658.9
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6195.6,
+      "discount_pct": 5,
+      "line_total": 58858.2
+    }
+  ],
+  "subtotal": 170732.04,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 39268.37,
+  "shipping_amount": 0.0,
+  "total_due": 210000.41,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

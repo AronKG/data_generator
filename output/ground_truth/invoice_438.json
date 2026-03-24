@@ -1,0 +1,70 @@
+{
+  "id": 438,
+  "filename": "invoice_438.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 14,
+  "invoice_number": "TAX-INV-2024-12109",
+  "issue_date": "11/02/2022",
+  "due_date": "17/11/2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11859.01,
+      "discount_pct": 0,
+      "line_total": 11859.01
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 674.09,
+      "discount_pct": 0,
+      "line_total": 33704.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2875.96,
+      "discount_pct": 0,
+      "line_total": 5751.92
+    }
+  ],
+  "subtotal": 51315.43,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 10263.09,
+  "shipping_amount": 0.0,
+  "total_due": 61578.52,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": 113,
+  "filename": "invoice_113.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "2024-7730",
+  "issue_date": "01/21/2023",
+  "due_date": "January 28 2023",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-41749",
+  "seller_name": "Helix Beratung GmbH",
+  "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
+  "seller_email": "rechnung@helix-beratung.de",
+  "seller_phone": "+49 89 555 0199",
+  "seller_tax_id": "USt-IdNr: DE345678901",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10746.02,
+      "discount_pct": 20,
+      "line_total": 8596.82
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 450.07,
+      "discount_pct": 20,
+      "line_total": 3600.56
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 88.43,
+      "discount_pct": 20,
+      "line_total": 70.74
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 433.31,
+      "discount_pct": 15,
+      "line_total": 368.31
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2715.47,
+      "discount_pct": 20,
+      "line_total": 6517.13
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 685.12,
+      "discount_pct": 15,
+      "line_total": 14558.8
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1828.29,
+      "discount_pct": 5,
+      "line_total": 43421.89
+    }
+  ],
+  "subtotal": 77134.25,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 10027.45,
+  "shipping_amount": 286.16,
+  "total_due": 87447.86,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

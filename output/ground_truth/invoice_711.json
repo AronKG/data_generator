@@ -1,0 +1,86 @@
+{
+  "id": 711,
+  "filename": "invoice_711.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
+  "invoice_number": "RCPT99178",
+  "issue_date": "June 28 2022",
+  "due_date": "27 August 2022",
+  "payment_terms": "End of Month",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 481.34,
+      "discount_pct": 0,
+      "line_total": 12033.5
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 12738.17,
+      "discount_pct": 0,
+      "line_total": 63690.85
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 82.71,
+      "discount_pct": 5,
+      "line_total": 78.57
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4747.43,
+      "discount_pct": 0,
+      "line_total": 9494.86
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 149.41,
+      "discount_pct": 15,
+      "line_total": 127.0
+    }
+  ],
+  "subtotal": 85424.78,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 8542.48,
+  "shipping_amount": 0.0,
+  "total_due": 93967.26,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

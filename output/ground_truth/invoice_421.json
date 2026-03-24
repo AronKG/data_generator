@@ -1,0 +1,98 @@
+{
+  "id": 421,
+  "filename": "invoice_421.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "SI-2022-52790",
+  "issue_date": "14/10/2023",
+  "due_date": "28 November 2023",
+  "payment_terms": "Upon completion",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1790.52,
+      "discount_pct": 5,
+      "line_total": 1700.99
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 89.16,
+      "discount_pct": 0,
+      "line_total": 267.48
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 549.34,
+      "discount_pct": 15,
+      "line_total": 466.94
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 172.51,
+      "discount_pct": 20,
+      "line_total": 6900.4
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 492.42,
+      "discount_pct": 5,
+      "line_total": 2338.99
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 840.2,
+      "discount_pct": 0,
+      "line_total": 4201.0
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1395.47,
+      "discount_pct": 0,
+      "line_total": 34886.75
+    }
+  ],
+  "subtotal": 50762.55,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 2538.13,
+  "shipping_amount": 0.0,
+  "total_due": 53300.68,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,87 @@
+{
+  "id": 814,
+  "filename": "invoice_814.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "REF50994",
+  "issue_date": "15-Dec-2024",
+  "due_date": "30-Dec-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-89367",
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 793.32,
+      "discount_pct": 20,
+      "line_total": 634.66
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1607.91,
+      "discount_pct": 20,
+      "line_total": 1286.33
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1717.05,
+      "discount_pct": 15,
+      "line_total": 1459.49
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 1494.14,
+      "discount_pct": 0,
+      "line_total": 74707.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 247.85,
+      "discount_pct": 20,
+      "line_total": 396.56
+    }
+  ],
+  "subtotal": 78484.04,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 78484.04,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

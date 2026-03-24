@@ -1,0 +1,222 @@
+{
+  "id": 530,
+  "filename": "invoice_530.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 3,
+  "invoice_number": "002133",
+  "issue_date": "03-Sep-2022",
+  "due_date": "10/18/2022",
+  "payment_terms": "Net 90",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-93554",
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 22,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 218.79,
+      "discount_pct": 0,
+      "line_total": 10939.5
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 94.53,
+      "discount_pct": 5,
+      "line_total": 89.8
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5826.74,
+      "discount_pct": 0,
+      "line_total": 145668.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 375.73,
+      "discount_pct": 0,
+      "line_total": 375.73
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1267.55,
+      "discount_pct": 0,
+      "line_total": 31688.75
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 7083.58,
+      "discount_pct": 5,
+      "line_total": 33647.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1241.15,
+      "discount_pct": 0,
+      "line_total": 62057.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1466.32,
+      "discount_pct": 10,
+      "line_total": 32992.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 799.57,
+      "discount_pct": 0,
+      "line_total": 39978.5
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4613.06,
+      "discount_pct": 20,
+      "line_total": 92261.2
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2385.35,
+      "discount_pct": 10,
+      "line_total": 107340.75
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2395.56,
+      "discount_pct": 5,
+      "line_total": 6827.35
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 107.44,
+      "discount_pct": 10,
+      "line_total": 96.7
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 888.7,
+      "discount_pct": 0,
+      "line_total": 888.7
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 347.34,
+      "discount_pct": 0,
+      "line_total": 1042.02
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 13065.37,
+      "discount_pct": 10,
+      "line_total": 35276.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 223.09,
+      "discount_pct": 10,
+      "line_total": 10039.05
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 799.66,
+      "discount_pct": 0,
+      "line_total": 799.66
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 129.11,
+      "discount_pct": 0,
+      "line_total": 387.33
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 218.17,
+      "discount_pct": 20,
+      "line_total": 1745.36
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2017.29,
+      "discount_pct": 5,
+      "line_total": 1916.43
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1981.41,
+      "discount_pct": 0,
+      "line_total": 3962.82
+    }
+  ],
+  "subtotal": 620021.35,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 130204.48,
+  "shipping_amount": 0.0,
+  "total_due": 750225.83,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

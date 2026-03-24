@@ -1,0 +1,138 @@
+{
+  "id": 743,
+  "filename": "invoice_743.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "PROFORMA-2022-82853",
+  "issue_date": "March 16 2023",
+  "due_date": "15-Apr-2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 7296.35,
+      "discount_pct": 5,
+      "line_total": 173288.31
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 128.13,
+      "discount_pct": 0,
+      "line_total": 6406.5
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 791.72,
+      "discount_pct": 0,
+      "line_total": 39586.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5702.9,
+      "discount_pct": 0,
+      "line_total": 57029.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3113.15,
+      "discount_pct": 0,
+      "line_total": 3113.15
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 682.69,
+      "discount_pct": 10,
+      "line_total": 614.42
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 59.24,
+      "discount_pct": 0,
+      "line_total": 592.4
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 151.11,
+      "discount_pct": 15,
+      "line_total": 642.22
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 6033.31,
+      "discount_pct": 15,
+      "line_total": 25641.57
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 517.66,
+      "discount_pct": 20,
+      "line_total": 828.26
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 677.25,
+      "discount_pct": 20,
+      "line_total": 13545.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 217.64,
+      "discount_pct": 0,
+      "line_total": 217.64
+    }
+  ],
+  "subtotal": 321504.47,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 64300.89,
+  "shipping_amount": 0.0,
+  "total_due": 385805.36,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

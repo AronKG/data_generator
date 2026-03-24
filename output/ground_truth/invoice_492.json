@@ -1,0 +1,70 @@
+{
+  "id": 492,
+  "filename": "invoice_492.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
+  "invoice_number": "2022-2599",
+  "issue_date": "14 February 2024",
+  "due_date": "May 14 2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-62107",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6743.33,
+      "discount_pct": 0,
+      "line_total": 168583.25
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 868.34,
+      "discount_pct": 0,
+      "line_total": 8683.4
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1082.22,
+      "discount_pct": 0,
+      "line_total": 10822.2
+    }
+  ],
+  "subtotal": 188088.85,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 18808.89,
+  "shipping_amount": 0.0,
+  "total_due": 206897.74,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

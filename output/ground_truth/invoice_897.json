@@ -1,0 +1,78 @@
+{
+  "id": 897,
+  "filename": "invoice_897.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "INVOICE-42539",
+  "issue_date": "January 04 2024",
+  "due_date": "11/01/2024",
+  "payment_terms": "Upon completion",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-68950",
+  "seller_name": "Cactus and Clay Designs",
+  "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
+  "seller_email": "accounts@cactusclay.com",
+  "seller_phone": "+1 602-555-0199",
+  "seller_tax_id": "EIN: 11-9876543",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 133.68,
+      "discount_pct": 15,
+      "line_total": 113.63
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1086.8,
+      "discount_pct": 0,
+      "line_total": 10868.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 536.91,
+      "discount_pct": 5,
+      "line_total": 12751.61
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 75.65,
+      "discount_pct": 10,
+      "line_total": 136.17
+    }
+  ],
+  "subtotal": 23869.41,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 3103.02,
+  "shipping_amount": 0.0,
+  "total_due": 26972.43,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

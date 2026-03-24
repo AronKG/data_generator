@@ -1,0 +1,118 @@
+{
+  "id": 978,
+  "filename": "invoice_978.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "PROFORMA-61053",
+  "issue_date": "04/08/2022",
+  "due_date": "2022-08-18",
+  "payment_terms": "Due on Receipt",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-79177",
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2815.8,
+      "discount_pct": 15,
+      "line_total": 2393.43
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 113.92,
+      "discount_pct": 15,
+      "line_total": 96.83
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 844.65,
+      "discount_pct": 0,
+      "line_total": 4223.25
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 5531.88,
+      "discount_pct": 0,
+      "line_total": 276594.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 17092.72,
+      "discount_pct": 10,
+      "line_total": 30766.9
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 146.21,
+      "discount_pct": 0,
+      "line_total": 3655.25
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 11449.74,
+      "discount_pct": 0,
+      "line_total": 572487.0
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2149.94,
+      "discount_pct": 20,
+      "line_total": 1719.95
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 160.53,
+      "discount_pct": 10,
+      "line_total": 144.48
+    }
+  ],
+  "subtotal": 892081.09,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 178416.22,
+  "shipping_amount": 154.08,
+  "total_due": 1070651.39,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

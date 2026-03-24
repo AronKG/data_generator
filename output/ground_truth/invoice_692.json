@@ -1,0 +1,86 @@
+{
+  "id": 692,
+  "filename": "invoice_692.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "RCPT-2022-9453",
+  "issue_date": "April 16 2023",
+  "due_date": "May 16 2023",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-78279",
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 7070.91,
+      "discount_pct": 10,
+      "line_total": 12727.64
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 950.27,
+      "discount_pct": 5,
+      "line_total": 902.76
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3469.52,
+      "discount_pct": 5,
+      "line_total": 82401.1
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1239.58,
+      "discount_pct": 0,
+      "line_total": 6197.9
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6885.27,
+      "discount_pct": 5,
+      "line_total": 327050.33
+    }
+  ],
+  "subtotal": 429279.73,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 42927.97,
+  "shipping_amount": 0.0,
+  "total_due": 472207.7,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,87 @@
+{
+  "id": 429,
+  "filename": "invoice_429.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
+  "invoice_number": "2022-18526",
+  "issue_date": "October 15 2024",
+  "due_date": "January 13 2025",
+  "payment_terms": "Immediate",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-99040",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8634.6,
+      "discount_pct": 10,
+      "line_total": 7771.14
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1948.16,
+      "discount_pct": 10,
+      "line_total": 87667.2
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1135.22,
+      "discount_pct": 0,
+      "line_total": 2270.44
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 14991.49,
+      "discount_pct": 10,
+      "line_total": 674617.05
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 23440.32,
+      "discount_pct": 0,
+      "line_total": 23440.32
+    }
+  ],
+  "subtotal": 795766.15,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 79576.62,
+  "shipping_amount": 0.0,
+  "total_due": 875342.77,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

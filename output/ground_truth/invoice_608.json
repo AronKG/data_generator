@@ -1,0 +1,114 @@
+{
+  "id": 608,
+  "filename": "invoice_608.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "REF-94747",
+  "issue_date": "2024-09-30",
+  "due_date": "10/07/2024",
+  "payment_terms": "Net 90",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-26186",
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1917.5,
+      "discount_pct": 20,
+      "line_total": 3068.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1184.63,
+      "discount_pct": 0,
+      "line_total": 1184.63
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1533.38,
+      "discount_pct": 0,
+      "line_total": 3066.76
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 15702.23,
+      "discount_pct": 0,
+      "line_total": 785111.5
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11614.81,
+      "discount_pct": 0,
+      "line_total": 116148.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2870.17,
+      "discount_pct": 0,
+      "line_total": 143508.5
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 122.58,
+      "discount_pct": 5,
+      "line_total": 1164.51
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1098.37,
+      "discount_pct": 0,
+      "line_total": 27459.25
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 100.23,
+      "discount_pct": 0,
+      "line_total": 501.15
+    }
+  ],
+  "subtotal": 1081212.4,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 140557.61,
+  "shipping_amount": 0.0,
+  "total_due": 1221770.01,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

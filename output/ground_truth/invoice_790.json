@@ -1,0 +1,95 @@
+{
+  "id": 790,
+  "filename": "invoice_790.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "017451",
+  "issue_date": "14 October 2024",
+  "due_date": "2024-10-21",
+  "payment_terms": "Upon completion",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 295.35,
+      "discount_pct": 10,
+      "line_total": 13290.75
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 603.01,
+      "discount_pct": 5,
+      "line_total": 5728.6
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 57.49,
+      "discount_pct": 0,
+      "line_total": 287.45
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 137.89,
+      "discount_pct": 0,
+      "line_total": 1378.9
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5295.13,
+      "discount_pct": 5,
+      "line_total": 5030.37
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1995.03,
+      "discount_pct": 5,
+      "line_total": 1895.28
+    }
+  ],
+  "subtotal": 27611.35,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 5522.27,
+  "shipping_amount": 0.0,
+  "total_due": 33133.62,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,146 @@
+{
+  "id": 918,
+  "filename": "invoice_918.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "SI/2023/59922",
+  "issue_date": "08/11/2022",
+  "due_date": "2022-12-23",
+  "payment_terms": "Net 45",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-81511",
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 492.82,
+      "discount_pct": 20,
+      "line_total": 1182.77
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 8704.71,
+      "discount_pct": 15,
+      "line_total": 73990.03
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 126.64,
+      "discount_pct": 0,
+      "line_total": 253.28
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3113.6,
+      "discount_pct": 0,
+      "line_total": 6227.2
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 6015.48,
+      "discount_pct": 0,
+      "line_total": 12030.96
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3609.1,
+      "discount_pct": 0,
+      "line_total": 10827.3
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8656.73,
+      "discount_pct": 15,
+      "line_total": 7358.22
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 606.59,
+      "discount_pct": 5,
+      "line_total": 576.26
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 768.01,
+      "discount_pct": 10,
+      "line_total": 1382.42
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4909.21,
+      "discount_pct": 0,
+      "line_total": 122730.25
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 3379.84,
+      "discount_pct": 5,
+      "line_total": 16054.24
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 963.84,
+      "discount_pct": 10,
+      "line_total": 1734.91
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 128.18,
+      "discount_pct": 0,
+      "line_total": 384.54
+    }
+  ],
+  "subtotal": 254732.38,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 21015.42,
+  "shipping_amount": 0.0,
+  "total_due": 275747.8,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": 900,
+  "filename": "invoice_900.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "INVOICE-87420",
+  "issue_date": "03/07/2023",
+  "due_date": "March 21 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 993.0,
+      "discount_pct": 15,
+      "line_total": 8440.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 524.45,
+      "discount_pct": 20,
+      "line_total": 2097.8
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 32.77,
+      "discount_pct": 0,
+      "line_total": 32.77
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1699.11,
+      "discount_pct": 0,
+      "line_total": 1699.11
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8116.36,
+      "discount_pct": 0,
+      "line_total": 8116.36
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1850.3,
+      "discount_pct": 0,
+      "line_total": 18503.0
+    }
+  ],
+  "subtotal": 38889.54,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 8944.59,
+  "shipping_amount": 0.0,
+  "total_due": 47834.13,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": 942,
+  "filename": "invoice_942.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
+  "invoice_number": "BILL/2025/38447",
+  "issue_date": "01/24/2022",
+  "due_date": "23 February 2022",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1809.95,
+      "discount_pct": 20,
+      "line_total": 72398.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 891.61,
+      "discount_pct": 10,
+      "line_total": 802.45
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 124.49,
+      "discount_pct": 5,
+      "line_total": 354.8
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 99.74,
+      "discount_pct": 0,
+      "line_total": 99.74
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4181.09,
+      "discount_pct": 5,
+      "line_total": 3972.04
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1106.25,
+      "discount_pct": 20,
+      "line_total": 22125.0
+    }
+  ],
+  "subtotal": 99752.03,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 6982.64,
+  "shipping_amount": 0.0,
+  "total_due": 106734.67,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

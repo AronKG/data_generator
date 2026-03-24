@@ -1,0 +1,198 @@
+{
+  "id": 927,
+  "filename": "invoice_927.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "2024-69066",
+  "issue_date": "June 04 2022",
+  "due_date": "2022-07-19",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-29213",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 19,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 579.1,
+      "discount_pct": 0,
+      "line_total": 14477.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1707.65,
+      "discount_pct": 0,
+      "line_total": 1707.65
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 75.31,
+      "discount_pct": 0,
+      "line_total": 376.55
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 237.08,
+      "discount_pct": 15,
+      "line_total": 201.52
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1702.56,
+      "discount_pct": 0,
+      "line_total": 3405.12
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1409.74,
+      "discount_pct": 20,
+      "line_total": 5638.96
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9450.41,
+      "discount_pct": 10,
+      "line_total": 8505.37
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2631.99,
+      "discount_pct": 20,
+      "line_total": 52639.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 2098.51,
+      "discount_pct": 10,
+      "line_total": 18886.59
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 240.98,
+      "discount_pct": 15,
+      "line_total": 204.83
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1265.59,
+      "discount_pct": 20,
+      "line_total": 1012.47
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 2618.84,
+      "discount_pct": 5,
+      "line_total": 62197.45
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 81.41,
+      "discount_pct": 10,
+      "line_total": 219.81
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 626.24,
+      "discount_pct": 15,
+      "line_total": 13307.6
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 308.41,
+      "discount_pct": 0,
+      "line_total": 925.23
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 346.08,
+      "discount_pct": 0,
+      "line_total": 1730.4
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 409.09,
+      "discount_pct": 20,
+      "line_total": 1636.36
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 735.98,
+      "discount_pct": 0,
+      "line_total": 1471.96
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1432.03,
+      "discount_pct": 20,
+      "line_total": 1145.62
+    }
+  ],
+  "subtotal": 189690.79,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 77.82,
+  "total_due": 189768.61,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": false
+}

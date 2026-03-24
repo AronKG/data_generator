@@ -1,0 +1,102 @@
+{
+  "id": 819,
+  "filename": "invoice_819.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 3,
+  "invoice_number": "SI-38573",
+  "issue_date": "02/12/2024",
+  "due_date": "02-Mar-2025",
+  "payment_terms": "Immediate",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3091.42,
+      "discount_pct": 10,
+      "line_total": 27822.78
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6780.0,
+      "discount_pct": 10,
+      "line_total": 6102.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4499.75,
+      "discount_pct": 20,
+      "line_total": 3599.8
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 38432.6,
+      "discount_pct": 10,
+      "line_total": 864733.5
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 18171.02,
+      "discount_pct": 0,
+      "line_total": 90855.1
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1481.32,
+      "discount_pct": 10,
+      "line_total": 13331.88
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 151.42,
+      "discount_pct": 10,
+      "line_total": 681.39
+    }
+  ],
+  "subtotal": 1007126.45,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 211496.55,
+  "shipping_amount": 0.0,
+  "total_due": 1218623.0,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": 795,
+  "filename": "invoice_795.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "REF74129",
+  "issue_date": "January 12 2024",
+  "due_date": "01/19/2024",
+  "payment_terms": "Upon completion",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Cactus and Clay Designs",
+  "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
+  "seller_email": "accounts@cactusclay.com",
+  "seller_phone": "+1 602-555-0199",
+  "seller_tax_id": "EIN: 11-9876543",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 76.61,
+      "discount_pct": 0,
+      "line_total": 383.05
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2083.53,
+      "discount_pct": 0,
+      "line_total": 20835.3
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1520.61,
+      "discount_pct": 0,
+      "line_total": 1520.61
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1386.65,
+      "discount_pct": 10,
+      "line_total": 1247.99
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1240.27,
+      "discount_pct": 0,
+      "line_total": 2480.54
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 866.03,
+      "discount_pct": 5,
+      "line_total": 1645.46
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1899.0,
+      "discount_pct": 0,
+      "line_total": 3798.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 987.3,
+      "discount_pct": 5,
+      "line_total": 937.93
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 179.89,
+      "discount_pct": 0,
+      "line_total": 359.78
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 616.18,
+      "discount_pct": 0,
+      "line_total": 6161.8
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5869.12,
+      "discount_pct": 0,
+      "line_total": 58691.2
+    }
+  ],
+  "subtotal": 98061.66,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 19612.33,
+  "shipping_amount": 0.0,
+  "total_due": 117673.99,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

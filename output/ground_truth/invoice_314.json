@@ -1,0 +1,230 @@
+{
+  "id": 314,
+  "filename": "invoice_314.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "099550",
+  "issue_date": "2022-11-05",
+  "due_date": "04 January 2023",
+  "payment_terms": "Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-32843",
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 23,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11484.31,
+      "discount_pct": 0,
+      "line_total": 11484.31
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 340.03,
+      "discount_pct": 10,
+      "line_total": 306.03
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 221.36,
+      "discount_pct": 0,
+      "line_total": 221.36
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 852.3,
+      "discount_pct": 0,
+      "line_total": 8523.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 147.26,
+      "discount_pct": 0,
+      "line_total": 147.26
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 4396.36,
+      "discount_pct": 0,
+      "line_total": 109909.0
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 766.39,
+      "discount_pct": 0,
+      "line_total": 766.39
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 19189.61,
+      "discount_pct": 0,
+      "line_total": 959480.5
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1563.4,
+      "discount_pct": 5,
+      "line_total": 37130.75
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 147.56,
+      "discount_pct": 20,
+      "line_total": 2951.2
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 129.93,
+      "discount_pct": 0,
+      "line_total": 129.93
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4566.95,
+      "discount_pct": 0,
+      "line_total": 228347.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1142.86,
+      "discount_pct": 5,
+      "line_total": 3257.15
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1497.37,
+      "discount_pct": 10,
+      "line_total": 1347.63
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1642.24,
+      "discount_pct": 5,
+      "line_total": 1560.13
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 929.26,
+      "discount_pct": 20,
+      "line_total": 37170.4
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3615.13,
+      "discount_pct": 0,
+      "line_total": 36151.3
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 26812.1,
+      "discount_pct": 0,
+      "line_total": 268121.0
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1673.42,
+      "discount_pct": 10,
+      "line_total": 4518.23
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 266.16,
+      "discount_pct": 15,
+      "line_total": 678.71
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 43.56,
+      "discount_pct": 0,
+      "line_total": 435.6
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 35.33,
+      "discount_pct": 0,
+      "line_total": 35.33
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 701.13,
+      "discount_pct": 20,
+      "line_total": 560.9
+    }
+  ],
+  "subtotal": 1713233.61,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 85661.68,
+  "shipping_amount": 150.94,
+  "total_due": 1799046.23,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

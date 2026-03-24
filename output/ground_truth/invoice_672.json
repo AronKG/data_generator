@@ -1,0 +1,102 @@
+{
+  "id": 672,
+  "filename": "invoice_672.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "RCPT28768",
+  "issue_date": "18/02/2024",
+  "due_date": "03 March 2024",
+  "payment_terms": "Net 30",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1846.04,
+      "discount_pct": 0,
+      "line_total": 1846.04
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 96.75,
+      "discount_pct": 0,
+      "line_total": 96.75
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 733.57,
+      "discount_pct": 20,
+      "line_total": 1173.71
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 713.38,
+      "discount_pct": 5,
+      "line_total": 677.71
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5106.23,
+      "discount_pct": 20,
+      "line_total": 102124.6
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 689.58,
+      "discount_pct": 0,
+      "line_total": 6895.8
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 702.59,
+      "discount_pct": 10,
+      "line_total": 6323.31
+    }
+  ],
+  "subtotal": 119137.92,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 8339.65,
+  "shipping_amount": 0.0,
+  "total_due": 127477.57,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

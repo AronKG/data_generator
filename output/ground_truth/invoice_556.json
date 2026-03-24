@@ -1,0 +1,94 @@
+{
+  "id": 556,
+  "filename": "invoice_556.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
+  "invoice_number": "RCPT23652",
+  "issue_date": "06/13/2023",
+  "due_date": "August 12 2023",
+  "payment_terms": "Net 45",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-51391",
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1402.23,
+      "discount_pct": 0,
+      "line_total": 1402.23
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 679.25,
+      "discount_pct": 20,
+      "line_total": 2717.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1460.89,
+      "discount_pct": 15,
+      "line_total": 12417.57
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1611.6,
+      "discount_pct": 15,
+      "line_total": 68493.0
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 7764.36,
+      "discount_pct": 0,
+      "line_total": 15528.72
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1448.54,
+      "discount_pct": 0,
+      "line_total": 72427.0
+    }
+  ],
+  "subtotal": 172985.52,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 39786.67,
+  "shipping_amount": 0.0,
+  "total_due": 212772.19,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

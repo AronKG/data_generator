@@ -1,0 +1,71 @@
+{
+  "id": 779,
+  "filename": "invoice_779.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "TAX-INV-25273",
+  "issue_date": "09 July 2022",
+  "due_date": "08-Aug-2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 644.98,
+      "discount_pct": 0,
+      "line_total": 1934.94
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 138.56,
+      "discount_pct": 0,
+      "line_total": 6928.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1130.8,
+      "discount_pct": 0,
+      "line_total": 1130.8
+    }
+  ],
+  "subtotal": 9993.74,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 599.62,
+  "shipping_amount": 0.0,
+  "total_due": 10593.36,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,142 @@
+{
+  "id": 933,
+  "filename": "invoice_933.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "TAX-INV96112",
+  "issue_date": "September 18 2022",
+  "due_date": "17 December 2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 31.93,
+      "discount_pct": 5,
+      "line_total": 303.33
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9894.95,
+      "discount_pct": 5,
+      "line_total": 9400.2
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2656.01,
+      "discount_pct": 10,
+      "line_total": 2390.41
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2392.53,
+      "discount_pct": 20,
+      "line_total": 9570.12
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 102.26,
+      "discount_pct": 0,
+      "line_total": 102.26
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1113.03,
+      "discount_pct": 0,
+      "line_total": 3339.09
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1084.81,
+      "discount_pct": 5,
+      "line_total": 10305.69
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 836.01,
+      "discount_pct": 10,
+      "line_total": 18810.23
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 937.46,
+      "discount_pct": 0,
+      "line_total": 46873.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 16648.76,
+      "discount_pct": 5,
+      "line_total": 790816.1
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1680.42,
+      "discount_pct": 10,
+      "line_total": 15123.78
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2422.23,
+      "discount_pct": 20,
+      "line_total": 1937.78
+    }
+  ],
+  "subtotal": 908971.99,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 172704.68,
+  "shipping_amount": 0.0,
+  "total_due": 1081676.67,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

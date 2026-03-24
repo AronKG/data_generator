@@ -1,0 +1,134 @@
+{
+  "id": 549,
+  "filename": "invoice_549.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "PROFORMA/2023/18152",
+  "issue_date": "May 23 2024",
+  "due_date": "07-Jul-2024",
+  "payment_terms": "Net 90",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-19744",
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1430.05,
+      "discount_pct": 0,
+      "line_total": 1430.05
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 12823.3,
+      "discount_pct": 20,
+      "line_total": 10258.64
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 837.07,
+      "discount_pct": 10,
+      "line_total": 3766.82
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 2033.52,
+      "discount_pct": 0,
+      "line_total": 4067.04
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4705.39,
+      "discount_pct": 0,
+      "line_total": 4705.39
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1878.0,
+      "discount_pct": 15,
+      "line_total": 39907.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 499.48,
+      "discount_pct": 20,
+      "line_total": 399.58
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 304.98,
+      "discount_pct": 5,
+      "line_total": 1448.65
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 896.82,
+      "discount_pct": 0,
+      "line_total": 4484.1
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7191.2,
+      "discount_pct": 0,
+      "line_total": 7191.2
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 668.61,
+      "discount_pct": 0,
+      "line_total": 668.61
+    }
+  ],
+  "subtotal": 78327.58,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 3916.38,
+  "shipping_amount": 0.0,
+  "total_due": 82243.96,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

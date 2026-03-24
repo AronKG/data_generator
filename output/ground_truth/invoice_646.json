@@ -1,0 +1,119 @@
+{
+  "id": 646,
+  "filename": "invoice_646.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "BILL52096",
+  "issue_date": "July 18 2024",
+  "due_date": "01/08/2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 246.87,
+      "discount_pct": 20,
+      "line_total": 592.49
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 150.77,
+      "discount_pct": 0,
+      "line_total": 150.77
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2364.95,
+      "discount_pct": 0,
+      "line_total": 59123.75
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 731.26,
+      "discount_pct": 20,
+      "line_total": 585.01
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 7030.39,
+      "discount_pct": 20,
+      "line_total": 56243.12
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 8369.98,
+      "discount_pct": 0,
+      "line_total": 16739.96
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1654.65,
+      "discount_pct": 0,
+      "line_total": 1654.65
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1450.24,
+      "discount_pct": 15,
+      "line_total": 1232.7
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 187.06,
+      "discount_pct": 10,
+      "line_total": 168.35
+    }
+  ],
+  "subtotal": 136490.8,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 11260.49,
+  "shipping_amount": 101.63,
+  "total_due": 147852.92,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

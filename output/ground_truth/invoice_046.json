@@ -1,0 +1,210 @@
+{
+  "id": 46,
+  "filename": "invoice_046.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
+  "invoice_number": "BILL-51840",
+  "issue_date": "2022-08-03",
+  "due_date": "02-Sep-2022",
+  "payment_terms": "End of Month",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 945.74,
+      "discount_pct": 0,
+      "line_total": 1891.48
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14055.2,
+      "discount_pct": 20,
+      "line_total": 281104.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4996.58,
+      "discount_pct": 0,
+      "line_total": 249829.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 489.42,
+      "discount_pct": 5,
+      "line_total": 11623.73
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 11230.64,
+      "discount_pct": 0,
+      "line_total": 33691.92
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2177.0,
+      "discount_pct": 10,
+      "line_total": 5877.9
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1408.28,
+      "discount_pct": 15,
+      "line_total": 1197.04
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 359.55,
+      "discount_pct": 0,
+      "line_total": 8988.75
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4693.93,
+      "discount_pct": 5,
+      "line_total": 4459.23
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5836.69,
+      "discount_pct": 0,
+      "line_total": 145917.25
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 6081.24,
+      "discount_pct": 20,
+      "line_total": 24324.96
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 159.45,
+      "discount_pct": 0,
+      "line_total": 7972.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3104.8,
+      "discount_pct": 20,
+      "line_total": 4967.68
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1475.8,
+      "discount_pct": 15,
+      "line_total": 3763.29
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1360.18,
+      "discount_pct": 20,
+      "line_total": 3264.43
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 3889.44,
+      "discount_pct": 0,
+      "line_total": 3889.44
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2455.12,
+      "discount_pct": 10,
+      "line_total": 55240.2
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 330.49,
+      "discount_pct": 15,
+      "line_total": 842.75
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 777.71,
+      "discount_pct": 0,
+      "line_total": 2333.13
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 320.19,
+      "discount_pct": 20,
+      "line_total": 512.3
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 142.37,
+      "discount_pct": 0,
+      "line_total": 1423.7
+    }
+  ],
+  "subtotal": 853114.68,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 170622.94,
+  "shipping_amount": 0.0,
+  "total_due": 1023737.62,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

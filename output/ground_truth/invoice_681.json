@@ -1,0 +1,102 @@
+{
+  "id": 681,
+  "filename": "invoice_681.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "083540",
+  "issue_date": "07 May 2022",
+  "due_date": "14 May 2022",
+  "payment_terms": "End of Month",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 139.87,
+      "discount_pct": 0,
+      "line_total": 1398.7
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1066.81,
+      "discount_pct": 20,
+      "line_total": 853.45
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 16.6,
+      "discount_pct": 0,
+      "line_total": 83.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 2594.56,
+      "discount_pct": 20,
+      "line_total": 4151.3
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 862.81,
+      "discount_pct": 20,
+      "line_total": 6902.48
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2624.43,
+      "discount_pct": 0,
+      "line_total": 7873.29
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1530.24,
+      "discount_pct": 0,
+      "line_total": 38256.0
+    }
+  ],
+  "subtotal": 59518.22,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 11903.64,
+  "shipping_amount": 0.0,
+  "total_due": 71421.86,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

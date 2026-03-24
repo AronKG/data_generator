@@ -1,0 +1,71 @@
+{
+  "id": 846,
+  "filename": "invoice_846.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "PROFORMA95084",
+  "issue_date": "29/01/2022",
+  "due_date": "February 28 2022",
+  "payment_terms": "Net 21",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-89019",
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 54.99,
+      "discount_pct": 0,
+      "line_total": 2749.5
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 244.75,
+      "discount_pct": 0,
+      "line_total": 6118.75
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1364.26,
+      "discount_pct": 0,
+      "line_total": 4092.78
+    }
+  ],
+  "subtotal": 12961.03,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 2592.21,
+  "shipping_amount": 0.0,
+  "total_due": 15553.24,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,126 @@
+{
+  "id": 679,
+  "filename": "invoice_679.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "094840",
+  "issue_date": "09-Jun-2023",
+  "due_date": "09/07/2023",
+  "payment_terms": "Net 60",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1820.82,
+      "discount_pct": 0,
+      "line_total": 1820.82
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2825.83,
+      "discount_pct": 0,
+      "line_total": 28258.3
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 45.24,
+      "discount_pct": 5,
+      "line_total": 1074.45
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 12730.91,
+      "discount_pct": 0,
+      "line_total": 636545.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 125.09,
+      "discount_pct": 0,
+      "line_total": 125.09
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 491.33,
+      "discount_pct": 10,
+      "line_total": 884.39
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 4784.99,
+      "discount_pct": 0,
+      "line_total": 47849.9
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 164.06,
+      "discount_pct": 20,
+      "line_total": 3281.2
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 207.6,
+      "discount_pct": 5,
+      "line_total": 1972.2
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 617.29,
+      "discount_pct": 10,
+      "line_total": 13889.02
+    }
+  ],
+  "subtotal": 735700.87,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 18.78,
+  "total_due": 735719.65,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": false
+}

@@ -1,0 +1,130 @@
+{
+  "id": 742,
+  "filename": "invoice_742.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "RCPT/2024/57789",
+  "issue_date": "February 14 2024",
+  "due_date": "14-May-2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1131.92,
+      "discount_pct": 10,
+      "line_total": 10187.28
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 632.98,
+      "discount_pct": 15,
+      "line_total": 5380.33
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1040.52,
+      "discount_pct": 15,
+      "line_total": 884.44
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 8141.39,
+      "discount_pct": 0,
+      "line_total": 8141.39
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 175.42,
+      "discount_pct": 0,
+      "line_total": 175.42
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 8.28,
+      "discount_pct": 10,
+      "line_total": 372.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 700.52,
+      "discount_pct": 0,
+      "line_total": 35026.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 379.4,
+      "discount_pct": 10,
+      "line_total": 341.46
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 191.54,
+      "discount_pct": 20,
+      "line_total": 459.7
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2140.7,
+      "discount_pct": 20,
+      "line_total": 3425.12
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1281.57,
+      "discount_pct": 0,
+      "line_total": 6407.85
+    }
+  ],
+  "subtotal": 70801.59,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 10620.24,
+  "shipping_amount": 261.64,
+  "total_due": 81683.47,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

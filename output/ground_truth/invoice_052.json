@@ -1,0 +1,110 @@
+{
+  "id": 52,
+  "filename": "invoice_052.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "TAX-INV38463",
+  "issue_date": "11 October 2023",
+  "due_date": "25-Nov-2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12368.39,
+      "discount_pct": 0,
+      "line_total": 24736.78
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 13222.38,
+      "discount_pct": 5,
+      "line_total": 25122.52
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 42.39,
+      "discount_pct": 10,
+      "line_total": 38.15
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1332.25,
+      "discount_pct": 0,
+      "line_total": 6661.25
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 890.44,
+      "discount_pct": 20,
+      "line_total": 712.35
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 554.96,
+      "discount_pct": 0,
+      "line_total": 13874.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 4301.44,
+      "discount_pct": 0,
+      "line_total": 43014.4
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1864.14,
+      "discount_pct": 0,
+      "line_total": 46603.5
+    }
+  ],
+  "subtotal": 160762.95,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 11253.41,
+  "shipping_amount": 0.0,
+  "total_due": 172016.36,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

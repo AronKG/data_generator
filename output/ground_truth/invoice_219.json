@@ -1,0 +1,98 @@
+{
+  "id": 219,
+  "filename": "invoice_219.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "2023-32139",
+  "issue_date": "2024-10-18",
+  "due_date": "25/10/2024",
+  "payment_terms": "Net 45",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 95.61,
+      "discount_pct": 20,
+      "line_total": 76.49
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 27.74,
+      "discount_pct": 20,
+      "line_total": 66.58
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1363.47,
+      "discount_pct": 0,
+      "line_total": 1363.47
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 409.53,
+      "discount_pct": 20,
+      "line_total": 3276.24
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2129.1,
+      "discount_pct": 0,
+      "line_total": 2129.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 3515.47,
+      "discount_pct": 20,
+      "line_total": 70309.4
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2754.51,
+      "discount_pct": 0,
+      "line_total": 27545.1
+    }
+  ],
+  "subtotal": 104766.38,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 20953.28,
+  "shipping_amount": 262.34,
+  "total_due": 125982.0,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

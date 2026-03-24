@@ -1,0 +1,150 @@
+{
+  "id": 925,
+  "filename": "invoice_925.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "011509",
+  "issue_date": "July 11 2023",
+  "due_date": "25/08/2023",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1845.73,
+      "discount_pct": 5,
+      "line_total": 87672.18
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 219.62,
+      "discount_pct": 0,
+      "line_total": 658.86
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2955.4,
+      "discount_pct": 0,
+      "line_total": 73885.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 364.45,
+      "discount_pct": 0,
+      "line_total": 364.45
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 309.14,
+      "discount_pct": 10,
+      "line_total": 278.23
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 5795.59,
+      "discount_pct": 0,
+      "line_total": 17386.77
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3124.72,
+      "discount_pct": 0,
+      "line_total": 3124.72
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1849.4,
+      "discount_pct": 15,
+      "line_total": 1571.99
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6734.75,
+      "discount_pct": 0,
+      "line_total": 6734.75
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5762.99,
+      "discount_pct": 10,
+      "line_total": 5186.69
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1391.46,
+      "discount_pct": 0,
+      "line_total": 69573.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 776.17,
+      "discount_pct": 10,
+      "line_total": 1397.11
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2774.07,
+      "discount_pct": 5,
+      "line_total": 2635.37
+    }
+  ],
+  "subtotal": 270469.12,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 40570.37,
+  "shipping_amount": 91.05,
+  "total_due": 311130.54,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

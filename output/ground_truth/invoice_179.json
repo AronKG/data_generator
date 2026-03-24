@@ -1,0 +1,114 @@
+{
+  "id": 179,
+  "filename": "invoice_179.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "BILL-53913",
+  "issue_date": "02/12/2022",
+  "due_date": "2022-03-29",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 2485.02,
+      "discount_pct": 5,
+      "line_total": 4721.54
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 179.61,
+      "discount_pct": 0,
+      "line_total": 179.61
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 254.74,
+      "discount_pct": 0,
+      "line_total": 254.74
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2986.86,
+      "discount_pct": 15,
+      "line_total": 12694.16
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 560.15,
+      "discount_pct": 15,
+      "line_total": 4761.27
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 98.42,
+      "discount_pct": 0,
+      "line_total": 2460.5
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 731.75,
+      "discount_pct": 0,
+      "line_total": 3658.75
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 7962.05,
+      "discount_pct": 0,
+      "line_total": 7962.05
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 273.96,
+      "discount_pct": 10,
+      "line_total": 246.56
+    }
+  ],
+  "subtotal": 36939.18,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 8496.01,
+  "shipping_amount": 0.0,
+  "total_due": 45435.19,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

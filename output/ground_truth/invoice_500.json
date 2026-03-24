@@ -1,0 +1,162 @@
+{
+  "id": 500,
+  "filename": "invoice_500.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
+  "invoice_number": "REF18686",
+  "issue_date": "August 18 2022",
+  "due_date": "09/01/2022",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 157.68,
+      "discount_pct": 0,
+      "line_total": 157.68
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 88.13,
+      "discount_pct": 5,
+      "line_total": 83.72
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1324.18,
+      "discount_pct": 5,
+      "line_total": 12579.71
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 410.33,
+      "discount_pct": 10,
+      "line_total": 738.59
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 28954.52,
+      "discount_pct": 20,
+      "line_total": 1158180.8
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 252.55,
+      "discount_pct": 0,
+      "line_total": 505.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 4817.64,
+      "discount_pct": 0,
+      "line_total": 14452.92
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 267.01,
+      "discount_pct": 15,
+      "line_total": 226.96
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 68.42,
+      "discount_pct": 10,
+      "line_total": 61.58
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 973.44,
+      "discount_pct": 0,
+      "line_total": 4867.2
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 694.15,
+      "discount_pct": 5,
+      "line_total": 659.44
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 410.42,
+      "discount_pct": 0,
+      "line_total": 20521.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 245.41,
+      "discount_pct": 0,
+      "line_total": 6135.25
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 879.54,
+      "discount_pct": 20,
+      "line_total": 2110.9
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 266.33,
+      "discount_pct": 20,
+      "line_total": 213.06
+    }
+  ],
+  "subtotal": 1221493.91,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 158794.21,
+  "shipping_amount": 88.39,
+  "total_due": 1380376.51,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": 465,
+  "filename": "invoice_465.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
+  "invoice_number": "093754",
+  "issue_date": "08/13/2023",
+  "due_date": "August 20 2023",
+  "payment_terms": "Net 15",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-69245",
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 9689.6,
+      "discount_pct": 5,
+      "line_total": 46025.6
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 959.22,
+      "discount_pct": 10,
+      "line_total": 21582.45
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 5480.81,
+      "discount_pct": 0,
+      "line_total": 5480.81
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4938.7,
+      "discount_pct": 10,
+      "line_total": 44448.3
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 182.23,
+      "discount_pct": 20,
+      "line_total": 1457.84
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3214.69,
+      "discount_pct": 0,
+      "line_total": 32146.9
+    }
+  ],
+  "subtotal": 151141.9,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 12469.21,
+  "shipping_amount": 0.0,
+  "total_due": 163611.11,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

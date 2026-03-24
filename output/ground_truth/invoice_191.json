@@ -1,0 +1,119 @@
+{
+  "id": 191,
+  "filename": "invoice_191.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "RCPT75157",
+  "issue_date": "13 January 2022",
+  "due_date": "2022-02-27",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-33793",
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2160.74,
+      "discount_pct": 5,
+      "line_total": 2052.7
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3885.72,
+      "discount_pct": 5,
+      "line_total": 3691.43
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1117.22,
+      "discount_pct": 20,
+      "line_total": 893.78
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 649.93,
+      "discount_pct": 5,
+      "line_total": 3087.17
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2120.04,
+      "discount_pct": 5,
+      "line_total": 10070.19
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 183.45,
+      "discount_pct": 10,
+      "line_total": 825.52
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 32104.36,
+      "discount_pct": 0,
+      "line_total": 321043.6
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 636.54,
+      "discount_pct": 20,
+      "line_total": 509.23
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4537.46,
+      "discount_pct": 0,
+      "line_total": 113436.5
+    }
+  ],
+  "subtotal": 455610.12,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 59229.32,
+  "shipping_amount": 0.0,
+  "total_due": 514839.44,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

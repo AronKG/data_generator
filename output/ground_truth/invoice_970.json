@@ -1,0 +1,90 @@
+{
+  "id": 970,
+  "filename": "invoice_970.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "TAX-INV-80884",
+  "issue_date": "2024-04-28",
+  "due_date": "12/06/2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5769.28,
+      "discount_pct": 0,
+      "line_total": 5769.28
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 276.66,
+      "discount_pct": 10,
+      "line_total": 248.99
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1454.04,
+      "discount_pct": 5,
+      "line_total": 6906.69
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 412.56,
+      "discount_pct": 0,
+      "line_total": 2062.8
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5259.06,
+      "discount_pct": 0,
+      "line_total": 262953.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 152.24,
+      "discount_pct": 20,
+      "line_total": 1217.92
+    }
+  ],
+  "subtotal": 279158.68,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 19541.11,
+  "shipping_amount": 0.0,
+  "total_due": 298699.79,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

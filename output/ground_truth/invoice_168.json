@@ -1,0 +1,126 @@
+{
+  "id": 168,
+  "filename": "invoice_168.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "REF63620",
+  "issue_date": "14-Jun-2023",
+  "due_date": "July 29 2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-26792",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7127.83,
+      "discount_pct": 0,
+      "line_total": 7127.83
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1851.49,
+      "discount_pct": 15,
+      "line_total": 15737.67
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 131.4,
+      "discount_pct": 5,
+      "line_total": 624.15
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 902.86,
+      "discount_pct": 0,
+      "line_total": 902.86
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 4744.53,
+      "discount_pct": 0,
+      "line_total": 9489.06
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 452.33,
+      "discount_pct": 0,
+      "line_total": 1356.99
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 293.47,
+      "discount_pct": 5,
+      "line_total": 278.8
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 147.63,
+      "discount_pct": 20,
+      "line_total": 118.1
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1854.26,
+      "discount_pct": 0,
+      "line_total": 1854.26
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7051.23,
+      "discount_pct": 10,
+      "line_total": 19038.32
+    }
+  ],
+  "subtotal": 56528.04,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 10740.33,
+  "shipping_amount": 0.0,
+  "total_due": 67268.37,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

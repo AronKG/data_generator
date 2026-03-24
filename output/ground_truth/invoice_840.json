@@ -1,0 +1,63 @@
+{
+  "id": 840,
+  "filename": "invoice_840.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 10,
+  "invoice_number": "BILL-45532",
+  "issue_date": "2023-08-12",
+  "due_date": "11 September 2023",
+  "payment_terms": "Upon completion",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 155.06,
+      "discount_pct": 0,
+      "line_total": 3876.5
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1254.35,
+      "discount_pct": 0,
+      "line_total": 31358.75
+    }
+  ],
+  "subtotal": 35235.25,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 5285.29,
+  "shipping_amount": 0.0,
+  "total_due": 40520.54,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

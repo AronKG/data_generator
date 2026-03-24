@@ -1,0 +1,122 @@
+{
+  "id": 477,
+  "filename": "invoice_477.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "098698",
+  "issue_date": "15-Jul-2022",
+  "due_date": "22 July 2022",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-36567",
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 612.5,
+      "discount_pct": 0,
+      "line_total": 612.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 340.54,
+      "discount_pct": 15,
+      "line_total": 289.46
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1297.98,
+      "discount_pct": 5,
+      "line_total": 2466.16
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 14.28,
+      "discount_pct": 0,
+      "line_total": 357.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1682.76,
+      "discount_pct": 20,
+      "line_total": 1346.21
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1327.58,
+      "discount_pct": 10,
+      "line_total": 1194.82
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 5112.79,
+      "discount_pct": 15,
+      "line_total": 8691.74
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 573.02,
+      "discount_pct": 0,
+      "line_total": 573.02
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 14496.35,
+      "discount_pct": 5,
+      "line_total": 27543.06
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 2437.87,
+      "discount_pct": 0,
+      "line_total": 4875.74
+    }
+  ],
+  "subtotal": 47949.71,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 2876.98,
+  "shipping_amount": 0.0,
+  "total_due": 50826.69,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

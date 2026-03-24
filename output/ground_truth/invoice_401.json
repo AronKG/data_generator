@@ -1,0 +1,82 @@
+{
+  "id": 401,
+  "filename": "invoice_401.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "006403",
+  "issue_date": "April 13 2023",
+  "due_date": "12-Jun-2023",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1871.3,
+      "discount_pct": 0,
+      "line_total": 46782.5
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1721.98,
+      "discount_pct": 0,
+      "line_total": 8609.9
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 492.62,
+      "discount_pct": 10,
+      "line_total": 443.36
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 666.25,
+      "discount_pct": 0,
+      "line_total": 666.25
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 87.69,
+      "discount_pct": 5,
+      "line_total": 249.92
+    }
+  ],
+  "subtotal": 56751.93,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 10782.87,
+  "shipping_amount": 0.0,
+  "total_due": 67534.8,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

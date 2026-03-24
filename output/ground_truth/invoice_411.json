@@ -1,0 +1,63 @@
+{
+  "id": 411,
+  "filename": "invoice_411.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
+  "invoice_number": "2022-75739",
+  "issue_date": "30/10/2024",
+  "due_date": "November 06 2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2738.75,
+      "discount_pct": 0,
+      "line_total": 13693.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 619.86,
+      "discount_pct": 0,
+      "line_total": 619.86
+    }
+  ],
+  "subtotal": 14313.61,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 715.68,
+  "shipping_amount": 0.0,
+  "total_due": 15029.29,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

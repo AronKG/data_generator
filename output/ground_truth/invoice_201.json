@@ -1,0 +1,222 @@
+{
+  "id": 201,
+  "filename": "invoice_201.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
+  "invoice_number": "RCPT-2025-15986",
+  "issue_date": "2023-09-22",
+  "due_date": "21-Dec-2023",
+  "payment_terms": "Net 7",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 22,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 48.02,
+      "discount_pct": 0,
+      "line_total": 96.04
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 92.19,
+      "discount_pct": 0,
+      "line_total": 921.9
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3124.52,
+      "discount_pct": 0,
+      "line_total": 3124.52
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11803.51,
+      "discount_pct": 0,
+      "line_total": 118035.1
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3428.56,
+      "discount_pct": 20,
+      "line_total": 8228.54
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 8579.9,
+      "discount_pct": 0,
+      "line_total": 428995.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6423.26,
+      "discount_pct": 10,
+      "line_total": 144523.35
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3571.79,
+      "discount_pct": 15,
+      "line_total": 15180.11
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9182.83,
+      "discount_pct": 5,
+      "line_total": 218092.21
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 456.12,
+      "discount_pct": 10,
+      "line_total": 410.51
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1488.1,
+      "discount_pct": 0,
+      "line_total": 1488.1
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 389.45,
+      "discount_pct": 0,
+      "line_total": 389.45
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 6243.31,
+      "discount_pct": 5,
+      "line_total": 148278.61
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 90.94,
+      "discount_pct": 20,
+      "line_total": 72.75
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 860.63,
+      "discount_pct": 5,
+      "line_total": 20439.96
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 288.98,
+      "discount_pct": 20,
+      "line_total": 231.18
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 818.34,
+      "discount_pct": 20,
+      "line_total": 16366.8
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 497.84,
+      "discount_pct": 15,
+      "line_total": 846.33
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 563.16,
+      "discount_pct": 15,
+      "line_total": 11967.15
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 313.76,
+      "discount_pct": 0,
+      "line_total": 941.28
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 640.67,
+      "discount_pct": 10,
+      "line_total": 1729.81
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1940.06,
+      "discount_pct": 5,
+      "line_total": 9215.28
+    }
+  ],
+  "subtotal": 1149573.98,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 80470.18,
+  "shipping_amount": 0.0,
+  "total_due": 1230044.16,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

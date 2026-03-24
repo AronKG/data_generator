@@ -1,0 +1,130 @@
+{
+  "id": 845,
+  "filename": "invoice_845.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "2022-50379",
+  "issue_date": "14/03/2024",
+  "due_date": "April 04 2024",
+  "payment_terms": "Net 15",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-41633",
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2285.74,
+      "discount_pct": 10,
+      "line_total": 6171.5
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 100.44,
+      "discount_pct": 10,
+      "line_total": 2259.9
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2467.27,
+      "discount_pct": 0,
+      "line_total": 2467.27
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1245.47,
+      "discount_pct": 20,
+      "line_total": 9963.76
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 108.91,
+      "discount_pct": 0,
+      "line_total": 326.73
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 58.21,
+      "discount_pct": 10,
+      "line_total": 104.78
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4666.15,
+      "discount_pct": 0,
+      "line_total": 4666.15
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 6991.45,
+      "discount_pct": 0,
+      "line_total": 349572.5
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1201.46,
+      "discount_pct": 0,
+      "line_total": 6007.3
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 861.43,
+      "discount_pct": 20,
+      "line_total": 689.14
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 491.82,
+      "discount_pct": 20,
+      "line_total": 1967.28
+    }
+  ],
+  "subtotal": 384196.31,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 384196.31,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

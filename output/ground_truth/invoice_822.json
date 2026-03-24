@@ -1,0 +1,94 @@
+{
+  "id": 822,
+  "filename": "invoice_822.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "RCPT-97737",
+  "issue_date": "13 September 2024",
+  "due_date": "2024-10-28",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 1155.24,
+      "discount_pct": 10,
+      "line_total": 25992.9
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2703.65,
+      "discount_pct": 0,
+      "line_total": 5407.3
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 594.39,
+      "discount_pct": 15,
+      "line_total": 25261.58
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 163.83,
+      "discount_pct": 0,
+      "line_total": 163.83
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 722.39,
+      "discount_pct": 0,
+      "line_total": 722.39
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 113.99,
+      "discount_pct": 5,
+      "line_total": 541.45
+    }
+  ],
+  "subtotal": 58089.45,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 4066.26,
+  "shipping_amount": 0.0,
+  "total_due": 62155.71,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

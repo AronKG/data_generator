@@ -1,0 +1,71 @@
+{
+  "id": 115,
+  "filename": "invoice_115.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "INVOICE62510",
+  "issue_date": "02/03/2022",
+  "due_date": "23 March 2022",
+  "payment_terms": "Net 30",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-78239",
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1506.9,
+      "discount_pct": 0,
+      "line_total": 4520.7
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 262.04,
+      "discount_pct": 0,
+      "line_total": 6551.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2684.09,
+      "discount_pct": 0,
+      "line_total": 134204.5
+    }
+  ],
+  "subtotal": 145276.2,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 33413.53,
+  "shipping_amount": 0.0,
+  "total_due": 178689.73,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

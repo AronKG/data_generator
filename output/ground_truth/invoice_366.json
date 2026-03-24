@@ -1,0 +1,71 @@
+{
+  "id": 366,
+  "filename": "invoice_366.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 8,
+  "invoice_number": "2025-99570",
+  "issue_date": "August 02 2024",
+  "due_date": "16-Aug-2024",
+  "payment_terms": "Net 21",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-17920",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 362.51,
+      "discount_pct": 0,
+      "line_total": 362.51
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 45.31,
+      "discount_pct": 0,
+      "line_total": 45.31
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2436.39,
+      "discount_pct": 0,
+      "line_total": 121819.5
+    }
+  ],
+  "subtotal": 122227.32,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 25667.74,
+  "shipping_amount": 0.0,
+  "total_due": 147895.06,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

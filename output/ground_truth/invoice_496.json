@@ -1,0 +1,159 @@
+{
+  "id": 496,
+  "filename": "invoice_496.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "2023-34129",
+  "issue_date": "21-May-2022",
+  "due_date": "19 August 2022",
+  "payment_terms": "Net 90",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-96623",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 479.66,
+      "discount_pct": 0,
+      "line_total": 1438.98
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 783.72,
+      "discount_pct": 20,
+      "line_total": 15674.4
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 761.59,
+      "discount_pct": 0,
+      "line_total": 761.59
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 36.36,
+      "discount_pct": 0,
+      "line_total": 36.36
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 982.03,
+      "discount_pct": 10,
+      "line_total": 2651.48
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 12787.07,
+      "discount_pct": 10,
+      "line_total": 34525.09
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 785.98,
+      "discount_pct": 0,
+      "line_total": 7859.8
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1028.06,
+      "discount_pct": 0,
+      "line_total": 25701.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 554.33,
+      "discount_pct": 10,
+      "line_total": 2494.49
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 138.61,
+      "discount_pct": 5,
+      "line_total": 131.68
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 143.92,
+      "discount_pct": 0,
+      "line_total": 1439.2
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1394.16,
+      "discount_pct": 15,
+      "line_total": 59251.8
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2752.1,
+      "discount_pct": 0,
+      "line_total": 13760.5
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 17916.0,
+      "discount_pct": 10,
+      "line_total": 32248.8
+    }
+  ],
+  "subtotal": 197975.67,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 9898.78,
+  "shipping_amount": 0.0,
+  "total_due": 207874.45,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": 373,
+  "filename": "invoice_373.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "024200",
+  "issue_date": "July 22 2023",
+  "due_date": "29/07/2023",
+  "payment_terms": "Net 90",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-46996",
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2957.97,
+      "discount_pct": 0,
+      "line_total": 5915.94
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 56.65,
+      "discount_pct": 0,
+      "line_total": 169.95
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 255.9,
+      "discount_pct": 0,
+      "line_total": 2559.0
+    }
+  ],
+  "subtotal": 8644.89,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 8644.89,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

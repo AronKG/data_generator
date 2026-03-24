@@ -1,0 +1,71 @@
+{
+  "id": 558,
+  "filename": "invoice_558.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "2025-9769",
+  "issue_date": "25-Jun-2024",
+  "due_date": "2024-07-10",
+  "payment_terms": "Net 7",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 211.91,
+      "discount_pct": 0,
+      "line_total": 635.73
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1607.56,
+      "discount_pct": 0,
+      "line_total": 1607.56
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 176.82,
+      "discount_pct": 0,
+      "line_total": 1768.2
+    }
+  ],
+  "subtotal": 4011.49,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 200.57,
+  "shipping_amount": 0.0,
+  "total_due": 4212.06,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

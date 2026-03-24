@@ -1,0 +1,110 @@
+{
+  "id": 423,
+  "filename": "invoice_423.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "2022-68516",
+  "issue_date": "February 06 2024",
+  "due_date": "2024-02-21",
+  "payment_terms": "Cash on Delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-61658",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 303.35,
+      "discount_pct": 10,
+      "line_total": 1365.08
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1558.68,
+      "discount_pct": 0,
+      "line_total": 15586.8
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 18419.97,
+      "discount_pct": 0,
+      "line_total": 184199.7
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8485.43,
+      "discount_pct": 5,
+      "line_total": 403057.92
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 157.9,
+      "discount_pct": 20,
+      "line_total": 126.32
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 279.65,
+      "discount_pct": 0,
+      "line_total": 6991.25
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3733.16,
+      "discount_pct": 10,
+      "line_total": 167992.2
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 936.8,
+      "discount_pct": 0,
+      "line_total": 1873.6
+    }
+  ],
+  "subtotal": 781192.87,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 46871.57,
+  "shipping_amount": 152.91,
+  "total_due": 828217.35,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

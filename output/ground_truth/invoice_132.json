@@ -1,0 +1,159 @@
+{
+  "id": 132,
+  "filename": "invoice_132.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "PROFORMA/2024/75763",
+  "issue_date": "May 17 2023",
+  "due_date": "2023-07-16",
+  "payment_terms": "2/10 Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-78877",
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1689.16,
+      "discount_pct": 0,
+      "line_total": 42229.0
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 19734.23,
+      "discount_pct": 0,
+      "line_total": 986711.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5790.65,
+      "discount_pct": 5,
+      "line_total": 5501.12
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 74.3,
+      "discount_pct": 15,
+      "line_total": 63.15
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 2372.04,
+      "discount_pct": 15,
+      "line_total": 6048.7
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1515.87,
+      "discount_pct": 0,
+      "line_total": 75793.5
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1621.64,
+      "discount_pct": 20,
+      "line_total": 3891.94
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4523.38,
+      "discount_pct": 5,
+      "line_total": 4297.21
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 37769.89,
+      "discount_pct": 15,
+      "line_total": 1605220.32
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 9183.75,
+      "discount_pct": 10,
+      "line_total": 413268.75
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 223.04,
+      "discount_pct": 0,
+      "line_total": 2230.4
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 62.85,
+      "discount_pct": 15,
+      "line_total": 53.42
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 837.39,
+      "discount_pct": 10,
+      "line_total": 18841.28
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 455.74,
+      "discount_pct": 10,
+      "line_total": 20508.3
+    }
+  ],
+  "subtotal": 3184658.59,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 191079.52,
+  "shipping_amount": 28.47,
+  "total_due": 3375766.58,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

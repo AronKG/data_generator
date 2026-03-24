@@ -1,0 +1,159 @@
+{
+  "id": 674,
+  "filename": "invoice_674.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "INV/2023/58497",
+  "issue_date": "19/08/2023",
+  "due_date": "October 18 2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-46969",
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1195.68,
+      "discount_pct": 10,
+      "line_total": 1076.11
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 472.3,
+      "discount_pct": 15,
+      "line_total": 4014.55
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 27313.32,
+      "discount_pct": 10,
+      "line_total": 24581.99
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 119.68,
+      "discount_pct": 5,
+      "line_total": 568.48
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 138.79,
+      "discount_pct": 0,
+      "line_total": 3469.75
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6196.24,
+      "discount_pct": 0,
+      "line_total": 6196.24
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8492.17,
+      "discount_pct": 0,
+      "line_total": 424608.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 113.75,
+      "discount_pct": 0,
+      "line_total": 113.75
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 552.98,
+      "discount_pct": 5,
+      "line_total": 5253.31
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2145.93,
+      "discount_pct": 15,
+      "line_total": 45601.01
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 11075.18,
+      "discount_pct": 5,
+      "line_total": 21042.84
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1616.03,
+      "discount_pct": 0,
+      "line_total": 1616.03
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1426.32,
+      "discount_pct": 20,
+      "line_total": 28526.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3331.95,
+      "discount_pct": 0,
+      "line_total": 3331.95
+    }
+  ],
+  "subtotal": 570000.91,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 28500.05,
+  "shipping_amount": 0.0,
+  "total_due": 598500.96,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

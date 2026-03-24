@@ -1,0 +1,82 @@
+{
+  "id": 750,
+  "filename": "invoice_750.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "075743",
+  "issue_date": "March 24 2024",
+  "due_date": "April 08 2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-54261",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 412.01,
+      "discount_pct": 0,
+      "line_total": 4120.1
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 537.9,
+      "discount_pct": 0,
+      "line_total": 1075.8
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 4783.19,
+      "discount_pct": 20,
+      "line_total": 7653.1
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 274.21,
+      "discount_pct": 20,
+      "line_total": 438.74
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 742.74,
+      "discount_pct": 0,
+      "line_total": 18568.5
+    }
+  ],
+  "subtotal": 31856.24,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 6689.81,
+  "shipping_amount": 0.0,
+  "total_due": 38546.05,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,110 @@
+{
+  "id": 270,
+  "filename": "invoice_270.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
+  "invoice_number": "INVOICE-91764",
+  "issue_date": "2024-02-11",
+  "due_date": "25/02/2024",
+  "payment_terms": "Upon completion",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Helix Beratung GmbH",
+  "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
+  "seller_email": "rechnung@helix-beratung.de",
+  "seller_phone": "+49 89 555 0199",
+  "seller_tax_id": "USt-IdNr: DE345678901",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 2372.02,
+      "discount_pct": 0,
+      "line_total": 4744.04
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 160.9,
+      "discount_pct": 5,
+      "line_total": 152.85
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 401.59,
+      "discount_pct": 10,
+      "line_total": 361.43
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 28.92,
+      "discount_pct": 0,
+      "line_total": 289.2
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1558.36,
+      "discount_pct": 10,
+      "line_total": 1402.52
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 675.11,
+      "discount_pct": 0,
+      "line_total": 33755.5
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 513.48,
+      "discount_pct": 0,
+      "line_total": 513.48
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 458.05,
+      "discount_pct": 0,
+      "line_total": 2290.25
+    }
+  ],
+  "subtotal": 43509.27,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 3589.51,
+  "shipping_amount": 210.06,
+  "total_due": 47308.84,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,138 @@
+{
+  "id": 472,
+  "filename": "invoice_472.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "094971",
+  "issue_date": "2024-07-02",
+  "due_date": "August 31 2024",
+  "payment_terms": "Net 15",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-76762",
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 2385.06,
+      "discount_pct": 10,
+      "line_total": 10732.77
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4537.47,
+      "discount_pct": 20,
+      "line_total": 3629.98
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 703.39,
+      "discount_pct": 20,
+      "line_total": 28135.6
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4714.51,
+      "discount_pct": 20,
+      "line_total": 94290.2
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 64.98,
+      "discount_pct": 0,
+      "line_total": 324.9
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 636.2,
+      "discount_pct": 0,
+      "line_total": 6362.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 789.71,
+      "discount_pct": 0,
+      "line_total": 3948.55
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 919.98,
+      "discount_pct": 20,
+      "line_total": 7359.84
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 10636.64,
+      "discount_pct": 0,
+      "line_total": 106366.4
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 263.75,
+      "discount_pct": 0,
+      "line_total": 263.75
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1223.75,
+      "discount_pct": 0,
+      "line_total": 1223.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 149.7,
+      "discount_pct": 20,
+      "line_total": 239.52
+    }
+  ],
+  "subtotal": 262877.26,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 52575.45,
+  "shipping_amount": 0.0,
+  "total_due": 315452.71,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

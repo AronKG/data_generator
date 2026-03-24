@@ -1,0 +1,82 @@
+{
+  "id": 155,
+  "filename": "invoice_155.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "INV/2022/72684",
+  "issue_date": "2022-10-20",
+  "due_date": "27/10/2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 103.05,
+      "discount_pct": 5,
+      "line_total": 978.97
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 644.92,
+      "discount_pct": 15,
+      "line_total": 13704.55
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 946.66,
+      "discount_pct": 0,
+      "line_total": 47333.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 166.31,
+      "discount_pct": 5,
+      "line_total": 789.97
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 26048.66,
+      "discount_pct": 5,
+      "line_total": 24746.23
+    }
+  ],
+  "subtotal": 87552.72,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 8755.27,
+  "shipping_amount": 0.0,
+  "total_due": 96307.99,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

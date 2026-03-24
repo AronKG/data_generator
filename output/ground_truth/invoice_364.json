@@ -1,0 +1,138 @@
+{
+  "id": 364,
+  "filename": "invoice_364.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "SI-2025-2379",
+  "issue_date": "31 August 2022",
+  "due_date": "October 15 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 119.33,
+      "discount_pct": 0,
+      "line_total": 357.99
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1311.27,
+      "discount_pct": 0,
+      "line_total": 3933.81
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 6396.44,
+      "discount_pct": 0,
+      "line_total": 319822.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2718.12,
+      "discount_pct": 20,
+      "line_total": 2174.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 127.96,
+      "discount_pct": 5,
+      "line_total": 6078.1
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 139.79,
+      "discount_pct": 10,
+      "line_total": 377.43
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 884.98,
+      "discount_pct": 15,
+      "line_total": 37611.65
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 420.05,
+      "discount_pct": 15,
+      "line_total": 714.09
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 779.22,
+      "discount_pct": 5,
+      "line_total": 740.26
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 22513.71,
+      "discount_pct": 0,
+      "line_total": 67541.13
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 993.67,
+      "discount_pct": 20,
+      "line_total": 19873.4
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 557.81,
+      "discount_pct": 0,
+      "line_total": 1673.43
+    }
+  ],
+  "subtotal": 460897.79,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 69134.67,
+  "shipping_amount": 93.41,
+  "total_due": 530125.87,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

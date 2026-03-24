@@ -1,0 +1,63 @@
+{
+  "id": 828,
+  "filename": "invoice_828.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "INV-74196",
+  "issue_date": "25/11/2024",
+  "due_date": "25 December 2024",
+  "payment_terms": "Immediate",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1079.84,
+      "discount_pct": 0,
+      "line_total": 2159.68
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3272.42,
+      "discount_pct": 0,
+      "line_total": 163621.0
+    }
+  ],
+  "subtotal": 165780.68,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 13676.91,
+  "shipping_amount": 0.0,
+  "total_due": 179457.59,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

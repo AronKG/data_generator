@@ -1,0 +1,79 @@
+{
+  "id": 242,
+  "filename": "invoice_242.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "INV-11516",
+  "issue_date": "30-May-2024",
+  "due_date": "2024-08-28",
+  "payment_terms": "Upon completion",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 4679.93,
+      "discount_pct": 5,
+      "line_total": 4445.93
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 33996.59,
+      "discount_pct": 0,
+      "line_total": 169982.95
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 859.38,
+      "discount_pct": 0,
+      "line_total": 859.38
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 844.21,
+      "discount_pct": 5,
+      "line_total": 802.0
+    }
+  ],
+  "subtotal": 176090.26,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 14527.45,
+  "shipping_amount": 0.0,
+  "total_due": 190617.71,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

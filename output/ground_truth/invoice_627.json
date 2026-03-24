@@ -1,0 +1,114 @@
+{
+  "id": 627,
+  "filename": "invoice_627.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "INV/2025/93683",
+  "issue_date": "02/09/2022",
+  "due_date": "10 May 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-40957",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 5444.86,
+      "discount_pct": 15,
+      "line_total": 4628.13
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 602.87,
+      "discount_pct": 0,
+      "line_total": 602.87
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4201.2,
+      "discount_pct": 5,
+      "line_total": 7982.28
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 191.35,
+      "discount_pct": 5,
+      "line_total": 545.35
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 196.92,
+      "discount_pct": 5,
+      "line_total": 187.07
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 518.36,
+      "discount_pct": 5,
+      "line_total": 492.44
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2160.8,
+      "discount_pct": 20,
+      "line_total": 86432.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5715.28,
+      "discount_pct": 0,
+      "line_total": 28576.4
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 1414.71,
+      "discount_pct": 0,
+      "line_total": 2829.42
+    }
+  ],
+  "subtotal": 132275.96,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 17195.87,
+  "shipping_amount": 0.0,
+  "total_due": 149471.83,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

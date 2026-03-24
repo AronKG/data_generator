@@ -1,0 +1,154 @@
+{
+  "id": 991,
+  "filename": "invoice_991.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "SI-2022-24271",
+  "issue_date": "02/02/2023",
+  "due_date": "03-May-2023",
+  "payment_terms": "Net 90",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-80511",
+  "seller_name": "Cactus and Clay Designs",
+  "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
+  "seller_email": "accounts@cactusclay.com",
+  "seller_phone": "+1 602-555-0199",
+  "seller_tax_id": "EIN: 11-9876543",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 375.51,
+      "discount_pct": 0,
+      "line_total": 375.51
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 14551.3,
+      "discount_pct": 10,
+      "line_total": 26192.34
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 754.09,
+      "discount_pct": 0,
+      "line_total": 2262.27
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1204.31,
+      "discount_pct": 0,
+      "line_total": 1204.31
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 878.95,
+      "discount_pct": 5,
+      "line_total": 4175.01
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 67.18,
+      "discount_pct": 5,
+      "line_total": 319.11
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 30670.45,
+      "discount_pct": 0,
+      "line_total": 306704.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 554.83,
+      "discount_pct": 0,
+      "line_total": 5548.3
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 824.67,
+      "discount_pct": 20,
+      "line_total": 1979.21
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1500.27,
+      "discount_pct": 5,
+      "line_total": 7126.28
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4739.11,
+      "discount_pct": 0,
+      "line_total": 4739.11
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 115.0,
+      "discount_pct": 0,
+      "line_total": 575.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 473.2,
+      "discount_pct": 20,
+      "line_total": 18928.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 12759.46,
+      "discount_pct": 20,
+      "line_total": 10207.57
+    }
+  ],
+  "subtotal": 390336.52,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 50743.75,
+  "shipping_amount": 293.43,
+  "total_due": 441373.7,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

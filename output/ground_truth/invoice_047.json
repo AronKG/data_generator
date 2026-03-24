@@ -1,0 +1,246 @@
+{
+  "id": 47,
+  "filename": "invoice_047.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
+  "invoice_number": "085150",
+  "issue_date": "05/18/2022",
+  "due_date": "July 02 2022",
+  "payment_terms": "Upon completion",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 156.22,
+      "discount_pct": 15,
+      "line_total": 132.79
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1981.74,
+      "discount_pct": 0,
+      "line_total": 49543.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 580.42,
+      "discount_pct": 15,
+      "line_total": 12333.92
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 31.46,
+      "discount_pct": 20,
+      "line_total": 75.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2211.55,
+      "discount_pct": 0,
+      "line_total": 110577.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 12769.51,
+      "discount_pct": 0,
+      "line_total": 319237.75
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1577.64,
+      "discount_pct": 0,
+      "line_total": 3155.28
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2310.66,
+      "discount_pct": 0,
+      "line_total": 23106.6
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 567.11,
+      "discount_pct": 0,
+      "line_total": 1701.33
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 481.21,
+      "discount_pct": 5,
+      "line_total": 2285.75
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 138.32,
+      "discount_pct": 20,
+      "line_total": 110.66
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 153.21,
+      "discount_pct": 10,
+      "line_total": 6894.45
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4024.74,
+      "discount_pct": 0,
+      "line_total": 4024.74
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 119.08,
+      "discount_pct": 5,
+      "line_total": 226.25
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1227.12,
+      "discount_pct": 5,
+      "line_total": 2331.53
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1368.1,
+      "discount_pct": 0,
+      "line_total": 13681.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 283.6,
+      "discount_pct": 0,
+      "line_total": 7090.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 574.83,
+      "discount_pct": 0,
+      "line_total": 14370.75
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 686.82,
+      "discount_pct": 10,
+      "line_total": 618.14
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 527.07,
+      "discount_pct": 5,
+      "line_total": 500.72
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 976.32,
+      "discount_pct": 0,
+      "line_total": 9763.2
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 122.65,
+      "discount_pct": 10,
+      "line_total": 220.77
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 2555.02,
+      "discount_pct": 15,
+      "line_total": 54294.17
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 988.97,
+      "discount_pct": 5,
+      "line_total": 4697.61
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 4666.86,
+      "discount_pct": 5,
+      "line_total": 44335.17
+    }
+  ],
+  "subtotal": 685309.08,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 137061.82,
+  "shipping_amount": 226.29,
+  "total_due": 822597.19,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

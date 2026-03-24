@@ -1,0 +1,214 @@
+{
+  "id": 953,
+  "filename": "invoice_953.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "INV/2025/72268",
+  "issue_date": "2023-01-10",
+  "due_date": "2023-02-09",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-87184",
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 518.75,
+      "discount_pct": 10,
+      "line_total": 23343.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 823.95,
+      "discount_pct": 0,
+      "line_total": 2471.85
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1374.83,
+      "discount_pct": 15,
+      "line_total": 29215.14
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1449.46,
+      "discount_pct": 0,
+      "line_total": 72473.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 738.67,
+      "discount_pct": 5,
+      "line_total": 701.74
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3290.95,
+      "discount_pct": 0,
+      "line_total": 6581.9
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2786.92,
+      "discount_pct": 0,
+      "line_total": 2786.92
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5834.72,
+      "discount_pct": 0,
+      "line_total": 145868.0
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 143.12,
+      "discount_pct": 5,
+      "line_total": 1359.64
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2243.44,
+      "discount_pct": 0,
+      "line_total": 2243.44
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2068.15,
+      "discount_pct": 15,
+      "line_total": 3515.86
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 238.5,
+      "discount_pct": 0,
+      "line_total": 1192.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 304.17,
+      "discount_pct": 20,
+      "line_total": 486.67
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 268.36,
+      "discount_pct": 0,
+      "line_total": 6709.0
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 102.42,
+      "discount_pct": 20,
+      "line_total": 245.81
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1625.23,
+      "discount_pct": 0,
+      "line_total": 8126.15
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13367.73,
+      "discount_pct": 10,
+      "line_total": 12030.96
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 18303.46,
+      "discount_pct": 0,
+      "line_total": 36606.92
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 50.43,
+      "discount_pct": 20,
+      "line_total": 40.34
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 221.52,
+      "discount_pct": 15,
+      "line_total": 9414.6
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 8139.33,
+      "discount_pct": 10,
+      "line_total": 14650.79
+    }
+  ],
+  "subtotal": 380064.98,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 22803.9,
+  "shipping_amount": 0.0,
+  "total_due": 402868.88,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

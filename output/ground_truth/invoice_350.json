@@ -1,0 +1,126 @@
+{
+  "id": 350,
+  "filename": "invoice_350.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "PROFORMA-16643",
+  "issue_date": "2023-11-21",
+  "due_date": "05-Dec-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 131.04,
+      "discount_pct": 5,
+      "line_total": 1244.88
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 258.57,
+      "discount_pct": 0,
+      "line_total": 12928.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 69.14,
+      "discount_pct": 0,
+      "line_total": 345.7
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 820.11,
+      "discount_pct": 0,
+      "line_total": 4100.55
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 399.99,
+      "discount_pct": 0,
+      "line_total": 399.99
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2612.5,
+      "discount_pct": 5,
+      "line_total": 12409.38
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 787.05,
+      "discount_pct": 10,
+      "line_total": 3541.72
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1606.95,
+      "discount_pct": 0,
+      "line_total": 1606.95
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1248.61,
+      "discount_pct": 20,
+      "line_total": 998.89
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 643.5,
+      "discount_pct": 20,
+      "line_total": 12870.0
+    }
+  ],
+  "subtotal": 50446.56,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 4161.84,
+  "shipping_amount": 187.38,
+  "total_due": 54795.78,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

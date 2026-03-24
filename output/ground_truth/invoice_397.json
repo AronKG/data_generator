@@ -1,0 +1,127 @@
+{
+  "id": 397,
+  "filename": "invoice_397.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "REF/2023/11859",
+  "issue_date": "23 August 2023",
+  "due_date": "21-Nov-2023",
+  "payment_terms": "Net 21",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 530.46,
+      "discount_pct": 15,
+      "line_total": 450.89
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 18836.41,
+      "discount_pct": 5,
+      "line_total": 894729.47
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 882.09,
+      "discount_pct": 15,
+      "line_total": 3748.88
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 311.62,
+      "discount_pct": 20,
+      "line_total": 249.3
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 207.1,
+      "discount_pct": 5,
+      "line_total": 393.49
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 8819.73,
+      "discount_pct": 20,
+      "line_total": 35278.92
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1016.52,
+      "discount_pct": 10,
+      "line_total": 2744.6
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 97.06,
+      "discount_pct": 0,
+      "line_total": 97.06
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1523.5,
+      "discount_pct": 5,
+      "line_total": 72366.25
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3827.62,
+      "discount_pct": 0,
+      "line_total": 3827.62
+    }
+  ],
+  "subtotal": 1013886.48,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 50694.32,
+  "shipping_amount": 0.0,
+  "total_due": 1064580.8,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

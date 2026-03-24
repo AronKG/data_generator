@@ -1,0 +1,70 @@
+{
+  "id": 813,
+  "filename": "invoice_813.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
+  "invoice_number": "REF-2024-1399",
+  "issue_date": "05/02/2022",
+  "due_date": "17 May 2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 13785.63,
+      "discount_pct": 0,
+      "line_total": 137856.3
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1566.94,
+      "discount_pct": 0,
+      "line_total": 1566.94
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 449.16,
+      "discount_pct": 0,
+      "line_total": 4491.6
+    }
+  ],
+  "subtotal": 143914.84,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 18708.93,
+  "shipping_amount": 0.0,
+  "total_due": 162623.77,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

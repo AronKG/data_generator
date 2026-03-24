@@ -1,0 +1,71 @@
+{
+  "id": 710,
+  "filename": "invoice_710.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
+  "invoice_number": "BILL/2024/78023",
+  "issue_date": "May 05 2024",
+  "due_date": "20/05/2024",
+  "payment_terms": "Upon completion",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 838.12,
+      "discount_pct": 0,
+      "line_total": 4190.6
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 104.3,
+      "discount_pct": 0,
+      "line_total": 312.9
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 7838.09,
+      "discount_pct": 0,
+      "line_total": 7838.09
+    }
+  ],
+  "subtotal": 12341.59,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 2838.57,
+  "shipping_amount": 0.0,
+  "total_due": 15180.16,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

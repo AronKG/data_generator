@@ -1,0 +1,82 @@
+{
+  "id": 197,
+  "filename": "invoice_197.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "2025-29691",
+  "issue_date": "2023-05-30",
+  "due_date": "06/29/2023",
+  "payment_terms": "Net 7",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-12122",
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 5890.63,
+      "discount_pct": 0,
+      "line_total": 5890.63
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1145.35,
+      "discount_pct": 0,
+      "line_total": 1145.35
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 8595.05,
+      "discount_pct": 5,
+      "line_total": 204132.44
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 18601.89,
+      "discount_pct": 0,
+      "line_total": 93009.45
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2602.04,
+      "discount_pct": 0,
+      "line_total": 26020.4
+    }
+  ],
+  "subtotal": 330198.27,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 62737.67,
+  "shipping_amount": 0.0,
+  "total_due": 392935.94,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

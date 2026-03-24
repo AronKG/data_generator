@@ -1,0 +1,118 @@
+{
+  "id": 928,
+  "filename": "invoice_928.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "2024-76965",
+  "issue_date": "February 06 2023",
+  "due_date": "February 27 2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-80916",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 410.88,
+      "discount_pct": 5,
+      "line_total": 3903.36
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 8416.9,
+      "discount_pct": 0,
+      "line_total": 25250.7
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1162.17,
+      "discount_pct": 0,
+      "line_total": 1162.17
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11943.87,
+      "discount_pct": 0,
+      "line_total": 11943.87
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 1794.93,
+      "discount_pct": 0,
+      "line_total": 8974.65
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 18248.38,
+      "discount_pct": 15,
+      "line_total": 77555.62
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 322.43,
+      "discount_pct": 0,
+      "line_total": 16121.5
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 214.69,
+      "discount_pct": 0,
+      "line_total": 644.07
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 560.99,
+      "discount_pct": 0,
+      "line_total": 5609.9
+    }
+  ],
+  "subtotal": 151165.84,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 151165.84,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

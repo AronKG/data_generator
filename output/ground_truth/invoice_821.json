@@ -1,0 +1,94 @@
+{
+  "id": 821,
+  "filename": "invoice_821.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "SI55795",
+  "issue_date": "01-Jul-2023",
+  "due_date": "08/07/2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 275.2,
+      "discount_pct": 15,
+      "line_total": 2339.2
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2203.76,
+      "discount_pct": 5,
+      "line_total": 104678.6
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 364.7,
+      "discount_pct": 0,
+      "line_total": 3647.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 472.85,
+      "discount_pct": 5,
+      "line_total": 2246.04
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1027.67,
+      "discount_pct": 20,
+      "line_total": 822.14
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 149.99,
+      "discount_pct": 5,
+      "line_total": 142.49
+    }
+  ],
+  "subtotal": 113875.47,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 14803.81,
+  "shipping_amount": 0.0,
+  "total_due": 128679.28,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,71 @@
+{
+  "id": 612,
+  "filename": "invoice_612.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "INVOICE/2024/60627",
+  "issue_date": "2024-11-06",
+  "due_date": "02/04/2025",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-37535",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 244.35,
+      "discount_pct": 0,
+      "line_total": 244.35
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1171.81,
+      "discount_pct": 0,
+      "line_total": 5859.05
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 116.92,
+      "discount_pct": 0,
+      "line_total": 584.6
+    }
+  ],
+  "subtotal": 6688.0,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 668.8,
+  "shipping_amount": 0.0,
+  "total_due": 7356.8,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

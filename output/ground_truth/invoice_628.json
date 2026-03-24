@@ -1,0 +1,247 @@
+{
+  "id": 628,
+  "filename": "invoice_628.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
+  "invoice_number": "087619",
+  "issue_date": "15 June 2024",
+  "due_date": "2024-07-06",
+  "payment_terms": "End of Month",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 311.99,
+      "discount_pct": 0,
+      "line_total": 7799.75
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 153.11,
+      "discount_pct": 10,
+      "line_total": 137.8
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 987.24,
+      "discount_pct": 15,
+      "line_total": 839.15
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 435.08,
+      "discount_pct": 0,
+      "line_total": 4350.8
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3696.51,
+      "discount_pct": 0,
+      "line_total": 184825.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 643.13,
+      "discount_pct": 20,
+      "line_total": 514.5
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 642.36,
+      "discount_pct": 10,
+      "line_total": 2890.62
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 114.23,
+      "discount_pct": 0,
+      "line_total": 571.15
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1415.04,
+      "discount_pct": 0,
+      "line_total": 14150.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3953.08,
+      "discount_pct": 5,
+      "line_total": 37554.26
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 300.98,
+      "discount_pct": 0,
+      "line_total": 300.98
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 166.84,
+      "discount_pct": 10,
+      "line_total": 750.78
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10643.71,
+      "discount_pct": 10,
+      "line_total": 28738.02
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1446.91,
+      "discount_pct": 0,
+      "line_total": 1446.91
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7407.87,
+      "discount_pct": 0,
+      "line_total": 7407.87
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 110.59,
+      "discount_pct": 0,
+      "line_total": 1105.9
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 95.05,
+      "discount_pct": 15,
+      "line_total": 403.96
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 233.85,
+      "discount_pct": 20,
+      "line_total": 187.08
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 4167.96,
+      "discount_pct": 15,
+      "line_total": 7085.53
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 156.96,
+      "discount_pct": 20,
+      "line_total": 376.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1931.09,
+      "discount_pct": 10,
+      "line_total": 1737.98
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 369.65,
+      "discount_pct": 20,
+      "line_total": 295.72
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 133.07,
+      "discount_pct": 20,
+      "line_total": 532.28
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1383.35,
+      "discount_pct": 0,
+      "line_total": 1383.35
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2302.38,
+      "discount_pct": 5,
+      "line_total": 54681.52
+    }
+  ],
+  "subtotal": 360068.51,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 75614.39,
+  "shipping_amount": 126.62,
+  "total_due": 435809.52,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

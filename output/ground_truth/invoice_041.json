@@ -1,0 +1,70 @@
+{
+  "id": 41,
+  "filename": "invoice_041.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 14,
+  "invoice_number": "PROFORMA-2025-34313",
+  "issue_date": "January 06 2022",
+  "due_date": "03/07/2022",
+  "payment_terms": "Net 45",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 737.39,
+      "discount_pct": 0,
+      "line_total": 1474.78
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1615.67,
+      "discount_pct": 0,
+      "line_total": 3231.34
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1497.36,
+      "discount_pct": 0,
+      "line_total": 1497.36
+    }
+  ],
+  "subtotal": 6203.48,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 620.35,
+  "shipping_amount": 0.0,
+  "total_due": 6823.83,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

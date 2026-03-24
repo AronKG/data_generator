@@ -1,0 +1,210 @@
+{
+  "id": 2,
+  "filename": "invoice_002.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "TAX-INV-2878",
+  "issue_date": "01-Dec-2024",
+  "due_date": "15/01/2025",
+  "payment_terms": "Net 45",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 269.19,
+      "discount_pct": 5,
+      "line_total": 511.46
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2359.87,
+      "discount_pct": 10,
+      "line_total": 6371.65
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9894.88,
+      "discount_pct": 0,
+      "line_total": 9894.88
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6975.76,
+      "discount_pct": 0,
+      "line_total": 348788.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 112.19,
+      "discount_pct": 15,
+      "line_total": 95.36
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 866.21,
+      "discount_pct": 0,
+      "line_total": 1732.42
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 5845.67,
+      "discount_pct": 20,
+      "line_total": 14029.61
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2582.27,
+      "discount_pct": 0,
+      "line_total": 12911.35
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 688.54,
+      "discount_pct": 15,
+      "line_total": 1170.52
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1167.81,
+      "discount_pct": 20,
+      "line_total": 9342.48
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 73.98,
+      "discount_pct": 5,
+      "line_total": 140.56
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 647.28,
+      "discount_pct": 0,
+      "line_total": 32364.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 564.13,
+      "discount_pct": 0,
+      "line_total": 5641.3
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9658.59,
+      "discount_pct": 0,
+      "line_total": 9658.59
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2167.77,
+      "discount_pct": 15,
+      "line_total": 18426.05
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 4995.39,
+      "discount_pct": 0,
+      "line_total": 9990.78
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 275.57,
+      "discount_pct": 5,
+      "line_total": 523.58
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 149.42,
+      "discount_pct": 5,
+      "line_total": 709.74
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13193.85,
+      "discount_pct": 0,
+      "line_total": 65969.25
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5653.18,
+      "discount_pct": 15,
+      "line_total": 240260.15
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 84.19,
+      "discount_pct": 10,
+      "line_total": 378.86
+    }
+  ],
+  "subtotal": 788910.59,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 157782.12,
+  "shipping_amount": 99.22,
+  "total_due": 946791.93,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

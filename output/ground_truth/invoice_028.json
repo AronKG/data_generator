@@ -1,0 +1,98 @@
+{
+  "id": 28,
+  "filename": "invoice_028.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "BILL/2024/68302",
+  "issue_date": "April 17 2023",
+  "due_date": "07/16/2023",
+  "payment_terms": "End of Month",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-73844",
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 2865.19,
+      "discount_pct": 15,
+      "line_total": 121770.57
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 130.5,
+      "discount_pct": 10,
+      "line_total": 1174.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2783.17,
+      "discount_pct": 10,
+      "line_total": 2504.85
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 9692.73,
+      "discount_pct": 5,
+      "line_total": 230202.34
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1581.04,
+      "discount_pct": 15,
+      "line_total": 13438.84
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 413.46,
+      "discount_pct": 15,
+      "line_total": 8786.02
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1224.05,
+      "discount_pct": 10,
+      "line_total": 11016.45
+    }
+  ],
+  "subtotal": 388893.57,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 23333.61,
+  "shipping_amount": 0.0,
+  "total_due": 412227.18,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

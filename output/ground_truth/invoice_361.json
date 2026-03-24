@@ -1,0 +1,111 @@
+{
+  "id": 361,
+  "filename": "invoice_361.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "003808",
+  "issue_date": "22/12/2024",
+  "due_date": "05 January 2025",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 688.52,
+      "discount_pct": 5,
+      "line_total": 1962.28
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 250.47,
+      "discount_pct": 0,
+      "line_total": 250.47
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1150.72,
+      "discount_pct": 15,
+      "line_total": 24452.8
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 1160.79,
+      "discount_pct": 0,
+      "line_total": 3482.37
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 12512.9,
+      "discount_pct": 10,
+      "line_total": 11261.61
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 501.29,
+      "discount_pct": 15,
+      "line_total": 426.1
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1674.32,
+      "discount_pct": 5,
+      "line_total": 79530.2
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 360.65,
+      "discount_pct": 0,
+      "line_total": 721.3
+    }
+  ],
+  "subtotal": 122087.13,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 10072.19,
+  "shipping_amount": 276.05,
+  "total_due": 132435.37,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

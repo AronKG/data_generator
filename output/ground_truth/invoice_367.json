@@ -1,0 +1,82 @@
+{
+  "id": 367,
+  "filename": "invoice_367.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "BILL-2025-1292",
+  "issue_date": "2023-01-08",
+  "due_date": "09/03/2023",
+  "payment_terms": "Net 60",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 457.11,
+      "discount_pct": 10,
+      "line_total": 1234.2
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 257.24,
+      "discount_pct": 0,
+      "line_total": 257.24
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16607.13,
+      "discount_pct": 0,
+      "line_total": 16607.13
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 2008.82,
+      "discount_pct": 5,
+      "line_total": 1908.38
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 812.05,
+      "discount_pct": 10,
+      "line_total": 3654.22
+    }
+  ],
+  "subtotal": 23661.17,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 1656.28,
+  "shipping_amount": 0.0,
+  "total_due": 25317.45,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

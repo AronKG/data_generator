@@ -1,0 +1,102 @@
+{
+  "id": 149,
+  "filename": "invoice_149.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
+  "invoice_number": "REF/2023/89117",
+  "issue_date": "23/01/2024",
+  "due_date": "22-Feb-2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5577.0,
+      "discount_pct": 10,
+      "line_total": 50193.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 37.39,
+      "discount_pct": 5,
+      "line_total": 888.01
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 688.06,
+      "discount_pct": 5,
+      "line_total": 16341.42
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 754.12,
+      "discount_pct": 5,
+      "line_total": 35820.7
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 263.37,
+      "discount_pct": 0,
+      "line_total": 6584.25
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 245.6,
+      "discount_pct": 20,
+      "line_total": 392.96
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 100.28,
+      "discount_pct": 5,
+      "line_total": 2381.65
+    }
+  ],
+  "subtotal": 112601.99,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 7882.14,
+  "shipping_amount": 0.0,
+  "total_due": 120484.13,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

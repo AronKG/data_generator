@@ -1,0 +1,71 @@
+{
+  "id": 240,
+  "filename": "invoice_240.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
+  "invoice_number": "SI-2024-70261",
+  "issue_date": "26/07/2022",
+  "due_date": "10-Aug-2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-77180",
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1112.1,
+      "discount_pct": 0,
+      "line_total": 27802.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 119.7,
+      "discount_pct": 0,
+      "line_total": 119.7
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17466.53,
+      "discount_pct": 0,
+      "line_total": 17466.53
+    }
+  ],
+  "subtotal": 45388.73,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 2269.44,
+  "shipping_amount": 0.0,
+  "total_due": 47658.17,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

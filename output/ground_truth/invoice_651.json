@@ -1,0 +1,70 @@
+{
+  "id": 651,
+  "filename": "invoice_651.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "2022-84787",
+  "issue_date": "05-Apr-2023",
+  "due_date": "04/19/2023",
+  "payment_terms": "Net 90",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-77344",
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1351.86,
+      "discount_pct": 0,
+      "line_total": 1351.86
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 136.57,
+      "discount_pct": 0,
+      "line_total": 1365.7
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3898.86,
+      "discount_pct": 0,
+      "line_total": 194943.0
+    }
+  ],
+  "subtotal": 197660.56,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 19766.06,
+  "shipping_amount": 0.0,
+  "total_due": 217426.62,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

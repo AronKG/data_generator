@@ -1,0 +1,70 @@
+{
+  "id": 95,
+  "filename": "invoice_095.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
+  "invoice_number": "INVOICE80861",
+  "issue_date": "07 November 2024",
+  "due_date": "28-Nov-2024",
+  "payment_terms": "Net 60",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-63754",
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 653.88,
+      "discount_pct": 0,
+      "line_total": 1307.76
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12844.66,
+      "discount_pct": 0,
+      "line_total": 25689.32
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 282.07,
+      "discount_pct": 0,
+      "line_total": 564.14
+    }
+  ],
+  "subtotal": 27561.22,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 1929.29,
+  "shipping_amount": 0.0,
+  "total_due": 29490.51,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

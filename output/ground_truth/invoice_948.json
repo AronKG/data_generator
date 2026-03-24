@@ -1,0 +1,82 @@
+{
+  "id": 948,
+  "filename": "invoice_948.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "2022-39871",
+  "issue_date": "08 March 2024",
+  "due_date": "March 23 2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 116.9,
+      "discount_pct": 10,
+      "line_total": 210.42
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 476.03,
+      "discount_pct": 15,
+      "line_total": 4046.25
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3677.15,
+      "discount_pct": 20,
+      "line_total": 147086.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 112.49,
+      "discount_pct": 10,
+      "line_total": 101.24
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 462.38,
+      "discount_pct": 20,
+      "line_total": 9247.6
+    }
+  ],
+  "subtotal": 160691.51,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 30531.39,
+  "shipping_amount": 0.0,
+  "total_due": 191222.9,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

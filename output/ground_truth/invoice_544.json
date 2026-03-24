@@ -1,0 +1,162 @@
+{
+  "id": 544,
+  "filename": "invoice_544.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "BILL-2022-43889",
+  "issue_date": "2023-02-28",
+  "due_date": "2023-03-21",
+  "payment_terms": "Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-33247",
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3821.87,
+      "discount_pct": 5,
+      "line_total": 7261.55
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 993.55,
+      "discount_pct": 20,
+      "line_total": 794.84
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5106.05,
+      "discount_pct": 0,
+      "line_total": 5106.05
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 503.47,
+      "discount_pct": 15,
+      "line_total": 4279.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 513.65,
+      "discount_pct": 15,
+      "line_total": 436.6
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2648.3,
+      "discount_pct": 5,
+      "line_total": 2515.89
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 217.17,
+      "discount_pct": 10,
+      "line_total": 195.45
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2494.22,
+      "discount_pct": 0,
+      "line_total": 2494.22
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4408.94,
+      "discount_pct": 0,
+      "line_total": 4408.94
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 691.65,
+      "discount_pct": 0,
+      "line_total": 1383.3
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8479.46,
+      "discount_pct": 5,
+      "line_total": 402774.35
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 548.02,
+      "discount_pct": 15,
+      "line_total": 465.82
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 73.37,
+      "discount_pct": 10,
+      "line_total": 66.03
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 129.19,
+      "discount_pct": 0,
+      "line_total": 129.19
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 133.0,
+      "discount_pct": 0,
+      "line_total": 399.0
+    }
+  ],
+  "subtotal": 432710.73,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 82215.04,
+  "shipping_amount": 100.58,
+  "total_due": 515026.35,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

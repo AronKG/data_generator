@@ -1,0 +1,62 @@
+{
+  "id": 808,
+  "filename": "invoice_808.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
+  "invoice_number": "INV-2023-81202",
+  "issue_date": "2024-01-11",
+  "due_date": "2024-02-25",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-56580",
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6036.45,
+      "discount_pct": 0,
+      "line_total": 6036.45
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 639.43,
+      "discount_pct": 0,
+      "line_total": 639.43
+    }
+  ],
+  "subtotal": 6675.88,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 667.59,
+  "shipping_amount": 0.0,
+  "total_due": 7343.47,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

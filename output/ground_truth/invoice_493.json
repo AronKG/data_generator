@@ -1,0 +1,94 @@
+{
+  "id": 493,
+  "filename": "invoice_493.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 7,
+  "invoice_number": "091864",
+  "issue_date": "22-Apr-2023",
+  "due_date": "2023-05-13",
+  "payment_terms": "End of Month",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-15418",
+  "seller_name": "Cactus and Clay Designs",
+  "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
+  "seller_email": "accounts@cactusclay.com",
+  "seller_phone": "+1 602-555-0199",
+  "seller_tax_id": "EIN: 11-9876543",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 958.81,
+      "discount_pct": 10,
+      "line_total": 862.93
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 948.7,
+      "discount_pct": 0,
+      "line_total": 47435.0
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 575.29,
+      "discount_pct": 0,
+      "line_total": 1150.58
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5509.46,
+      "discount_pct": 0,
+      "line_total": 55094.6
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 584.24,
+      "discount_pct": 0,
+      "line_total": 1168.48
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 572.66,
+      "discount_pct": 0,
+      "line_total": 5726.6
+    }
+  ],
+  "subtotal": 111438.19,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 6686.29,
+  "shipping_amount": 0.0,
+  "total_due": 118124.48,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

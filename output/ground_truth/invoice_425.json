@@ -1,0 +1,63 @@
+{
+  "id": 425,
+  "filename": "invoice_425.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 8,
+  "invoice_number": "2022-36875",
+  "issue_date": "26-Aug-2022",
+  "due_date": "2022-09-10",
+  "payment_terms": "Net 90",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 795.89,
+      "discount_pct": 0,
+      "line_total": 19897.25
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 160.35,
+      "discount_pct": 0,
+      "line_total": 8017.5
+    }
+  ],
+  "subtotal": 27914.75,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 5582.95,
+  "shipping_amount": 0.0,
+  "total_due": 33497.7,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

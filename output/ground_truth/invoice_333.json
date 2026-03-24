@@ -1,0 +1,78 @@
+{
+  "id": 333,
+  "filename": "invoice_333.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "SI-23906",
+  "issue_date": "September 15 2024",
+  "due_date": "December 14 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 133.92,
+      "discount_pct": 15,
+      "line_total": 113.83
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 10133.63,
+      "discount_pct": 20,
+      "line_total": 16213.81
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 141.41,
+      "discount_pct": 0,
+      "line_total": 141.41
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 976.77,
+      "discount_pct": 10,
+      "line_total": 2637.28
+    }
+  ],
+  "subtotal": 19106.33,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 1576.27,
+  "shipping_amount": 0.0,
+  "total_due": 20682.6,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

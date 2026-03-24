@@ -1,0 +1,90 @@
+{
+  "id": 480,
+  "filename": "invoice_480.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "086669",
+  "issue_date": "2022-12-30",
+  "due_date": "02/28/2023",
+  "payment_terms": "Upon completion",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-21083",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 928.31,
+      "discount_pct": 10,
+      "line_total": 20886.98
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 31099.57,
+      "discount_pct": 5,
+      "line_total": 29544.59
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1559.73,
+      "discount_pct": 10,
+      "line_total": 7018.78
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 340.88,
+      "discount_pct": 10,
+      "line_total": 920.38
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 50.49,
+      "discount_pct": 0,
+      "line_total": 50.49
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 173.4,
+      "discount_pct": 0,
+      "line_total": 520.2
+    }
+  ],
+  "subtotal": 58941.42,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 4862.67,
+  "shipping_amount": 0.0,
+  "total_due": 63804.09,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,98 @@
+{
+  "id": 957,
+  "filename": "invoice_957.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "RCPT-21658",
+  "issue_date": "2023-06-16",
+  "due_date": "07/16/2023",
+  "payment_terms": "Immediate",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3894.7,
+      "discount_pct": 0,
+      "line_total": 7789.4
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 14890.18,
+      "discount_pct": 0,
+      "line_total": 744509.0
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1329.84,
+      "discount_pct": 15,
+      "line_total": 1130.36
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1394.09,
+      "discount_pct": 10,
+      "line_total": 1254.68
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 408.88,
+      "discount_pct": 0,
+      "line_total": 408.88
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1561.39,
+      "discount_pct": 10,
+      "line_total": 1405.25
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 90.92,
+      "discount_pct": 0,
+      "line_total": 272.76
+    }
+  ],
+  "subtotal": 756770.33,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 756770.33,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

@@ -1,0 +1,174 @@
+{
+  "id": 766,
+  "filename": "invoice_766.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "002924",
+  "issue_date": "21 April 2022",
+  "due_date": "05-May-2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-92695",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 16,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 2125.03,
+      "discount_pct": 10,
+      "line_total": 9562.64
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 13068.66,
+      "discount_pct": 0,
+      "line_total": 653433.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 124.96,
+      "discount_pct": 0,
+      "line_total": 249.92
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 3968.28,
+      "discount_pct": 10,
+      "line_total": 10714.36
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 29083.18,
+      "discount_pct": 20,
+      "line_total": 232665.44
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1889.38,
+      "discount_pct": 0,
+      "line_total": 18893.8
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 103.6,
+      "discount_pct": 0,
+      "line_total": 103.6
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 518.96,
+      "discount_pct": 15,
+      "line_total": 441.12
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 122.06,
+      "discount_pct": 15,
+      "line_total": 103.75
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5009.15,
+      "discount_pct": 15,
+      "line_total": 8515.55
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 110.41,
+      "discount_pct": 5,
+      "line_total": 5244.47
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 4471.49,
+      "discount_pct": 15,
+      "line_total": 11402.3
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 616.93,
+      "discount_pct": 10,
+      "line_total": 5552.37
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2878.81,
+      "discount_pct": 5,
+      "line_total": 5469.74
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6385.6,
+      "discount_pct": 15,
+      "line_total": 5427.76
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1976.03,
+      "discount_pct": 0,
+      "line_total": 49400.75
+    }
+  ],
+  "subtotal": 1017180.57,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 1017180.57,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": 264,
+  "filename": "invoice_264.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 10,
+  "invoice_number": "2025-1299",
+  "issue_date": "2022-02-08",
+  "due_date": "25/03/2022",
+  "payment_terms": "End of Month",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 372.08,
+      "discount_pct": 0,
+      "line_total": 372.08
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7545.09,
+      "discount_pct": 0,
+      "line_total": 15090.18
+    }
+  ],
+  "subtotal": 15462.26,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 3092.45,
+  "shipping_amount": 0.0,
+  "total_due": 18554.71,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

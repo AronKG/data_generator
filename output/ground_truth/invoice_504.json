@@ -1,0 +1,162 @@
+{
+  "id": 504,
+  "filename": "invoice_504.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "PROFORMA59645",
+  "issue_date": "2023-03-18",
+  "due_date": "06/16/2023",
+  "payment_terms": "Immediate",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-13617",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3121.82,
+      "discount_pct": 0,
+      "line_total": 156091.0
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1637.17,
+      "discount_pct": 15,
+      "line_total": 34789.86
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 785.88,
+      "discount_pct": 0,
+      "line_total": 2357.64
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1776.04,
+      "discount_pct": 0,
+      "line_total": 44401.0
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 160.33,
+      "discount_pct": 10,
+      "line_total": 7214.85
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2460.03,
+      "discount_pct": 0,
+      "line_total": 4920.06
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 713.25,
+      "discount_pct": 0,
+      "line_total": 2139.75
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 617.22,
+      "discount_pct": 5,
+      "line_total": 586.36
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 214.36,
+      "discount_pct": 0,
+      "line_total": 214.36
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3965.79,
+      "discount_pct": 5,
+      "line_total": 3767.5
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10835.05,
+      "discount_pct": 0,
+      "line_total": 54175.25
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 370.16,
+      "discount_pct": 0,
+      "line_total": 370.16
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 359.15,
+      "discount_pct": 0,
+      "line_total": 1077.45
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 309.58,
+      "discount_pct": 0,
+      "line_total": 7739.5
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 709.83,
+      "discount_pct": 0,
+      "line_total": 709.83
+    }
+  ],
+  "subtotal": 320554.57,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 41672.09,
+  "shipping_amount": 0.0,
+  "total_due": 362226.66,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

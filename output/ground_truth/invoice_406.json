@@ -1,0 +1,90 @@
+{
+  "id": 406,
+  "filename": "invoice_406.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "TAX-INV24111",
+  "issue_date": "26 May 2022",
+  "due_date": "02/06/2022",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 501.42,
+      "discount_pct": 10,
+      "line_total": 902.56
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8774.13,
+      "discount_pct": 15,
+      "line_total": 372900.52
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6350.39,
+      "discount_pct": 0,
+      "line_total": 6350.39
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1975.22,
+      "discount_pct": 10,
+      "line_total": 8888.49
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 717.88,
+      "discount_pct": 20,
+      "line_total": 5743.04
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 237.35,
+      "discount_pct": 15,
+      "line_total": 1008.74
+    }
+  ],
+  "subtotal": 395793.74,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 91032.56,
+  "shipping_amount": 0.0,
+  "total_due": 486826.3,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

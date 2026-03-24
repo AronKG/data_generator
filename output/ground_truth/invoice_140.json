@@ -1,0 +1,106 @@
+{
+  "id": 140,
+  "filename": "invoice_140.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "PROFORMA-2024-64997",
+  "issue_date": "01/05/2022",
+  "due_date": "30 June 2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-90153",
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1067.13,
+      "discount_pct": 0,
+      "line_total": 26678.25
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 415.33,
+      "discount_pct": 15,
+      "line_total": 353.03
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 711.63,
+      "discount_pct": 5,
+      "line_total": 676.05
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 117.07,
+      "discount_pct": 5,
+      "line_total": 5560.82
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 500.32,
+      "discount_pct": 0,
+      "line_total": 500.32
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 29.8,
+      "discount_pct": 5,
+      "line_total": 28.31
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 290.78,
+      "discount_pct": 0,
+      "line_total": 1453.9
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 981.31,
+      "discount_pct": 10,
+      "line_total": 44158.95
+    }
+  ],
+  "subtotal": 79409.63,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 10323.25,
+  "shipping_amount": 147.73,
+  "total_due": 89880.61,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": 685,
+  "filename": "invoice_685.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
+  "invoice_number": "REF-76725",
+  "issue_date": "04 July 2023",
+  "due_date": "September 02 2023",
+  "payment_terms": "Net 21",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 403.71,
+      "discount_pct": 10,
+      "line_total": 363.34
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1381.83,
+      "discount_pct": 10,
+      "line_total": 3730.94
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 186.77,
+      "discount_pct": 5,
+      "line_total": 532.29
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 790.66,
+      "discount_pct": 20,
+      "line_total": 3162.64
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 194.16,
+      "discount_pct": 15,
+      "line_total": 8251.8
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 654.22,
+      "discount_pct": 15,
+      "line_total": 1112.17
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 558.21,
+      "discount_pct": 0,
+      "line_total": 1674.63
+    }
+  ],
+  "subtotal": 18827.81,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 3577.28,
+  "shipping_amount": 0.0,
+  "total_due": 22405.09,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

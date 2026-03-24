@@ -1,0 +1,126 @@
+{
+  "id": 752,
+  "filename": "invoice_752.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "SI-83660",
+  "issue_date": "2024-02-23",
+  "due_date": "09-Mar-2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 79.12,
+      "discount_pct": 10,
+      "line_total": 712.08
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 143.49,
+      "discount_pct": 0,
+      "line_total": 143.49
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 432.62,
+      "discount_pct": 20,
+      "line_total": 1038.29
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1254.77,
+      "discount_pct": 0,
+      "line_total": 1254.77
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2680.39,
+      "discount_pct": 5,
+      "line_total": 63659.26
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 31.88,
+      "discount_pct": 0,
+      "line_total": 95.64
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 225.74,
+      "discount_pct": 10,
+      "line_total": 203.17
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 364.82,
+      "discount_pct": 10,
+      "line_total": 328.34
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 2811.42,
+      "discount_pct": 5,
+      "line_total": 2670.85
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 4750.84,
+      "discount_pct": 5,
+      "line_total": 4513.3
+    }
+  ],
+  "subtotal": 74619.19,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 15670.03,
+  "shipping_amount": 0.0,
+  "total_due": 90289.22,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,71 @@
+{
+  "id": 349,
+  "filename": "invoice_349.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
+  "invoice_number": "2024-4448",
+  "issue_date": "28-Apr-2024",
+  "due_date": "05/05/2024",
+  "payment_terms": "Net 90",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 773.87,
+      "discount_pct": 0,
+      "line_total": 773.87
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 536.71,
+      "discount_pct": 0,
+      "line_total": 2683.55
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 11942.85,
+      "discount_pct": 0,
+      "line_total": 23885.7
+    }
+  ],
+  "subtotal": 27343.12,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 1367.16,
+  "shipping_amount": 0.0,
+  "total_due": 28710.28,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

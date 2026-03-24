@@ -1,0 +1,174 @@
+{
+  "id": 624,
+  "filename": "invoice_624.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "2024-81407",
+  "issue_date": "31/07/2022",
+  "due_date": "2022-08-21",
+  "payment_terms": "Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Neptune Logistics GmbH",
+  "client_address": "Speicherstadt 5 20457 Hamburg Germany",
+  "client_email": "rechnungen@neptunelogistics.de",
+  "num_line_items": 16,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 395.37,
+      "discount_pct": 10,
+      "line_total": 8895.83
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 14225.23,
+      "discount_pct": 0,
+      "line_total": 42675.69
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 8749.55,
+      "discount_pct": 15,
+      "line_total": 14874.23
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2128.2,
+      "discount_pct": 0,
+      "line_total": 2128.2
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1120.28,
+      "discount_pct": 15,
+      "line_total": 47611.9
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1020.56,
+      "discount_pct": 5,
+      "line_total": 1939.06
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 950.58,
+      "discount_pct": 0,
+      "line_total": 9505.8
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 3927.18,
+      "discount_pct": 0,
+      "line_total": 11781.54
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 281.57,
+      "discount_pct": 0,
+      "line_total": 1407.85
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3091.7,
+      "discount_pct": 20,
+      "line_total": 123668.0
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 83.8,
+      "discount_pct": 0,
+      "line_total": 83.8
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 662.81,
+      "discount_pct": 0,
+      "line_total": 16570.25
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 214.51,
+      "discount_pct": 15,
+      "line_total": 182.33
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7839.64,
+      "discount_pct": 5,
+      "line_total": 7447.66
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 687.59,
+      "discount_pct": 20,
+      "line_total": 550.07
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 52.03,
+      "discount_pct": 0,
+      "line_total": 52.03
+    }
+  ],
+  "subtotal": 289374.24,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 37618.65,
+  "shipping_amount": 0.0,
+  "total_due": 326992.89,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

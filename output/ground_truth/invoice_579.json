@@ -1,0 +1,82 @@
+{
+  "id": 579,
+  "filename": "invoice_579.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "BILL/2025/43045",
+  "issue_date": "February 17 2024",
+  "due_date": "02 March 2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2498.85,
+      "discount_pct": 0,
+      "line_total": 7496.55
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1259.98,
+      "discount_pct": 0,
+      "line_total": 12599.8
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 84.69,
+      "discount_pct": 0,
+      "line_total": 254.07
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 7418.82,
+      "discount_pct": 10,
+      "line_total": 166923.45
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5705.35,
+      "discount_pct": 5,
+      "line_total": 271004.12
+    }
+  ],
+  "subtotal": 458277.99,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 87072.82,
+  "shipping_amount": 0.0,
+  "total_due": 545350.81,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

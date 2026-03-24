@@ -1,0 +1,138 @@
+{
+  "id": 575,
+  "filename": "invoice_575.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "TAX-INV/2023/03961",
+  "issue_date": "07/03/2022",
+  "due_date": "2022-03-14",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-80009",
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 226.39,
+      "discount_pct": 0,
+      "line_total": 226.39
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3508.79,
+      "discount_pct": 0,
+      "line_total": 3508.79
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 369.8,
+      "discount_pct": 0,
+      "line_total": 9245.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 334.17,
+      "discount_pct": 15,
+      "line_total": 2840.45
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 373.42,
+      "discount_pct": 10,
+      "line_total": 16803.9
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5122.95,
+      "discount_pct": 0,
+      "line_total": 10245.9
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 8019.14,
+      "discount_pct": 20,
+      "line_total": 6415.31
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1163.55,
+      "discount_pct": 10,
+      "line_total": 1047.19
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 735.72,
+      "discount_pct": 0,
+      "line_total": 36786.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 282.35,
+      "discount_pct": 0,
+      "line_total": 564.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1845.76,
+      "discount_pct": 5,
+      "line_total": 1753.47
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1100.8,
+      "discount_pct": 5,
+      "line_total": 26144.0
+    }
+  ],
+  "subtotal": 115581.1,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 23116.22,
+  "shipping_amount": 0.0,
+  "total_due": 138697.32,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

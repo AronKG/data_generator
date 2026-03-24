@@ -1,0 +1,122 @@
+{
+  "id": 363,
+  "filename": "invoice_363.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 3,
+  "invoice_number": "TAX-INV/2024/18944",
+  "issue_date": "07/26/2022",
+  "due_date": "02-Aug-2022",
+  "payment_terms": "Net 45",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 333.36,
+      "discount_pct": 5,
+      "line_total": 316.69
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 348.98,
+      "discount_pct": 0,
+      "line_total": 3489.8
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1471.53,
+      "discount_pct": 0,
+      "line_total": 7357.65
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 617.62,
+      "discount_pct": 0,
+      "line_total": 3088.1
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 157.72,
+      "discount_pct": 5,
+      "line_total": 149.83
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4545.18,
+      "discount_pct": 0,
+      "line_total": 22725.9
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10888.29,
+      "discount_pct": 0,
+      "line_total": 54441.45
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 580.65,
+      "discount_pct": 0,
+      "line_total": 1741.95
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 356.33,
+      "discount_pct": 0,
+      "line_total": 17816.5
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1049.3,
+      "discount_pct": 10,
+      "line_total": 4721.85
+    }
+  ],
+  "subtotal": 115849.72,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 115849.72,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

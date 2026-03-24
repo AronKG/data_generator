@@ -1,0 +1,238 @@
+{
+  "id": 920,
+  "filename": "invoice_920.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
+  "invoice_number": "REF/2023/76842",
+  "issue_date": "2022-09-30",
+  "due_date": "07/10/2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 24,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2450.97,
+      "discount_pct": 20,
+      "line_total": 1960.78
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4611.62,
+      "discount_pct": 15,
+      "line_total": 3919.88
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 9863.21,
+      "discount_pct": 0,
+      "line_total": 29589.63
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1257.5,
+      "discount_pct": 0,
+      "line_total": 62875.0
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 91.32,
+      "discount_pct": 0,
+      "line_total": 91.32
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10964.95,
+      "discount_pct": 10,
+      "line_total": 29605.37
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6946.12,
+      "discount_pct": 0,
+      "line_total": 347306.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 580.25,
+      "discount_pct": 0,
+      "line_total": 5802.5
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1609.91,
+      "discount_pct": 0,
+      "line_total": 40247.75
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 103.61,
+      "discount_pct": 0,
+      "line_total": 1036.1
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 787.37,
+      "discount_pct": 0,
+      "line_total": 787.37
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 106.58,
+      "discount_pct": 0,
+      "line_total": 106.58
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1379.65,
+      "discount_pct": 0,
+      "line_total": 1379.65
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 425.39,
+      "discount_pct": 0,
+      "line_total": 1276.17
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 965.24,
+      "discount_pct": 15,
+      "line_total": 820.45
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 987.66,
+      "discount_pct": 0,
+      "line_total": 987.66
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1899.25,
+      "discount_pct": 0,
+      "line_total": 1899.25
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1229.98,
+      "discount_pct": 0,
+      "line_total": 1229.98
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 173.27,
+      "discount_pct": 5,
+      "line_total": 164.61
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 1396.86,
+      "discount_pct": 0,
+      "line_total": 1396.86
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6869.79,
+      "discount_pct": 10,
+      "line_total": 18548.43
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 3748.79,
+      "discount_pct": 5,
+      "line_total": 17806.75
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 322.36,
+      "discount_pct": 20,
+      "line_total": 773.66
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2711.79,
+      "discount_pct": 5,
+      "line_total": 12881.0
+    }
+  ],
+  "subtotal": 582492.75,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 29124.64,
+  "shipping_amount": 17.2,
+  "total_due": 611634.59,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

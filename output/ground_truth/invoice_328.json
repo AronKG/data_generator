@@ -1,0 +1,70 @@
+{
+  "id": 328,
+  "filename": "invoice_328.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
+  "invoice_number": "INV23363",
+  "issue_date": "29-Sep-2023",
+  "due_date": "10/14/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-13852",
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 597.88,
+      "discount_pct": 0,
+      "line_total": 2989.4
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 3887.61,
+      "discount_pct": 0,
+      "line_total": 11662.83
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4832.83,
+      "discount_pct": 0,
+      "line_total": 48328.3
+    }
+  ],
+  "subtotal": 62980.53,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 6298.05,
+  "shipping_amount": 0.0,
+  "total_due": 69278.58,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

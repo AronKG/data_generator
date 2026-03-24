@@ -1,0 +1,103 @@
+{
+  "id": 4,
+  "filename": "invoice_004.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
+  "invoice_number": "032103",
+  "issue_date": "2024-05-04",
+  "due_date": "05/18/2024",
+  "payment_terms": "Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-33273",
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 629.52,
+      "discount_pct": 20,
+      "line_total": 1510.85
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 961.5,
+      "discount_pct": 0,
+      "line_total": 961.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1483.81,
+      "discount_pct": 5,
+      "line_total": 1409.62
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 375.61,
+      "discount_pct": 10,
+      "line_total": 16902.45
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16883.44,
+      "discount_pct": 0,
+      "line_total": 16883.44
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 94.69,
+      "discount_pct": 0,
+      "line_total": 946.9
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 176.4,
+      "discount_pct": 10,
+      "line_total": 793.8
+    }
+  ],
+  "subtotal": 39408.56,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 5123.11,
+  "shipping_amount": 0.0,
+  "total_due": 44531.67,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,110 @@
+{
+  "id": 253,
+  "filename": "invoice_253.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "052968",
+  "issue_date": "09/28/2023",
+  "due_date": "10/28/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5591.73,
+      "discount_pct": 0,
+      "line_total": 55917.3
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 381.88,
+      "discount_pct": 10,
+      "line_total": 1718.46
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 7492.24,
+      "discount_pct": 10,
+      "line_total": 168575.4
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 143.15,
+      "discount_pct": 10,
+      "line_total": 257.67
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 22451.74,
+      "discount_pct": 20,
+      "line_total": 53884.18
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2311.93,
+      "discount_pct": 10,
+      "line_total": 10403.68
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 76.36,
+      "discount_pct": 0,
+      "line_total": 381.8
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 248.08,
+      "discount_pct": 20,
+      "line_total": 396.93
+    }
+  ],
+  "subtotal": 291535.42,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 43730.31,
+  "shipping_amount": 181.82,
+  "total_due": 335447.55,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

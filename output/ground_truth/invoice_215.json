@@ -1,0 +1,82 @@
+{
+  "id": 215,
+  "filename": "invoice_215.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
+  "invoice_number": "010533",
+  "issue_date": "12-May-2024",
+  "due_date": "06/26/2024",
+  "payment_terms": "Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1137.78,
+      "discount_pct": 20,
+      "line_total": 4551.12
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 200.3,
+      "discount_pct": 0,
+      "line_total": 600.9
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 726.52,
+      "discount_pct": 0,
+      "line_total": 3632.6
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 424.1,
+      "discount_pct": 20,
+      "line_total": 339.28
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1981.78,
+      "discount_pct": 5,
+      "line_total": 94134.55
+    }
+  ],
+  "subtotal": 103258.45,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 10325.85,
+  "shipping_amount": 0.0,
+  "total_due": 113584.3,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

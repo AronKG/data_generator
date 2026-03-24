@@ -1,0 +1,79 @@
+{
+  "id": 192,
+  "filename": "invoice_192.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "INVOICE-90120",
+  "issue_date": "21-Nov-2024",
+  "due_date": "12-Dec-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1091.63,
+      "discount_pct": 10,
+      "line_total": 982.47
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 436.87,
+      "discount_pct": 10,
+      "line_total": 393.18
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4220.82,
+      "discount_pct": 0,
+      "line_total": 4220.82
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9110.03,
+      "discount_pct": 0,
+      "line_total": 9110.03
+    }
+  ],
+  "subtotal": 14706.5,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 1029.46,
+  "shipping_amount": 0.0,
+  "total_due": 15735.96,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

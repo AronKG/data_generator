@@ -1,0 +1,186 @@
+{
+  "id": 196,
+  "filename": "invoice_196.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "TAX-INV4663",
+  "issue_date": "2024-01-21",
+  "due_date": "March 06 2024",
+  "payment_terms": "Net 45",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 108.58,
+      "discount_pct": 0,
+      "line_total": 108.58
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 532.53,
+      "discount_pct": 10,
+      "line_total": 11981.93
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 96.87,
+      "discount_pct": 5,
+      "line_total": 2300.66
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 518.85,
+      "discount_pct": 0,
+      "line_total": 518.85
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 7863.93,
+      "discount_pct": 10,
+      "line_total": 70775.37
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 404.63,
+      "discount_pct": 10,
+      "line_total": 364.17
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 760.61,
+      "discount_pct": 10,
+      "line_total": 3422.75
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3575.11,
+      "discount_pct": 5,
+      "line_total": 3396.35
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3201.03,
+      "discount_pct": 20,
+      "line_total": 128041.2
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1866.98,
+      "discount_pct": 20,
+      "line_total": 37339.6
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 724.99,
+      "discount_pct": 0,
+      "line_total": 36249.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 137.52,
+      "discount_pct": 0,
+      "line_total": 137.52
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1575.08,
+      "discount_pct": 15,
+      "line_total": 1338.82
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1177.45,
+      "discount_pct": 15,
+      "line_total": 1000.83
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 178.44,
+      "discount_pct": 5,
+      "line_total": 508.55
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 293.46,
+      "discount_pct": 15,
+      "line_total": 2494.41
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 664.69,
+      "discount_pct": 5,
+      "line_total": 1262.91
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 326.35,
+      "discount_pct": 20,
+      "line_total": 261.08
+    }
+  ],
+  "subtotal": 301503.08,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 57285.59,
+  "shipping_amount": 212.23,
+  "total_due": 359000.9,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": 860,
+  "filename": "invoice_860.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "BILL86515",
+  "issue_date": "05/01/2022",
+  "due_date": "05-Apr-2022",
+  "payment_terms": "Net 60",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-38942",
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 39894.78,
+      "discount_pct": 0,
+      "line_total": 997369.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 508.19,
+      "discount_pct": 0,
+      "line_total": 12704.75
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1202.37,
+      "discount_pct": 0,
+      "line_total": 2404.74
+    }
+  ],
+  "subtotal": 1012478.99,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 232870.17,
+  "shipping_amount": 0.0,
+  "total_due": 1245349.16,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

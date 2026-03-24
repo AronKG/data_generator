@@ -1,0 +1,118 @@
+{
+  "id": 170,
+  "filename": "invoice_170.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "2024-12187",
+  "issue_date": "18 June 2024",
+  "due_date": "July 03 2024",
+  "payment_terms": "Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-71875",
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 17161.7,
+      "discount_pct": 0,
+      "line_total": 17161.7
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 441.96,
+      "discount_pct": 20,
+      "line_total": 17678.4
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 694.21,
+      "discount_pct": 0,
+      "line_total": 34710.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 572.63,
+      "discount_pct": 15,
+      "line_total": 2433.68
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 7499.28,
+      "discount_pct": 0,
+      "line_total": 7499.28
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 34697.57,
+      "discount_pct": 0,
+      "line_total": 34697.57
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 742.8,
+      "discount_pct": 15,
+      "line_total": 6313.8
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 403.74,
+      "discount_pct": 15,
+      "line_total": 343.18
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11264.76,
+      "discount_pct": 10,
+      "line_total": 10138.28
+    }
+  ],
+  "subtotal": 130976.39,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 17026.93,
+  "shipping_amount": 0.0,
+  "total_due": 148003.32,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

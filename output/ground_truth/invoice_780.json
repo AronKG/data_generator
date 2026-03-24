@@ -1,0 +1,154 @@
+{
+  "id": 780,
+  "filename": "invoice_780.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "BILL/2022/65825",
+  "issue_date": "09/20/2024",
+  "due_date": "10/04/2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-15676",
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 656.22,
+      "discount_pct": 0,
+      "line_total": 1968.66
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 108.19,
+      "discount_pct": 15,
+      "line_total": 183.92
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1527.46,
+      "discount_pct": 0,
+      "line_total": 1527.46
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 246.67,
+      "discount_pct": 0,
+      "line_total": 246.67
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 413.08,
+      "discount_pct": 0,
+      "line_total": 1239.24
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 276.86,
+      "discount_pct": 0,
+      "line_total": 1384.3
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 32.32,
+      "discount_pct": 15,
+      "line_total": 82.42
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1831.07,
+      "discount_pct": 0,
+      "line_total": 9155.35
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 557.6,
+      "discount_pct": 15,
+      "line_total": 1421.88
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 852.83,
+      "discount_pct": 0,
+      "line_total": 4264.15
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 365.8,
+      "discount_pct": 15,
+      "line_total": 3109.3
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1510.54,
+      "discount_pct": 0,
+      "line_total": 7552.7
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 723.92,
+      "discount_pct": 15,
+      "line_total": 6153.32
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 49207.41,
+      "discount_pct": 0,
+      "line_total": 147622.23
+    }
+  ],
+  "subtotal": 185911.6,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 15337.71,
+  "shipping_amount": 0.0,
+  "total_due": 201249.31,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

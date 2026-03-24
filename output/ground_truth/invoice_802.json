@@ -1,0 +1,190 @@
+{
+  "id": 802,
+  "filename": "invoice_802.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
+  "invoice_number": "2023-17404",
+  "issue_date": "27/05/2022",
+  "due_date": "11-Jun-2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-11323",
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1615.3,
+      "discount_pct": 0,
+      "line_total": 1615.3
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1295.41,
+      "discount_pct": 0,
+      "line_total": 64770.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 713.34,
+      "discount_pct": 15,
+      "line_total": 606.34
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7636.12,
+      "discount_pct": 10,
+      "line_total": 343625.4
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1998.11,
+      "discount_pct": 0,
+      "line_total": 1998.11
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1918.74,
+      "discount_pct": 0,
+      "line_total": 47968.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 406.51,
+      "discount_pct": 10,
+      "line_total": 1097.58
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 90.37,
+      "discount_pct": 5,
+      "line_total": 257.55
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 236.99,
+      "discount_pct": 0,
+      "line_total": 1184.95
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 371.26,
+      "discount_pct": 5,
+      "line_total": 3526.97
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 148.74,
+      "discount_pct": 15,
+      "line_total": 1264.29
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 7253.31,
+      "discount_pct": 0,
+      "line_total": 72533.1
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2847.24,
+      "discount_pct": 5,
+      "line_total": 2704.88
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1750.94,
+      "discount_pct": 0,
+      "line_total": 43773.5
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 8043.06,
+      "discount_pct": 0,
+      "line_total": 24129.18
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 608.73,
+      "discount_pct": 0,
+      "line_total": 1826.19
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3556.22,
+      "discount_pct": 0,
+      "line_total": 3556.22
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 104.88,
+      "discount_pct": 20,
+      "line_total": 83.9
+    }
+  ],
+  "subtotal": 616522.46,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 92478.37,
+  "shipping_amount": 0.0,
+  "total_due": 709000.83,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

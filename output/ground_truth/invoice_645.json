@@ -1,0 +1,102 @@
+{
+  "id": 645,
+  "filename": "invoice_645.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "SI-2023-34173",
+  "issue_date": "30 January 2023",
+  "due_date": "04/30/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1091.7,
+      "discount_pct": 5,
+      "line_total": 2074.23
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 441.89,
+      "discount_pct": 15,
+      "line_total": 375.61
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6050.06,
+      "discount_pct": 20,
+      "line_total": 4840.05
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1219.13,
+      "discount_pct": 0,
+      "line_total": 12191.3
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1900.02,
+      "discount_pct": 20,
+      "line_total": 1520.02
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6319.02,
+      "discount_pct": 0,
+      "line_total": 6319.02
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 329.72,
+      "discount_pct": 0,
+      "line_total": 329.72
+    }
+  ],
+  "subtotal": 27649.95,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 4147.49,
+  "shipping_amount": 0.0,
+  "total_due": 31797.44,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

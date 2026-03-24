@@ -1,0 +1,70 @@
+{
+  "id": 93,
+  "filename": "invoice_093.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 10,
+  "invoice_number": "TAX-INV-2024-15752",
+  "issue_date": "2022-05-07",
+  "due_date": "May 28 2022",
+  "payment_terms": "End of Month",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "RedBark Sustainable Co.",
+  "seller_address": "22 Battery St Burlington VT 05401 USA",
+  "seller_email": "hello@redbark.com",
+  "seller_phone": "+1 802-555-0177",
+  "seller_tax_id": "EIN: 44-5678901",
+  "client_name": "Prism Animation Works",
+  "client_address": "45 Washington St Brooklyn NY 11201 USA",
+  "client_email": "billing@prismanimation.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1954.25,
+      "discount_pct": 0,
+      "line_total": 5862.75
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1841.92,
+      "discount_pct": 0,
+      "line_total": 3683.84
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 659.4,
+      "discount_pct": 0,
+      "line_total": 1978.2
+    }
+  ],
+  "subtotal": 11524.79,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 576.24,
+  "shipping_amount": 0.0,
+  "total_due": 12101.03,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

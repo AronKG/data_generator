@@ -1,0 +1,70 @@
+{
+  "id": 961,
+  "filename": "invoice_961.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "2024-22870",
+  "issue_date": "27/03/2023",
+  "due_date": "11-May-2023",
+  "payment_terms": "Immediate",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-19315",
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1188.12,
+      "discount_pct": 0,
+      "line_total": 1188.12
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 228.52,
+      "discount_pct": 0,
+      "line_total": 228.52
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 584.12,
+      "discount_pct": 0,
+      "line_total": 584.12
+    }
+  ],
+  "subtotal": 2000.76,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 140.05,
+  "shipping_amount": 0.0,
+  "total_due": 2140.81,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

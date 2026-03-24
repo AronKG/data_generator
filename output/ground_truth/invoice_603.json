@@ -1,0 +1,202 @@
+{
+  "id": 603,
+  "filename": "invoice_603.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "INV-2025-48363",
+  "issue_date": "03/09/2023",
+  "due_date": "07 June 2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Inkwell Publishing House",
+  "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
+  "seller_email": "billing@inkwellpub.com",
+  "seller_phone": "+1 312-555-0188",
+  "seller_tax_id": "EIN: 55-6789012",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 20,
+  "line_items": [
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 217.74,
+      "discount_pct": 10,
+      "line_total": 587.9
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 5972.06,
+      "discount_pct": 20,
+      "line_total": 4777.65
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 541.24,
+      "discount_pct": 0,
+      "line_total": 5412.4
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2101.98,
+      "discount_pct": 0,
+      "line_total": 52549.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 162.97,
+      "discount_pct": 0,
+      "line_total": 8148.5
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1662.49,
+      "discount_pct": 0,
+      "line_total": 1662.49
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1108.77,
+      "discount_pct": 5,
+      "line_total": 26333.29
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3413.98,
+      "discount_pct": 0,
+      "line_total": 6827.96
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 38.93,
+      "discount_pct": 10,
+      "line_total": 875.93
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 962.46,
+      "discount_pct": 0,
+      "line_total": 4812.3
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 572.96,
+      "discount_pct": 15,
+      "line_total": 487.02
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2668.78,
+      "discount_pct": 0,
+      "line_total": 5337.56
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 352.46,
+      "discount_pct": 0,
+      "line_total": 352.46
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11375.29,
+      "discount_pct": 0,
+      "line_total": 113752.9
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2048.7,
+      "discount_pct": 15,
+      "line_total": 87069.75
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3202.54,
+      "discount_pct": 20,
+      "line_total": 2562.03
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 12.83,
+      "discount_pct": 5,
+      "line_total": 609.42
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 169.39,
+      "discount_pct": 20,
+      "line_total": 135.51
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 336.47,
+      "discount_pct": 15,
+      "line_total": 7149.99
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 826.29,
+      "discount_pct": 15,
+      "line_total": 1404.69
+    }
+  ],
+  "subtotal": 330849.25,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 33084.93,
+  "shipping_amount": 58.32,
+  "total_due": 363992.5,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

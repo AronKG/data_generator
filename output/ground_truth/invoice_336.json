@@ -1,0 +1,154 @@
+{
+  "id": 336,
+  "filename": "invoice_336.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "RCPT-2022-12840",
+  "issue_date": "07/07/2022",
+  "due_date": "22/07/2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-79715",
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1606.4,
+      "discount_pct": 0,
+      "line_total": 16064.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 338.93,
+      "discount_pct": 0,
+      "line_total": 16946.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 86.27,
+      "discount_pct": 20,
+      "line_total": 69.02
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 75.48,
+      "discount_pct": 20,
+      "line_total": 60.38
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2702.38,
+      "discount_pct": 5,
+      "line_total": 5134.52
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 162.92,
+      "discount_pct": 15,
+      "line_total": 138.48
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 603.14,
+      "discount_pct": 5,
+      "line_total": 2864.91
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 650.1,
+      "discount_pct": 0,
+      "line_total": 1950.3
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2488.41,
+      "discount_pct": 20,
+      "line_total": 49768.2
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 28.47,
+      "discount_pct": 10,
+      "line_total": 1281.15
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1075.94,
+      "discount_pct": 10,
+      "line_total": 48417.3
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 274.73,
+      "discount_pct": 0,
+      "line_total": 6868.25
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9442.32,
+      "discount_pct": 0,
+      "line_total": 9442.32
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1318.69,
+      "discount_pct": 0,
+      "line_total": 1318.69
+    }
+  ],
+  "subtotal": 160324.02,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 11222.68,
+  "shipping_amount": 0.0,
+  "total_due": 171546.7,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

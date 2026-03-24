@@ -1,0 +1,154 @@
+{
+  "id": 733,
+  "filename": "invoice_733.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "2022-32242",
+  "issue_date": "09 July 2024",
+  "due_date": "16 July 2024",
+  "payment_terms": "Immediate",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 316.34,
+      "discount_pct": 0,
+      "line_total": 316.34
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 3197.47,
+      "discount_pct": 0,
+      "line_total": 159873.5
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 4931.0,
+      "discount_pct": 15,
+      "line_total": 8382.7
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 165.4,
+      "discount_pct": 0,
+      "line_total": 165.4
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 19175.05,
+      "discount_pct": 20,
+      "line_total": 76700.2
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3467.16,
+      "discount_pct": 5,
+      "line_total": 9881.41
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 353.68,
+      "discount_pct": 15,
+      "line_total": 300.63
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 143.27,
+      "discount_pct": 20,
+      "line_total": 5730.8
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 660.08,
+      "discount_pct": 5,
+      "line_total": 15676.9
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 501.38,
+      "discount_pct": 20,
+      "line_total": 401.1
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5267.3,
+      "discount_pct": 0,
+      "line_total": 5267.3
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 110.28,
+      "discount_pct": 0,
+      "line_total": 110.28
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 421.33,
+      "discount_pct": 5,
+      "line_total": 400.26
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 127.72,
+      "discount_pct": 0,
+      "line_total": 638.6
+    }
+  ],
+  "subtotal": 283845.42,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 14192.27,
+  "shipping_amount": 34.78,
+  "total_due": 298072.47,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

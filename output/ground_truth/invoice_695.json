@@ -1,0 +1,146 @@
+{
+  "id": 695,
+  "filename": "invoice_695.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "2022-22749",
+  "issue_date": "November 22 2024",
+  "due_date": "12/22/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 5733.07,
+      "discount_pct": 20,
+      "line_total": 4586.46
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2039.71,
+      "discount_pct": 0,
+      "line_total": 50992.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 67.0,
+      "discount_pct": 10,
+      "line_total": 120.6
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 991.13,
+      "discount_pct": 15,
+      "line_total": 21061.51
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 60.24,
+      "discount_pct": 0,
+      "line_total": 3012.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 205.98,
+      "discount_pct": 15,
+      "line_total": 350.17
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1141.28,
+      "discount_pct": 0,
+      "line_total": 57064.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 742.01,
+      "discount_pct": 5,
+      "line_total": 704.91
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 1672.49,
+      "discount_pct": 5,
+      "line_total": 15888.66
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 60.91,
+      "discount_pct": 10,
+      "line_total": 54.82
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1263.0,
+      "discount_pct": 0,
+      "line_total": 6315.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 1372.05,
+      "discount_pct": 0,
+      "line_total": 2744.1
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 573.68,
+      "discount_pct": 15,
+      "line_total": 975.26
+    }
+  ],
+  "subtotal": 163870.24,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 24580.54,
+  "shipping_amount": 0.0,
+  "total_due": 188450.78,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

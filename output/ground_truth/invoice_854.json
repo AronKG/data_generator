@@ -1,0 +1,70 @@
+{
+  "id": 854,
+  "filename": "invoice_854.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "004319",
+  "issue_date": "31 December 2022",
+  "due_date": "31 March 2023",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Helix Beratung GmbH",
+  "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
+  "seller_email": "rechnung@helix-beratung.de",
+  "seller_phone": "+49 89 555 0199",
+  "seller_tax_id": "USt-IdNr: DE345678901",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 125.14,
+      "discount_pct": 0,
+      "line_total": 1251.4
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2107.26,
+      "discount_pct": 0,
+      "line_total": 2107.26
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 200.9,
+      "discount_pct": 0,
+      "line_total": 602.7
+    }
+  ],
+  "subtotal": 3961.36,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 237.68,
+  "shipping_amount": 0.0,
+  "total_due": 4199.04,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

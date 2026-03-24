@@ -1,0 +1,78 @@
+{
+  "id": 164,
+  "filename": "invoice_164.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "SI/2022/60545",
+  "issue_date": "09/15/2024",
+  "due_date": "09/22/2024",
+  "payment_terms": "Net 60",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-24950",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 136.31,
+      "discount_pct": 10,
+      "line_total": 613.39
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1105.33,
+      "discount_pct": 5,
+      "line_total": 2100.13
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5049.45,
+      "discount_pct": 20,
+      "line_total": 201978.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 9994.54,
+      "discount_pct": 15,
+      "line_total": 16990.72
+    }
+  ],
+  "subtotal": 221682.24,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 33252.34,
+  "shipping_amount": 0.0,
+  "total_due": 254934.58,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

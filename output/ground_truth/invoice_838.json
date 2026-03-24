@@ -1,0 +1,98 @@
+{
+  "id": 838,
+  "filename": "invoice_838.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
+  "invoice_number": "PROFORMA-2022-46804",
+  "issue_date": "2022-07-21",
+  "due_date": "2022-09-04",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2917.61,
+      "discount_pct": 0,
+      "line_total": 2917.61
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1787.85,
+      "discount_pct": 0,
+      "line_total": 44696.25
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 543.25,
+      "discount_pct": 20,
+      "line_total": 4346.0
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 146.48,
+      "discount_pct": 0,
+      "line_total": 1464.8
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 160.81,
+      "discount_pct": 0,
+      "line_total": 160.81
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1324.35,
+      "discount_pct": 5,
+      "line_total": 1258.13
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3949.79,
+      "discount_pct": 0,
+      "line_total": 3949.79
+    }
+  ],
+  "subtotal": 58793.39,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 58793.39,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

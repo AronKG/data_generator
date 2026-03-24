@@ -1,0 +1,126 @@
+{
+  "id": 166,
+  "filename": "invoice_166.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
+  "invoice_number": "037269",
+  "issue_date": "11/28/2022",
+  "due_date": "01/12/2023",
+  "payment_terms": "Upon completion",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 17330.91,
+      "discount_pct": 5,
+      "line_total": 82321.82
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 678.94,
+      "discount_pct": 0,
+      "line_total": 678.94
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2862.71,
+      "discount_pct": 0,
+      "line_total": 143135.5
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2028.6,
+      "discount_pct": 0,
+      "line_total": 2028.6
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1537.4,
+      "discount_pct": 10,
+      "line_total": 1383.66
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1486.76,
+      "discount_pct": 10,
+      "line_total": 33452.1
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 10341.13,
+      "discount_pct": 0,
+      "line_total": 258528.25
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 548.66,
+      "discount_pct": 5,
+      "line_total": 2606.13
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 1812.49,
+      "discount_pct": 0,
+      "line_total": 9062.45
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 912.9,
+      "discount_pct": 10,
+      "line_total": 8216.1
+    }
+  ],
+  "subtotal": 541413.55,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 108282.71,
+  "shipping_amount": 55.17,
+  "total_due": 649751.43,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

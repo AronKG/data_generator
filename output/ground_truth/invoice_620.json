@@ -1,0 +1,159 @@
+{
+  "id": 620,
+  "filename": "invoice_620.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
+  "invoice_number": "023146",
+  "issue_date": "08/07/2022",
+  "due_date": "2022-10-06",
+  "payment_terms": "Upon completion",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-56610",
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 199.56,
+      "discount_pct": 20,
+      "line_total": 159.65
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2691.92,
+      "discount_pct": 0,
+      "line_total": 67298.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 9625.16,
+      "discount_pct": 15,
+      "line_total": 24544.16
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 47.32,
+      "discount_pct": 10,
+      "line_total": 42.59
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 74.79,
+      "discount_pct": 0,
+      "line_total": 74.79
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3741.99,
+      "discount_pct": 20,
+      "line_total": 2993.59
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 255.87,
+      "discount_pct": 20,
+      "line_total": 2046.96
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1773.23,
+      "discount_pct": 5,
+      "line_total": 8422.84
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 274.41,
+      "discount_pct": 0,
+      "line_total": 548.82
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 792.2,
+      "discount_pct": 15,
+      "line_total": 6733.7
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 17067.13,
+      "discount_pct": 0,
+      "line_total": 51201.39
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 140.01,
+      "discount_pct": 0,
+      "line_total": 280.02
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 12513.91,
+      "discount_pct": 0,
+      "line_total": 37541.73
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2976.68,
+      "discount_pct": 5,
+      "line_total": 14139.23
+    }
+  ],
+  "subtotal": 216027.47,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 28083.57,
+  "shipping_amount": 101.08,
+  "total_due": 244212.12,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

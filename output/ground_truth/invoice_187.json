@@ -1,0 +1,231 @@
+{
+  "id": 187,
+  "filename": "invoice_187.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
+  "invoice_number": "SI-2023-9030",
+  "issue_date": "12/19/2024",
+  "due_date": "09-Jan-2025",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-58302",
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 23,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 439.83,
+      "discount_pct": 0,
+      "line_total": 879.66
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4484.66,
+      "discount_pct": 20,
+      "line_total": 3587.73
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 2838.96,
+      "discount_pct": 0,
+      "line_total": 14194.8
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 317.88,
+      "discount_pct": 0,
+      "line_total": 953.64
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 42.06,
+      "discount_pct": 0,
+      "line_total": 420.6
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 9754.24,
+      "discount_pct": 15,
+      "line_total": 414555.2
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8017.74,
+      "discount_pct": 0,
+      "line_total": 8017.74
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 62.33,
+      "discount_pct": 15,
+      "line_total": 105.96
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 499.18,
+      "discount_pct": 0,
+      "line_total": 499.18
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 10176.81,
+      "discount_pct": 5,
+      "line_total": 241699.24
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1278.24,
+      "discount_pct": 0,
+      "line_total": 63912.0
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2615.0,
+      "discount_pct": 5,
+      "line_total": 12421.25
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1142.59,
+      "discount_pct": 15,
+      "line_total": 971.2
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 33.4,
+      "discount_pct": 20,
+      "line_total": 668.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2925.16,
+      "discount_pct": 0,
+      "line_total": 5850.32
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1667.68,
+      "discount_pct": 10,
+      "line_total": 1500.91
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 8869.23,
+      "discount_pct": 5,
+      "line_total": 42128.84
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6408.54,
+      "discount_pct": 10,
+      "line_total": 5767.69
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1043.04,
+      "discount_pct": 5,
+      "line_total": 990.89
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 430.62,
+      "discount_pct": 10,
+      "line_total": 387.56
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 488.21,
+      "discount_pct": 10,
+      "line_total": 878.78
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1535.13,
+      "discount_pct": 0,
+      "line_total": 15351.3
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 114.43,
+      "discount_pct": 15,
+      "line_total": 291.8
+    }
+  ],
+  "subtotal": 836034.29,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 158846.52,
+  "shipping_amount": 0.0,
+  "total_due": 994880.81,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

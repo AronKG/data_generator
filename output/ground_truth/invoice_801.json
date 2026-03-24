@@ -1,0 +1,70 @@
+{
+  "id": 801,
+  "filename": "invoice_801.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
+  "invoice_number": "TAX-INV78644",
+  "issue_date": "14 February 2022",
+  "due_date": "February 28 2022",
+  "payment_terms": "Net 21",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-99147",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 734.23,
+      "discount_pct": 0,
+      "line_total": 3671.15
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5727.83,
+      "discount_pct": 0,
+      "line_total": 5727.83
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 572.67,
+      "discount_pct": 0,
+      "line_total": 14316.75
+    }
+  ],
+  "subtotal": 23715.73,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 23715.73,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

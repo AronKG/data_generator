@@ -1,0 +1,158 @@
+{
+  "id": 456,
+  "filename": "invoice_456.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "RCPT-2022-8284",
+  "issue_date": "09/11/2024",
+  "due_date": "24 December 2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-32438",
+  "seller_name": "Horizon Tech Ventures",
+  "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
+  "seller_email": "ar@horizontech.com",
+  "seller_phone": "+1 650-555-0188",
+  "seller_tax_id": "EIN: 55-1234567",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 624.14,
+      "discount_pct": 0,
+      "line_total": 624.14
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1996.09,
+      "discount_pct": 20,
+      "line_total": 1596.87
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6360.98,
+      "discount_pct": 0,
+      "line_total": 159024.5
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 19297.26,
+      "discount_pct": 0,
+      "line_total": 38594.52
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 4601.72,
+      "discount_pct": 5,
+      "line_total": 43716.34
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 756.5,
+      "discount_pct": 20,
+      "line_total": 605.2
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2999.85,
+      "discount_pct": 0,
+      "line_total": 2999.85
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 225.31,
+      "discount_pct": 5,
+      "line_total": 428.09
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4299.21,
+      "discount_pct": 20,
+      "line_total": 6878.74
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1379.26,
+      "discount_pct": 10,
+      "line_total": 6206.67
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14427.42,
+      "discount_pct": 10,
+      "line_total": 12984.68
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3115.25,
+      "discount_pct": 0,
+      "line_total": 15576.25
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 5173.23,
+      "discount_pct": 0,
+      "line_total": 51732.3
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 735.81,
+      "discount_pct": 0,
+      "line_total": 36790.5
+    }
+  ],
+  "subtotal": 377758.65,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 37775.87,
+  "shipping_amount": 179.61,
+  "total_due": 415714.13,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": 835,
+  "filename": "invoice_835.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
+  "invoice_number": "RCPT/2022/30839",
+  "issue_date": "October 17 2023",
+  "due_date": "07 November 2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
+  "seller_name": "Helix Beratung GmbH",
+  "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
+  "seller_email": "rechnung@helix-beratung.de",
+  "seller_phone": "+49 89 555 0199",
+  "seller_tax_id": "USt-IdNr: DE345678901",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 335.22,
+      "discount_pct": 10,
+      "line_total": 1508.49
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5317.32,
+      "discount_pct": 10,
+      "line_total": 239279.4
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 470.6,
+      "discount_pct": 15,
+      "line_total": 800.02
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2918.59,
+      "discount_pct": 15,
+      "line_total": 7442.4
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4552.1,
+      "discount_pct": 20,
+      "line_total": 18208.4
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 47.25,
+      "discount_pct": 0,
+      "line_total": 472.5
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4847.15,
+      "discount_pct": 15,
+      "line_total": 41200.78
+    }
+  ],
+  "subtotal": 308911.99,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 15445.6,
+  "shipping_amount": 0.0,
+  "total_due": 324357.59,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

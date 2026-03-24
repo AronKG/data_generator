@@ -1,0 +1,82 @@
+{
+  "id": 929,
+  "filename": "invoice_929.pdf",
+  "layout_style": "ledger",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
+  "invoice_number": "INV-2024-26146",
+  "issue_date": "02 July 2023",
+  "due_date": "30/09/2023",
+  "payment_terms": "End of Month",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Apex Solutions Ltd.",
+  "seller_address": "14 Baker Street London EC1A 1BB UK",
+  "seller_email": "info@apexsolutions.co.uk",
+  "seller_phone": "+44 20 7946 0958",
+  "seller_tax_id": "VAT No: GB123456789",
+  "client_name": "Vivid Apparel Group",
+  "client_address": "7th Ave New York NY 10018 USA",
+  "client_email": "ap@vividapparel.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 953.8,
+      "discount_pct": 0,
+      "line_total": 9538.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4443.51,
+      "discount_pct": 0,
+      "line_total": 4443.51
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 25,
+      "unit_price": 7726.98,
+      "discount_pct": 0,
+      "line_total": 193174.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 336.1,
+      "discount_pct": 15,
+      "line_total": 571.37
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 1774.62,
+      "discount_pct": 0,
+      "line_total": 44365.5
+    }
+  ],
+  "subtotal": 252092.88,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 47897.65,
+  "shipping_amount": 0.0,
+  "total_due": 299990.53,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

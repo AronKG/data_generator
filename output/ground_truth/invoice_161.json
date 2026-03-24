@@ -1,0 +1,202 @@
+{
+  "id": 161,
+  "filename": "invoice_161.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
+  "invoice_number": "INV-2023-59871",
+  "issue_date": "December 08 2023",
+  "due_date": "07-Jan-2024",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-65109",
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 20,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1843.65,
+      "discount_pct": 0,
+      "line_total": 1843.65
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2281.71,
+      "discount_pct": 0,
+      "line_total": 6845.13
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 201.47,
+      "discount_pct": 10,
+      "line_total": 9066.15
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1092.58,
+      "discount_pct": 5,
+      "line_total": 25948.77
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 7207.8,
+      "discount_pct": 10,
+      "line_total": 162175.5
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1725.24,
+      "discount_pct": 0,
+      "line_total": 5175.72
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1173.34,
+      "discount_pct": 0,
+      "line_total": 29333.5
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4092.79,
+      "discount_pct": 15,
+      "line_total": 6957.74
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1928.58,
+      "discount_pct": 20,
+      "line_total": 1542.86
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 823.98,
+      "discount_pct": 20,
+      "line_total": 659.18
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12821.11,
+      "discount_pct": 0,
+      "line_total": 25642.22
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 315.41,
+      "discount_pct": 20,
+      "line_total": 252.33
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1064.61,
+      "discount_pct": 20,
+      "line_total": 1703.38
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 6068.32,
+      "discount_pct": 5,
+      "line_total": 5764.9
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4918.32,
+      "discount_pct": 0,
+      "line_total": 49183.2
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1714.22,
+      "discount_pct": 5,
+      "line_total": 1628.51
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7997.33,
+      "discount_pct": 10,
+      "line_total": 21592.79
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1400.4,
+      "discount_pct": 0,
+      "line_total": 35010.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6598.16,
+      "discount_pct": 15,
+      "line_total": 5608.44
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 3702.23,
+      "discount_pct": 0,
+      "line_total": 18511.15
+    }
+  ],
+  "subtotal": 414445.12,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 95322.38,
+  "shipping_amount": 0.0,
+  "total_due": 509767.5,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

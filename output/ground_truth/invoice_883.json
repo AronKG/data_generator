@@ -1,0 +1,114 @@
+{
+  "id": 883,
+  "filename": "invoice_883.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
+  "invoice_number": "SI-10737",
+  "issue_date": "13 August 2022",
+  "due_date": "October 12 2022",
+  "payment_terms": "End of Month",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 9,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 221.63,
+      "discount_pct": 10,
+      "line_total": 199.47
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13182.35,
+      "discount_pct": 20,
+      "line_total": 52729.4
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2330.54,
+      "discount_pct": 0,
+      "line_total": 2330.54
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1333.71,
+      "discount_pct": 20,
+      "line_total": 1066.97
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 853.18,
+      "discount_pct": 0,
+      "line_total": 1706.36
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1961.57,
+      "discount_pct": 5,
+      "line_total": 5590.47
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 159.58,
+      "discount_pct": 0,
+      "line_total": 159.58
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 1911.53,
+      "discount_pct": 10,
+      "line_total": 5161.13
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 141.02,
+      "discount_pct": 5,
+      "line_total": 133.97
+    }
+  ],
+  "subtotal": 69077.89,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 13815.58,
+  "shipping_amount": 0.0,
+  "total_due": 82893.47,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

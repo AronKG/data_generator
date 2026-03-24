@@ -1,0 +1,159 @@
+{
+  "id": 308,
+  "filename": "invoice_308.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "035778",
+  "issue_date": "August 24 2022",
+  "due_date": "09/14/2022",
+  "payment_terms": "Net 90",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-78715",
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 301.69,
+      "discount_pct": 15,
+      "line_total": 6410.91
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 121.24,
+      "discount_pct": 15,
+      "line_total": 1030.54
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 11408.01,
+      "discount_pct": 0,
+      "line_total": 22816.02
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 584.97,
+      "discount_pct": 0,
+      "line_total": 1754.91
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 897.39,
+      "discount_pct": 5,
+      "line_total": 21313.01
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1819.72,
+      "discount_pct": 0,
+      "line_total": 1819.72
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1108.73,
+      "discount_pct": 0,
+      "line_total": 1108.73
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 237.7,
+      "discount_pct": 15,
+      "line_total": 606.13
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 170.89,
+      "discount_pct": 0,
+      "line_total": 854.45
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2359.55,
+      "discount_pct": 5,
+      "line_total": 2241.57
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1766.29,
+      "discount_pct": 5,
+      "line_total": 1677.98
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7808.86,
+      "discount_pct": 0,
+      "line_total": 390443.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 40996.99,
+      "discount_pct": 15,
+      "line_total": 348474.41
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 82.89,
+      "discount_pct": 0,
+      "line_total": 4144.5
+    }
+  ],
+  "subtotal": 804695.88,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 804695.88,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

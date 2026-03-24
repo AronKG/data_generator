@@ -1,0 +1,182 @@
+{
+  "id": 829,
+  "filename": "invoice_829.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "2022-1555",
+  "issue_date": "10/16/2022",
+  "due_date": "30-Oct-2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-10191",
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 17,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 892.44,
+      "discount_pct": 0,
+      "line_total": 892.44
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1452.56,
+      "discount_pct": 0,
+      "line_total": 1452.56
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2835.06,
+      "discount_pct": 0,
+      "line_total": 2835.06
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 3135.45,
+      "discount_pct": 0,
+      "line_total": 78386.25
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 95.86,
+      "discount_pct": 10,
+      "line_total": 172.55
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 713.65,
+      "discount_pct": 0,
+      "line_total": 17841.25
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 1183.99,
+      "discount_pct": 0,
+      "line_total": 59199.5
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2441.35,
+      "discount_pct": 15,
+      "line_total": 2075.15
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4424.44,
+      "discount_pct": 20,
+      "line_total": 88488.8
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1050.24,
+      "discount_pct": 5,
+      "line_total": 9977.28
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 77.02,
+      "discount_pct": 0,
+      "line_total": 385.1
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6002.56,
+      "discount_pct": 0,
+      "line_total": 6002.56
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 231.98,
+      "discount_pct": 20,
+      "line_total": 185.58
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 2381.51,
+      "discount_pct": 20,
+      "line_total": 1905.21
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 345.24,
+      "discount_pct": 10,
+      "line_total": 7767.9
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 161.88,
+      "discount_pct": 0,
+      "line_total": 1618.8
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 3005.14,
+      "discount_pct": 20,
+      "line_total": 60102.8
+    }
+  ],
+  "subtotal": 339288.79,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 339288.79,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

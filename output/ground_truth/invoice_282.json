@@ -1,0 +1,62 @@
+{
+  "id": 282,
+  "filename": "invoice_282.pdf",
+  "layout_style": "ledger",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 7,
+  "invoice_number": "020722",
+  "issue_date": "04/10/2023",
+  "due_date": "03 December 2023",
+  "payment_terms": "End of Month",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-80059",
+  "seller_name": "Anchor and Sail Marine",
+  "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
+  "seller_email": "billing@anchorsail.nz",
+  "seller_phone": "+64 9 555 0188",
+  "seller_tax_id": "NZBN: 9429041234567",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1862.49,
+      "discount_pct": 0,
+      "line_total": 18624.9
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 11076.91,
+      "discount_pct": 0,
+      "line_total": 33230.73
+    }
+  ],
+  "subtotal": 51855.63,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 11926.79,
+  "shipping_amount": 0.0,
+  "total_due": 63782.42,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

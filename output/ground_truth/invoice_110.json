@@ -1,0 +1,82 @@
+{
+  "id": 110,
+  "filename": "invoice_110.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "REF5496",
+  "issue_date": "09/14/2022",
+  "due_date": "10/29/2022",
+  "payment_terms": "Immediate",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-23245",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "TerraFirm Construction",
+  "client_address": "88 Builders Rd Denver CO 80202 USA",
+  "client_email": "ap@terrafirm.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 418.48,
+      "discount_pct": 10,
+      "line_total": 3766.32
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 6335.86,
+      "discount_pct": 10,
+      "line_total": 11404.55
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9640.08,
+      "discount_pct": 5,
+      "line_total": 228951.9
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 432.59,
+      "discount_pct": 20,
+      "line_total": 1730.36
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2066.06,
+      "discount_pct": 10,
+      "line_total": 3718.91
+    }
+  ],
+  "subtotal": 249572.04,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 12478.6,
+  "shipping_amount": 0.0,
+  "total_due": 262050.64,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,242 @@
+{
+  "id": 345,
+  "filename": "invoice_345.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 2,
+  "invoice_number": "2022-30440",
+  "issue_date": "07/15/2023",
+  "due_date": "05-Aug-2023",
+  "payment_terms": "Net 15",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-51286",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 848.03,
+      "discount_pct": 0,
+      "line_total": 848.03
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2699.86,
+      "discount_pct": 10,
+      "line_total": 2429.87
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 578.98,
+      "discount_pct": 15,
+      "line_total": 492.13
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1013.62,
+      "discount_pct": 15,
+      "line_total": 4307.89
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 575.86,
+      "discount_pct": 0,
+      "line_total": 2879.3
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2121.19,
+      "discount_pct": 10,
+      "line_total": 5727.21
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 770.0,
+      "discount_pct": 20,
+      "line_total": 1848.0
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 88.38,
+      "discount_pct": 0,
+      "line_total": 265.14
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 281.72,
+      "discount_pct": 5,
+      "line_total": 535.27
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 738.87,
+      "discount_pct": 0,
+      "line_total": 738.87
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 1659.64,
+      "discount_pct": 10,
+      "line_total": 1493.68
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 628.36,
+      "discount_pct": 0,
+      "line_total": 15709.0
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 14464.2,
+      "discount_pct": 0,
+      "line_total": 28928.4
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1967.07,
+      "discount_pct": 20,
+      "line_total": 1573.66
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 9912.93,
+      "discount_pct": 10,
+      "line_total": 17843.27
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 604.78,
+      "discount_pct": 0,
+      "line_total": 604.78
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 3654.32,
+      "discount_pct": 15,
+      "line_total": 15530.86
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 38568.51,
+      "discount_pct": 0,
+      "line_total": 385685.1
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 129.79,
+      "discount_pct": 0,
+      "line_total": 3244.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 201.41,
+      "discount_pct": 10,
+      "line_total": 362.54
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2089.65,
+      "discount_pct": 0,
+      "line_total": 2089.65
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1682.02,
+      "discount_pct": 5,
+      "line_total": 1597.92
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 92.19,
+      "discount_pct": 0,
+      "line_total": 92.19
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 79.96,
+      "discount_pct": 0,
+      "line_total": 79.96
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 46.68,
+      "discount_pct": 20,
+      "line_total": 74.69
+    }
+  ],
+  "subtotal": 494982.16,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 49498.22,
+  "shipping_amount": 0.0,
+  "total_due": 544480.38,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

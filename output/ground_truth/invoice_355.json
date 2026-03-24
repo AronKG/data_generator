@@ -1,0 +1,102 @@
+{
+  "id": 355,
+  "filename": "invoice_355.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "INV85189",
+  "issue_date": "June 09 2024",
+  "due_date": "June 24 2024",
+  "payment_terms": "Net 21",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-94675",
+  "seller_name": "StellarPrint Studios",
+  "seller_address": "40 Printers Row Chicago IL 60605 USA",
+  "seller_email": "invoices@stellarprint.com",
+  "seller_phone": "+1 312-555-0140",
+  "seller_tax_id": "EIN: 34-5678901",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2437.47,
+      "discount_pct": 0,
+      "line_total": 2437.47
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 34.88,
+      "discount_pct": 5,
+      "line_total": 165.68
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3300.13,
+      "discount_pct": 0,
+      "line_total": 9900.39
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1090.09,
+      "discount_pct": 0,
+      "line_total": 10900.9
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 766.91,
+      "discount_pct": 20,
+      "line_total": 1840.58
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 323.81,
+      "discount_pct": 15,
+      "line_total": 1376.19
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 612.12,
+      "discount_pct": 20,
+      "line_total": 489.7
+    }
+  ],
+  "subtotal": 27110.91,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 2711.09,
+  "shipping_amount": 147.6,
+  "total_due": 29969.6,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

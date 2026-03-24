@@ -1,0 +1,82 @@
+{
+  "id": 992,
+  "filename": "invoice_992.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "INV-2022-68556",
+  "issue_date": "06/07/2023",
+  "due_date": "20-Jul-2023",
+  "payment_terms": "Immediate",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1041.76,
+      "discount_pct": 0,
+      "line_total": 1041.76
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 64.66,
+      "discount_pct": 0,
+      "line_total": 646.6
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 738.81,
+      "discount_pct": 10,
+      "line_total": 6649.29
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 152.87,
+      "discount_pct": 0,
+      "line_total": 152.87
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2186.42,
+      "discount_pct": 0,
+      "line_total": 2186.42
+    }
+  ],
+  "subtotal": 10676.94,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 880.85,
+  "shipping_amount": 0.0,
+  "total_due": 11557.79,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

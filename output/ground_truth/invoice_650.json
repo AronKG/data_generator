@@ -1,0 +1,111 @@
+{
+  "id": 650,
+  "filename": "invoice_650.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "TAX-INV-2024-16260",
+  "issue_date": "21/04/2023",
+  "due_date": "06/05/2023",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4759.14,
+      "discount_pct": 0,
+      "line_total": 23795.7
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1779.59,
+      "discount_pct": 0,
+      "line_total": 1779.59
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7798.85,
+      "discount_pct": 0,
+      "line_total": 7798.85
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 269.21,
+      "discount_pct": 0,
+      "line_total": 2692.1
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1639.54,
+      "discount_pct": 0,
+      "line_total": 81977.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2956.07,
+      "discount_pct": 10,
+      "line_total": 26604.63
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 9886.54,
+      "discount_pct": 10,
+      "line_total": 88978.86
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 110.64,
+      "discount_pct": 10,
+      "line_total": 298.73
+    }
+  ],
+  "subtotal": 233925.46,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 46785.09,
+  "shipping_amount": 131.57,
+  "total_due": 280842.12,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

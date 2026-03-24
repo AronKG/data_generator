@@ -1,0 +1,70 @@
+{
+  "id": 119,
+  "filename": "invoice_119.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
+  "invoice_number": "TAX-INV-48036",
+  "issue_date": "02-Jan-2023",
+  "due_date": "2023-04-02",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3450.43,
+      "discount_pct": 0,
+      "line_total": 3450.43
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1557.21,
+      "discount_pct": 0,
+      "line_total": 4671.63
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 905.53,
+      "discount_pct": 0,
+      "line_total": 905.53
+    }
+  ],
+  "subtotal": 9027.59,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 541.66,
+  "shipping_amount": 0.0,
+  "total_due": 9569.25,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

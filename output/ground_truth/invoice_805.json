@@ -1,0 +1,98 @@
+{
+  "id": 805,
+  "filename": "invoice_805.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "BILL54400",
+  "issue_date": "11/14/2024",
+  "due_date": "21/11/2024",
+  "payment_terms": "Net 60",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-58059",
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3000.89,
+      "discount_pct": 0,
+      "line_total": 150044.5
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1295.62,
+      "discount_pct": 0,
+      "line_total": 1295.62
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 135.07,
+      "discount_pct": 0,
+      "line_total": 675.35
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 114.29,
+      "discount_pct": 0,
+      "line_total": 5714.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 259.57,
+      "discount_pct": 0,
+      "line_total": 778.71
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2416.08,
+      "discount_pct": 0,
+      "line_total": 2416.08
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1089.72,
+      "discount_pct": 10,
+      "line_total": 49037.4
+    }
+  ],
+  "subtotal": 209962.16,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 39892.81,
+  "shipping_amount": 0.0,
+  "total_due": 249854.97,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

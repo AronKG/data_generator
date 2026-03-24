@@ -1,0 +1,98 @@
+{
+  "id": 325,
+  "filename": "invoice_325.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
+  "invoice_number": "INV-2022-85446",
+  "issue_date": "2022-03-10",
+  "due_date": "17 March 2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-81522",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 813.14,
+      "discount_pct": 20,
+      "line_total": 32525.6
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 257.07,
+      "discount_pct": 5,
+      "line_total": 2442.16
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 18534.97,
+      "discount_pct": 0,
+      "line_total": 55604.91
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 4831.31,
+      "discount_pct": 0,
+      "line_total": 24156.55
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 89.2,
+      "discount_pct": 5,
+      "line_total": 84.74
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 578.11,
+      "discount_pct": 0,
+      "line_total": 578.11
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2225.51,
+      "discount_pct": 0,
+      "line_total": 2225.51
+    }
+  ],
+  "subtotal": 117617.58,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 15290.29,
+  "shipping_amount": 0.0,
+  "total_due": 132907.87,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

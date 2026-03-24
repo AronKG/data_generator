@@ -1,0 +1,138 @@
+{
+  "id": 301,
+  "filename": "invoice_301.pdf",
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
+  "invoice_number": "TAX-INV/2024/91187",
+  "issue_date": "05/24/2024",
+  "due_date": "2024-06-07",
+  "payment_terms": "Net 90",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Azure Bay Resort Group",
+  "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
+  "client_email": "finance@azurebayresorts.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4040.67,
+      "discount_pct": 15,
+      "line_total": 34345.69
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 117.36,
+      "discount_pct": 0,
+      "line_total": 1173.6
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 5480.67,
+      "discount_pct": 15,
+      "line_total": 23292.85
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 467.43,
+      "discount_pct": 20,
+      "line_total": 373.94
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 143.37,
+      "discount_pct": 0,
+      "line_total": 7168.5
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2915.39,
+      "discount_pct": 10,
+      "line_total": 26238.51
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7163.78,
+      "discount_pct": 10,
+      "line_total": 6447.4
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 193.16,
+      "discount_pct": 0,
+      "line_total": 1931.6
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 438.59,
+      "discount_pct": 0,
+      "line_total": 438.59
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1030.27,
+      "discount_pct": 15,
+      "line_total": 875.73
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 114.45,
+      "discount_pct": 15,
+      "line_total": 4864.12
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 1149.9,
+      "discount_pct": 0,
+      "line_total": 3449.7
+    }
+  ],
+  "subtotal": 110600.23,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 21014.04,
+  "shipping_amount": 0.0,
+  "total_due": 131614.27,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

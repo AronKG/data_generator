@@ -1,0 +1,71 @@
+{
+  "id": 880,
+  "filename": "invoice_880.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
+  "invoice_number": "REF69392",
+  "issue_date": "2024-06-15",
+  "due_date": "07/30/2024",
+  "payment_terms": "End of Month",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-22544",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Copper Kettle Brewery",
+  "client_address": "3300 Blake St Denver CO 80205 USA",
+  "client_email": "purchasing@copperkettlebrew.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 864.43,
+      "discount_pct": 0,
+      "line_total": 2593.29
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 160.65,
+      "discount_pct": 0,
+      "line_total": 1606.5
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 768.97,
+      "discount_pct": 0,
+      "line_total": 3844.85
+    }
+  ],
+  "subtotal": 8044.64,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 482.68,
+  "shipping_amount": 0.0,
+  "total_due": 8527.32,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

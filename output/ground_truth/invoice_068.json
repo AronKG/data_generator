@@ -1,0 +1,126 @@
+{
+  "id": 68,
+  "filename": "invoice_068.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
+  "invoice_number": "INV/2022/26117",
+  "issue_date": "09/10/2024",
+  "due_date": "2024-11-09",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-53754",
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 185.44,
+      "discount_pct": 0,
+      "line_total": 4636.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 11081.18,
+      "discount_pct": 0,
+      "line_total": 55405.9
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2412.41,
+      "discount_pct": 0,
+      "line_total": 60310.25
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 525.47,
+      "discount_pct": 5,
+      "line_total": 499.2
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14173.98,
+      "discount_pct": 20,
+      "line_total": 11339.18
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 629.86,
+      "discount_pct": 15,
+      "line_total": 2676.91
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1581.38,
+      "discount_pct": 0,
+      "line_total": 3162.76
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1855.86,
+      "discount_pct": 15,
+      "line_total": 15774.81
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 186.84,
+      "discount_pct": 0,
+      "line_total": 186.84
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 654.06,
+      "discount_pct": 0,
+      "line_total": 6540.6
+    }
+  ],
+  "subtotal": 160532.45,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 8026.62,
+  "shipping_amount": 0.0,
+  "total_due": 168559.07,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

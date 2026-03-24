@@ -1,0 +1,71 @@
+{
+  "id": 226,
+  "filename": "invoice_226.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "PROFORMA-72600",
+  "issue_date": "December 02 2022",
+  "due_date": "16-Jan-2023",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-86213",
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Helix Biotech Corp.",
+  "client_address": "One Kendall Sq Cambridge MA 02139 USA",
+  "client_email": "ap@helixbiotech.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 8171.83,
+      "discount_pct": 0,
+      "line_total": 40859.15
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 579.75,
+      "discount_pct": 0,
+      "line_total": 579.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 665.63,
+      "discount_pct": 0,
+      "line_total": 3328.15
+    }
+  ],
+  "subtotal": 44767.05,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 5819.72,
+  "shipping_amount": 0.0,
+  "total_due": 50586.77,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

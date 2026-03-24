@@ -1,0 +1,231 @@
+{
+  "id": 369,
+  "filename": "invoice_369.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
+  "invoice_number": "INVOICE-2024-34175",
+  "issue_date": "06/13/2024",
+  "due_date": "04/07/2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-85305",
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 23,
+  "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 551.42,
+      "discount_pct": 0,
+      "line_total": 13785.5
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 169.08,
+      "discount_pct": 10,
+      "line_total": 152.17
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 81.12,
+      "discount_pct": 15,
+      "line_total": 137.9
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1429.95,
+      "discount_pct": 20,
+      "line_total": 11439.6
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 343.35,
+      "discount_pct": 0,
+      "line_total": 17167.5
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 69.96,
+      "discount_pct": 20,
+      "line_total": 279.84
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1121.99,
+      "discount_pct": 10,
+      "line_total": 1009.79
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 12210.87,
+      "discount_pct": 15,
+      "line_total": 31137.72
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 31.44,
+      "discount_pct": 10,
+      "line_total": 282.96
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 175.67,
+      "discount_pct": 10,
+      "line_total": 158.1
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 4407.43,
+      "discount_pct": 20,
+      "line_total": 3525.94
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 17312.99,
+      "discount_pct": 0,
+      "line_total": 51938.97
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1809.17,
+      "discount_pct": 0,
+      "line_total": 1809.17
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 85.31,
+      "discount_pct": 0,
+      "line_total": 853.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1813.84,
+      "discount_pct": 10,
+      "line_total": 1632.46
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11873.61,
+      "discount_pct": 0,
+      "line_total": 11873.61
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1114.34,
+      "discount_pct": 10,
+      "line_total": 10029.06
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 315.96,
+      "discount_pct": 5,
+      "line_total": 600.32
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 795.15,
+      "discount_pct": 15,
+      "line_total": 675.88
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1291.57,
+      "discount_pct": 0,
+      "line_total": 32289.25
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1203.18,
+      "discount_pct": 0,
+      "line_total": 1203.18
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 970.83,
+      "discount_pct": 15,
+      "line_total": 825.21
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 961.56,
+      "discount_pct": 0,
+      "line_total": 4807.8
+    }
+  ],
+  "subtotal": 197615.03,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 39523.01,
+  "shipping_amount": 97.78,
+  "total_due": 237235.82,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

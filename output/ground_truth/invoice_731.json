@@ -1,0 +1,122 @@
+{
+  "id": 731,
+  "filename": "invoice_731.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
+  "invoice_number": "RCPT-34970",
+  "issue_date": "05/19/2023",
+  "due_date": "03/07/2023",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Royal Palm Hotels",
+  "client_address": "Beachfront Drive Miami FL 33139 USA",
+  "client_email": "finance@royalpalmhotels.com",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1326.88,
+      "discount_pct": 15,
+      "line_total": 2255.7
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 220.74,
+      "discount_pct": 10,
+      "line_total": 198.67
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 7260.1,
+      "discount_pct": 15,
+      "line_total": 308554.25
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 272.51,
+      "discount_pct": 5,
+      "line_total": 517.77
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 10618.56,
+      "discount_pct": 20,
+      "line_total": 16989.7
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1272.62,
+      "discount_pct": 10,
+      "line_total": 5726.79
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1075.16,
+      "discount_pct": 0,
+      "line_total": 1075.16
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 518.55,
+      "discount_pct": 0,
+      "line_total": 518.55
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 130.1,
+      "discount_pct": 20,
+      "line_total": 520.4
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1695.67,
+      "discount_pct": 15,
+      "line_total": 72065.97
+    }
+  ],
+  "subtotal": 408422.96,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 20421.15,
+  "shipping_amount": 0.0,
+  "total_due": 428844.11,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

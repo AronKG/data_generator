@@ -1,0 +1,230 @@
+{
+  "id": 34,
+  "filename": "invoice_034.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
+  "invoice_number": "032463",
+  "issue_date": "13 January 2022",
+  "due_date": "February 27 2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-28862",
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Polar Star Expeditions AS",
+  "client_address": "Sjogata 4 9008 Tromso Norway",
+  "client_email": "regnskap@polarstarexp.no",
+  "num_line_items": 23,
+  "line_items": [
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 10046.35,
+      "discount_pct": 5,
+      "line_total": 19088.06
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 586.94,
+      "discount_pct": 0,
+      "line_total": 1173.88
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2313.04,
+      "discount_pct": 0,
+      "line_total": 6939.12
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1773.6,
+      "discount_pct": 0,
+      "line_total": 3547.2
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1973.54,
+      "discount_pct": 5,
+      "line_total": 18748.63
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 445.24,
+      "discount_pct": 20,
+      "line_total": 17809.6
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2360.01,
+      "discount_pct": 0,
+      "line_total": 7080.03
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5655.85,
+      "discount_pct": 10,
+      "line_total": 5090.27
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 15576.47,
+      "discount_pct": 20,
+      "line_total": 311529.4
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 112.62,
+      "discount_pct": 5,
+      "line_total": 106.99
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1436.07,
+      "discount_pct": 5,
+      "line_total": 1364.27
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 319.16,
+      "discount_pct": 0,
+      "line_total": 1595.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1918.62,
+      "discount_pct": 0,
+      "line_total": 9593.1
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 16893.49,
+      "discount_pct": 20,
+      "line_total": 675739.6
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1597.8,
+      "discount_pct": 0,
+      "line_total": 39945.0
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 985.78,
+      "discount_pct": 10,
+      "line_total": 1774.4
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 870.64,
+      "discount_pct": 0,
+      "line_total": 2611.92
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2041.1,
+      "discount_pct": 0,
+      "line_total": 10205.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1315.33,
+      "discount_pct": 0,
+      "line_total": 1315.33
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 106.76,
+      "discount_pct": 0,
+      "line_total": 213.52
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16341.91,
+      "discount_pct": 10,
+      "line_total": 14707.72
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1335.12,
+      "discount_pct": 5,
+      "line_total": 12683.64
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 64.6,
+      "discount_pct": 0,
+      "line_total": 3230.0
+    }
+  ],
+  "subtotal": 1166092.98,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 81626.51,
+  "shipping_amount": 0.0,
+  "total_due": 1247719.49,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

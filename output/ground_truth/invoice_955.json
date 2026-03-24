@@ -1,0 +1,103 @@
+{
+  "id": 955,
+  "filename": "invoice_955.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
+  "invoice_number": "INV-7070",
+  "issue_date": "2023-02-15",
+  "due_date": "01-Mar-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 415.68,
+      "discount_pct": 0,
+      "line_total": 20784.0
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 573.66,
+      "discount_pct": 0,
+      "line_total": 573.66
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1381.47,
+      "discount_pct": 20,
+      "line_total": 2210.35
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 6132.64,
+      "discount_pct": 20,
+      "line_total": 245305.6
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 316.11,
+      "discount_pct": 15,
+      "line_total": 6717.34
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 3259.11,
+      "discount_pct": 5,
+      "line_total": 9288.46
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 973.81,
+      "discount_pct": 20,
+      "line_total": 1558.1
+    }
+  ],
+  "subtotal": 286437.51,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 17186.25,
+  "shipping_amount": 0.0,
+  "total_due": 303623.76,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

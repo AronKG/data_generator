@@ -1,0 +1,158 @@
+{
+  "id": 392,
+  "filename": "invoice_392.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 10,
+  "invoice_number": "INVOICE/2022/76656",
+  "issue_date": "18 July 2024",
+  "due_date": "09/01/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-91054",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 730.1,
+      "discount_pct": 0,
+      "line_total": 730.1
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 750.76,
+      "discount_pct": 0,
+      "line_total": 750.76
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14171.83,
+      "discount_pct": 0,
+      "line_total": 354295.75
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1126.52,
+      "discount_pct": 0,
+      "line_total": 56326.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 977.71,
+      "discount_pct": 0,
+      "line_total": 1955.42
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1953.32,
+      "discount_pct": 0,
+      "line_total": 5859.96
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1455.42,
+      "discount_pct": 0,
+      "line_total": 7277.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3664.1,
+      "discount_pct": 0,
+      "line_total": 91602.5
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 19863.53,
+      "discount_pct": 15,
+      "line_total": 84420.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 485.9,
+      "discount_pct": 0,
+      "line_total": 12147.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 292.62,
+      "discount_pct": 10,
+      "line_total": 2633.58
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 327.47,
+      "discount_pct": 10,
+      "line_total": 2947.23
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1230.87,
+      "discount_pct": 0,
+      "line_total": 1230.87
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 82.9,
+      "discount_pct": 15,
+      "line_total": 352.32
+    }
+  ],
+  "subtotal": 622529.09,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 124505.82,
+  "shipping_amount": 234.45,
+  "total_due": 747269.36,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

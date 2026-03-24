@@ -1,0 +1,71 @@
+{
+  "id": 408,
+  "filename": "invoice_408.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "TAX-INV35293",
+  "issue_date": "12 January 2023",
+  "due_date": "19/01/2023",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-79997",
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Quantum Dynamics Corp",
+  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
+  "client_email": "accounts@quantumdynamics.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 1981.93,
+      "discount_pct": 0,
+      "line_total": 5945.79
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 8304.78,
+      "discount_pct": 0,
+      "line_total": 41523.9
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 27.29,
+      "discount_pct": 0,
+      "line_total": 54.58
+    }
+  ],
+  "subtotal": 47524.27,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 3920.75,
+  "shipping_amount": 0.0,
+  "total_due": 51445.02,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

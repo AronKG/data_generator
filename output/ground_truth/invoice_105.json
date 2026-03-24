@@ -1,0 +1,70 @@
+{
+  "id": 105,
+  "filename": "invoice_105.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
+  "invoice_number": "2022-32895",
+  "issue_date": "May 17 2024",
+  "due_date": "July 01 2024",
+  "payment_terms": "Immediate",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10882.63,
+      "discount_pct": 0,
+      "line_total": 32647.89
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2858.48,
+      "discount_pct": 0,
+      "line_total": 8575.44
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1673.81,
+      "discount_pct": 0,
+      "line_total": 41845.25
+    }
+  ],
+  "subtotal": 83068.58,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 83068.58,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

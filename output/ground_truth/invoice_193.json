@@ -1,0 +1,103 @@
+{
+  "id": 193,
+  "filename": "invoice_193.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "2025-61827",
+  "issue_date": "07/01/2024",
+  "due_date": "2024-09-29",
+  "payment_terms": "Net 15",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-82302",
+  "seller_name": "NovaBridge Technologies",
+  "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
+  "seller_email": "billing@novabridge.io",
+  "seller_phone": "+1 408-555-0172",
+  "seller_tax_id": "EIN: 12-3456789",
+  "client_name": "GoldenGate Financial",
+  "client_address": "101 Market St San Francisco CA 94105 USA",
+  "client_email": "invoices@goldengatefin.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 5985.11,
+      "discount_pct": 0,
+      "line_total": 5985.11
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 576.2,
+      "discount_pct": 10,
+      "line_total": 1037.16
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 670.59,
+      "discount_pct": 20,
+      "line_total": 26823.6
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1346.49,
+      "discount_pct": 5,
+      "line_total": 1279.17
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2488.95,
+      "discount_pct": 20,
+      "line_total": 1991.16
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 163.84,
+      "discount_pct": 20,
+      "line_total": 262.14
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1545.48,
+      "discount_pct": 5,
+      "line_total": 2936.41
+    }
+  ],
+  "subtotal": 40314.75,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 4031.48,
+  "shipping_amount": 26.33,
+  "total_due": 44372.56,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

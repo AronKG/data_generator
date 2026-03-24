@@ -1,0 +1,226 @@
+{
+  "id": 375,
+  "filename": "invoice_375.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
+  "invoice_number": "REF-19006",
+  "issue_date": "05/28/2022",
+  "due_date": "12 July 2022",
+  "payment_terms": "Net 45",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Nordic Craft AB",
+  "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
+  "seller_email": "faktura@nordiccraft.se",
+  "seller_phone": "+46 8 555 0100",
+  "seller_tax_id": "Org.nr: 556123-4567",
+  "client_name": "Iron Horse Brewing Co.",
+  "client_address": "2211 Brewery Way Portland OR 97201 USA",
+  "client_email": "orders@ironhorsebrewing.com",
+  "num_line_items": 23,
+  "line_items": [
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1667.7,
+      "discount_pct": 0,
+      "line_total": 1667.7
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2973.84,
+      "discount_pct": 0,
+      "line_total": 2973.84
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 4123.88,
+      "discount_pct": 10,
+      "line_total": 3711.49
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8685.25,
+      "discount_pct": 0,
+      "line_total": 8685.25
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 288.54,
+      "discount_pct": 15,
+      "line_total": 245.26
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 585.59,
+      "discount_pct": 5,
+      "line_total": 2781.55
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 97.96,
+      "discount_pct": 15,
+      "line_total": 83.27
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2394.28,
+      "discount_pct": 15,
+      "line_total": 101756.9
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 227.71,
+      "discount_pct": 5,
+      "line_total": 648.97
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2425.17,
+      "discount_pct": 0,
+      "line_total": 12125.85
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 954.09,
+      "discount_pct": 20,
+      "line_total": 7632.72
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2519.88,
+      "discount_pct": 0,
+      "line_total": 7559.64
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1456.38,
+      "discount_pct": 0,
+      "line_total": 4369.14
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 354.28,
+      "discount_pct": 0,
+      "line_total": 354.28
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 8114.75,
+      "discount_pct": 15,
+      "line_total": 68975.38
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 87.28,
+      "discount_pct": 0,
+      "line_total": 872.8
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 1240.6,
+      "discount_pct": 0,
+      "line_total": 62030.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 44987.79,
+      "discount_pct": 10,
+      "line_total": 121467.03
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 6883.01,
+      "discount_pct": 10,
+      "line_total": 30973.55
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 7578.98,
+      "discount_pct": 20,
+      "line_total": 60631.84
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1902.9,
+      "discount_pct": 0,
+      "line_total": 19029.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 256.56,
+      "discount_pct": 10,
+      "line_total": 461.81
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5731.07,
+      "discount_pct": 0,
+      "line_total": 28655.35
+    }
+  ],
+  "subtotal": 547692.62,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 45184.64,
+  "shipping_amount": 0.0,
+  "total_due": 592877.26,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

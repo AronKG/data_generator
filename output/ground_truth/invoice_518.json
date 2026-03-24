@@ -1,0 +1,239 @@
+{
+  "id": 518,
+  "filename": "invoice_518.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 10,
+  "invoice_number": "BILL-20382",
+  "issue_date": "30/11/2023",
+  "due_date": "2024-01-29",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-49391",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 24,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 138.27,
+      "discount_pct": 15,
+      "line_total": 117.53
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2757.12,
+      "discount_pct": 15,
+      "line_total": 2343.55
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1684.48,
+      "discount_pct": 0,
+      "line_total": 1684.48
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 550.55,
+      "discount_pct": 0,
+      "line_total": 5505.5
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 988.08,
+      "discount_pct": 0,
+      "line_total": 9880.8
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 255.61,
+      "discount_pct": 5,
+      "line_total": 12141.47
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 8250.95,
+      "discount_pct": 15,
+      "line_total": 70133.07
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 189.97,
+      "discount_pct": 10,
+      "line_total": 170.97
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1651.62,
+      "discount_pct": 15,
+      "line_total": 2807.75
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2053.45,
+      "discount_pct": 5,
+      "line_total": 1950.78
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 253.22,
+      "discount_pct": 5,
+      "line_total": 12027.95
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16892.73,
+      "discount_pct": 15,
+      "line_total": 14358.82
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 837.43,
+      "discount_pct": 0,
+      "line_total": 837.43
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 1058.71,
+      "discount_pct": 20,
+      "line_total": 1693.94
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1130.97,
+      "discount_pct": 20,
+      "line_total": 22619.4
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 527.52,
+      "discount_pct": 20,
+      "line_total": 844.03
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 247.27,
+      "discount_pct": 0,
+      "line_total": 1236.35
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 871.59,
+      "discount_pct": 15,
+      "line_total": 740.85
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1764.78,
+      "discount_pct": 10,
+      "line_total": 7941.51
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 104.01,
+      "discount_pct": 15,
+      "line_total": 176.82
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 432.24,
+      "discount_pct": 10,
+      "line_total": 389.02
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 282.07,
+      "discount_pct": 0,
+      "line_total": 2820.7
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 959.67,
+      "discount_pct": 5,
+      "line_total": 911.69
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 787.29,
+      "discount_pct": 15,
+      "line_total": 3345.98
+    }
+  ],
+  "subtotal": 176680.39,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 26502.06,
+  "shipping_amount": 0.0,
+  "total_due": 203182.45,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

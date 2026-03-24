@@ -1,0 +1,247 @@
+{
+  "id": 960,
+  "filename": "invoice_960.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "INV-89869",
+  "issue_date": "04/02/2022",
+  "due_date": "18 February 2022",
+  "payment_terms": "Net 15",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-42330",
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 25,
+  "line_items": [
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1507.95,
+      "discount_pct": 20,
+      "line_total": 1206.36
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5927.31,
+      "discount_pct": 20,
+      "line_total": 23709.24
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14533.26,
+      "discount_pct": 0,
+      "line_total": 72666.3
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 88.22,
+      "discount_pct": 20,
+      "line_total": 1764.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3633.58,
+      "discount_pct": 10,
+      "line_total": 163511.1
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 5175.29,
+      "discount_pct": 0,
+      "line_total": 258764.5
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1279.29,
+      "discount_pct": 0,
+      "line_total": 1279.29
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 249.44,
+      "discount_pct": 0,
+      "line_total": 6236.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 258.41,
+      "discount_pct": 15,
+      "line_total": 219.65
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 205.75,
+      "discount_pct": 0,
+      "line_total": 1028.75
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1752.66,
+      "discount_pct": 0,
+      "line_total": 5257.98
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1590.48,
+      "discount_pct": 10,
+      "line_total": 14314.32
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1084.56,
+      "discount_pct": 0,
+      "line_total": 2169.12
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 35362.91,
+      "discount_pct": 20,
+      "line_total": 28290.33
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 335.15,
+      "discount_pct": 10,
+      "line_total": 15081.75
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 1474.45,
+      "discount_pct": 5,
+      "line_total": 70036.38
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4879.32,
+      "discount_pct": 20,
+      "line_total": 3903.46
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 665.33,
+      "discount_pct": 15,
+      "line_total": 14138.26
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 132.1,
+      "discount_pct": 10,
+      "line_total": 594.45
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 104.18,
+      "discount_pct": 0,
+      "line_total": 5209.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 959.76,
+      "discount_pct": 10,
+      "line_total": 4318.92
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 643.27,
+      "discount_pct": 20,
+      "line_total": 514.62
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1985.78,
+      "discount_pct": 20,
+      "line_total": 79431.2
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 6879.49,
+      "discount_pct": 10,
+      "line_total": 30957.7
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 197.49,
+      "discount_pct": 15,
+      "line_total": 167.87
+    }
+  ],
+  "subtotal": 804770.95,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 40238.55,
+  "shipping_amount": 109.45,
+  "total_due": 845118.95,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

@@ -1,0 +1,130 @@
+{
+  "id": 939,
+  "filename": "invoice_939.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "REF-61970",
+  "issue_date": "February 01 2024",
+  "due_date": "15-Feb-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-70401",
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2256.66,
+      "discount_pct": 0,
+      "line_total": 2256.66
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 643.23,
+      "discount_pct": 5,
+      "line_total": 6110.68
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 339.31,
+      "discount_pct": 0,
+      "line_total": 8482.75
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 993.02,
+      "discount_pct": 5,
+      "line_total": 2830.11
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 470.47,
+      "discount_pct": 10,
+      "line_total": 423.42
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14178.82,
+      "discount_pct": 20,
+      "line_total": 56715.28
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11984.5,
+      "discount_pct": 0,
+      "line_total": 11984.5
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1537.16,
+      "discount_pct": 10,
+      "line_total": 4150.33
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1383.48,
+      "discount_pct": 15,
+      "line_total": 58797.9
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1278.91,
+      "discount_pct": 0,
+      "line_total": 31972.75
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 361.38,
+      "discount_pct": 5,
+      "line_total": 686.62
+    }
+  ],
+  "subtotal": 184411.0,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 11064.66,
+  "shipping_amount": 0.0,
+  "total_due": 195475.66,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}
