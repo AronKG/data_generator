@@ -1,0 +1,162 @@
+{
+  "id": 97,
+  "filename": "invoice_097.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
+  "invoice_number": "REF/2024/34705",
+  "issue_date": "12/21/2024",
+  "due_date": "19 February 2025",
+  "payment_terms": "Net 45",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Boreal Systems Inc.",
+  "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
+  "seller_email": "invoices@borealsys.ca",
+  "seller_phone": "+1 514-555-0120",
+  "seller_tax_id": "GST/HST: 987654321 RT0001",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1310.38,
+      "discount_pct": 0,
+      "line_total": 1310.38
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 147.42,
+      "discount_pct": 0,
+      "line_total": 737.1
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 197.8,
+      "discount_pct": 15,
+      "line_total": 4203.25
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 297.63,
+      "discount_pct": 10,
+      "line_total": 267.87
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 1048.23,
+      "discount_pct": 0,
+      "line_total": 26205.75
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 268.06,
+      "discount_pct": 0,
+      "line_total": 804.18
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 47.02,
+      "discount_pct": 0,
+      "line_total": 2351.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1433.86,
+      "discount_pct": 0,
+      "line_total": 2867.72
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1934.36,
+      "discount_pct": 10,
+      "line_total": 1740.92
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1130.3,
+      "discount_pct": 5,
+      "line_total": 10737.85
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 13595.48,
+      "discount_pct": 5,
+      "line_total": 129157.06
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 11635.75,
+      "discount_pct": 20,
+      "line_total": 46543.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4884.63,
+      "discount_pct": 0,
+      "line_total": 48846.3
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 121.96,
+      "discount_pct": 0,
+      "line_total": 6098.0
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3408.0,
+      "discount_pct": 0,
+      "line_total": 170400.0
+    }
+  ],
+  "subtotal": 452270.38,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 27136.22,
+  "shipping_amount": 0.0,
+  "total_due": 479406.6,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

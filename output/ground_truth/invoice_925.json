@@ -1,16 +1,16 @@
 {
   "id": 925,
   "filename": "invoice_925.pdf",
-  "layout_style": "modern",
-  "page_size": "letter",
+  "layout_style": "compact",
+  "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 8,
+  "color_palette_index": 4,
   "invoice_number": "011509",
-  "issue_date": "July 11 2023",
-  "due_date": "25/08/2023",
-  "payment_terms": "Net 45",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "December 20 2023",
+  "due_date": "18/02/2024",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
@@ -20,24 +20,8 @@
   "client_name": "The Olive Branch Restaurant",
   "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
   "client_email": "finance@olivebranch.com",
-  "num_line_items": 13,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1845.73,
-      "discount_pct": 5,
-      "line_total": 87672.18
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 219.62,
-      "discount_pct": 0,
-      "line_total": 658.86
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
@@ -95,56 +79,81 @@
       "line_total": 6734.75
     },
     {
-      "description": "Market Research",
-      "unit": "ea",
+      "description": "Managed Cloud",
+      "unit": "mo",
       "quantity": 1,
-      "unit_price": 5762.99,
+      "unit_price": 864.76,
       "discount_pct": 10,
-      "line_total": 5186.69
+      "line_total": 778.28
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 217.46,
+      "discount_pct": 0,
+      "line_total": 10873.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 632.13,
+      "discount_pct": 10,
+      "line_total": 1137.83
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1391.46,
-      "discount_pct": 0,
-      "line_total": 69573.0
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 2,
-      "unit_price": 776.17,
-      "discount_pct": 10,
-      "line_total": 1397.11
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 2774.07,
+      "unit_price": 883.33,
       "discount_pct": 5,
-      "line_total": 2635.37
+      "line_total": 839.16
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 212.5,
+      "discount_pct": 0,
+      "line_total": 2125.0
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7004.29,
+      "discount_pct": 0,
+      "line_total": 350214.5
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 73.17,
+      "discount_pct": 0,
+      "line_total": 146.34
     }
   ],
-  "subtotal": 270469.12,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 40570.37,
-  "shipping_amount": 91.05,
-  "total_due": 311130.54,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "subtotal": 469460.02,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 98586.6,
+  "shipping_amount": 0.0,
+  "total_due": 568046.62,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

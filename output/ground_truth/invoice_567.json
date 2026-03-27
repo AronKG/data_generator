@@ -4,14 +4,14 @@
   "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 6,
+  "color_palette_index": 0,
   "invoice_number": "2023-29097",
-  "issue_date": "02-Jun-2024",
-  "due_date": "09/06/2024",
-  "payment_terms": "Cash on Delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "07/02/2022",
+  "due_date": "03/24/2022",
+  "payment_terms": "Net 90",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-75140",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,124 +20,135 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 12,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1623.54,
-      "discount_pct": 20,
-      "line_total": 3896.5
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 238.13,
-      "discount_pct": 10,
-      "line_total": 214.32
-    },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 125.68,
-      "discount_pct": 0,
-      "line_total": 125.68
+      "unit_price": 171.71,
+      "discount_pct": 10,
+      "line_total": 154.54
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 134.42,
+      "quantity": 1,
+      "unit_price": 157.3,
       "discount_pct": 0,
-      "line_total": 403.26
+      "line_total": 157.3
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1774.67,
+      "quantity": 3,
+      "unit_price": 2412.4,
       "discount_pct": 0,
-      "line_total": 17746.7
+      "line_total": 7237.2
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 405.57,
+      "quantity": 10,
+      "unit_price": 227.06,
       "discount_pct": 0,
-      "line_total": 10139.25
+      "line_total": 2270.6
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 50,
-      "unit_price": 7921.28,
-      "discount_pct": 5,
-      "line_total": 376260.8
+      "quantity": 25,
+      "unit_price": 4065.66,
+      "discount_pct": 0,
+      "line_total": 101641.5
     },
     {
       "description": "Web Development",
       "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 213.9,
+      "discount_pct": 5,
+      "line_total": 10160.25
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
       "quantity": 5,
-      "unit_price": 152.25,
+      "unit_price": 1374.35,
       "discount_pct": 0,
-      "line_total": 761.25
+      "line_total": 6871.75
     },
     {
-      "description": "iOS App Dev",
+      "description": "Video Production",
       "unit": "ea",
       "quantity": 2,
-      "unit_price": 16745.46,
+      "unit_price": 8277.01,
       "discount_pct": 20,
-      "line_total": 26792.74
+      "line_total": 13243.22
     },
     {
-      "description": "Data Analysis",
-      "unit": "ea",
+      "description": "Software Dev",
+      "unit": "hr",
       "quantity": 3,
-      "unit_price": 2811.11,
+      "unit_price": 267.06,
       "discount_pct": 0,
-      "line_total": 8433.33
+      "line_total": 801.18
     },
     {
-      "description": "Security Services",
-      "unit": "day",
+      "description": "Event Management",
+      "unit": "ea",
       "quantity": 2,
-      "unit_price": 494.04,
+      "unit_price": 6628.24,
       "discount_pct": 0,
-      "line_total": 988.08
+      "line_total": 13256.48
     },
     {
-      "description": "Raw Materials",
-      "unit": "kg",
+      "description": "Accounting Services",
+      "unit": "mo",
       "quantity": 25,
-      "unit_price": 135.35,
+      "unit_price": 1368.69,
       "discount_pct": 15,
-      "line_total": 2876.19
+      "line_total": 29084.66
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 755.26,
+      "discount_pct": 0,
+      "line_total": 18881.5
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7626.84,
+      "discount_pct": 0,
+      "line_total": 381342.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 37.82,
+      "discount_pct": 0,
+      "line_total": 945.5
     }
   ],
-  "subtotal": 448638.1,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 94214.0,
-  "shipping_amount": 48.53,
-  "total_due": 542900.63,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
-  },
+  "subtotal": 586047.68,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 134790.97,
+  "shipping_amount": 246.74,
+  "total_due": 721085.39,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": true,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

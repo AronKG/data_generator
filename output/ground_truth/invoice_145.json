@@ -1,16 +1,16 @@
 {
   "id": 145,
   "filename": "invoice_145.pdf",
-  "layout_style": "formal",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 14,
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
   "invoice_number": "REF-9501",
-  "issue_date": "2022-05-07",
-  "due_date": "14/05/2022",
-  "payment_terms": "30 days from delivery",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "2022-02-17",
+  "due_date": "April 03 2022",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
@@ -20,178 +20,78 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 19,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 147.14,
-      "discount_pct": 0,
-      "line_total": 147.14
-    },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 975.59,
+      "quantity": 2,
+      "unit_price": 738.25,
       "discount_pct": 0,
-      "line_total": 975.59
+      "line_total": 1476.5
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 63.36,
-      "discount_pct": 15,
-      "line_total": 107.71
+      "quantity": 25,
+      "unit_price": 179.19,
+      "discount_pct": 5,
+      "line_total": 4255.76
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 82.51,
-      "discount_pct": 5,
-      "line_total": 3919.22
+      "quantity": 1,
+      "unit_price": 125.79,
+      "discount_pct": 0,
+      "line_total": 125.79
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 4421.32,
-      "discount_pct": 15,
-      "line_total": 3758.12
+      "unit_price": 6895.59,
+      "discount_pct": 0,
+      "line_total": 6895.59
     },
     {
       "description": "Software Dev",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 269.47,
-      "discount_pct": 15,
-      "line_total": 229.05
+      "unit_price": 130.19,
+      "discount_pct": 0,
+      "line_total": 130.19
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 896.38,
-      "discount_pct": 0,
-      "line_total": 8963.8
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1187.43,
-      "discount_pct": 0,
-      "line_total": 3562.29
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1321.29,
-      "discount_pct": 0,
-      "line_total": 1321.29
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4230.39,
-      "discount_pct": 20,
-      "line_total": 3384.31
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 368.83,
-      "discount_pct": 0,
-      "line_total": 1844.15
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 25,
-      "unit_price": 57.12,
-      "discount_pct": 0,
-      "line_total": 1428.0
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 2477.19,
-      "discount_pct": 15,
-      "line_total": 2105.61
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
       "quantity": 2,
-      "unit_price": 673.51,
-      "discount_pct": 5,
-      "line_total": 1279.67
+      "unit_price": 844.85,
+      "discount_pct": 15,
+      "line_total": 1436.24
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 733.6,
-      "discount_pct": 0,
-      "line_total": 733.6
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2514.95,
-      "discount_pct": 20,
-      "line_total": 50299.0
-    },
-    {
-      "description": "iOS App Dev",
+      "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 13895.28,
-      "discount_pct": 10,
-      "line_total": 625287.6
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 264.48,
+      "unit_price": 4175.75,
       "discount_pct": 5,
-      "line_total": 6281.4
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1583.49,
-      "discount_pct": 15,
-      "line_total": 1345.97
+      "line_total": 198348.12
     }
   ],
-  "subtotal": 716973.52,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 59150.32,
-  "shipping_amount": 196.45,
-  "total_due": 776320.29,
+  "subtotal": 212668.19,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 42533.64,
+  "shipping_amount": 214.62,
+  "total_due": 255416.45,
   "notes": null,
-  "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
-  },
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
   "has_notes": false,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": true,
   "has_po_number": false,
   "has_tax": true

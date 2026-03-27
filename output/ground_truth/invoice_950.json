@@ -1,14 +1,14 @@
 {
   "id": 950,
   "filename": "invoice_950.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
   "invoice_number": "RCPT/2024/68757",
-  "issue_date": "07/01/2022",
-  "due_date": "2022-07-22",
-  "payment_terms": "Net 15",
+  "issue_date": "11/03/2023",
+  "due_date": "March 25 2023",
+  "payment_terms": "End of Month",
   "currency": "AUD",
   "currency_symbol": "A$",
   "po_number": null,
@@ -20,52 +20,155 @@
   "client_name": "The Olive Branch Restaurant",
   "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
   "client_email": "finance@olivebranch.com",
-  "num_line_items": 3,
+  "num_line_items": 16,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1251.3,
-      "discount_pct": 0,
-      "line_total": 2502.6
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1226.96,
-      "discount_pct": 0,
-      "line_total": 30674.0
+      "quantity": 50,
+      "unit_price": 2302.23,
+      "discount_pct": 20,
+      "line_total": 92089.2
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 569.27,
+      "quantity": 25,
+      "unit_price": 904.91,
       "discount_pct": 0,
-      "line_total": 569.27
+      "line_total": 22622.75
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 251.14,
+      "discount_pct": 10,
+      "line_total": 2260.26
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2753.2,
+      "discount_pct": 0,
+      "line_total": 2753.2
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2557.18,
+      "discount_pct": 0,
+      "line_total": 2557.18
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 3389.74,
+      "discount_pct": 0,
+      "line_total": 169487.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 195.08,
+      "discount_pct": 5,
+      "line_total": 185.33
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 8063.23,
+      "discount_pct": 10,
+      "line_total": 72569.07
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7899.76,
+      "discount_pct": 10,
+      "line_total": 7109.78
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 147.84,
+      "discount_pct": 5,
+      "line_total": 140.45
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1187.19,
+      "discount_pct": 0,
+      "line_total": 3561.57
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 317.47,
+      "discount_pct": 10,
+      "line_total": 285.72
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1506.2,
+      "discount_pct": 0,
+      "line_total": 1506.2
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5272.47,
+      "discount_pct": 0,
+      "line_total": 263623.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 726.54,
+      "discount_pct": 20,
+      "line_total": 5812.32
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1118.37,
+      "discount_pct": 15,
+      "line_total": 950.61
     }
   ],
-  "subtotal": 33745.87,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 647514.14,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 84176.84,
   "shipping_amount": 0.0,
-  "total_due": 33745.87,
-  "notes": "Please direct billing queries to our accounts department.",
+  "total_due": 731690.98,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

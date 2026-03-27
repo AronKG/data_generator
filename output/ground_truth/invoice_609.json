@@ -1,16 +1,16 @@
 {
   "id": 609,
   "filename": "invoice_609.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 10,
   "invoice_number": "2022-92254",
-  "issue_date": "August 17 2023",
-  "due_date": "07-Sep-2023",
-  "payment_terms": "Due on Receipt",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "25/10/2024",
+  "due_date": "2024-11-15",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
@@ -20,80 +20,201 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 7,
+  "num_line_items": 22,
   "line_items": [
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 605.47,
-      "discount_pct": 5,
-      "line_total": 14379.91
+      "quantity": 1,
+      "unit_price": 577.46,
+      "discount_pct": 15,
+      "line_total": 490.84
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 144.45,
-      "discount_pct": 20,
-      "line_total": 115.56
+      "quantity": 50,
+      "unit_price": 291.61,
+      "discount_pct": 5,
+      "line_total": 13851.47
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 898.04,
-      "discount_pct": 0,
-      "line_total": 898.04
+      "quantity": 5,
+      "unit_price": 749.61,
+      "discount_pct": 15,
+      "line_total": 3185.84
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2718.37,
-      "discount_pct": 5,
-      "line_total": 2582.45
+      "quantity": 10,
+      "unit_price": 9611.77,
+      "discount_pct": 10,
+      "line_total": 86505.93
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 998.43,
-      "discount_pct": 15,
-      "line_total": 848.67
+      "quantity": 10,
+      "unit_price": 2060.01,
+      "discount_pct": 5,
+      "line_total": 19570.1
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 486.02,
-      "discount_pct": 5,
-      "line_total": 23085.95
+      "quantity": 5,
+      "unit_price": 463.77,
+      "discount_pct": 20,
+      "line_total": 1855.08
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1215.29,
+      "quantity": 3,
+      "unit_price": 1158.02,
+      "discount_pct": 0,
+      "line_total": 3474.06
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 4370.65,
+      "discount_pct": 5,
+      "line_total": 4152.12
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1052.87,
+      "discount_pct": 0,
+      "line_total": 52643.5
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 535.55,
+      "discount_pct": 0,
+      "line_total": 535.55
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 525.77,
+      "discount_pct": 0,
+      "line_total": 5257.7
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 14913.72,
+      "discount_pct": 20,
+      "line_total": 119309.76
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 389.93,
+      "discount_pct": 5,
+      "line_total": 18521.67
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 16.66,
+      "discount_pct": 20,
+      "line_total": 26.66
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 17583.82,
+      "discount_pct": 0,
+      "line_total": 175838.2
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 176.6,
+      "discount_pct": 0,
+      "line_total": 8830.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 524.6,
       "discount_pct": 15,
-      "line_total": 5164.98
+      "line_total": 11147.75
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3884.23,
+      "discount_pct": 10,
+      "line_total": 3495.81
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 788.99,
+      "discount_pct": 10,
+      "line_total": 17752.28
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2066.57,
+      "discount_pct": 0,
+      "line_total": 2066.57
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1794.15,
+      "discount_pct": 0,
+      "line_total": 1794.15
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 137.25,
+      "discount_pct": 0,
+      "line_total": 1372.5
     }
   ],
-  "subtotal": 47075.56,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 7061.33,
+  "subtotal": 551677.54,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 71718.08,
   "shipping_amount": 0.0,
-  "total_due": 54136.89,
+  "total_due": 623395.62,
   "notes": null,
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,

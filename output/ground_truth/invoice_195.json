@@ -1,17 +1,17 @@
 {
   "id": 195,
   "filename": "invoice_195.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 14,
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
   "invoice_number": "SI-79201",
-  "issue_date": "31-Mar-2022",
-  "due_date": "15/05/2022",
-  "payment_terms": "Net 7",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "10/22/2024",
+  "due_date": "06-Dec-2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-93798",
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
   "seller_email": "billing@tesseractlabs.com",
@@ -23,52 +23,52 @@
   "num_line_items": 7,
   "line_items": [
     {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 86.88,
+      "discount_pct": 0,
+      "line_total": 434.4
+    },
+    {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 462.1,
-      "discount_pct": 5,
-      "line_total": 439.0
+      "quantity": 10,
+      "unit_price": 515.37,
+      "discount_pct": 0,
+      "line_total": 5153.7
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
       "quantity": 50,
-      "unit_price": 704.4,
-      "discount_pct": 0,
-      "line_total": 35220.0
+      "unit_price": 1592.57,
+      "discount_pct": 10,
+      "line_total": 71665.65
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 247.17,
-      "discount_pct": 10,
-      "line_total": 11122.65
+      "quantity": 2,
+      "unit_price": 246.77,
+      "discount_pct": 0,
+      "line_total": 493.54
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 877.5,
-      "discount_pct": 0,
-      "line_total": 1755.0
+      "quantity": 50,
+      "unit_price": 813.06,
+      "discount_pct": 5,
+      "line_total": 38620.35
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 8130.64,
-      "discount_pct": 5,
-      "line_total": 386205.4
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 6968.32,
+      "unit_price": 5034.6,
       "discount_pct": 0,
-      "line_total": 13936.64
+      "line_total": 10069.2
     },
     {
       "description": "Tech Writing",
@@ -79,20 +79,24 @@
       "line_total": 8380.0
     }
   ],
-  "subtotal": 457058.69,
+  "subtotal": 134816.84,
   "tax_label": "No Tax",
   "tax_rate_pct": 0.0,
   "tax_amount": 0.0,
-  "shipping_amount": 250.85,
-  "total_due": 457309.54,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "shipping_amount": 0.0,
+  "total_due": 134816.84,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": false
 }

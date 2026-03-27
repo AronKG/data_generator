@@ -1,16 +1,16 @@
 {
   "id": 398,
   "filename": "invoice_398.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 4,
+  "color_palette_index": 13,
   "invoice_number": "REF-54067",
-  "issue_date": "05-Jan-2024",
-  "due_date": "April 04 2024",
-  "payment_terms": "End of Month",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "09/10/2024",
+  "due_date": "24/09/2024",
+  "payment_terms": "Immediate",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,52 +20,55 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 3,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1819.09,
-      "discount_pct": 0,
-      "line_total": 18190.9
-    },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 5,
-      "unit_price": 8339.95,
+      "quantity": 50,
+      "unit_price": 2274.59,
       "discount_pct": 0,
-      "line_total": 41699.75
+      "line_total": 113729.5
     },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
       "unit_price": 519.65,
+      "discount_pct": 10,
+      "line_total": 467.69
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1176.86,
       "discount_pct": 0,
-      "line_total": 519.65
+      "line_total": 1176.86
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 31.0,
+      "discount_pct": 5,
+      "line_total": 58.9
     }
   ],
-  "subtotal": 60410.3,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 115432.95,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 11543.3,
   "shipping_amount": 0.0,
-  "total_due": 60410.3,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
-  },
+  "total_due": 126976.25,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

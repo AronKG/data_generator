@@ -1,17 +1,17 @@
 {
   "id": 422,
   "filename": "invoice_422.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
   "invoice_number": "TAX-INV-2024-7910",
-  "issue_date": "31-May-2023",
-  "due_date": "2023-08-29",
-  "payment_terms": "30 days from delivery",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-10844",
+  "issue_date": "02 October 2024",
+  "due_date": "09-Oct-2024",
+  "payment_terms": "Net 45",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-25557",
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
   "seller_email": "hello@sunrisedigital.hk",
@@ -23,76 +23,80 @@
   "num_line_items": 7,
   "line_items": [
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1164.54,
-      "discount_pct": 0,
-      "line_total": 3493.62
-    },
-    {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7882.63,
+      "quantity": 3,
+      "unit_price": 8085.61,
       "discount_pct": 0,
-      "line_total": 7882.63
+      "line_total": 24256.83
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 50,
-      "unit_price": 598.23,
+      "quantity": 3,
+      "unit_price": 880.89,
       "discount_pct": 10,
-      "line_total": 26920.35
+      "line_total": 2378.4
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 452.55,
-      "discount_pct": 10,
-      "line_total": 407.3
+      "quantity": 25,
+      "unit_price": 531.25,
+      "discount_pct": 15,
+      "line_total": 11289.06
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
+      "quantity": 1,
+      "unit_price": 645.82,
+      "discount_pct": 10,
+      "line_total": 581.24
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 5,
-      "unit_price": 1733.08,
+      "unit_price": 600.19,
       "discount_pct": 0,
-      "line_total": 8665.4
+      "line_total": 3000.95
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1012.49,
+      "discount_pct": 0,
+      "line_total": 5062.45
     },
     {
       "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 669.07,
-      "discount_pct": 0,
-      "line_total": 3345.35
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 3940.03,
+      "unit_price": 1970.87,
       "discount_pct": 0,
-      "line_total": 3940.03
+      "line_total": 1970.87
     }
   ],
-  "subtotal": 54654.68,
+  "subtotal": 48539.8,
   "tax_label": "HST 13pct",
   "tax_rate_pct": 13.0,
-  "tax_amount": 7105.11,
-  "shipping_amount": 77.52,
-  "total_due": 61837.31,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "tax_amount": 6310.17,
+  "shipping_amount": 0.0,
+  "total_due": 54849.97,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
+  "has_bank_details": true,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 540,
   "filename": "invoice_540.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 10,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
   "invoice_number": "INV48095",
-  "issue_date": "23/01/2024",
-  "due_date": "06-Feb-2024",
-  "payment_terms": "Immediate",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-68003",
+  "issue_date": "11 July 2022",
+  "due_date": "25/08/2022",
+  "payment_terms": "Net 21",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-30487",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,47 +20,219 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 3,
+  "num_line_items": 24,
   "line_items": [
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1490.97,
-      "discount_pct": 0,
-      "line_total": 1490.97
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 11140.72,
-      "discount_pct": 0,
-      "line_total": 11140.72
+      "quantity": 2,
+      "unit_price": 4336.88,
+      "discount_pct": 5,
+      "line_total": 8240.07
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 208.77,
+      "quantity": 2,
+      "unit_price": 124.44,
+      "discount_pct": 10,
+      "line_total": 223.99
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1340.9,
       "discount_pct": 0,
-      "line_total": 1043.85
+      "line_total": 1340.9
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2493.51,
+      "discount_pct": 20,
+      "line_total": 49870.2
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 5455.03,
+      "discount_pct": 5,
+      "line_total": 25911.39
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1201.76,
+      "discount_pct": 0,
+      "line_total": 1201.76
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 340.65,
+      "discount_pct": 15,
+      "line_total": 289.55
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 305.72,
+      "discount_pct": 0,
+      "line_total": 305.72
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 513.89,
+      "discount_pct": 0,
+      "line_total": 513.89
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 996.6,
+      "discount_pct": 5,
+      "line_total": 47338.5
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 236.07,
+      "discount_pct": 20,
+      "line_total": 188.86
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2397.37,
+      "discount_pct": 0,
+      "line_total": 2397.37
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1005.12,
+      "discount_pct": 15,
+      "line_total": 4271.76
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1468.5,
+      "discount_pct": 0,
+      "line_total": 36712.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 1074.67,
+      "discount_pct": 0,
+      "line_total": 5373.35
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 179.07,
+      "discount_pct": 0,
+      "line_total": 537.21
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 447.33,
+      "discount_pct": 15,
+      "line_total": 1901.15
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2845.11,
+      "discount_pct": 0,
+      "line_total": 5690.22
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 286.18,
+      "discount_pct": 0,
+      "line_total": 14309.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 456.59,
+      "discount_pct": 15,
+      "line_total": 776.2
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6144.95,
+      "discount_pct": 0,
+      "line_total": 153623.75
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1313.23,
+      "discount_pct": 0,
+      "line_total": 1313.23
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 741.37,
+      "discount_pct": 0,
+      "line_total": 7413.7
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1640.07,
+      "discount_pct": 15,
+      "line_total": 6970.3
     }
   ],
-  "subtotal": 13675.54,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 1777.82,
-  "shipping_amount": 0.0,
-  "total_due": 15453.36,
-  "notes": "Goods remain property of seller until full payment received.",
-  "bank_details": null,
+  "subtotal": 376714.57,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 75342.91,
+  "shipping_amount": 143.48,
+  "total_due": 452200.96,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": true,
   "has_tax": true
 }

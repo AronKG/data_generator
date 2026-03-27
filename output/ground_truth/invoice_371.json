@@ -1,17 +1,17 @@
 {
   "id": 371,
   "filename": "invoice_371.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "color_palette_index": 14,
   "invoice_number": "2025-53921",
-  "issue_date": "07/26/2024",
-  "due_date": "10/08/2024",
-  "payment_terms": "Due on Receipt",
+  "issue_date": "2023-01-05",
+  "due_date": "06 March 2023",
+  "payment_terms": "2/10 Net 30",
   "currency": "CAD",
   "currency_symbol": "CA$",
-  "po_number": "PO-33055",
+  "po_number": null,
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
   "seller_email": "orders@greenleaforganics.com",
@@ -20,31 +20,31 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 6,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 2,
-      "unit_price": 33.89,
-      "discount_pct": 0,
-      "line_total": 67.78
-    },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
       "quantity": 50,
-      "unit_price": 1253.47,
+      "unit_price": 1236.01,
       "discount_pct": 0,
-      "line_total": 62673.5
+      "line_total": 61800.5
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 200.28,
+      "discount_pct": 10,
+      "line_total": 180.25
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 7868.33,
+      "quantity": 5,
+      "unit_price": 502.92,
       "discount_pct": 0,
-      "line_total": 15736.66
+      "line_total": 2514.6
     },
     {
       "description": "Security Services",
@@ -53,42 +53,22 @@
       "unit_price": 383.72,
       "discount_pct": 15,
       "line_total": 326.16
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 945.86,
-      "discount_pct": 0,
-      "line_total": 945.86
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 7634.45,
-      "discount_pct": 20,
-      "line_total": 30537.8
     }
   ],
-  "subtotal": 110287.76,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 11028.78,
+  "subtotal": 64821.51,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 8426.8,
   "shipping_amount": 0.0,
-  "total_due": 121316.54,
-  "notes": "Our standard warranty terms apply to all goods and services.",
-  "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
-  },
+  "total_due": 73248.31,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

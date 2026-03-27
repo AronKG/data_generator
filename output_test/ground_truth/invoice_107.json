@@ -1,0 +1,63 @@
+{
+  "id": 107,
+  "filename": "invoice_107.pdf",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 7,
+  "invoice_number": "067437",
+  "issue_date": "2024-05-25",
+  "due_date": "2024-06-24",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Meridian Consulting Group",
+  "seller_address": "87 Fleet Street London EC4Y 1HB UK",
+  "seller_email": "billing@meridiancg.co.uk",
+  "seller_phone": "+44 20 7123 4567",
+  "seller_tax_id": "VAT No: GB987321654",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3834.75,
+      "discount_pct": 0,
+      "line_total": 3834.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 325.15,
+      "discount_pct": 0,
+      "line_total": 1625.75
+    }
+  ],
+  "subtotal": 5460.5,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 382.24,
+  "shipping_amount": 0.0,
+  "total_due": 5842.74,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,16 +1,16 @@
 {
   "id": 307,
   "filename": "invoice_307.pdf",
-  "layout_style": "minimal",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 0,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
   "invoice_number": "PROFORMA-21814",
-  "issue_date": "04/13/2023",
-  "due_date": "2023-05-04",
-  "payment_terms": "Net 15",
-  "currency": "USD",
-  "currency_symbol": "$",
+  "issue_date": "16 April 2023",
+  "due_date": "05/31/2023",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
@@ -20,168 +20,56 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 19,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 133.65,
-      "discount_pct": 0,
-      "line_total": 6682.5
-    },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 306.62,
+      "quantity": 1,
+      "unit_price": 233.16,
       "discount_pct": 15,
-      "line_total": 13031.35
+      "line_total": 198.19
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 3,
-      "unit_price": 761.08,
-      "discount_pct": 20,
-      "line_total": 1826.59
+      "quantity": 25,
+      "unit_price": 847.03,
+      "discount_pct": 0,
+      "line_total": 21175.75
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
       "quantity": 5,
-      "unit_price": 1765.69,
-      "discount_pct": 10,
-      "line_total": 7945.61
+      "unit_price": 1495.02,
+      "discount_pct": 15,
+      "line_total": 6353.84
     },
     {
       "description": "Print Materials",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 687.39,
-      "discount_pct": 15,
-      "line_total": 584.28
+      "unit_price": 361.41,
+      "discount_pct": 10,
+      "line_total": 325.27
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4432.2,
-      "discount_pct": 0,
-      "line_total": 4432.2
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 206.38,
-      "discount_pct": 0,
-      "line_total": 619.14
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2058.63,
-      "discount_pct": 0,
-      "line_total": 2058.63
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 825.85,
-      "discount_pct": 20,
-      "line_total": 33034.0
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1010.04,
-      "discount_pct": 0,
-      "line_total": 5050.2
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1236.36,
-      "discount_pct": 15,
-      "line_total": 1050.91
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 52.42,
-      "discount_pct": 0,
-      "line_total": 52.42
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 5230.78,
-      "discount_pct": 0,
-      "line_total": 10461.56
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 561.76,
-      "discount_pct": 15,
-      "line_total": 954.99
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2784.72,
-      "discount_pct": 0,
-      "line_total": 139236.0
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4492.55,
-      "discount_pct": 0,
-      "line_total": 22462.75
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 119.03,
-      "discount_pct": 0,
-      "line_total": 2975.75
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2221.91,
-      "discount_pct": 5,
-      "line_total": 52770.36
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 156.25,
+      "unit_price": 3293.23,
       "discount_pct": 10,
-      "line_total": 3515.62
+      "line_total": 5927.81
     }
   ],
-  "subtotal": 308744.86,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 15437.24,
+  "subtotal": 33980.86,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 6456.36,
   "shipping_amount": 0.0,
-  "total_due": 324182.1,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 40437.22,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,

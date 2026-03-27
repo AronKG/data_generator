@@ -4,14 +4,14 @@
   "layout_style": "formal",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "color_palette_index": 8,
   "invoice_number": "INV23363",
-  "issue_date": "29-Sep-2023",
-  "due_date": "10/14/2023",
-  "payment_terms": "2/10 Net 30",
+  "issue_date": "October 26 2022",
+  "due_date": "2022-11-02",
+  "payment_terms": "End of Month",
   "currency": "AUD",
   "currency_symbol": "A$",
-  "po_number": "PO-13852",
+  "po_number": null,
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,51 +20,60 @@
   "client_name": "The Olive Branch Restaurant",
   "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
   "client_email": "finance@olivebranch.com",
-  "num_line_items": 3,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 597.88,
-      "discount_pct": 0,
-      "line_total": 2989.4
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 3,
-      "unit_price": 3887.61,
+      "quantity": 1,
+      "unit_price": 2049.65,
       "discount_pct": 0,
-      "line_total": 11662.83
+      "line_total": 2049.65
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 4832.83,
+      "quantity": 25,
+      "unit_price": 2796.53,
       "discount_pct": 0,
-      "line_total": 48328.3
+      "line_total": 69913.25
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 691.63,
+      "discount_pct": 0,
+      "line_total": 6916.3
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 807.42,
+      "discount_pct": 5,
+      "line_total": 38352.45
     }
   ],
-  "subtotal": 62980.53,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 6298.05,
+  "subtotal": 117231.65,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 8206.22,
   "shipping_amount": 0.0,
-  "total_due": 69278.58,
-  "notes": null,
+  "total_due": 125437.87,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

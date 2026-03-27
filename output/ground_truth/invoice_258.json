@@ -1,17 +1,17 @@
 {
   "id": 258,
   "filename": "invoice_258.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
+  "layout_style": "compact",
+  "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "color_palette_index": 6,
   "invoice_number": "2024-15118",
-  "issue_date": "05/14/2022",
-  "due_date": "21/05/2022",
-  "payment_terms": "Immediate",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-74897",
+  "issue_date": "06-Feb-2022",
+  "due_date": "2022-03-08",
+  "payment_terms": "Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,111 +20,139 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 11,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 275.85,
-      "discount_pct": 20,
-      "line_total": 662.04
-    },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 985.86,
+      "quantity": 3,
+      "unit_price": 1957.95,
       "discount_pct": 0,
-      "line_total": 4929.3
+      "line_total": 5873.85
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 1890.85,
-      "discount_pct": 20,
-      "line_total": 7563.4
+      "quantity": 3,
+      "unit_price": 2933.51,
+      "discount_pct": 0,
+      "line_total": 8800.53
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1202.05,
+      "discount_pct": 0,
+      "line_total": 6010.25
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 256.95,
-      "discount_pct": 10,
-      "line_total": 231.25
+      "unit_price": 1849.15,
+      "discount_pct": 0,
+      "line_total": 1849.15
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4296.16,
+      "quantity": 1,
+      "unit_price": 4989.28,
       "discount_pct": 0,
-      "line_total": 8592.32
+      "line_total": 4989.28
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13065.81,
+      "quantity": 3,
+      "unit_price": 8612.07,
       "discount_pct": 0,
-      "line_total": 13065.81
+      "line_total": 25836.21
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1464.64,
-      "discount_pct": 15,
-      "line_total": 6224.72
+      "quantity": 1,
+      "unit_price": 399.61,
+      "discount_pct": 0,
+      "line_total": 399.61
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 645.67,
-      "discount_pct": 0,
-      "line_total": 645.67
+      "quantity": 3,
+      "unit_price": 1546.12,
+      "discount_pct": 5,
+      "line_total": 4406.44
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 11312.2,
-      "discount_pct": 5,
-      "line_total": 32239.77
+      "quantity": 25,
+      "unit_price": 8175.34,
+      "discount_pct": 0,
+      "line_total": 204383.5
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 134.38,
-      "discount_pct": 0,
-      "line_total": 3359.5
+      "quantity": 2,
+      "unit_price": 131.06,
+      "discount_pct": 10,
+      "line_total": 235.91
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1062.48,
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 267.79,
       "discount_pct": 10,
-      "line_total": 1912.46
+      "line_total": 241.01
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 147.06,
+      "discount_pct": 0,
+      "line_total": 294.12
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 116.16,
+      "discount_pct": 10,
+      "line_total": 2613.6
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2072.89,
+      "discount_pct": 5,
+      "line_total": 3938.49
     }
   ],
-  "subtotal": 79426.24,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 7942.62,
+  "subtotal": 269871.95,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 18891.04,
   "shipping_amount": 0.0,
-  "total_due": 87368.86,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": null,
+  "total_due": 288762.99,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

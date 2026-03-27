@@ -1,17 +1,17 @@
 {
   "id": 270,
   "filename": "invoice_270.pdf",
-  "layout_style": "minimal",
-  "page_size": "letter",
+  "layout_style": "compact",
+  "page_size": "A4",
   "complexity_tier": "complex",
   "color_palette_index": 12,
   "invoice_number": "INVOICE-91764",
-  "issue_date": "2024-02-11",
-  "due_date": "25/02/2024",
+  "issue_date": "31/05/2022",
+  "due_date": "14-Jun-2022",
   "payment_terms": "Upon completion",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-70404",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,91 +20,84 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 8,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 2372.02,
-      "discount_pct": 0,
-      "line_total": 4744.04
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 160.9,
-      "discount_pct": 5,
-      "line_total": 152.85
-    },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 401.59,
-      "discount_pct": 10,
-      "line_total": 361.43
+      "quantity": 2,
+      "unit_price": 685.59,
+      "discount_pct": 5,
+      "line_total": 1302.62
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 10,
-      "unit_price": 28.92,
+      "quantity": 25,
+      "unit_price": 138.45,
       "discount_pct": 0,
-      "line_total": 289.2
+      "line_total": 3461.25
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1558.36,
-      "discount_pct": 10,
-      "line_total": 1402.52
+      "unit_price": 2891.94,
+      "discount_pct": 5,
+      "line_total": 2747.34
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 675.11,
-      "discount_pct": 0,
-      "line_total": 33755.5
+      "quantity": 1,
+      "unit_price": 211.85,
+      "discount_pct": 20,
+      "line_total": 169.48
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 513.48,
-      "discount_pct": 0,
-      "line_total": 513.48
+      "unit_price": 2597.27,
+      "discount_pct": 10,
+      "line_total": 2337.54
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 5,
-      "unit_price": 458.05,
+      "quantity": 50,
+      "unit_price": 578.39,
       "discount_pct": 0,
-      "line_total": 2290.25
+      "line_total": 28919.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 55.84,
+      "discount_pct": 0,
+      "line_total": 55.84
     }
   ],
-  "subtotal": 43509.27,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 3589.51,
-  "shipping_amount": 210.06,
-  "total_due": 47308.84,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "subtotal": 38993.57,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 2729.55,
+  "shipping_amount": 0.0,
+  "total_due": 41723.12,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

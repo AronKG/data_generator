@@ -1,17 +1,17 @@
 {
   "id": 125,
   "filename": "invoice_125.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "two_tone",
   "page_size": "letter",
-  "complexity_tier": "simple",
+  "complexity_tier": "complex",
   "color_palette_index": 5,
   "invoice_number": "TAX-INV-2024-84790",
-  "issue_date": "11-Nov-2022",
-  "due_date": "11/26/2022",
-  "payment_terms": "Net 15",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-22601",
+  "issue_date": "11/12/2022",
+  "due_date": "2022-12-25",
+  "payment_terms": "Upon completion",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
   "seller_email": "ap@ironwoodprecision.com",
@@ -20,51 +20,124 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 3,
+  "num_line_items": 12,
   "line_items": [
     {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 115.66,
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 20.95,
       "discount_pct": 0,
-      "line_total": 231.32
+      "line_total": 523.75
     },
     {
-      "description": "Digital Marketing",
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 561.73,
+      "discount_pct": 20,
+      "line_total": 11234.6
+    },
+    {
+      "description": "iOS App Dev",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 6373.63,
+      "unit_price": 9692.32,
       "discount_pct": 0,
-      "line_total": 159340.75
+      "line_total": 242308.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 224.53,
+      "discount_pct": 20,
+      "line_total": 179.62
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 4211.0,
+      "discount_pct": 20,
+      "line_total": 10106.4
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
+      "quantity": 10,
+      "unit_price": 1087.81,
+      "discount_pct": 20,
+      "line_total": 8702.48
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9763.56,
+      "discount_pct": 5,
+      "line_total": 9275.38
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 672.58,
+      "discount_pct": 15,
+      "line_total": 5716.93
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
       "quantity": 5,
-      "unit_price": 643.11,
+      "unit_price": 5997.17,
       "discount_pct": 0,
-      "line_total": 3215.55
+      "line_total": 29985.85
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 2986.86,
+      "discount_pct": 10,
+      "line_total": 26881.74
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 1753.59,
+      "discount_pct": 0,
+      "line_total": 8767.95
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1040.13,
+      "discount_pct": 5,
+      "line_total": 4940.62
     }
   ],
-  "subtotal": 162787.62,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 8139.38,
+  "subtotal": 358623.32,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 46621.03,
   "shipping_amount": 0.0,
-  "total_due": 170927.0,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 405244.35,
+  "notes": null,
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

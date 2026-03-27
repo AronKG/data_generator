@@ -1,17 +1,17 @@
 {
   "id": 101,
   "filename": "invoice_101.pdf",
-  "layout_style": "creative",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 13,
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "PROFORMA-2024-26578",
-  "issue_date": "2024-09-10",
-  "due_date": "December 09 2024",
-  "payment_terms": "Immediate",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": null,
+  "issue_date": "10/17/2024",
+  "due_date": "12/16/2024",
+  "payment_terms": "Net 15",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-98676",
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,95 +20,103 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 20,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 215.88,
-      "discount_pct": 0,
-      "line_total": 647.64
-    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 4235.16,
-      "discount_pct": 0,
-      "line_total": 4235.16
+      "quantity": 2,
+      "unit_price": 1908.31,
+      "discount_pct": 20,
+      "line_total": 3053.3
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 8606.34,
-      "discount_pct": 10,
-      "line_total": 38728.53
+      "quantity": 2,
+      "unit_price": 2919.52,
+      "discount_pct": 15,
+      "line_total": 4963.18
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 139.83,
-      "discount_pct": 0,
-      "line_total": 139.83
+      "quantity": 5,
+      "unit_price": 138.06,
+      "discount_pct": 5,
+      "line_total": 655.78
     },
     {
       "description": "Software License",
       "unit": "seat",
       "quantity": 3,
-      "unit_price": 1213.67,
+      "unit_price": 2450.6,
       "discount_pct": 0,
-      "line_total": 3641.01
+      "line_total": 7351.8
     },
     {
       "description": "Web Development",
       "unit": "hrs",
       "quantity": 50,
-      "unit_price": 202.25,
+      "unit_price": 233.65,
       "discount_pct": 0,
-      "line_total": 10112.5
+      "line_total": 11682.5
     },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 83.08,
-      "discount_pct": 15,
-      "line_total": 70.62
+      "unit_price": 109.5,
+      "discount_pct": 0,
+      "line_total": 109.5
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Software Dev",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 1779.81,
-      "discount_pct": 15,
-      "line_total": 1512.84
+      "unit_price": 190.62,
+      "discount_pct": 0,
+      "line_total": 190.62
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 1754.74,
+      "quantity": 1,
+      "unit_price": 1960.96,
       "discount_pct": 0,
-      "line_total": 17547.4
+      "line_total": 1960.96
     },
     {
-      "description": "Managed Cloud",
+      "description": "Community Mgmt",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 913.08,
-      "discount_pct": 20,
-      "line_total": 730.46
+      "unit_price": 2253.91,
+      "discount_pct": 15,
+      "line_total": 1915.82
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 43962.85,
+      "discount_pct": 0,
+      "line_total": 439628.5
     },
     {
       "description": "Contract Review",
       "unit": "hr",
+      "quantity": 1,
+      "unit_price": 386.28,
+      "discount_pct": 20,
+      "line_total": 309.02
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
       "quantity": 10,
-      "unit_price": 411.15,
+      "unit_price": 898.27,
       "discount_pct": 0,
-      "line_total": 4111.5
+      "line_total": 8982.7
     },
     {
       "description": "Market Research",
@@ -119,84 +127,33 @@
       "line_total": 27166.46
     },
     {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 413.77,
-      "discount_pct": 5,
-      "line_total": 3930.81
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1531.25,
-      "discount_pct": 0,
-      "line_total": 1531.25
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 469.65,
-      "discount_pct": 0,
-      "line_total": 11741.25
-    },
-    {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 14016.12,
-      "discount_pct": 0,
-      "line_total": 28032.24
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 926.1,
-      "discount_pct": 5,
-      "line_total": 879.79
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1630.17,
-      "discount_pct": 0,
-      "line_total": 1630.17
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3067.05,
-      "discount_pct": 0,
-      "line_total": 153352.5
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
       "quantity": 10,
-      "unit_price": 974.28,
-      "discount_pct": 0,
-      "line_total": 9742.8
+      "unit_price": 9007.4,
+      "discount_pct": 5,
+      "line_total": 85570.3
     }
   ],
-  "subtotal": 319484.76,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 593540.44,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 77160.26,
   "shipping_amount": 0.0,
-  "total_due": 319484.76,
-  "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": null,
+  "total_due": 670700.7,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_po_number": true,
+  "has_tax": true
 }

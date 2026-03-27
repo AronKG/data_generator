@@ -1,15 +1,15 @@
 {
   "id": 827,
   "filename": "invoice_827.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "minimal",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 11,
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
   "invoice_number": "INV-2024-36504",
-  "issue_date": "12 May 2023",
-  "due_date": "19/05/2023",
-  "payment_terms": "Net 21",
-  "currency": "NOK",
+  "issue_date": "2022-04-02",
+  "due_date": "01/06/2022",
+  "payment_terms": "Net 45",
+  "currency": "SEK",
   "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "RedBark Sustainable Co.",
@@ -20,8 +20,40 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 20,
+  "num_line_items": 6,
   "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1474.53,
+      "discount_pct": 0,
+      "line_total": 7372.65
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1845.36,
+      "discount_pct": 20,
+      "line_total": 1476.29
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 6418.05,
+      "discount_pct": 20,
+      "line_total": 5134.44
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 391.83,
+      "discount_pct": 0,
+      "line_total": 391.83
+    },
     {
       "description": "Brand Identity",
       "unit": "ea",
@@ -31,172 +63,32 @@
       "line_total": 1742.67
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1099.11,
-      "discount_pct": 15,
-      "line_total": 23356.09
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 3368.99,
-      "discount_pct": 10,
-      "line_total": 3032.09
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 1,
-      "unit_price": 2280.9,
-      "discount_pct": 0,
-      "line_total": 2280.9
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 3,
-      "unit_price": 285.52,
-      "discount_pct": 0,
-      "line_total": 856.56
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 871.18,
-      "discount_pct": 20,
-      "line_total": 34847.2
-    },
-    {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 1,
-      "unit_price": 962.84,
-      "discount_pct": 15,
-      "line_total": 818.41
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 137.45,
-      "discount_pct": 0,
-      "line_total": 137.45
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 212.39,
-      "discount_pct": 15,
-      "line_total": 180.53
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 319.86,
-      "discount_pct": 20,
-      "line_total": 12794.4
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1033.22,
-      "discount_pct": 20,
-      "line_total": 2479.73
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 245.93,
-      "discount_pct": 5,
-      "line_total": 467.27
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
       "quantity": 25,
-      "unit_price": 78.59,
-      "discount_pct": 0,
-      "line_total": 1964.75
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 14019.42,
-      "discount_pct": 0,
-      "line_total": 14019.42
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2359.3,
-      "discount_pct": 5,
-      "line_total": 6724.01
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2323.36,
-      "discount_pct": 5,
-      "line_total": 2207.19
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1487.23,
-      "discount_pct": 10,
-      "line_total": 33462.68
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 7081.12,
-      "discount_pct": 5,
-      "line_total": 336353.2
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3126.2,
-      "discount_pct": 5,
-      "line_total": 2969.89
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1565.44,
-      "discount_pct": 10,
-      "line_total": 1408.9
+      "unit_price": 410.15,
+      "discount_pct": 15,
+      "line_total": 8715.69
     }
   ],
-  "subtotal": 482103.34,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 48210.33,
-  "shipping_amount": 245.67,
-  "total_due": 530559.34,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": null,
+  "subtotal": 24833.57,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 3228.36,
+  "shipping_amount": 0.0,
+  "total_due": 28061.93,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

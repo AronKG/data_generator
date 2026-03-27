@@ -1,17 +1,17 @@
 {
   "id": 918,
   "filename": "invoice_918.pdf",
-  "layout_style": "modern",
-  "page_size": "A4",
+  "layout_style": "sidebar",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 13,
+  "color_palette_index": 4,
   "invoice_number": "SI/2023/59922",
-  "issue_date": "08/11/2022",
-  "due_date": "2022-12-23",
-  "payment_terms": "Net 45",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-81511",
+  "issue_date": "06 November 2023",
+  "due_date": "January 05 2024",
+  "payment_terms": "Net 21",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-66259",
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
   "seller_email": "invoices@stellarprint.com",
@@ -20,127 +20,95 @@
   "client_name": "Apex Capital Advisors",
   "client_address": "555 California St San Francisco CA 94104 USA",
   "client_email": "invoices@apexcapital.com",
-  "num_line_items": 13,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 492.82,
-      "discount_pct": 20,
-      "line_total": 1182.77
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 8704.71,
-      "discount_pct": 15,
-      "line_total": 73990.03
+      "quantity": 1,
+      "unit_price": 5416.08,
+      "discount_pct": 0,
+      "line_total": 5416.08
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 126.64,
-      "discount_pct": 0,
-      "line_total": 253.28
+      "quantity": 10,
+      "unit_price": 183.78,
+      "discount_pct": 15,
+      "line_total": 1562.13
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
       "quantity": 2,
-      "unit_price": 3113.6,
+      "unit_price": 1688.57,
       "discount_pct": 0,
-      "line_total": 6227.2
+      "line_total": 3377.14
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 2,
-      "unit_price": 6015.48,
+      "unit_price": 6116.4,
       "discount_pct": 0,
-      "line_total": 12030.96
+      "line_total": 12232.8
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3609.1,
+      "quantity": 2,
+      "unit_price": 4482.42,
       "discount_pct": 0,
-      "line_total": 10827.3
+      "line_total": 8964.84
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8656.73,
-      "discount_pct": 15,
-      "line_total": 7358.22
+      "quantity": 3,
+      "unit_price": 11493.93,
+      "discount_pct": 0,
+      "line_total": 34481.79
     },
     {
       "description": "Photography Session",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 606.59,
-      "discount_pct": 5,
-      "line_total": 576.26
+      "unit_price": 1467.13,
+      "discount_pct": 15,
+      "line_total": 1247.06
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 768.01,
-      "discount_pct": 10,
-      "line_total": 1382.42
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 4909.21,
-      "discount_pct": 0,
-      "line_total": 122730.25
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 3379.84,
-      "discount_pct": 5,
-      "line_total": 16054.24
-    },
-    {
-      "description": "Accounting Services",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 963.84,
-      "discount_pct": 10,
-      "line_total": 1734.91
+      "quantity": 1,
+      "unit_price": 372.48,
+      "discount_pct": 5,
+      "line_total": 353.86
     },
     {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 128.18,
-      "discount_pct": 0,
-      "line_total": 384.54
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 9493.51,
+      "discount_pct": 10,
+      "line_total": 17088.32
     }
   ],
-  "subtotal": 254732.38,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 21015.42,
-  "shipping_amount": 0.0,
-  "total_due": 275747.8,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "subtotal": 84724.02,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 17792.04,
+  "shipping_amount": 15.2,
+  "total_due": 102531.26,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": true,
   "has_tax": true
 }

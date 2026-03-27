@@ -1,16 +1,16 @@
 {
   "id": 586,
   "filename": "invoice_586.pdf",
-  "layout_style": "ledger",
+  "layout_style": "creative",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "color_palette_index": 0,
   "invoice_number": "REF90364",
-  "issue_date": "May 05 2023",
-  "due_date": "June 04 2023",
-  "payment_terms": "30 days from delivery",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "29-Aug-2023",
+  "due_date": "October 13 2023",
+  "payment_terms": "Immediate",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
@@ -20,123 +20,116 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 12,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 25,
-      "unit_price": 716.59,
-      "discount_pct": 20,
-      "line_total": 14331.8
-    },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 138.61,
-      "discount_pct": 10,
-      "line_total": 1247.49
+      "quantity": 25,
+      "unit_price": 155.72,
+      "discount_pct": 20,
+      "line_total": 3114.4
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
       "quantity": 10,
-      "unit_price": 333.07,
-      "discount_pct": 0,
-      "line_total": 3330.7
+      "unit_price": 1042.27,
+      "discount_pct": 10,
+      "line_total": 9380.43
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1090.49,
-      "discount_pct": 15,
-      "line_total": 1853.83
+      "quantity": 10,
+      "unit_price": 461.3,
+      "discount_pct": 0,
+      "line_total": 4613.0
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 454.99,
+      "quantity": 2,
+      "unit_price": 372.62,
       "discount_pct": 15,
-      "line_total": 3867.41
+      "line_total": 633.45
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1913.84,
-      "discount_pct": 10,
-      "line_total": 1722.46
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 606.66,
+      "discount_pct": 15,
+      "line_total": 5156.61
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 229.87,
-      "discount_pct": 5,
-      "line_total": 218.38
+      "unit_price": 705.92,
+      "discount_pct": 10,
+      "line_total": 635.33
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 8169.89,
-      "discount_pct": 0,
-      "line_total": 8169.89
+      "unit_price": 4475.07,
+      "discount_pct": 5,
+      "line_total": 4251.32
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 25,
-      "unit_price": 8821.05,
+      "quantity": 1,
+      "unit_price": 5008.77,
       "discount_pct": 0,
-      "line_total": 220526.25
+      "line_total": 5008.77
     },
     {
-      "description": "Data Analysis",
+      "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1773.03,
+      "quantity": 25,
+      "unit_price": 8883.1,
       "discount_pct": 0,
-      "line_total": 1773.03
+      "line_total": 222077.5
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 48.52,
-      "discount_pct": 5,
-      "line_total": 460.94
+      "quantity": 1,
+      "unit_price": 95.47,
+      "discount_pct": 0,
+      "line_total": 95.47
     },
     {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 5674.42,
-      "discount_pct": 0,
-      "line_total": 28372.1
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 554.0,
+      "discount_pct": 5,
+      "line_total": 5263.0
     }
   ],
-  "subtotal": 285874.28,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 14293.71,
-  "shipping_amount": 218.38,
-  "total_due": 300386.37,
-  "notes": null,
+  "subtotal": 260229.28,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 18216.05,
+  "shipping_amount": 0.0,
+  "total_due": 278445.33,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

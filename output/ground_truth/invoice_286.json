@@ -1,17 +1,17 @@
 {
   "id": 286,
   "filename": "invoice_286.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 7,
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
   "invoice_number": "BILL-55996",
-  "issue_date": "11-Aug-2024",
-  "due_date": "2024-08-25",
-  "payment_terms": "Net 7",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "2022-08-24",
+  "due_date": "09/07/2022",
+  "payment_terms": "Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-46520",
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
   "seller_email": "billing@tesseractlabs.com",
@@ -20,47 +20,187 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 3,
+  "num_line_items": 20,
   "line_items": [
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 466.93,
-      "discount_pct": 0,
-      "line_total": 466.93
-    },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 279.4,
-      "discount_pct": 0,
-      "line_total": 2794.0
+      "quantity": 2,
+      "unit_price": 117.19,
+      "discount_pct": 15,
+      "line_total": 199.22
     },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 557.8,
+      "quantity": 1,
+      "unit_price": 314.02,
       "discount_pct": 0,
-      "line_total": 27890.0
+      "line_total": 314.02
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 712.17,
+      "discount_pct": 15,
+      "line_total": 605.34
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 116.4,
+      "discount_pct": 0,
+      "line_total": 116.4
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 17961.02,
+      "discount_pct": 20,
+      "line_total": 359220.4
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 228.42,
+      "discount_pct": 0,
+      "line_total": 1142.1
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2801.44,
+      "discount_pct": 15,
+      "line_total": 23812.24
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 301.85,
+      "discount_pct": 5,
+      "line_total": 2867.57
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 17788.39,
+      "discount_pct": 5,
+      "line_total": 168989.7
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2736.03,
+      "discount_pct": 5,
+      "line_total": 12996.14
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 977.37,
+      "discount_pct": 10,
+      "line_total": 21990.83
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 9463.39,
+      "discount_pct": 15,
+      "line_total": 80438.81
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 800.4,
+      "discount_pct": 0,
+      "line_total": 4002.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14621.79,
+      "discount_pct": 10,
+      "line_total": 65798.06
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 146.1,
+      "discount_pct": 0,
+      "line_total": 7305.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1436.53,
+      "discount_pct": 0,
+      "line_total": 4309.59
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 109.41,
+      "discount_pct": 10,
+      "line_total": 98.47
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 129.14,
+      "discount_pct": 5,
+      "line_total": 613.41
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 104.53,
+      "discount_pct": 0,
+      "line_total": 313.59
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 3364.48,
+      "discount_pct": 10,
+      "line_total": 3028.03
     }
   ],
-  "subtotal": 31150.93,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 1869.06,
+  "subtotal": 758160.92,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 33019.99,
+  "total_due": 758160.92,
   "notes": null,
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": false,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

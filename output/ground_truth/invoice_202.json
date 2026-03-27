@@ -1,16 +1,16 @@
 {
   "id": 202,
   "filename": "invoice_202.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
   "invoice_number": "REF-2025-9031",
-  "issue_date": "09 October 2022",
-  "due_date": "30-Oct-2022",
-  "payment_terms": "Net 7",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "issue_date": "05/07/2023",
+  "due_date": "May 21 2023",
+  "payment_terms": "Net 60",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
@@ -20,80 +20,48 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 7,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4376.31,
-      "discount_pct": 0,
-      "line_total": 8752.62
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 821.78,
+      "quantity": 1,
+      "unit_price": 672.63,
       "discount_pct": 0,
-      "line_total": 1643.56
+      "line_total": 672.63
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4247.98,
-      "discount_pct": 20,
-      "line_total": 10195.15
+      "quantity": 5,
+      "unit_price": 1459.79,
+      "discount_pct": 0,
+      "line_total": 7298.95
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 9117.06,
+      "quantity": 3,
+      "unit_price": 5111.69,
       "discount_pct": 0,
-      "line_total": 91170.6
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 218.4,
-      "discount_pct": 0,
-      "line_total": 2184.0
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 25,
-      "unit_price": 58.11,
-      "discount_pct": 0,
-      "line_total": 1452.75
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 123.55,
-      "discount_pct": 0,
-      "line_total": 123.55
+      "line_total": 15335.07
     }
   ],
-  "subtotal": 115522.23,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 6931.33,
+  "subtotal": 23306.65,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 3496.0,
   "shipping_amount": 0.0,
-  "total_due": 122453.56,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "total_due": 26802.65,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

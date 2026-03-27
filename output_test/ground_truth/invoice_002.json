@@ -1,0 +1,122 @@
+{
+  "id": 2,
+  "filename": "invoice_002.pdf",
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
+  "invoice_number": "TAX-INV-2878",
+  "issue_date": "24/06/2024",
+  "due_date": "07/24/2024",
+  "payment_terms": "Upon completion",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 10,
+  "line_items": [
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1641.29,
+      "discount_pct": 20,
+      "line_total": 1313.03
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3608.7,
+      "discount_pct": 10,
+      "line_total": 3247.83
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 99.27,
+      "discount_pct": 5,
+      "line_total": 188.61
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 843.95,
+      "discount_pct": 10,
+      "line_total": 2278.67
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5939.26,
+      "discount_pct": 0,
+      "line_total": 5939.26
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2623.44,
+      "discount_pct": 0,
+      "line_total": 131172.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 99.55,
+      "discount_pct": 15,
+      "line_total": 84.62
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 637.84,
+      "discount_pct": 0,
+      "line_total": 1275.68
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 196.29,
+      "discount_pct": 20,
+      "line_total": 471.1
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4248.09,
+      "discount_pct": 0,
+      "line_total": 21240.45
+    }
+  ],
+  "subtotal": 167211.25,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 13794.93,
+  "shipping_amount": 224.89,
+  "total_due": 181231.07,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

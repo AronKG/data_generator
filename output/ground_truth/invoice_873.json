@@ -1,16 +1,16 @@
 {
   "id": 873,
   "filename": "invoice_873.pdf",
-  "layout_style": "minimal",
+  "layout_style": "modern",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 10,
   "invoice_number": "SI/2023/50179",
-  "issue_date": "27-Sep-2024",
-  "due_date": "11-Oct-2024",
-  "payment_terms": "Net 7",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "issue_date": "09-Jul-2022",
+  "due_date": "08/08/2022",
+  "payment_terms": "Net 21",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
@@ -20,116 +20,196 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 11,
+  "num_line_items": 21,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3527.6,
-      "discount_pct": 0,
-      "line_total": 176380.0
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 7186.96,
-      "discount_pct": 0,
-      "line_total": 7186.96
+      "unit_price": 2151.82,
+      "discount_pct": 10,
+      "line_total": 1936.64
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4416.89,
-      "discount_pct": 0,
-      "line_total": 13250.67
+      "quantity": 1,
+      "unit_price": 2787.31,
+      "discount_pct": 15,
+      "line_total": 2369.21
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1987.51,
-      "discount_pct": 20,
-      "line_total": 1590.01
+      "quantity": 10,
+      "unit_price": 2385.27,
+      "discount_pct": 15,
+      "line_total": 20274.8
     },
     {
       "description": "Software License",
       "unit": "seat",
       "quantity": 1,
-      "unit_price": 5328.77,
+      "unit_price": 6638.56,
       "discount_pct": 15,
-      "line_total": 4529.45
+      "line_total": 5642.78
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 15451.0,
-      "discount_pct": 15,
-      "line_total": 131333.5
+      "quantity": 25,
+      "unit_price": 15711.58,
+      "discount_pct": 5,
+      "line_total": 373150.02
     },
     {
-      "description": "Tech Writing",
-      "unit": "pg",
+      "description": "iOS App Dev",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 215.08,
-      "discount_pct": 15,
-      "line_total": 182.82
+      "unit_price": 19641.01,
+      "discount_pct": 10,
+      "line_total": 17676.91
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1629.11,
+      "quantity": 5,
+      "unit_price": 462.91,
       "discount_pct": 5,
-      "line_total": 38691.36
+      "line_total": 2198.82
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 197.36,
-      "discount_pct": 10,
-      "line_total": 177.62
+      "quantity": 10,
+      "unit_price": 188.46,
+      "discount_pct": 0,
+      "line_total": 1884.6
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Data Analysis",
+      "unit": "ea",
       "quantity": 5,
-      "unit_price": 674.71,
-      "discount_pct": 5,
-      "line_total": 3204.87
+      "unit_price": 679.79,
+      "discount_pct": 0,
+      "line_total": 3398.95
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 463.08,
+      "quantity": 1,
+      "unit_price": 346.13,
+      "discount_pct": 5,
+      "line_total": 328.82
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 26140.09,
       "discount_pct": 0,
-      "line_total": 4630.8
+      "line_total": 130700.45
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 742.59,
+      "discount_pct": 0,
+      "line_total": 2227.77
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 916.41,
+      "discount_pct": 15,
+      "line_total": 19473.71
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 713.34,
+      "discount_pct": 0,
+      "line_total": 713.34
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 965.5,
+      "discount_pct": 5,
+      "line_total": 917.22
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 3836.08,
+      "discount_pct": 0,
+      "line_total": 19180.4
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 134.96,
+      "discount_pct": 10,
+      "line_total": 121.46
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1531.0,
+      "discount_pct": 10,
+      "line_total": 2755.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 715.23,
+      "discount_pct": 10,
+      "line_total": 643.71
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 431.45,
+      "discount_pct": 5,
+      "line_total": 819.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 830.05,
+      "discount_pct": 10,
+      "line_total": 747.04
     }
   ],
-  "subtotal": 381158.06,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 26681.06,
-  "shipping_amount": 92.12,
-  "total_due": 407931.24,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "subtotal": 607162.2,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 78931.09,
+  "shipping_amount": 0.0,
+  "total_due": 686093.29,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

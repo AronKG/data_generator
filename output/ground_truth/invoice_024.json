@@ -1,17 +1,17 @@
 {
   "id": 24,
   "filename": "invoice_024.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
+  "layout_style": "two_tone",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "color_palette_index": 6,
   "invoice_number": "SI-40911",
-  "issue_date": "28 March 2022",
-  "due_date": "06/26/2022",
-  "payment_terms": "Net 90",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "07 August 2024",
+  "due_date": "2024-08-22",
+  "payment_terms": "Net 60",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-89944",
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
   "seller_email": "ap@ironwoodprecision.com",
@@ -20,79 +20,75 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 7,
+  "num_line_items": 6,
   "line_items": [
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1921.93,
-      "discount_pct": 0,
-      "line_total": 3843.86
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 241.26,
-      "discount_pct": 0,
-      "line_total": 2412.6
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
       "quantity": 1,
-      "unit_price": 6239.74,
-      "discount_pct": 20,
-      "line_total": 4991.79
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1124.1,
-      "discount_pct": 0,
-      "line_total": 1124.1
+      "unit_price": 1070.17,
+      "discount_pct": 10,
+      "line_total": 963.15
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 220.56,
-      "discount_pct": 0,
-      "line_total": 441.12
+      "quantity": 1,
+      "unit_price": 261.58,
+      "discount_pct": 20,
+      "line_total": 209.26
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4114.92,
-      "discount_pct": 15,
-      "line_total": 6995.36
+      "quantity": 1,
+      "unit_price": 8656.47,
+      "discount_pct": 20,
+      "line_total": 6925.18
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 19501.3,
+      "quantity": 1,
+      "unit_price": 10468.17,
       "discount_pct": 0,
-      "line_total": 39002.6
+      "line_total": 10468.17
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 1373.52,
+      "discount_pct": 0,
+      "line_total": 2747.04
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 18612.89,
+      "discount_pct": 15,
+      "line_total": 31641.91
     }
   ],
-  "subtotal": 58811.43,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 8821.71,
+  "subtotal": 52954.71,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 4368.76,
   "shipping_amount": 0.0,
-  "total_due": 67633.14,
-  "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": null,
+  "total_due": 57323.47,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

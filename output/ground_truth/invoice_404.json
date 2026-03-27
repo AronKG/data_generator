@@ -1,15 +1,15 @@
 {
   "id": 404,
   "filename": "invoice_404.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "sidebar",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
   "invoice_number": "TAX-INV-26344",
-  "issue_date": "2024-06-20",
-  "due_date": "05/07/2024",
-  "payment_terms": "Net 21",
-  "currency": "SEK",
+  "issue_date": "12/15/2022",
+  "due_date": "29 December 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
   "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Greenleaf Organics",
@@ -20,91 +20,71 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 8,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3350.6,
-      "discount_pct": 5,
-      "line_total": 31830.7
-    },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 622.42,
-      "discount_pct": 10,
-      "line_total": 1120.36
+      "quantity": 50,
+      "unit_price": 760.36,
+      "discount_pct": 5,
+      "line_total": 36117.1
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 241.42,
+      "quantity": 50,
+      "unit_price": 280.16,
       "discount_pct": 0,
-      "line_total": 241.42
+      "line_total": 14008.0
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 66.24,
+      "quantity": 1,
+      "unit_price": 100.04,
       "discount_pct": 0,
-      "line_total": 198.72
+      "line_total": 100.04
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 3,
-      "unit_price": 2589.4,
-      "discount_pct": 10,
-      "line_total": 6991.38
+      "unit_price": 2683.73,
+      "discount_pct": 0,
+      "line_total": 8051.19
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3651.24,
-      "discount_pct": 20,
-      "line_total": 29209.92
+      "quantity": 3,
+      "unit_price": 4104.6,
+      "discount_pct": 0,
+      "line_total": 12313.8
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 593.51,
-      "discount_pct": 5,
-      "line_total": 5638.35
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
       "quantity": 3,
-      "unit_price": 13331.16,
+      "unit_price": 555.63,
       "discount_pct": 5,
-      "line_total": 37993.81
+      "line_total": 1583.55
     }
   ],
-  "subtotal": 113224.66,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 11322.47,
-  "shipping_amount": 188.2,
-  "total_due": 124735.33,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "subtotal": 72173.68,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 4330.42,
+  "shipping_amount": 0.0,
+  "total_due": 76504.1,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

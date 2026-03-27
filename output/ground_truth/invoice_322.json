@@ -1,16 +1,16 @@
 {
   "id": 322,
   "filename": "invoice_322.pdf",
-  "layout_style": "minimal",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
   "invoice_number": "2022-22202",
-  "issue_date": "26 November 2024",
-  "due_date": "24-Feb-2025",
-  "payment_terms": "Net 45",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "July 24 2023",
+  "due_date": "08/08/2023",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
@@ -20,68 +20,212 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 5,
+  "num_line_items": 23,
   "line_items": [
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 279.29,
-      "discount_pct": 0,
-      "line_total": 279.29
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 697.77,
-      "discount_pct": 0,
-      "line_total": 697.77
-    },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1000.3,
-      "discount_pct": 0,
-      "line_total": 25007.5
+      "quantity": 1,
+      "unit_price": 1433.97,
+      "discount_pct": 20,
+      "line_total": 1147.18
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 782.78,
-      "discount_pct": 0,
-      "line_total": 782.78
+      "quantity": 50,
+      "unit_price": 781.48,
+      "discount_pct": 20,
+      "line_total": 31259.2
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1505.09,
+      "quantity": 10,
+      "unit_price": 1096.35,
+      "discount_pct": 0,
+      "line_total": 10963.5
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 572.26,
+      "discount_pct": 20,
+      "line_total": 1373.42
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2902.11,
       "discount_pct": 15,
-      "line_total": 1279.33
+      "line_total": 7400.38
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 475.23,
+      "discount_pct": 0,
+      "line_total": 2376.15
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 209.78,
+      "discount_pct": 0,
+      "line_total": 209.78
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1916.38,
+      "discount_pct": 0,
+      "line_total": 1916.38
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13810.89,
+      "discount_pct": 0,
+      "line_total": 13810.89
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1957.69,
+      "discount_pct": 5,
+      "line_total": 1859.81
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 5,
+      "unit_price": 7435.03,
+      "discount_pct": 0,
+      "line_total": 37175.15
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 133.61,
+      "discount_pct": 5,
+      "line_total": 126.93
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 830.33,
+      "discount_pct": 10,
+      "line_total": 747.3
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1588.22,
+      "discount_pct": 0,
+      "line_total": 1588.22
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 88.48,
+      "discount_pct": 15,
+      "line_total": 225.62
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3471.86,
+      "discount_pct": 0,
+      "line_total": 3471.86
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 61.57,
+      "discount_pct": 15,
+      "line_total": 1308.36
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11019.27,
+      "discount_pct": 0,
+      "line_total": 11019.27
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1053.03,
+      "discount_pct": 0,
+      "line_total": 2106.06
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 227.28,
+      "discount_pct": 10,
+      "line_total": 204.55
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7764.32,
+      "discount_pct": 0,
+      "line_total": 15528.64
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 432.9,
+      "discount_pct": 5,
+      "line_total": 411.25
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 556.67,
+      "discount_pct": 0,
+      "line_total": 13916.75
     }
   ],
-  "subtotal": 28046.67,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 6450.73,
+  "subtotal": 160146.65,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 34497.4,
+  "total_due": 160146.65,
   "notes": null,
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": true
+  "has_tax": false
 }

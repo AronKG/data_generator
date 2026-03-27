@@ -1,17 +1,17 @@
 {
   "id": 380,
   "filename": "invoice_380.pdf",
-  "layout_style": "compact",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 10,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
   "invoice_number": "INV16919",
-  "issue_date": "13 December 2024",
-  "due_date": "28 December 2024",
-  "payment_terms": "Net 45",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "07/11/2023",
+  "due_date": "25/08/2023",
+  "payment_terms": "Net 30",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": "PO-81521",
   "seller_name": "Oasis Events Co.",
   "seller_address": "55 Palm Boulevard Dubai UAE",
   "seller_email": "events@oasisevents.ae",
@@ -20,39 +20,151 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 2,
+  "num_line_items": 16,
   "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 353.69,
+      "discount_pct": 20,
+      "line_total": 282.95
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1037.89,
+      "discount_pct": 0,
+      "line_total": 25947.25
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 273.98,
+      "discount_pct": 0,
+      "line_total": 821.94
+    },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 11583.34,
+      "unit_price": 4631.3,
       "discount_pct": 0,
-      "line_total": 11583.34
+      "line_total": 4631.3
     },
     {
-      "description": "Print Materials",
-      "unit": "lot",
+      "description": "Mobile App Dev",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 503.31,
+      "unit_price": 10120.43,
       "discount_pct": 0,
-      "line_total": 503.31
+      "line_total": 10120.43
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 869.15,
+      "discount_pct": 0,
+      "line_total": 21728.75
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 193.6,
+      "discount_pct": 20,
+      "line_total": 154.88
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 560.1,
+      "discount_pct": 10,
+      "line_total": 504.09
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1774.46,
+      "discount_pct": 5,
+      "line_total": 84286.85
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 486.14,
+      "discount_pct": 0,
+      "line_total": 12153.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1959.84,
+      "discount_pct": 5,
+      "line_total": 46546.2
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 370.62,
+      "discount_pct": 5,
+      "line_total": 352.09
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 2033.85,
+      "discount_pct": 20,
+      "line_total": 81354.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1901.02,
+      "discount_pct": 10,
+      "line_total": 1710.92
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1496.43,
+      "discount_pct": 10,
+      "line_total": 13467.87
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1490.97,
+      "discount_pct": 20,
+      "line_total": 1192.78
     }
   ],
-  "subtotal": 12086.65,
+  "subtotal": 305255.8,
   "tax_label": "GST 10pct",
   "tax_rate_pct": 10.0,
-  "tax_amount": 1208.66,
+  "tax_amount": 30525.58,
   "shipping_amount": 0.0,
-  "total_due": 13295.31,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "total_due": 335781.38,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 949,
   "filename": "invoice_949.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 8,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
   "invoice_number": "INV-2025-68690",
-  "issue_date": "16-Oct-2022",
-  "due_date": "November 06 2022",
-  "payment_terms": "Due on Receipt",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-30157",
+  "issue_date": "February 03 2023",
+  "due_date": "10/02/2023",
+  "payment_terms": "Net 90",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
   "seller_email": "factures@crimsonco.fr",
@@ -20,135 +20,43 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 14,
+  "num_line_items": 2,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 279.57,
-      "discount_pct": 15,
-      "line_total": 5940.86
-    },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 1,
-      "unit_price": 52.51,
+      "unit_price": 64.89,
       "discount_pct": 0,
-      "line_total": 52.51
+      "line_total": 64.89
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3919.15,
-      "discount_pct": 0,
-      "line_total": 195957.5
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
       "quantity": 1,
-      "unit_price": 207.61,
-      "discount_pct": 15,
-      "line_total": 176.47
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 796.49,
-      "discount_pct": 10,
-      "line_total": 716.84
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1097.78,
-      "discount_pct": 5,
-      "line_total": 1042.89
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 392.17,
+      "unit_price": 3229.37,
       "discount_pct": 0,
-      "line_total": 1176.51
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 88.02,
-      "discount_pct": 0,
-      "line_total": 880.2
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 199.91,
-      "discount_pct": 0,
-      "line_total": 199.91
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 838.79,
-      "discount_pct": 0,
-      "line_total": 41939.5
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 797.82,
-      "discount_pct": 0,
-      "line_total": 3989.1
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 5,
-      "unit_price": 89.72,
-      "discount_pct": 10,
-      "line_total": 403.74
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 5,
-      "unit_price": 963.29,
-      "discount_pct": 0,
-      "line_total": 4816.45
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 3420.65,
-      "discount_pct": 10,
-      "line_total": 3078.59
+      "line_total": 3229.37
     }
   ],
-  "subtotal": 260371.07,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 59885.35,
-  "shipping_amount": 146.21,
-  "total_due": 320402.63,
-  "notes": null,
-  "bank_details": null,
+  "subtotal": 3294.26,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 3294.26,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": true,
-  "has_tax": true
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
 }

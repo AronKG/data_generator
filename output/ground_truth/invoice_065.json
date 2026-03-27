@@ -1,17 +1,17 @@
 {
   "id": 65,
   "filename": "invoice_065.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 11,
   "invoice_number": "RCPT/2023/23513",
-  "issue_date": "01/03/2023",
-  "due_date": "2023-02-17",
-  "payment_terms": "Net 15",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": "PO-37050",
+  "issue_date": "28 December 2024",
+  "due_date": "11/02/2025",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
   "seller_email": "billing@tesseractlabs.com",
@@ -20,23 +20,39 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 13,
+  "num_line_items": 7,
   "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1251.51,
+      "discount_pct": 5,
+      "line_total": 59446.72
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13011.47,
+      "discount_pct": 20,
+      "line_total": 52045.88
+    },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 5,
-      "unit_price": 1241.42,
-      "discount_pct": 0,
-      "line_total": 6207.1
+      "quantity": 1,
+      "unit_price": 707.61,
+      "discount_pct": 15,
+      "line_total": 601.47
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 1,
-      "unit_price": 8396.75,
-      "discount_pct": 15,
-      "line_total": 7137.24
+      "quantity": 3,
+      "unit_price": 2135.72,
+      "discount_pct": 5,
+      "line_total": 6086.8
     },
     {
       "description": "Equipment Rental",
@@ -61,90 +77,27 @@
       "unit_price": 9784.47,
       "discount_pct": 5,
       "line_total": 464762.32
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2068.22,
-      "discount_pct": 0,
-      "line_total": 10341.1
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 106.97,
-      "discount_pct": 0,
-      "line_total": 5348.5
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 3885.1,
-      "discount_pct": 15,
-      "line_total": 82558.38
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 755.69,
-      "discount_pct": 5,
-      "line_total": 717.91
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 147.06,
-      "discount_pct": 10,
-      "line_total": 397.06
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 9748.69,
-      "discount_pct": 15,
-      "line_total": 16572.77
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 104.95,
-      "discount_pct": 0,
-      "line_total": 104.95
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2268.72,
-      "discount_pct": 0,
-      "line_total": 6806.16
     }
   ],
-  "subtotal": 609416.17,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 115789.07,
+  "subtotal": 591405.87,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 41398.41,
   "shipping_amount": 0.0,
-  "total_due": 725205.24,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 632804.28,
+  "notes": "Thank you for your business. We value our long-term partnership.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

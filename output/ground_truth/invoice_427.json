@@ -1,14 +1,14 @@
 {
   "id": 427,
   "filename": "invoice_427.pdf",
-  "layout_style": "ledger",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 12,
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
   "invoice_number": "072681",
-  "issue_date": "27-Mar-2024",
-  "due_date": "03 April 2024",
-  "payment_terms": "Net 60",
+  "issue_date": "2022-04-02",
+  "due_date": "17 May 2022",
+  "payment_terms": "Cash on Delivery",
   "currency": "EUR",
   "currency_symbol": "€",
   "po_number": null,
@@ -20,38 +20,83 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 2,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4794.66,
-      "discount_pct": 0,
-      "line_total": 9589.32
-    },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 158.38,
+      "quantity": 1,
+      "unit_price": 178.22,
+      "discount_pct": 5,
+      "line_total": 169.31
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 362.65,
       "discount_pct": 0,
-      "line_total": 1583.8
+      "line_total": 362.65
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6712.65,
+      "discount_pct": 5,
+      "line_total": 6377.02
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 4907.38,
+      "discount_pct": 10,
+      "line_total": 13249.93
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 118.41,
+      "discount_pct": 20,
+      "line_total": 4736.4
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 6972.74,
+      "discount_pct": 10,
+      "line_total": 31377.33
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 320.9,
+      "discount_pct": 0,
+      "line_total": 320.9
     }
   ],
-  "subtotal": 11173.12,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 1452.51,
+  "subtotal": 56593.54,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 10752.77,
   "shipping_amount": 0.0,
-  "total_due": 12625.63,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 67346.31,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

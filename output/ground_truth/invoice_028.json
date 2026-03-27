@@ -1,17 +1,17 @@
 {
   "id": 28,
   "filename": "invoice_028.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "medium",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
   "color_palette_index": 13,
   "invoice_number": "BILL/2024/68302",
-  "issue_date": "April 17 2023",
-  "due_date": "07/16/2023",
-  "payment_terms": "End of Month",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-73844",
+  "issue_date": "08 October 2024",
+  "due_date": "01/06/2025",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
   "seller_email": "info@apexsolutions.co.uk",
@@ -23,20 +23,12 @@
   "num_line_items": 7,
   "line_items": [
     {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 2865.19,
-      "discount_pct": 15,
-      "line_total": 121770.57
-    },
-    {
-      "description": "Cloud Hosting",
+      "description": "Bookkeeping",
       "unit": "mo",
       "quantity": 10,
-      "unit_price": 130.5,
+      "unit_price": 445.83,
       "discount_pct": 10,
-      "line_total": 1174.5
+      "line_total": 4012.47
     },
     {
       "description": "Brand Identity",
@@ -77,22 +69,34 @@
       "unit_price": 1224.05,
       "discount_pct": 10,
       "line_total": 11016.45
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 413.09,
+      "discount_pct": 0,
+      "line_total": 826.18
     }
   ],
-  "subtotal": 388893.57,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 23333.61,
+  "subtotal": 270787.15,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 22339.94,
   "shipping_amount": 0.0,
-  "total_due": 412227.18,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": null,
+  "total_due": 293127.09,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

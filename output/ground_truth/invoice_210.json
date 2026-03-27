@@ -1,17 +1,17 @@
 {
   "id": 210,
   "filename": "invoice_210.pdf",
-  "layout_style": "minimal",
+  "layout_style": "formal",
   "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "color_palette_index": 2,
   "invoice_number": "PROFORMA34056",
-  "issue_date": "2024-12-31",
-  "due_date": "2025-01-07",
-  "payment_terms": "Cash on Delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-22404",
+  "issue_date": "31/07/2022",
+  "due_date": "2022-10-29",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,83 +20,47 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 7,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1782.02,
-      "discount_pct": 20,
-      "line_total": 4276.85
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 274.98,
-      "discount_pct": 20,
-      "line_total": 5499.6
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 12030.57,
-      "discount_pct": 20,
-      "line_total": 96244.56
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2708.9,
+      "quantity": 1,
+      "unit_price": 3405.81,
       "discount_pct": 0,
-      "line_total": 27089.0
+      "line_total": 3405.81
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 706.44,
-      "discount_pct": 15,
-      "line_total": 3002.37
+      "quantity": 50,
+      "unit_price": 595.75,
+      "discount_pct": 0,
+      "line_total": 29787.5
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 2816.73,
-      "discount_pct": 20,
-      "line_total": 22533.84
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1330.38,
+      "quantity": 25,
+      "unit_price": 7796.64,
       "discount_pct": 0,
-      "line_total": 13303.8
+      "line_total": 194916.0
     }
   ],
-  "subtotal": 171950.02,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 22353.5,
+  "subtotal": 228109.31,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 34216.4,
   "shipping_amount": 0.0,
-  "total_due": 194303.52,
-  "notes": "Please retain this invoice for your accounting records.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "total_due": 262325.71,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

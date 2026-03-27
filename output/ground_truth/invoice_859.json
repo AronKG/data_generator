@@ -1,16 +1,16 @@
 {
   "id": 859,
   "filename": "invoice_859.pdf",
-  "layout_style": "creative",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 10,
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
   "invoice_number": "057412",
-  "issue_date": "07/09/2022",
-  "due_date": "23-Jul-2022",
+  "issue_date": "07/27/2022",
+  "due_date": "10-Aug-2022",
   "payment_terms": "30 days from delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
@@ -20,98 +20,90 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 15,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 817.54,
-      "discount_pct": 0,
-      "line_total": 817.54
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 277.75,
-      "discount_pct": 0,
-      "line_total": 277.75
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3190.26,
-      "discount_pct": 0,
-      "line_total": 6380.52
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 325.24,
+      "quantity": 1,
+      "unit_price": 155.17,
       "discount_pct": 0,
-      "line_total": 16262.0
+      "line_total": 155.17
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 1341.11,
-      "discount_pct": 0,
-      "line_total": 6705.55
+      "quantity": 1,
+      "unit_price": 422.95,
+      "discount_pct": 10,
+      "line_total": 380.65
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 25,
-      "unit_price": 681.76,
-      "discount_pct": 0,
-      "line_total": 17044.0
+      "quantity": 1,
+      "unit_price": 503.58,
+      "discount_pct": 5,
+      "line_total": 478.4
     },
     {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 11721.14,
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 411.43,
       "discount_pct": 0,
-      "line_total": 586057.0
+      "line_total": 2057.15
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2901.28,
-      "discount_pct": 15,
-      "line_total": 7398.26
+      "quantity": 1,
+      "unit_price": 1519.57,
+      "discount_pct": 5,
+      "line_total": 1443.59
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 4843.63,
-      "discount_pct": 20,
-      "line_total": 3874.9
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 117.61,
-      "discount_pct": 15,
-      "line_total": 99.97
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 6496.11,
+      "unit_price": 3195.05,
       "discount_pct": 10,
-      "line_total": 292324.95
+      "line_total": 2875.55
     },
     {
-      "description": "Mobile App Dev",
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1443.81,
+      "discount_pct": 0,
+      "line_total": 1443.81
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 195.66,
+      "discount_pct": 20,
+      "line_total": 156.53
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 469.31,
+      "discount_pct": 15,
+      "line_total": 398.91
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6636.47,
+      "discount_pct": 10,
+      "line_total": 298641.15
+    },
+    {
+      "description": "Market Research",
       "unit": "ea",
       "quantity": 2,
       "unit_price": 3649.52,
@@ -119,36 +111,36 @@
       "line_total": 6204.18
     },
     {
-      "description": "Export Documentation",
-      "unit": "ea",
+      "description": "Manufacturing Parts",
+      "unit": "lot",
       "quantity": 1,
-      "unit_price": 378.7,
+      "unit_price": 5725.71,
       "discount_pct": 0,
-      "line_total": 378.7
+      "line_total": 5725.71
     },
     {
-      "description": "Accounting Services",
-      "unit": "mo",
+      "description": "Web Development",
+      "unit": "hrs",
       "quantity": 50,
-      "unit_price": 1068.04,
+      "unit_price": 195.17,
       "discount_pct": 0,
-      "line_total": 53402.0
+      "line_total": 9758.5
     },
     {
-      "description": "Market Research",
-      "unit": "ea",
+      "description": "Tech Writing",
+      "unit": "pg",
       "quantity": 10,
-      "unit_price": 13171.41,
+      "unit_price": 266.24,
       "discount_pct": 10,
-      "line_total": 118542.69
+      "line_total": 2396.16
     }
   ],
-  "subtotal": 1115770.01,
+  "subtotal": 332115.46,
   "tax_label": "GST 5pct",
   "tax_rate_pct": 5.0,
-  "tax_amount": 55788.5,
+  "tax_amount": 16605.77,
   "shipping_amount": 240.29,
-  "total_due": 1171798.8,
+  "total_due": 348961.52,
   "notes": null,
   "bank_details": null,
   "has_logo": true,

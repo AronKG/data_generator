@@ -1,17 +1,17 @@
 {
   "id": 362,
   "filename": "invoice_362.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "minimal",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 10,
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
   "invoice_number": "2025-78212",
-  "issue_date": "2022-09-08",
-  "due_date": "09/29/2022",
-  "payment_terms": "Net 21",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": "PO-70566",
+  "issue_date": "February 08 2023",
+  "due_date": "10 March 2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
   "seller_name": "RedBark Sustainable Co.",
   "seller_address": "22 Battery St Burlington VT 05401 USA",
   "seller_email": "hello@redbark.com",
@@ -20,111 +20,83 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 11,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1419.03,
-      "discount_pct": 10,
-      "line_total": 12771.27
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 971.87,
-      "discount_pct": 0,
-      "line_total": 4859.35
+      "quantity": 50,
+      "unit_price": 1452.49,
+      "discount_pct": 5,
+      "line_total": 68993.27
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 222.8,
-      "discount_pct": 20,
-      "line_total": 8912.0
+      "quantity": 10,
+      "unit_price": 242.64,
+      "discount_pct": 0,
+      "line_total": 2426.4
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 7475.87,
-      "discount_pct": 15,
-      "line_total": 31772.45
+      "quantity": 2,
+      "unit_price": 6250.94,
+      "discount_pct": 0,
+      "line_total": 12501.88
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 201.19,
-      "discount_pct": 0,
-      "line_total": 201.19
+      "quantity": 50,
+      "unit_price": 225.79,
+      "discount_pct": 20,
+      "line_total": 9031.6
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 857.76,
-      "discount_pct": 0,
-      "line_total": 42888.0
+      "quantity": 5,
+      "unit_price": 1495.17,
+      "discount_pct": 15,
+      "line_total": 6354.47
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 38.73,
+      "quantity": 1,
+      "unit_price": 100.59,
       "discount_pct": 0,
-      "line_total": 116.19
+      "line_total": 100.59
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 18629.76,
+      "quantity": 50,
+      "unit_price": 8260.28,
       "discount_pct": 0,
-      "line_total": 37259.52
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 28706.65,
-      "discount_pct": 5,
-      "line_total": 81813.95
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 410.75,
-      "discount_pct": 0,
-      "line_total": 821.5
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 356.77,
-      "discount_pct": 20,
-      "line_total": 7135.4
+      "line_total": 413014.0
     }
   ],
-  "subtotal": 228550.82,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 47995.67,
+  "subtotal": 512422.21,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 97360.22,
   "shipping_amount": 0.0,
-  "total_due": 276546.49,
-  "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": null,
+  "total_due": 609782.43,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

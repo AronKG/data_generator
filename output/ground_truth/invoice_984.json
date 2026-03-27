@@ -1,16 +1,16 @@
 {
   "id": 984,
   "filename": "invoice_984.pdf",
-  "layout_style": "minimal",
-  "page_size": "letter",
+  "layout_style": "bold_header",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "color_palette_index": 0,
   "invoice_number": "REF-29587",
-  "issue_date": "September 14 2023",
-  "due_date": "13 November 2023",
+  "issue_date": "June 13 2024",
+  "due_date": "11 September 2024",
   "payment_terms": "30 days from delivery",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": "PO-46758",
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
@@ -23,60 +23,60 @@
   "num_line_items": 6,
   "line_items": [
     {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 614.35,
-      "discount_pct": 0,
-      "line_total": 3071.75
-    },
-    {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4025.69,
+      "quantity": 1,
+      "unit_price": 10805.69,
       "discount_pct": 0,
-      "line_total": 20128.45
+      "line_total": 10805.69
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4177.6,
-      "discount_pct": 5,
-      "line_total": 11906.16
+      "quantity": 1,
+      "unit_price": 10563.98,
+      "discount_pct": 15,
+      "line_total": 8979.38
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 3,
-      "unit_price": 81.42,
-      "discount_pct": 0,
-      "line_total": 244.26
+      "unit_price": 40.91,
+      "discount_pct": 5,
+      "line_total": 116.59
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5844.35,
-      "discount_pct": 20,
-      "line_total": 4675.48
+      "quantity": 3,
+      "unit_price": 12486.24,
+      "discount_pct": 0,
+      "line_total": 37458.72
     },
     {
       "description": "Content Writing",
       "unit": "pg",
+      "quantity": 1,
+      "unit_price": 155.15,
+      "discount_pct": 20,
+      "line_total": 124.12
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 3,
-      "unit_price": 346.64,
+      "unit_price": 699.95,
       "discount_pct": 15,
-      "line_total": 883.93
+      "line_total": 1784.87
     }
   ],
-  "subtotal": 40910.03,
+  "subtotal": 59269.37,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 7772.91,
+  "tax_amount": 11261.18,
   "shipping_amount": 0.0,
-  "total_due": 48682.94,
+  "total_due": 70530.55,
   "notes": null,
   "bank_details": {
     "Bank": "Handelsbanken",

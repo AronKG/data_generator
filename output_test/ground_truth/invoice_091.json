@@ -1,0 +1,215 @@
+{
+  "id": 91,
+  "filename": "invoice_091.pdf",
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 3,
+  "invoice_number": "TAX-INV-98277",
+  "issue_date": "03/13/2022",
+  "due_date": "June 11 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "IronCore Manufacturing",
+  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
+  "seller_email": "ar@ironcoremfg.com",
+  "seller_phone": "+1 412-555-0177",
+  "seller_tax_id": "EIN: 45-6789012",
+  "client_name": "Evergreen International School",
+  "client_address": "21 Buona Vista Rd Singapore 275720",
+  "client_email": "finance@evergreenintl.edu.sg",
+  "num_line_items": 21,
+  "line_items": [
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 278.08,
+      "discount_pct": 10,
+      "line_total": 1251.36
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2091.32,
+      "discount_pct": 20,
+      "line_total": 8365.28
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 449.3,
+      "discount_pct": 0,
+      "line_total": 22465.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 26460.54,
+      "discount_pct": 0,
+      "line_total": 26460.54
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 25,
+      "unit_price": 49.54,
+      "discount_pct": 5,
+      "line_total": 1176.58
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1265.86,
+      "discount_pct": 0,
+      "line_total": 31646.5
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3832.19,
+      "discount_pct": 0,
+      "line_total": 11496.57
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1168.8,
+      "discount_pct": 0,
+      "line_total": 1168.8
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 365.74,
+      "discount_pct": 15,
+      "line_total": 3108.79
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 500.65,
+      "discount_pct": 5,
+      "line_total": 1426.85
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3570.13,
+      "discount_pct": 0,
+      "line_total": 7140.26
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 11641.39,
+      "discount_pct": 5,
+      "line_total": 55296.6
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3891.29,
+      "discount_pct": 15,
+      "line_total": 82689.91
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4659.98,
+      "discount_pct": 0,
+      "line_total": 4659.98
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 25.07,
+      "discount_pct": 0,
+      "line_total": 25.07
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 564.18,
+      "discount_pct": 10,
+      "line_total": 2538.81
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 155.24,
+      "discount_pct": 0,
+      "line_total": 3881.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 183.4,
+      "discount_pct": 0,
+      "line_total": 4585.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 243.0,
+      "discount_pct": 0,
+      "line_total": 6075.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 1371.74,
+      "discount_pct": 0,
+      "line_total": 2743.48
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 845.94,
+      "discount_pct": 20,
+      "line_total": 676.75
+    }
+  ],
+  "subtotal": 278878.13,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 23007.45,
+  "shipping_amount": 236.8,
+  "total_due": 302122.38,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

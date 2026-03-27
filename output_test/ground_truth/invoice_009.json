@@ -1,0 +1,146 @@
+{
+  "id": 9,
+  "filename": "invoice_009.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
+  "invoice_number": "BILL-2022-28433",
+  "issue_date": "10/02/2022",
+  "due_date": "31/12/2022",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-21163",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Atlas Global Shipping",
+  "client_address": "Freihafenstr 10 20457 Hamburg Germany",
+  "client_email": "rechnungen@atlasglobal.de",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 3392.54,
+      "discount_pct": 10,
+      "line_total": 152664.3
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 86.44,
+      "discount_pct": 10,
+      "line_total": 233.39
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1452.23,
+      "discount_pct": 0,
+      "line_total": 2904.46
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 103.21,
+      "discount_pct": 20,
+      "line_total": 412.84
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 13377.45,
+      "discount_pct": 0,
+      "line_total": 334436.25
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1763.65,
+      "discount_pct": 10,
+      "line_total": 1587.29
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 9488.6,
+      "discount_pct": 0,
+      "line_total": 474430.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 758.64,
+      "discount_pct": 5,
+      "line_total": 36035.4
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 126.73,
+      "discount_pct": 0,
+      "line_total": 633.65
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 4915.83,
+      "discount_pct": 0,
+      "line_total": 14747.49
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1381.09,
+      "discount_pct": 5,
+      "line_total": 13120.35
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14923.67,
+      "discount_pct": 10,
+      "line_total": 13431.3
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 152.05,
+      "discount_pct": 20,
+      "line_total": 6082.0
+    }
+  ],
+  "subtotal": 1050718.72,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 220650.93,
+  "shipping_amount": 91.27,
+  "total_due": 1271460.92,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

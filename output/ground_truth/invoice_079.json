@@ -1,17 +1,17 @@
 {
   "id": 79,
   "filename": "invoice_079.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV/2025/44090",
-  "issue_date": "July 16 2024",
-  "due_date": "14-Sep-2024",
-  "payment_terms": "Net 90",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": null,
+  "issue_date": "27/05/2024",
+  "due_date": "17-Jun-2024",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-67954",
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,84 +20,47 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 7,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 797.14,
-      "discount_pct": 0,
-      "line_total": 7971.4
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
       "quantity": 50,
-      "unit_price": 2952.36,
-      "discount_pct": 20,
-      "line_total": 118094.4
+      "unit_price": 2068.37,
+      "discount_pct": 0,
+      "line_total": 103418.5
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 53.7,
-      "discount_pct": 20,
-      "line_total": 214.8
+      "quantity": 25,
+      "unit_price": 143.13,
+      "discount_pct": 0,
+      "line_total": 3578.25
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 25,
-      "unit_price": 6343.11,
-      "discount_pct": 0,
-      "line_total": 158577.75
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 126.73,
-      "discount_pct": 0,
-      "line_total": 6336.5
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 705.47,
-      "discount_pct": 0,
-      "line_total": 35273.5
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
       "quantity": 10,
-      "unit_price": 170.1,
+      "unit_price": 1629.13,
       "discount_pct": 0,
-      "line_total": 1701.0
+      "line_total": 16291.3
     }
   ],
-  "subtotal": 328169.35,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 32816.93,
+  "subtotal": 123288.05,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 24657.61,
   "shipping_amount": 0.0,
-  "total_due": 360986.28,
-  "notes": "Goods remain property of seller until full payment received.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "total_due": 147945.66,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

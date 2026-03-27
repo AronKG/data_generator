@@ -1,17 +1,17 @@
 {
   "id": 408,
   "filename": "invoice_408.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
   "invoice_number": "TAX-INV35293",
-  "issue_date": "12 January 2023",
-  "due_date": "19/01/2023",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-79997",
+  "issue_date": "06 January 2022",
+  "due_date": "01/13/2022",
+  "payment_terms": "Net 7",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-14416",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,40 +20,96 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 3,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1981.93,
-      "discount_pct": 0,
-      "line_total": 5945.79
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 8304.78,
-      "discount_pct": 0,
-      "line_total": 41523.9
+      "quantity": 2,
+      "unit_price": 2565.05,
+      "discount_pct": 10,
+      "line_total": 4617.09
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 2,
-      "unit_price": 27.29,
+      "quantity": 3,
+      "unit_price": 63.52,
       "discount_pct": 0,
-      "line_total": 54.58
+      "line_total": 190.56
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 5573.36,
+      "discount_pct": 5,
+      "line_total": 5294.69
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 285.39,
+      "discount_pct": 20,
+      "line_total": 228.31
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8240.74,
+      "discount_pct": 20,
+      "line_total": 329629.6
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2907.22,
+      "discount_pct": 10,
+      "line_total": 65412.45
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4255.15,
+      "discount_pct": 20,
+      "line_total": 85103.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5210.72,
+      "discount_pct": 20,
+      "line_total": 4168.58
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1750.54,
+      "discount_pct": 0,
+      "line_total": 5251.62
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2130.44,
+      "discount_pct": 0,
+      "line_total": 2130.44
     }
   ],
-  "subtotal": 47524.27,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 3920.75,
+  "subtotal": 502026.34,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 25101.32,
   "shipping_amount": 0.0,
-  "total_due": 51445.02,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 527127.66,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
     "Bank": "Chase Bank",
     "Account": "1234567890",
@@ -61,7 +117,7 @@
     "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,

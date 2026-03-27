@@ -1,15 +1,15 @@
 {
   "id": 515,
   "filename": "invoice_515.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 5,
   "invoice_number": "SI/2023/50951",
-  "issue_date": "April 13 2022",
-  "due_date": "13 May 2022",
-  "payment_terms": "Net 7",
-  "currency": "SEK",
+  "issue_date": "06/25/2023",
+  "due_date": "2023-09-23",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
   "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Oasis Events Co.",
@@ -20,138 +20,46 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 14,
+  "num_line_items": 3,
   "line_items": [
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 677.2,
-      "discount_pct": 5,
-      "line_total": 643.34
+      "quantity": 2,
+      "unit_price": 2938.09,
+      "discount_pct": 0,
+      "line_total": 5876.18
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 881.75,
+      "quantity": 2,
+      "unit_price": 771.61,
       "discount_pct": 0,
-      "line_total": 4408.75
+      "line_total": 1543.22
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 794.32,
-      "discount_pct": 10,
-      "line_total": 17872.2
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6372.94,
-      "discount_pct": 20,
-      "line_total": 5098.35
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 169.63,
-      "discount_pct": 20,
-      "line_total": 678.52
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 121.61,
-      "discount_pct": 0,
-      "line_total": 1216.1
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 3,
-      "unit_price": 62.1,
-      "discount_pct": 0,
-      "line_total": 186.3
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1613.64,
-      "discount_pct": 5,
-      "line_total": 1532.96
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 23186.46,
-      "discount_pct": 20,
-      "line_total": 18549.17
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3153.62,
-      "discount_pct": 0,
-      "line_total": 3153.62
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 4135.55,
-      "discount_pct": 5,
-      "line_total": 7857.55
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 2830.99,
+      "unit_price": 1078.41,
       "discount_pct": 0,
-      "line_total": 70774.75
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 318.32,
-      "discount_pct": 20,
-      "line_total": 1273.28
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 8117.4,
-      "discount_pct": 10,
-      "line_total": 182641.5
+      "line_total": 2156.82
     }
   ],
-  "subtotal": 315886.39,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 63177.28,
+  "subtotal": 9576.22,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 2202.53,
   "shipping_amount": 0.0,
-  "total_due": 379063.67,
-  "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "total_due": 11778.75,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

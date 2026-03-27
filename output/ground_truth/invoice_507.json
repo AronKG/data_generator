@@ -1,17 +1,17 @@
 {
   "id": 507,
   "filename": "invoice_507.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "creative",
   "page_size": "letter",
-  "complexity_tier": "medium",
+  "complexity_tier": "complex",
   "color_palette_index": 8,
   "invoice_number": "2025-82181",
-  "issue_date": "August 18 2023",
-  "due_date": "02-Oct-2023",
-  "payment_terms": "Net 21",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-89457",
+  "issue_date": "28-Dec-2023",
+  "due_date": "February 26 2024",
+  "payment_terms": "Net 7",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
   "seller_email": "ar@maplesoft.ca",
@@ -20,71 +20,87 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 6,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 262.93,
-      "discount_pct": 0,
-      "line_total": 788.79
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1058.21,
-      "discount_pct": 0,
-      "line_total": 1058.21
-    },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4489.04,
-      "discount_pct": 0,
-      "line_total": 4489.04
+      "quantity": 10,
+      "unit_price": 2149.25,
+      "discount_pct": 20,
+      "line_total": 17194.0
     },
     {
-      "description": "Bookkeeping",
+      "description": "Managed Cloud",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1189.88,
-      "discount_pct": 15,
-      "line_total": 1011.4
+      "unit_price": 1090.64,
+      "discount_pct": 0,
+      "line_total": 1090.64
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 472.63,
-      "discount_pct": 5,
-      "line_total": 1347.0
+      "quantity": 1,
+      "unit_price": 309.38,
+      "discount_pct": 15,
+      "line_total": 262.97
     },
     {
       "description": "Event Management",
       "unit": "ea",
+      "quantity": 3,
+      "unit_price": 18734.09,
+      "discount_pct": 5,
+      "line_total": 53392.16
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
       "quantity": 1,
-      "unit_price": 19944.31,
+      "unit_price": 1495.79,
       "discount_pct": 10,
-      "line_total": 17949.88
+      "line_total": 1346.21
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1011.72,
+      "discount_pct": 10,
+      "line_total": 910.55
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 97.46,
+      "discount_pct": 10,
+      "line_total": 4385.7
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 10381.58,
+      "discount_pct": 0,
+      "line_total": 20763.16
     }
   ],
-  "subtotal": 26644.32,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 5328.86,
-  "shipping_amount": 0.0,
-  "total_due": 31973.18,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "subtotal": 99345.39,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 12914.9,
+  "shipping_amount": 146.23,
+  "total_due": 112406.52,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

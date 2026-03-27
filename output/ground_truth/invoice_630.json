@@ -1,17 +1,17 @@
 {
   "id": 630,
   "filename": "invoice_630.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "formal",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 12,
+  "color_palette_index": 4,
   "invoice_number": "2022-71230",
-  "issue_date": "April 24 2022",
-  "due_date": "2022-05-09",
+  "issue_date": "04-Nov-2022",
+  "due_date": "November 18 2022",
   "payment_terms": "Net 21",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-41465",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,92 +20,83 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 8,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1182.43,
-      "discount_pct": 10,
-      "line_total": 1064.19
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 456.21,
-      "discount_pct": 10,
-      "line_total": 2052.94
+      "quantity": 25,
+      "unit_price": 102.77,
+      "discount_pct": 0,
+      "line_total": 2569.25
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1701.48,
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3980.91,
       "discount_pct": 0,
-      "line_total": 42537.0
+      "line_total": 199045.5
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 283.7,
-      "discount_pct": 0,
-      "line_total": 7092.5
+      "quantity": 1,
+      "unit_price": 383.54,
+      "discount_pct": 20,
+      "line_total": 306.83
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 6568.38,
-      "discount_pct": 10,
-      "line_total": 11823.08
+      "quantity": 3,
+      "unit_price": 10291.79,
+      "discount_pct": 0,
+      "line_total": 30875.37
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 1,
-      "unit_price": 8879.63,
+      "quantity": 2,
+      "unit_price": 2503.93,
       "discount_pct": 0,
-      "line_total": 8879.63
+      "line_total": 5007.86
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1381.12,
+      "quantity": 50,
+      "unit_price": 774.69,
       "discount_pct": 15,
-      "line_total": 1173.95
+      "line_total": 32924.32
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 593.35,
-      "discount_pct": 10,
-      "line_total": 13350.38
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1257.69,
+      "discount_pct": 0,
+      "line_total": 6288.45
     }
   ],
-  "subtotal": 87973.67,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 11436.58,
+  "subtotal": 277017.58,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 16621.05,
   "shipping_amount": 0.0,
-  "total_due": 99410.25,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "total_due": 293638.63,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

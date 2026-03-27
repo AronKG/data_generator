@@ -1,17 +1,17 @@
 {
   "id": 216,
   "filename": "invoice_216.pdf",
-  "layout_style": "classic",
-  "page_size": "letter",
+  "layout_style": "sidebar",
+  "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 8,
+  "color_palette_index": 1,
   "invoice_number": "SI-2023-96053",
-  "issue_date": "2023-02-24",
-  "due_date": "03/26/2023",
-  "payment_terms": "Net 30",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-60226",
+  "issue_date": "01/08/2023",
+  "due_date": "August 22 2023",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
   "seller_email": "orders@greenleaforganics.com",
@@ -20,55 +20,55 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 10,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 385.72,
-      "discount_pct": 0,
-      "line_total": 385.72
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3985.65,
-      "discount_pct": 15,
-      "line_total": 169390.12
+      "quantity": 2,
+      "unit_price": 1239.49,
+      "discount_pct": 0,
+      "line_total": 2478.98
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 35576.8,
+      "quantity": 1,
+      "unit_price": 5013.02,
       "discount_pct": 0,
-      "line_total": 177884.0
+      "line_total": 5013.02
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
       "quantity": 5,
-      "unit_price": 36.37,
+      "unit_price": 106.43,
       "discount_pct": 0,
-      "line_total": 181.85
+      "line_total": 532.15
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 5,
-      "unit_price": 982.61,
+      "unit_price": 254.53,
       "discount_pct": 0,
-      "line_total": 4913.05
+      "line_total": 1272.65
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
+      "quantity": 5,
+      "unit_price": 1475.85,
+      "discount_pct": 0,
+      "line_total": 7379.25
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
       "quantity": 25,
-      "unit_price": 230.7,
+      "unit_price": 82.4,
       "discount_pct": 15,
-      "line_total": 4902.38
+      "line_total": 1751.0
     },
     {
       "description": "Brand Identity",
@@ -79,49 +79,28 @@
       "line_total": 120072.5
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Content Writing",
+      "unit": "pg",
       "quantity": 3,
-      "unit_price": 508.76,
+      "unit_price": 119.3,
       "discount_pct": 10,
-      "line_total": 1373.65
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5501.74,
-      "discount_pct": 20,
-      "line_total": 220069.6
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1977.05,
-      "discount_pct": 0,
-      "line_total": 98852.5
+      "line_total": 322.11
     }
   ],
-  "subtotal": 798025.37,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 119703.81,
-  "shipping_amount": 87.88,
-  "total_due": 917817.06,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "subtotal": 138821.66,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 138821.66,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": true,
-  "has_tax": true
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
 }

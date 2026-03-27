@@ -1,17 +1,17 @@
 {
   "id": 704,
   "filename": "invoice_704.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
   "invoice_number": "REF-2023-80181",
-  "issue_date": "02 June 2024",
-  "due_date": "June 09 2024",
-  "payment_terms": "Net 7",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-26486",
+  "issue_date": "01/04/2022",
+  "due_date": "04/04/2022",
+  "payment_terms": "Net 45",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-72828",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,79 +20,207 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 7,
+  "num_line_items": 23,
   "line_items": [
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 2,
-      "unit_price": 2306.62,
-      "discount_pct": 15,
-      "line_total": 3921.25
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 490.51,
-      "discount_pct": 20,
-      "line_total": 9810.2
-    },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1229.57,
+      "quantity": 1,
+      "unit_price": 1781.83,
       "discount_pct": 0,
-      "line_total": 2459.14
+      "line_total": 1781.83
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1270.46,
-      "discount_pct": 15,
-      "line_total": 1079.89
+      "quantity": 5,
+      "unit_price": 975.84,
+      "discount_pct": 5,
+      "line_total": 4635.24
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 96.58,
-      "discount_pct": 15,
-      "line_total": 82.09
+      "quantity": 50,
+      "unit_price": 75.27,
+      "discount_pct": 0,
+      "line_total": 3763.5
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1242.59,
-      "discount_pct": 0,
-      "line_total": 6212.95
+      "quantity": 2,
+      "unit_price": 2457.45,
+      "discount_pct": 10,
+      "line_total": 4423.41
     },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 771.49,
+      "unit_price": 433.03,
+      "discount_pct": 5,
+      "line_total": 411.38
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8313.8,
       "discount_pct": 0,
-      "line_total": 771.49
+      "line_total": 8313.8
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 28.08,
+      "discount_pct": 20,
+      "line_total": 561.6
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 442.71,
+      "discount_pct": 5,
+      "line_total": 2102.87
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 208.95,
+      "discount_pct": 0,
+      "line_total": 626.85
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 178.22,
+      "discount_pct": 15,
+      "line_total": 302.97
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 43.49,
+      "discount_pct": 15,
+      "line_total": 369.67
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1334.16,
+      "discount_pct": 5,
+      "line_total": 3802.36
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 201.77,
+      "discount_pct": 20,
+      "line_total": 161.42
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 374.31,
+      "discount_pct": 0,
+      "line_total": 18715.5
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3358.12,
+      "discount_pct": 5,
+      "line_total": 3190.21
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2756.4,
+      "discount_pct": 0,
+      "line_total": 5512.8
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3028.13,
+      "discount_pct": 5,
+      "line_total": 28767.24
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4827.92,
+      "discount_pct": 20,
+      "line_total": 96558.4
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7770.85,
+      "discount_pct": 15,
+      "line_total": 19815.67
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 725.89,
+      "discount_pct": 10,
+      "line_total": 653.3
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 465.18,
+      "discount_pct": 15,
+      "line_total": 790.81
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 719.54,
+      "discount_pct": 20,
+      "line_total": 5756.32
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4142.13,
+      "discount_pct": 0,
+      "line_total": 41421.3
     }
   ],
-  "subtotal": 24337.01,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 1703.59,
+  "subtotal": 252438.45,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 26040.6,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "total_due": 252438.45,
+  "notes": "All work performed in accordance with the signed service agreement.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
-  "has_tax": true
+  "has_tax": false
 }

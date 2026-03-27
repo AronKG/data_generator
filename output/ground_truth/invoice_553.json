@@ -1,16 +1,16 @@
 {
   "id": 553,
   "filename": "invoice_553.pdf",
-  "layout_style": "minimal",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 6,
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV-69322",
-  "issue_date": "11 February 2022",
-  "due_date": "February 26 2022",
-  "payment_terms": "Net 90",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "25-Dec-2022",
+  "due_date": "23-Feb-2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
@@ -20,125 +20,61 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 13,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13045.01,
-      "discount_pct": 0,
-      "line_total": 13045.01
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1782.77,
-      "discount_pct": 10,
-      "line_total": 3208.99
+      "quantity": 25,
+      "unit_price": 1423.62,
+      "discount_pct": 0,
+      "line_total": 35590.5
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 158.18,
+      "quantity": 1,
+      "unit_price": 109.03,
       "discount_pct": 0,
-      "line_total": 474.54
+      "line_total": 109.03
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2955.18,
-      "discount_pct": 15,
-      "line_total": 7535.71
+      "quantity": 1,
+      "unit_price": 2830.07,
+      "discount_pct": 20,
+      "line_total": 2264.06
     },
     {
       "description": "Content Writing",
       "unit": "pg",
       "quantity": 2,
-      "unit_price": 88.23,
-      "discount_pct": 15,
-      "line_total": 149.99
+      "unit_price": 121.29,
+      "discount_pct": 0,
+      "line_total": 242.58
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
       "quantity": 1,
-      "unit_price": 1111.19,
-      "discount_pct": 0,
-      "line_total": 1111.19
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 4096.78,
+      "unit_price": 1094.26,
       "discount_pct": 5,
-      "line_total": 3891.94
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 202.06,
-      "discount_pct": 0,
-      "line_total": 606.18
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 80.29,
-      "discount_pct": 15,
-      "line_total": 341.23
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1165.98,
-      "discount_pct": 20,
-      "line_total": 932.78
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 330.94,
-      "discount_pct": 5,
-      "line_total": 943.18
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 214.68,
-      "discount_pct": 20,
-      "line_total": 858.72
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 346.48,
-      "discount_pct": 5,
-      "line_total": 329.16
+      "line_total": 1039.55
     }
   ],
-  "subtotal": 33428.62,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 5014.29,
+  "subtotal": 39245.72,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 5101.94,
   "shipping_amount": 0.0,
-  "total_due": 38442.91,
-  "notes": null,
+  "total_due": 44347.66,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,

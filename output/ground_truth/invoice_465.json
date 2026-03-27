@@ -1,16 +1,16 @@
 {
   "id": 465,
   "filename": "invoice_465.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "minimal",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "color_palette_index": 10,
   "invoice_number": "093754",
-  "issue_date": "08/13/2023",
-  "due_date": "August 20 2023",
+  "issue_date": "02/27/2022",
+  "due_date": "April 28 2022",
   "payment_terms": "Net 15",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": "PO-69245",
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
@@ -23,60 +23,60 @@
   "num_line_items": 6,
   "line_items": [
     {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 9689.6,
-      "discount_pct": 5,
-      "line_total": 46025.6
-    },
-    {
       "description": "Accounting Services",
       "unit": "mo",
       "quantity": 25,
-      "unit_price": 959.22,
-      "discount_pct": 10,
-      "line_total": 21582.45
+      "unit_price": 725.24,
+      "discount_pct": 5,
+      "line_total": 17224.45
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 5480.81,
-      "discount_pct": 0,
-      "line_total": 5480.81
+      "quantity": 25,
+      "unit_price": 4880.13,
+      "discount_pct": 10,
+      "line_total": 109802.93
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 4938.7,
-      "discount_pct": 10,
-      "line_total": 44448.3
+      "quantity": 1,
+      "unit_price": 6976.97,
+      "discount_pct": 0,
+      "line_total": 6976.97
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
       "quantity": 10,
-      "unit_price": 182.23,
-      "discount_pct": 20,
-      "line_total": 1457.84
+      "unit_price": 346.94,
+      "discount_pct": 10,
+      "line_total": 3122.46
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 10,
-      "unit_price": 3214.69,
+      "unit_price": 2931.12,
+      "discount_pct": 20,
+      "line_total": 23448.96
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 41.21,
       "discount_pct": 0,
-      "line_total": 32146.9
+      "line_total": 412.1
     }
   ],
-  "subtotal": 151141.9,
+  "subtotal": 160987.87,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 12469.21,
+  "tax_amount": 13281.5,
   "shipping_amount": 0.0,
-  "total_due": 163611.11,
+  "total_due": 174269.37,
   "notes": null,
   "bank_details": null,
   "has_logo": true,

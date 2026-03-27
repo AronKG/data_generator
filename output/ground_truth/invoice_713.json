@@ -1,16 +1,16 @@
 {
   "id": 713,
   "filename": "invoice_713.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 5,
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV-53836",
-  "issue_date": "11/06/2024",
-  "due_date": "July 02 2024",
-  "payment_terms": "30 days from delivery",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "10 March 2023",
+  "due_date": "24/03/2023",
+  "payment_terms": "End of Month",
+  "currency": "SEK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,140 +20,44 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 15,
+  "num_line_items": 3,
   "line_items": [
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 11790.77,
-      "discount_pct": 5,
-      "line_total": 56006.16
+      "quantity": 1,
+      "unit_price": 15299.77,
+      "discount_pct": 0,
+      "line_total": 15299.77
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 380.25,
-      "discount_pct": 5,
-      "line_total": 361.24
+      "quantity": 5,
+      "unit_price": 98.83,
+      "discount_pct": 0,
+      "line_total": 494.15
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 5717.55,
-      "discount_pct": 0,
-      "line_total": 142938.75
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
       "quantity": 2,
-      "unit_price": 1551.88,
+      "unit_price": 3948.36,
       "discount_pct": 0,
-      "line_total": 3103.76
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7212.29,
-      "discount_pct": 0,
-      "line_total": 7212.29
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 88.16,
-      "discount_pct": 15,
-      "line_total": 74.94
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 542.34,
-      "discount_pct": 5,
-      "line_total": 515.22
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 7944.81,
-      "discount_pct": 0,
-      "line_total": 79448.1
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 2,
-      "unit_price": 113.46,
-      "discount_pct": 0,
-      "line_total": 226.92
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 527.17,
-      "discount_pct": 20,
-      "line_total": 421.74
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 5,
-      "unit_price": 762.46,
-      "discount_pct": 0,
-      "line_total": 3812.3
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 448.7,
-      "discount_pct": 0,
-      "line_total": 1346.1
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1258.58,
-      "discount_pct": 10,
-      "line_total": 2265.44
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 12157.41,
-      "discount_pct": 10,
-      "line_total": 109416.69
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 2,
-      "unit_price": 182.12,
-      "discount_pct": 0,
-      "line_total": 364.24
+      "line_total": 7896.72
     }
   ],
-  "subtotal": 407513.89,
+  "subtotal": 23690.64,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 77427.64,
+  "tax_amount": 4501.22,
   "shipping_amount": 0.0,
-  "total_due": 484941.53,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 28191.86,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,

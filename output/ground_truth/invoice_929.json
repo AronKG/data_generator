@@ -1,16 +1,16 @@
 {
   "id": 929,
   "filename": "invoice_929.pdf",
-  "layout_style": "ledger",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
   "invoice_number": "INV-2024-26146",
-  "issue_date": "02 July 2023",
-  "due_date": "30/09/2023",
-  "payment_terms": "End of Month",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "September 14 2024",
+  "due_date": "2024-10-29",
+  "payment_terms": "30 days from delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
@@ -20,63 +20,116 @@
   "client_name": "Vivid Apparel Group",
   "client_address": "7th Ave New York NY 10018 USA",
   "client_email": "ap@vividapparel.com",
-  "num_line_items": 5,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 10,
-      "unit_price": 953.8,
-      "discount_pct": 0,
-      "line_total": 9538.0
-    },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 4443.51,
+      "unit_price": 3306.09,
       "discount_pct": 0,
-      "line_total": 4443.51
+      "line_total": 3306.09
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 25,
-      "unit_price": 7726.98,
+      "quantity": 3,
+      "unit_price": 2713.88,
       "discount_pct": 0,
-      "line_total": 193174.5
+      "line_total": 8141.64
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 336.1,
-      "discount_pct": 15,
-      "line_total": 571.37
+      "quantity": 25,
+      "unit_price": 134.38,
+      "discount_pct": 0,
+      "line_total": 3359.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 646.32,
+      "discount_pct": 20,
+      "line_total": 1551.17
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 25,
-      "unit_price": 1774.62,
+      "quantity": 5,
+      "unit_price": 2553.82,
+      "discount_pct": 15,
+      "line_total": 10853.74
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18470.91,
+      "discount_pct": 10,
+      "line_total": 16623.82
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3570.58,
+      "discount_pct": 5,
+      "line_total": 3392.05
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1334.54,
+      "discount_pct": 5,
+      "line_total": 12678.13
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 508.62,
+      "discount_pct": 20,
+      "line_total": 406.9
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 43.74,
       "discount_pct": 0,
-      "line_total": 44365.5
+      "line_total": 43.74
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 180.63,
+      "discount_pct": 15,
+      "line_total": 153.54
     }
   ],
-  "subtotal": 252092.88,
+  "subtotal": 60510.32,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 47897.65,
-  "shipping_amount": 0.0,
-  "total_due": 299990.53,
-  "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": null,
+  "tax_amount": 11496.96,
+  "shipping_amount": 101.32,
+  "total_due": 72108.6,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

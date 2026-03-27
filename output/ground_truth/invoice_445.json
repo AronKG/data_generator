@@ -1,17 +1,17 @@
 {
   "id": 445,
   "filename": "invoice_445.pdf",
-  "layout_style": "formal",
+  "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "color_palette_index": 11,
   "invoice_number": "2025-16560",
-  "issue_date": "30-Dec-2024",
-  "due_date": "March 30 2025",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "2022-04-07",
+  "due_date": "2022-04-22",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-93313",
   "seller_name": "Lumiere Creations SARL",
   "seller_address": "18 Bd Haussmann 75009 Paris France",
   "seller_email": "comptabilite@lumiere-cr.fr",
@@ -20,51 +20,63 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 3,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 494.87,
-      "discount_pct": 0,
-      "line_total": 494.87
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 923.9,
-      "discount_pct": 0,
-      "line_total": 23097.5
-    },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 5,
       "unit_price": 877.27,
+      "discount_pct": 15,
+      "line_total": 3728.4
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2219.3,
       "discount_pct": 0,
-      "line_total": 4386.35
+      "line_total": 4438.6
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 272.46,
+      "discount_pct": 0,
+      "line_total": 1362.3
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1101.95,
+      "discount_pct": 0,
+      "line_total": 11019.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 651.97,
+      "discount_pct": 10,
+      "line_total": 5867.73
     }
   ],
-  "subtotal": 27978.72,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 1678.72,
+  "subtotal": 26416.53,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 5547.47,
   "shipping_amount": 0.0,
-  "total_due": 29657.44,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
-  "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
-  },
+  "total_due": 31964.0,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

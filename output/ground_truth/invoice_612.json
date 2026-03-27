@@ -1,16 +1,16 @@
 {
   "id": 612,
   "filename": "invoice_612.pdf",
-  "layout_style": "compact",
-  "page_size": "A4",
+  "layout_style": "two_tone",
+  "page_size": "letter",
   "complexity_tier": "simple",
-  "color_palette_index": 4,
+  "color_palette_index": 10,
   "invoice_number": "INVOICE/2024/60627",
-  "issue_date": "2024-11-06",
-  "due_date": "02/04/2025",
+  "issue_date": "2024-12-10",
+  "due_date": "12/25/2024",
   "payment_terms": "2/10 Net 30",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": "PO-37535",
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -23,36 +23,36 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 244.35,
-      "discount_pct": 0,
-      "line_total": 244.35
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1171.81,
-      "discount_pct": 0,
-      "line_total": 5859.05
-    },
-    {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 116.92,
+      "quantity": 10,
+      "unit_price": 260.94,
       "discount_pct": 0,
-      "line_total": 584.6
+      "line_total": 2609.4
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2403.32,
+      "discount_pct": 0,
+      "line_total": 12016.6
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3134.39,
+      "discount_pct": 0,
+      "line_total": 15671.95
     }
   ],
-  "subtotal": 6688.0,
+  "subtotal": 30297.95,
   "tax_label": "GST 10pct",
   "tax_rate_pct": 10.0,
-  "tax_amount": 668.8,
+  "tax_amount": 3029.8,
   "shipping_amount": 0.0,
-  "total_due": 7356.8,
+  "total_due": 33327.75,
   "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
     "Bank": "Chase Bank",

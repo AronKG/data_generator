@@ -6,11 +6,11 @@
   "complexity_tier": "medium",
   "color_palette_index": 4,
   "invoice_number": "RCPT/2023/29663",
-  "issue_date": "March 12 2022",
-  "due_date": "May 11 2022",
-  "payment_terms": "Net 15",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "April 24 2024",
+  "due_date": "24-May-2024",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,23 +20,15 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 5,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 6232.34,
-      "discount_pct": 15,
-      "line_total": 264874.45
-    },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 213.54,
-      "discount_pct": 5,
-      "line_total": 202.86
+      "unit_price": 61.18,
+      "discount_pct": 20,
+      "line_total": 48.94
     },
     {
       "description": "iOS App Dev",
@@ -61,25 +53,49 @@
       "unit_price": 2322.3,
       "discount_pct": 15,
       "line_total": 1973.96
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1979.08,
+      "discount_pct": 0,
+      "line_total": 3958.16
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9724.82,
+      "discount_pct": 15,
+      "line_total": 8266.1
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1292.49,
+      "discount_pct": 0,
+      "line_total": 1292.49
     }
   ],
-  "subtotal": 368473.52,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 30399.07,
+  "subtotal": 116961.9,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 15205.05,
   "shipping_amount": 0.0,
-  "total_due": 398872.59,
-  "notes": null,
+  "total_due": 132166.95,
+  "notes": "Thank you for your business. We value our long-term partnership.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

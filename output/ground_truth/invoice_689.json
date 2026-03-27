@@ -1,16 +1,16 @@
 {
   "id": 689,
   "filename": "invoice_689.pdf",
-  "layout_style": "modern",
+  "layout_style": "compact",
   "page_size": "letter",
   "complexity_tier": "simple",
-  "color_palette_index": 11,
+  "color_palette_index": 1,
   "invoice_number": "SI/2025/53403",
-  "issue_date": "04-Jan-2023",
-  "due_date": "January 25 2023",
+  "issue_date": "03-Feb-2023",
+  "due_date": "February 24 2023",
   "payment_terms": "Immediate",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "currency": "EUR",
+  "currency_symbol": "€",
   "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
@@ -23,36 +23,36 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1990.52,
-      "discount_pct": 0,
-      "line_total": 1990.52
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 93.66,
-      "discount_pct": 0,
-      "line_total": 2341.5
-    },
-    {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 1254.49,
+      "quantity": 3,
+      "unit_price": 1354.02,
       "discount_pct": 0,
-      "line_total": 2508.98
+      "line_total": 4062.06
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 382.33,
+      "discount_pct": 0,
+      "line_total": 9558.25
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 694.78,
+      "discount_pct": 0,
+      "line_total": 1389.56
     }
   ],
-  "subtotal": 6841.0,
+  "subtotal": 15009.87,
   "tax_label": "Tax 7pct",
   "tax_rate_pct": 7.0,
-  "tax_amount": 478.87,
+  "tax_amount": 1050.69,
   "shipping_amount": 0.0,
-  "total_due": 7319.87,
+  "total_due": 16060.56,
   "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
     "Bank": "Handelsbanken",

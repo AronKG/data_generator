@@ -1,16 +1,16 @@
 {
   "id": 922,
   "filename": "invoice_922.pdf",
-  "layout_style": "modern",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 3,
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 0,
   "invoice_number": "REF-2024-76403",
-  "issue_date": "August 30 2024",
-  "due_date": "November 28 2024",
-  "payment_terms": "End of Month",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "10/08/2024",
+  "due_date": "11/08/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,134 +20,50 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 14,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1142.63,
-      "discount_pct": 20,
-      "line_total": 1828.21
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 376.59,
-      "discount_pct": 5,
-      "line_total": 357.76
+      "quantity": 2,
+      "unit_price": 171.89,
+      "discount_pct": 0,
+      "line_total": 343.78
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 2,
-      "unit_price": 15.94,
+      "quantity": 50,
+      "unit_price": 24.59,
       "discount_pct": 0,
-      "line_total": 31.88
+      "line_total": 1229.5
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 10423.32,
-      "discount_pct": 10,
-      "line_total": 46904.94
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 2309.02,
+      "unit_price": 2844.04,
       "discount_pct": 0,
-      "line_total": 4618.04
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 796.61,
-      "discount_pct": 5,
-      "line_total": 37838.97
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1890.15,
-      "discount_pct": 0,
-      "line_total": 9450.75
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 436.78,
-      "discount_pct": 20,
-      "line_total": 17471.2
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 228.24,
-      "discount_pct": 5,
-      "line_total": 5420.7
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2417.23,
-      "discount_pct": 10,
-      "line_total": 54387.68
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 586.55,
-      "discount_pct": 20,
-      "line_total": 469.24
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 504.93,
-      "discount_pct": 0,
-      "line_total": 1009.86
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 788.33,
-      "discount_pct": 0,
-      "line_total": 3941.65
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 110.97,
-      "discount_pct": 0,
-      "line_total": 332.91
+      "line_total": 5688.08
     }
   ],
-  "subtotal": 184063.79,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 27609.57,
+  "subtotal": 7261.36,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 599.06,
   "shipping_amount": 0.0,
-  "total_due": 211673.36,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": null,
+  "total_due": 7860.42,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

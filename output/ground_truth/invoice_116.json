@@ -1,16 +1,16 @@
 {
   "id": 116,
   "filename": "invoice_116.pdf",
-  "layout_style": "compact",
-  "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 10,
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
   "invoice_number": "027179",
-  "issue_date": "August 29 2023",
-  "due_date": "September 13 2023",
-  "payment_terms": "Cash on Delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "December 29 2022",
+  "due_date": "January 28 2023",
+  "payment_terms": "Net 60",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
@@ -20,40 +20,215 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 2,
+  "num_line_items": 24,
   "line_items": [
     {
       "description": "iOS App Dev",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 4643.08,
-      "discount_pct": 0,
-      "line_total": 232154.0
+      "unit_price": 11858.32,
+      "discount_pct": 10,
+      "line_total": 533624.4
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4449.68,
+      "quantity": 2,
+      "unit_price": 7951.79,
       "discount_pct": 0,
-      "line_total": 13349.04
+      "line_total": 15903.58
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 178.67,
+      "discount_pct": 5,
+      "line_total": 509.21
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 601.66,
+      "discount_pct": 15,
+      "line_total": 511.41
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1090.16,
+      "discount_pct": 10,
+      "line_total": 2943.43
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 402.45,
+      "discount_pct": 10,
+      "line_total": 1086.62
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 2672.61,
+      "discount_pct": 5,
+      "line_total": 25389.8
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1916.69,
+      "discount_pct": 0,
+      "line_total": 5750.07
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 100.49,
+      "discount_pct": 20,
+      "line_total": 80.39
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1945.92,
+      "discount_pct": 0,
+      "line_total": 19459.2
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 255.25,
+      "discount_pct": 10,
+      "line_total": 2297.25
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 79.31,
+      "discount_pct": 5,
+      "line_total": 3767.22
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 373.14,
+      "discount_pct": 0,
+      "line_total": 18657.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 33607.33,
+      "discount_pct": 15,
+      "line_total": 714155.76
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 240.11,
+      "discount_pct": 20,
+      "line_total": 576.26
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 40.76,
+      "discount_pct": 20,
+      "line_total": 97.82
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 983.05,
+      "discount_pct": 0,
+      "line_total": 4915.25
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1895.78,
+      "discount_pct": 10,
+      "line_total": 1706.2
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 14155.91,
+      "discount_pct": 20,
+      "line_total": 11324.73
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1785.82,
+      "discount_pct": 15,
+      "line_total": 1517.95
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3416.04,
+      "discount_pct": 0,
+      "line_total": 3416.04
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 140.83,
+      "discount_pct": 10,
+      "line_total": 380.24
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 3929.87,
+      "discount_pct": 0,
+      "line_total": 7859.74
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3721.79,
+      "discount_pct": 0,
+      "line_total": 11165.37
     }
   ],
-  "subtotal": 245503.04,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 46645.58,
+  "subtotal": 1387094.94,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 319031.84,
   "shipping_amount": 0.0,
-  "total_due": 292148.62,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 1706126.78,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,

@@ -1,17 +1,17 @@
 {
   "id": 989,
   "filename": "invoice_989.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "two_tone",
+  "page_size": "letter",
   "complexity_tier": "complex",
   "color_palette_index": 12,
   "invoice_number": "INVOICE13081",
-  "issue_date": "2022-03-08",
-  "due_date": "2022-05-07",
-  "payment_terms": "Net 45",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": "PO-83432",
+  "issue_date": "March 31 2024",
+  "due_date": "April 30 2024",
+  "payment_terms": "Net 60",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-26800",
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
   "seller_email": "accounts@pacificrimexports.hk",
@@ -20,16 +20,8 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 11,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 48.83,
-      "discount_pct": 0,
-      "line_total": 97.66
-    },
     {
       "description": "Content Writing",
       "unit": "pg",
@@ -79,12 +71,12 @@
       "line_total": 849.52
     },
     {
-      "description": "iOS App Dev",
+      "description": "BI Reporting",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 13359.15,
+      "unit_price": 2632.77,
       "discount_pct": 10,
-      "line_total": 12023.24
+      "line_total": 2369.49
     },
     {
       "description": "Logo Design",
@@ -95,35 +87,56 @@
       "line_total": 1654.25
     },
     {
-      "description": "Catering Services",
-      "unit": "head",
+      "description": "Raw Materials",
+      "unit": "kg",
       "quantity": 25,
-      "unit_price": 63.29,
+      "unit_price": 63.44,
       "discount_pct": 0,
-      "line_total": 1582.25
+      "line_total": 1586.0
     },
     {
-      "description": "Training Workshop",
-      "unit": "person",
+      "description": "Community Mgmt",
+      "unit": "mo",
       "quantity": 5,
-      "unit_price": 561.17,
+      "unit_price": 1457.79,
       "discount_pct": 15,
-      "line_total": 2384.97
+      "line_total": 6195.61
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 697.51,
+      "discount_pct": 10,
+      "line_total": 627.76
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 759.62,
+      "discount_pct": 10,
+      "line_total": 17091.45
     }
   ],
-  "subtotal": 437238.29,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 100564.81,
+  "subtotal": 449020.48,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 67353.07,
   "shipping_amount": 0.0,
-  "total_due": 537803.1,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": null,
+  "total_due": 516373.55,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

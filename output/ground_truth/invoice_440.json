@@ -1,17 +1,17 @@
 {
   "id": 440,
   "filename": "invoice_440.pdf",
-  "layout_style": "ledger",
+  "layout_style": "sidebar",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 2,
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
   "invoice_number": "TAX-INV60726",
-  "issue_date": "2022-05-08",
-  "due_date": "06-Aug-2022",
-  "payment_terms": "Net 45",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": "PO-37938",
+  "issue_date": "08/07/2024",
+  "due_date": "2024-08-22",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-95485",
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
   "seller_email": "invoices@stellarprint.com",
@@ -20,178 +20,46 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 19,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 269.97,
-      "discount_pct": 0,
-      "line_total": 6749.25
-    },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 4971.29,
+      "unit_price": 8176.46,
       "discount_pct": 0,
-      "line_total": 4971.29
+      "line_total": 8176.46
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1772.03,
-      "discount_pct": 15,
-      "line_total": 15062.25
+      "quantity": 25,
+      "unit_price": 1094.28,
+      "discount_pct": 0,
+      "line_total": 27357.0
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1664.87,
-      "discount_pct": 0,
-      "line_total": 3329.74
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
       "quantity": 1,
-      "unit_price": 152.29,
-      "discount_pct": 5,
-      "line_total": 144.68
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 202.02,
-      "discount_pct": 5,
-      "line_total": 4797.97
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 7367.06,
-      "discount_pct": 20,
-      "line_total": 147341.2
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 1119.95,
+      "unit_price": 546.82,
       "discount_pct": 0,
-      "line_total": 11199.5
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 727.19,
-      "discount_pct": 0,
-      "line_total": 1454.38
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4011.1,
-      "discount_pct": 15,
-      "line_total": 3409.43
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 475.35,
-      "discount_pct": 0,
-      "line_total": 475.35
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 437.08,
-      "discount_pct": 0,
-      "line_total": 437.08
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 5,
-      "unit_price": 3357.36,
-      "discount_pct": 5,
-      "line_total": 15947.46
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 604.2,
-      "discount_pct": 10,
-      "line_total": 1087.56
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 10892.28,
-      "discount_pct": 20,
-      "line_total": 26141.47
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 291.9,
-      "discount_pct": 15,
-      "line_total": 6202.87
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 3,
-      "unit_price": 1165.62,
-      "discount_pct": 15,
-      "line_total": 2972.33
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 25,
-      "unit_price": 292.02,
-      "discount_pct": 5,
-      "line_total": 6935.47
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 716.88,
-      "discount_pct": 5,
-      "line_total": 681.04
+      "line_total": 546.82
     }
   ],
-  "subtotal": 259340.32,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 51868.06,
+  "subtotal": 36080.28,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 2525.62,
   "shipping_amount": 0.0,
-  "total_due": 311208.38,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "total_due": 38605.9,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

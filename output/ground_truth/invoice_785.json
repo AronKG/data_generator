@@ -1,16 +1,16 @@
 {
   "id": 785,
   "filename": "invoice_785.pdf",
-  "layout_style": "minimal",
-  "page_size": "A4",
+  "layout_style": "modern",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "color_palette_index": 0,
   "invoice_number": "TAX-INV/2022/37387",
-  "issue_date": "05/27/2024",
-  "due_date": "June 17 2024",
-  "payment_terms": "Immediate",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "issue_date": "2023-01-21",
+  "due_date": "04/21/2023",
+  "payment_terms": "Net 45",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -23,132 +23,132 @@
   "num_line_items": 14,
   "line_items": [
     {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 214.24,
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1293.4,
       "discount_pct": 0,
-      "line_total": 5356.0
+      "line_total": 64670.0
     },
     {
-      "description": "Digital Marketing",
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 5127.86,
+      "discount_pct": 20,
+      "line_total": 12306.86
+    },
+    {
+      "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 6216.14,
-      "discount_pct": 5,
-      "line_total": 5905.33
+      "unit_price": 7425.79,
+      "discount_pct": 0,
+      "line_total": 7425.79
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1661.43,
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 382.16,
       "discount_pct": 0,
-      "line_total": 16614.3
+      "line_total": 382.16
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 688.4,
+      "discount_pct": 5,
+      "line_total": 1307.96
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1060.79,
+      "discount_pct": 0,
+      "line_total": 1060.79
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 38787.35,
+      "discount_pct": 0,
+      "line_total": 193936.75
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
       "quantity": 3,
-      "unit_price": 294.86,
-      "discount_pct": 20,
-      "line_total": 707.66
+      "unit_price": 223.59,
+      "discount_pct": 15,
+      "line_total": 570.15
     },
     {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 684.32,
-      "discount_pct": 0,
-      "line_total": 684.32
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 1,
-      "unit_price": 3384.15,
-      "discount_pct": 0,
-      "line_total": 3384.15
-    },
-    {
-      "description": "Market Research",
+      "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 12767.95,
-      "discount_pct": 5,
-      "line_total": 24259.1
+      "quantity": 10,
+      "unit_price": 3952.11,
+      "discount_pct": 0,
+      "line_total": 39521.1
     },
     {
-      "description": "Bookkeeping",
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3397.19,
+      "discount_pct": 0,
+      "line_total": 3397.19
+    },
+    {
+      "description": "Community Mgmt",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1112.97,
-      "discount_pct": 0,
-      "line_total": 1112.97
+      "unit_price": 682.85,
+      "discount_pct": 10,
+      "line_total": 614.57
     },
     {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 648.16,
-      "discount_pct": 0,
-      "line_total": 3240.8
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 113.62,
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 19992.33,
       "discount_pct": 15,
-      "line_total": 289.73
+      "line_total": 16993.48
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 9876.85,
-      "discount_pct": 0,
-      "line_total": 98768.5
+      "quantity": 1,
+      "unit_price": 5346.38,
+      "discount_pct": 5,
+      "line_total": 5079.06
     },
     {
-      "description": "Event Management",
+      "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13410.68,
+      "quantity": 2,
+      "unit_price": 4409.3,
       "discount_pct": 0,
-      "line_total": 13410.68
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 234.89,
-      "discount_pct": 10,
-      "line_total": 211.4
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 7996.62,
-      "discount_pct": 15,
-      "line_total": 6797.13
+      "line_total": 8818.6
     }
   ],
-  "subtotal": 180742.07,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 10844.52,
-  "shipping_amount": 224.3,
-  "total_due": 191810.89,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "subtotal": 356084.46,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 74777.74,
+  "shipping_amount": 0.0,
+  "total_due": 430862.2,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

@@ -1,0 +1,199 @@
+{
+  "id": 60,
+  "filename": "invoice_060.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "2025-47282",
+  "issue_date": "June 11 2023",
+  "due_date": "July 02 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Arctic Exploration Ltd.",
+  "client_address": "Polar Wharf 1 Tromso 9008 Norway",
+  "client_email": "regnskap@arcticexplore.no",
+  "num_line_items": 19,
+  "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 867.76,
+      "discount_pct": 0,
+      "line_total": 8677.6
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 93.84,
+      "discount_pct": 0,
+      "line_total": 93.84
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1727.56,
+      "discount_pct": 0,
+      "line_total": 1727.56
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 3890.49,
+      "discount_pct": 0,
+      "line_total": 7780.98
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8863.41,
+      "discount_pct": 0,
+      "line_total": 8863.41
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 322.0,
+      "discount_pct": 0,
+      "line_total": 8050.0
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1258.27,
+      "discount_pct": 0,
+      "line_total": 1258.27
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 221.63,
+      "discount_pct": 15,
+      "line_total": 188.39
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 958.43,
+      "discount_pct": 20,
+      "line_total": 2300.23
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 844.7,
+      "discount_pct": 0,
+      "line_total": 2534.1
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5047.7,
+      "discount_pct": 20,
+      "line_total": 100954.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 1453.63,
+      "discount_pct": 0,
+      "line_total": 2907.26
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1178.74,
+      "discount_pct": 0,
+      "line_total": 29468.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 170.84,
+      "discount_pct": 20,
+      "line_total": 683.36
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1681.03,
+      "discount_pct": 0,
+      "line_total": 16810.3
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 19274.42,
+      "discount_pct": 20,
+      "line_total": 30839.07
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 108.28,
+      "discount_pct": 0,
+      "line_total": 2707.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 7331.48,
+      "discount_pct": 0,
+      "line_total": 14662.96
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 894.55,
+      "discount_pct": 0,
+      "line_total": 2683.65
+    }
+  ],
+  "subtotal": 243190.48,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 55933.81,
+  "shipping_amount": 0.0,
+  "total_due": 299124.29,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

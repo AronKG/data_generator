@@ -1,0 +1,162 @@
+{
+  "id": 112,
+  "filename": "invoice_112.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
+  "invoice_number": "SI61839",
+  "issue_date": "2023-05-11",
+  "due_date": "2023-05-25",
+  "payment_terms": "Net 7",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-26739",
+  "seller_name": "Greenleaf Organics",
+  "seller_address": "Farm Road 7 Burlington VT 05401 USA",
+  "seller_email": "orders@greenleaforganics.com",
+  "seller_phone": "+1 802-555-0133",
+  "seller_tax_id": "EIN: 23-4567890",
+  "client_name": "Luxe Fashion Collective",
+  "client_address": "550 Seventh Ave New York NY 10018 USA",
+  "client_email": "ap@luxefashion.com",
+  "num_line_items": 15,
+  "line_items": [
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2813.54,
+      "discount_pct": 10,
+      "line_total": 2532.19
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 988.42,
+      "discount_pct": 0,
+      "line_total": 1976.84
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 144.31,
+      "discount_pct": 5,
+      "line_total": 6854.72
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 262.13,
+      "discount_pct": 15,
+      "line_total": 11140.52
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 15472.57,
+      "discount_pct": 5,
+      "line_total": 73494.71
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 121.12,
+      "discount_pct": 20,
+      "line_total": 290.69
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 34599.31,
+      "discount_pct": 0,
+      "line_total": 34599.31
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 87.92,
+      "discount_pct": 0,
+      "line_total": 2198.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 152.6,
+      "discount_pct": 0,
+      "line_total": 457.8
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2767.61,
+      "discount_pct": 5,
+      "line_total": 5258.46
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 19601.24,
+      "discount_pct": 0,
+      "line_total": 19601.24
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3013.31,
+      "discount_pct": 15,
+      "line_total": 2561.31
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1501.57,
+      "discount_pct": 20,
+      "line_total": 60062.8
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 494.84,
+      "discount_pct": 5,
+      "line_total": 11752.45
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 91.5,
+      "discount_pct": 20,
+      "line_total": 73.2
+    }
+  ],
+  "subtotal": 232854.24,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 11642.71,
+  "shipping_amount": 185.68,
+  "total_due": 244682.63,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
+}

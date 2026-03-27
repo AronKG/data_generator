@@ -1,17 +1,17 @@
 {
   "id": 295,
   "filename": "invoice_295.pdf",
-  "layout_style": "ledger",
+  "layout_style": "minimal",
   "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 11,
+  "color_palette_index": 5,
   "invoice_number": "2025-42955",
-  "issue_date": "21/06/2024",
-  "due_date": "19 September 2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-17712",
+  "issue_date": "10/03/2024",
+  "due_date": "10/24/2024",
+  "payment_terms": "Immediate",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-95143",
   "seller_name": "RedBark Sustainable Co.",
   "seller_address": "22 Battery St Burlington VT 05401 USA",
   "seller_email": "hello@redbark.com",
@@ -20,31 +20,23 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 4,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 11798.1,
-      "discount_pct": 10,
-      "line_total": 106182.9
-    },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 32.04,
-      "discount_pct": 0,
-      "line_total": 32.04
+      "quantity": 2,
+      "unit_price": 99.55,
+      "discount_pct": 15,
+      "line_total": 169.23
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2095.89,
+      "quantity": 5,
+      "unit_price": 2666.95,
       "discount_pct": 10,
-      "line_total": 5658.9
+      "line_total": 12001.27
     },
     {
       "description": "Digital Marketing",
@@ -53,26 +45,53 @@
       "unit_price": 6195.6,
       "discount_pct": 5,
       "line_total": 58858.2
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 35585.94,
+      "discount_pct": 0,
+      "line_total": 106757.82
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 795.52,
+      "discount_pct": 0,
+      "line_total": 795.52
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 161.42,
+      "discount_pct": 0,
+      "line_total": 161.42
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 477.73,
+      "discount_pct": 0,
+      "line_total": 4777.3
     }
   ],
-  "subtotal": 170732.04,
+  "subtotal": 183520.76,
   "tax_label": "VAT 23pct",
   "tax_rate_pct": 23.0,
-  "tax_amount": 39268.37,
+  "tax_amount": 42209.77,
   "shipping_amount": 0.0,
-  "total_due": 210000.41,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "total_due": 225730.53,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

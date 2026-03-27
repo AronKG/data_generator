@@ -1,16 +1,16 @@
 {
   "id": 537,
   "filename": "invoice_537.pdf",
-  "layout_style": "modern",
+  "layout_style": "bold_header",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 12,
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
   "invoice_number": "SI-44713",
-  "issue_date": "04/07/2023",
-  "due_date": "2023-09-02",
-  "payment_terms": "Net 30",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "November 14 2024",
+  "due_date": "January 13 2025",
+  "payment_terms": "Upon completion",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,46 +20,106 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 3,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1491.8,
-      "discount_pct": 0,
-      "line_total": 14918.0
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1303.91,
-      "discount_pct": 0,
-      "line_total": 1303.91
-    },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 50,
-      "unit_price": 35.81,
+      "unit_price": 98.24,
       "discount_pct": 0,
-      "line_total": 1790.5
+      "line_total": 4912.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 730.24,
+      "discount_pct": 20,
+      "line_total": 2920.96
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 19359.93,
+      "discount_pct": 15,
+      "line_total": 16455.94
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 380.27,
+      "discount_pct": 0,
+      "line_total": 380.27
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 112.39,
+      "discount_pct": 0,
+      "line_total": 112.39
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1063.74,
+      "discount_pct": 0,
+      "line_total": 26593.5
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 301.97,
+      "discount_pct": 15,
+      "line_total": 12833.73
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5713.9,
+      "discount_pct": 15,
+      "line_total": 4856.81
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 259.16,
+      "discount_pct": 0,
+      "line_total": 2591.6
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 9436.54,
+      "discount_pct": 0,
+      "line_total": 28309.62
     }
   ],
-  "subtotal": 18012.41,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 1260.87,
+  "subtotal": 99966.82,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 12995.69,
   "shipping_amount": 0.0,
-  "total_due": 19273.28,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": null,
+  "total_due": 112962.51,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

@@ -1,17 +1,17 @@
 {
   "id": 150,
   "filename": "invoice_150.pdf",
-  "layout_style": "classic",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 11,
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
   "invoice_number": "2024-5012",
-  "issue_date": "09/19/2024",
-  "due_date": "2024-11-18",
-  "payment_terms": "Due on Receipt",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": null,
+  "issue_date": "04/04/2024",
+  "due_date": "03 July 2024",
+  "payment_terms": "Net 90",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-28280",
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,71 +20,123 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 6,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1404.54,
-      "discount_pct": 5,
-      "line_total": 1334.31
-    },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 854.1,
-      "discount_pct": 10,
-      "line_total": 768.69
+      "quantity": 10,
+      "unit_price": 427.7,
+      "discount_pct": 20,
+      "line_total": 3421.6
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
       "quantity": 50,
-      "unit_price": 1909.48,
-      "discount_pct": 0,
-      "line_total": 95474.0
+      "unit_price": 2293.8,
+      "discount_pct": 10,
+      "line_total": 103221.0
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 50,
-      "unit_price": 232.09,
+      "quantity": 10,
+      "unit_price": 90.5,
       "discount_pct": 10,
-      "line_total": 10444.05
+      "line_total": 814.5
     },
     {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 616.75,
-      "discount_pct": 10,
-      "line_total": 5550.75
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 723.03,
+      "discount_pct": 0,
+      "line_total": 723.03
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
+      "quantity": 2,
+      "unit_price": 2220.35,
+      "discount_pct": 5,
+      "line_total": 4218.66
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
       "quantity": 1,
-      "unit_price": 2203.96,
+      "unit_price": 836.05,
+      "discount_pct": 20,
+      "line_total": 668.84
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3437.86,
+      "discount_pct": 10,
+      "line_total": 3094.07
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 260.06,
+      "discount_pct": 10,
+      "line_total": 468.11
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 48.79,
       "discount_pct": 0,
-      "line_total": 2203.96
+      "line_total": 97.58
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 496.66,
+      "discount_pct": 15,
+      "line_total": 2110.81
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 203.4,
+      "discount_pct": 10,
+      "line_total": 549.18
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 33.22,
+      "discount_pct": 5,
+      "line_total": 94.68
     }
   ],
-  "subtotal": 115775.76,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 9551.5,
-  "shipping_amount": 0.0,
-  "total_due": 125327.26,
-  "notes": null,
-  "bank_details": null,
+  "subtotal": 119482.06,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 23896.41,
+  "shipping_amount": 46.94,
+  "total_due": 143425.41,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
   "has_tax": true
 }

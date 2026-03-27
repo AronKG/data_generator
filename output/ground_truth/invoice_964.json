@@ -1,17 +1,17 @@
 {
   "id": 964,
   "filename": "invoice_964.pdf",
-  "layout_style": "creative",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 11,
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
   "invoice_number": "PROFORMA/2024/29865",
-  "issue_date": "15/03/2023",
-  "due_date": "29/04/2023",
-  "payment_terms": "2/10 Net 30",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-84648",
+  "issue_date": "October 19 2023",
+  "due_date": "26-Oct-2023",
+  "payment_terms": "Net 45",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
   "seller_name": "BlueSky Consulting GmbH",
   "seller_address": "Unter den Linden 21 10117 Berlin Germany",
   "seller_email": "rechnungen@bluesky.de",
@@ -20,31 +20,195 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 1,
+  "num_line_items": 21,
   "line_items": [
     {
-      "description": "Software Dev",
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3335.09,
+      "discount_pct": 5,
+      "line_total": 3168.34
+    },
+    {
+      "description": "IT Support",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 126.21,
+      "quantity": 1,
+      "unit_price": 81.92,
+      "discount_pct": 15,
+      "line_total": 69.63
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 822.04,
+      "discount_pct": 10,
+      "line_total": 18495.9
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1579.1,
+      "discount_pct": 5,
+      "line_total": 3000.29
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 7661.37,
       "discount_pct": 0,
-      "line_total": 378.63
+      "line_total": 383068.5
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1438.18,
+      "discount_pct": 0,
+      "line_total": 2876.36
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 116.69,
+      "discount_pct": 15,
+      "line_total": 991.87
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4697.19,
+      "discount_pct": 20,
+      "line_total": 3757.75
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 480.84,
+      "discount_pct": 10,
+      "line_total": 2163.78
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 56.51,
+      "discount_pct": 0,
+      "line_total": 56.51
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 296.54,
+      "discount_pct": 15,
+      "line_total": 1260.3
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 14497.42,
+      "discount_pct": 5,
+      "line_total": 688627.45
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 731.55,
+      "discount_pct": 0,
+      "line_total": 36577.5
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 8001.54,
+      "discount_pct": 5,
+      "line_total": 38007.31
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 123.05,
+      "discount_pct": 15,
+      "line_total": 1045.92
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3345.4,
+      "discount_pct": 10,
+      "line_total": 3010.86
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1267.65,
+      "discount_pct": 0,
+      "line_total": 12676.5
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1915.77,
+      "discount_pct": 0,
+      "line_total": 1915.77
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3733.5,
+      "discount_pct": 10,
+      "line_total": 3360.15
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 238.24,
+      "discount_pct": 0,
+      "line_total": 476.48
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1263.69,
+      "discount_pct": 0,
+      "line_total": 12636.9
     }
   ],
-  "subtotal": 378.63,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 49.22,
+  "subtotal": 1217244.07,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 255621.25,
   "shipping_amount": 0.0,
-  "total_due": 427.85,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": null,
+  "total_due": 1472865.32,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

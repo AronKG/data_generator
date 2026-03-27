@@ -1,17 +1,17 @@
 {
   "id": 794,
   "filename": "invoice_794.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
+  "layout_style": "modern",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "color_palette_index": 6,
   "invoice_number": "078576",
-  "issue_date": "28/02/2023",
-  "due_date": "March 30 2023",
-  "payment_terms": "30 days from delivery",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-41451",
+  "issue_date": "July 24 2023",
+  "due_date": "23-Aug-2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
   "seller_email": "hello@sunrisedigital.hk",
@@ -23,28 +23,20 @@
   "num_line_items": 5,
   "line_items": [
     {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1117.03,
-      "discount_pct": 5,
-      "line_total": 1061.18
-    },
-    {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 50,
-      "unit_price": 102.69,
+      "quantity": 25,
+      "unit_price": 172.46,
       "discount_pct": 0,
-      "line_total": 5134.5
+      "line_total": 4311.5
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1621.5,
+      "quantity": 1,
+      "unit_price": 835.86,
       "discount_pct": 0,
-      "line_total": 8107.5
+      "line_total": 835.86
     },
     {
       "description": "Security Services",
@@ -61,27 +53,30 @@
       "unit_price": 2716.14,
       "discount_pct": 0,
       "line_total": 5432.28
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1595.56,
+      "discount_pct": 0,
+      "line_total": 3191.12
     }
   ],
-  "subtotal": 20000.26,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 1650.02,
+  "subtotal": 14035.56,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 842.13,
   "shipping_amount": 0.0,
-  "total_due": 21650.28,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "total_due": 14877.69,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

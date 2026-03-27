@@ -1,17 +1,17 @@
 {
   "id": 468,
   "filename": "invoice_468.pdf",
-  "layout_style": "formal",
+  "layout_style": "minimal",
   "page_size": "A4",
-  "complexity_tier": "medium",
+  "complexity_tier": "complex",
   "color_palette_index": 1,
   "invoice_number": "INVOICE-39625",
-  "issue_date": "01/06/2024",
-  "due_date": "03/06/2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "04/24/2024",
+  "due_date": "05/08/2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-53385",
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,47 +20,119 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 3,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 80.85,
-      "discount_pct": 0,
-      "line_total": 80.85
-    },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 784.23,
-      "discount_pct": 0,
-      "line_total": 784.23
+      "quantity": 25,
+      "unit_price": 461.74,
+      "discount_pct": 5,
+      "line_total": 10966.32
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1982.12,
+      "quantity": 5,
+      "unit_price": 101.19,
+      "discount_pct": 5,
+      "line_total": 480.65
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 616.71,
       "discount_pct": 0,
-      "line_total": 1982.12
+      "line_total": 30835.5
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 38656.72,
+      "discount_pct": 15,
+      "line_total": 821455.3
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2483.94,
+      "discount_pct": 10,
+      "line_total": 2235.55
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10782.05,
+      "discount_pct": 0,
+      "line_total": 10782.05
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 2688.59,
+      "discount_pct": 15,
+      "line_total": 11426.51
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 343.75,
+      "discount_pct": 10,
+      "line_total": 3093.75
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1490.75,
+      "discount_pct": 0,
+      "line_total": 2981.5
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 52.94,
+      "discount_pct": 20,
+      "line_total": 423.52
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 562.79,
+      "discount_pct": 10,
+      "line_total": 506.51
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 25.53,
+      "discount_pct": 0,
+      "line_total": 76.59
     }
   ],
-  "subtotal": 2847.2,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 142.36,
+  "subtotal": 895263.75,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 134289.56,
   "shipping_amount": 0.0,
-  "total_due": 2989.56,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 1029553.31,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

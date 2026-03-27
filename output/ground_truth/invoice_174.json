@@ -1,17 +1,17 @@
 {
   "id": 174,
   "filename": "invoice_174.pdf",
-  "layout_style": "modern",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 3,
+  "complexity_tier": "medium",
+  "color_palette_index": 10,
   "invoice_number": "026859",
-  "issue_date": "11 June 2024",
-  "due_date": "2024-06-25",
-  "payment_terms": "Net 60",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-55930",
+  "issue_date": "12/09/2022",
+  "due_date": "October 03 2022",
+  "payment_terms": "Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-69281",
   "seller_name": "Oasis Events Co.",
   "seller_address": "55 Palm Boulevard Dubai UAE",
   "seller_email": "events@oasisevents.ae",
@@ -20,162 +20,54 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 17,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 661.59,
-      "discount_pct": 20,
-      "line_total": 529.27
-    },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 3,
-      "unit_price": 359.04,
+      "quantity": 50,
+      "unit_price": 721.09,
       "discount_pct": 5,
-      "line_total": 1023.26
+      "line_total": 34251.78
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 28849.87,
+      "quantity": 5,
+      "unit_price": 37686.65,
       "discount_pct": 0,
-      "line_total": 1442493.5
+      "line_total": 188433.25
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 584.44,
-      "discount_pct": 20,
-      "line_total": 935.1
+      "quantity": 10,
+      "unit_price": 684.66,
+      "discount_pct": 0,
+      "line_total": 6846.6
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 488.77,
-      "discount_pct": 10,
-      "line_total": 10997.33
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1533.18,
-      "discount_pct": 20,
-      "line_total": 2453.09
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 475.31,
-      "discount_pct": 0,
-      "line_total": 23765.5
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3459.98,
-      "discount_pct": 20,
-      "line_total": 5535.97
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 133.8,
-      "discount_pct": 5,
-      "line_total": 254.22
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 10397.47,
-      "discount_pct": 0,
-      "line_total": 103974.7
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 3218.59,
-      "discount_pct": 0,
-      "line_total": 3218.59
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 998.79,
-      "discount_pct": 10,
-      "line_total": 898.91
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 521.79,
-      "discount_pct": 0,
-      "line_total": 1043.58
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1245.12,
+      "unit_price": 593.29,
       "discount_pct": 20,
-      "line_total": 49804.8
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 14333.28,
-      "discount_pct": 0,
-      "line_total": 14333.28
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 4736.11,
-      "discount_pct": 10,
-      "line_total": 106562.47
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2363.85,
-      "discount_pct": 20,
-      "line_total": 9455.4
+      "line_total": 474.63
     }
   ],
-  "subtotal": 1777278.97,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 124409.53,
+  "subtotal": 230006.26,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 46001.25,
   "shipping_amount": 0.0,
-  "total_due": 1901688.5,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "total_due": 276007.51,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

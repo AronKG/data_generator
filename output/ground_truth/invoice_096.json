@@ -1,16 +1,16 @@
 {
   "id": 96,
   "filename": "invoice_096.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
   "invoice_number": "TAX-INV-2023-67516",
-  "issue_date": "06-Jun-2023",
-  "due_date": "07/21/2023",
-  "payment_terms": "30 days from delivery",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "issue_date": "January 10 2024",
+  "due_date": "01/24/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
@@ -20,51 +20,148 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 3,
+  "num_line_items": 15,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 407.97,
-      "discount_pct": 0,
-      "line_total": 4079.7
-    },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 911.62,
+      "quantity": 25,
+      "unit_price": 876.84,
       "discount_pct": 0,
-      "line_total": 911.62
+      "line_total": 21921.0
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1315.91,
+      "quantity": 50,
+      "unit_price": 1738.75,
+      "discount_pct": 5,
+      "line_total": 82590.62
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 110.94,
       "discount_pct": 0,
-      "line_total": 3947.73
+      "line_total": 110.94
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 95.31,
+      "discount_pct": 0,
+      "line_total": 95.31
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 659.42,
+      "discount_pct": 0,
+      "line_total": 1318.84
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3082.33,
+      "discount_pct": 20,
+      "line_total": 61646.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 543.8,
+      "discount_pct": 20,
+      "line_total": 10876.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6959.77,
+      "discount_pct": 10,
+      "line_total": 18791.38
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 340.8,
+      "discount_pct": 5,
+      "line_total": 647.52
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 1840.09,
+      "discount_pct": 15,
+      "line_total": 4692.23
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 2295.37,
+      "discount_pct": 0,
+      "line_total": 22953.7
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1349.24,
+      "discount_pct": 15,
+      "line_total": 57342.7
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5050.39,
+      "discount_pct": 0,
+      "line_total": 5050.39
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 241.9,
+      "discount_pct": 0,
+      "line_total": 241.9
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 27.33,
+      "discount_pct": 5,
+      "line_total": 1298.17
     }
   ],
-  "subtotal": 8939.05,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 893.9,
-  "shipping_amount": 0.0,
-  "total_due": 9832.95,
-  "notes": "Please direct billing queries to our accounts department.",
+  "subtotal": 289577.3,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 14478.86,
+  "shipping_amount": 214.5,
+  "total_due": 304270.66,
+  "notes": null,
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

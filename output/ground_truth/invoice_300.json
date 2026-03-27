@@ -1,17 +1,17 @@
 {
   "id": 300,
   "filename": "invoice_300.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
   "invoice_number": "044034",
-  "issue_date": "2024-09-29",
-  "due_date": "13/10/2024",
-  "payment_terms": "Net 90",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-84389",
+  "issue_date": "07/18/2022",
+  "due_date": "17/08/2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,68 +20,111 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 5,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 50,
-      "unit_price": 857.93,
-      "discount_pct": 0,
-      "line_total": 42896.5
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1945.36,
+      "quantity": 25,
+      "unit_price": 1921.85,
       "discount_pct": 0,
-      "line_total": 5836.08
+      "line_total": 48046.25
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 3861.07,
-      "discount_pct": 0,
-      "line_total": 96526.75
+      "quantity": 1,
+      "unit_price": 2347.84,
+      "discount_pct": 10,
+      "line_total": 2113.06
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1173.92,
-      "discount_pct": 10,
-      "line_total": 1056.53
+      "quantity": 25,
+      "unit_price": 746.71,
+      "discount_pct": 5,
+      "line_total": 17734.36
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1041.73,
+      "quantity": 3,
+      "unit_price": 1131.42,
+      "discount_pct": 0,
+      "line_total": 3394.26
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 103.13,
+      "discount_pct": 0,
+      "line_total": 206.26
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1723.46,
+      "discount_pct": 0,
+      "line_total": 17234.6
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 4554.38,
+      "discount_pct": 10,
+      "line_total": 4098.94
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 438.16,
       "discount_pct": 5,
-      "line_total": 24741.09
+      "line_total": 1248.76
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1829.09,
+      "discount_pct": 20,
+      "line_total": 14632.72
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 28359.37,
+      "discount_pct": 0,
+      "line_total": 283593.7
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4979.27,
+      "discount_pct": 0,
+      "line_total": 9958.54
     }
   ],
-  "subtotal": 171056.95,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 32500.82,
-  "shipping_amount": 0.0,
-  "total_due": 203557.77,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
-  },
+  "subtotal": 402261.45,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 40226.15,
+  "shipping_amount": 133.29,
+  "total_due": 442620.89,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

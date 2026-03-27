@@ -1,17 +1,17 @@
 {
   "id": 825,
   "filename": "invoice_825.pdf",
-  "layout_style": "ledger",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 11,
+  "color_palette_index": 14,
   "invoice_number": "080923",
-  "issue_date": "21/01/2024",
-  "due_date": "28/01/2024",
-  "payment_terms": "Immediate",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "2022-05-08",
+  "due_date": "June 22 2022",
+  "payment_terms": "Net 90",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-43750",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -23,28 +23,20 @@
   "num_line_items": 19,
   "line_items": [
     {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2393.3,
-      "discount_pct": 5,
-      "line_total": 113681.75
-    },
-    {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1922.03,
+      "quantity": 1,
+      "unit_price": 2125.79,
       "discount_pct": 0,
-      "line_total": 3844.06
+      "line_total": 2125.79
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1283.28,
-      "discount_pct": 10,
-      "line_total": 1154.95
+      "unit_price": 1064.11,
+      "discount_pct": 20,
+      "line_total": 851.29
     },
     {
       "description": "Tech Writing",
@@ -95,12 +87,12 @@
       "line_total": 320.46
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Consulting Day Rate",
+      "unit": "day",
       "quantity": 25,
-      "unit_price": 1374.55,
+      "unit_price": 2104.51,
       "discount_pct": 0,
-      "line_total": 34363.75
+      "line_total": 52612.75
     },
     {
       "description": "Security Services",
@@ -159,12 +151,12 @@
       "line_total": 647.93
     },
     {
-      "description": "BI Reporting",
+      "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 5,
-      "unit_price": 1435.15,
+      "unit_price": 3016.86,
       "discount_pct": 15,
-      "line_total": 6099.39
+      "line_total": 12821.66
     },
     {
       "description": "Office Supplies",
@@ -173,22 +165,30 @@
       "unit_price": 367.97,
       "discount_pct": 15,
       "line_total": 7819.36
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 550.86,
+      "discount_pct": 0,
+      "line_total": 1101.72
     }
   ],
-  "subtotal": 520603.43,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 42949.78,
-  "shipping_amount": 0.0,
-  "total_due": 563553.21,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "subtotal": 430972.74,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 56026.46,
+  "shipping_amount": 150.73,
+  "total_due": 487149.93,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": false,
+  "has_shipping": true,
+  "has_po_number": true,
   "has_tax": true
 }

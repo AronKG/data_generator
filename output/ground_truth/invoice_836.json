@@ -1,16 +1,16 @@
 {
   "id": 836,
   "filename": "invoice_836.pdf",
-  "layout_style": "minimal",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
   "invoice_number": "BILL/2023/13967",
-  "issue_date": "19-Jan-2023",
-  "due_date": "03/20/2023",
+  "issue_date": "March 06 2024",
+  "due_date": "20-Apr-2024",
   "payment_terms": "End of Month",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
@@ -20,118 +20,50 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 12,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1940.77,
-      "discount_pct": 5,
-      "line_total": 1843.73
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1711.35,
-      "discount_pct": 15,
-      "line_total": 1454.65
+      "quantity": 25,
+      "unit_price": 812.27,
+      "discount_pct": 0,
+      "line_total": 20306.75
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 162.7,
+      "quantity": 3,
+      "unit_price": 120.9,
       "discount_pct": 0,
-      "line_total": 162.7
+      "line_total": 362.7
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 284.07,
-      "discount_pct": 0,
-      "line_total": 7101.75
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 3,
-      "unit_price": 2229.54,
-      "discount_pct": 10,
-      "line_total": 6019.76
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 461.31,
-      "discount_pct": 5,
-      "line_total": 21912.22
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
       "quantity": 1,
-      "unit_price": 365.4,
-      "discount_pct": 10,
-      "line_total": 328.86
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 13886.04,
-      "discount_pct": 10,
-      "line_total": 312435.9
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13419.61,
+      "unit_price": 453.22,
       "discount_pct": 0,
-      "line_total": 13419.61
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 31901.13,
-      "discount_pct": 20,
-      "line_total": 127604.52
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 162.38,
-      "discount_pct": 5,
-      "line_total": 308.52
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 511.7,
-      "discount_pct": 5,
-      "line_total": 12152.88
+      "line_total": 453.22
     }
   ],
-  "subtotal": 504745.1,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 35332.16,
+  "subtotal": 21122.67,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 2745.95,
   "shipping_amount": 0.0,
-  "total_due": 540077.26,
+  "total_due": 23868.62,
   "notes": null,
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": false,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

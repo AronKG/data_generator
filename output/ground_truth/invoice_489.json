@@ -1,17 +1,17 @@
 {
   "id": 489,
   "filename": "invoice_489.pdf",
-  "layout_style": "creative",
+  "layout_style": "sidebar",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 4,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
   "invoice_number": "SI-40920",
   "issue_date": "13-Oct-2023",
-  "due_date": "27-Nov-2023",
-  "payment_terms": "30 days from delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": null,
+  "due_date": "November 03 2023",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-40761",
   "seller_name": "Lumiere Creations SARL",
   "seller_address": "18 Bd Haussmann 75009 Paris France",
   "seller_email": "comptabilite@lumiere-cr.fr",
@@ -20,60 +20,195 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 4,
+  "num_line_items": 21,
   "line_items": [
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 7014.43,
-      "discount_pct": 5,
-      "line_total": 66637.09
-    },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 933.67,
-      "discount_pct": 0,
-      "line_total": 933.67
+      "unit_price": 659.5,
+      "discount_pct": 10,
+      "line_total": 593.55
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 2201.6,
-      "discount_pct": 0,
-      "line_total": 22016.0
+      "quantity": 5,
+      "unit_price": 2755.48,
+      "discount_pct": 20,
+      "line_total": 11021.92
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
+      "quantity": 3,
+      "unit_price": 819.65,
+      "discount_pct": 5,
+      "line_total": 2336.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 12935.57,
+      "discount_pct": 10,
+      "line_total": 291050.33
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
       "quantity": 1,
-      "unit_price": 1101.88,
+      "unit_price": 6234.86,
       "discount_pct": 0,
-      "line_total": 1101.88
+      "line_total": 6234.86
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 4292.2,
+      "discount_pct": 10,
+      "line_total": 11588.94
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 778.36,
+      "discount_pct": 0,
+      "line_total": 19459.0
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2122.68,
+      "discount_pct": 0,
+      "line_total": 10613.4
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2219.86,
+      "discount_pct": 15,
+      "line_total": 1886.88
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3506.83,
+      "discount_pct": 0,
+      "line_total": 10520.49
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1867.9,
+      "discount_pct": 10,
+      "line_total": 1681.11
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 4457.34,
+      "discount_pct": 0,
+      "line_total": 13372.02
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2348.09,
+      "discount_pct": 0,
+      "line_total": 4696.18
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 44200.2,
+      "discount_pct": 0,
+      "line_total": 132600.6
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 101.07,
+      "discount_pct": 0,
+      "line_total": 101.07
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2155.42,
+      "discount_pct": 0,
+      "line_total": 53885.5
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 123.65,
+      "discount_pct": 0,
+      "line_total": 123.65
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 749.11,
+      "discount_pct": 20,
+      "line_total": 2996.44
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 3,
+      "unit_price": 213.51,
+      "discount_pct": 5,
+      "line_total": 608.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 333.6,
+      "discount_pct": 0,
+      "line_total": 667.2
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1524.36,
+      "discount_pct": 0,
+      "line_total": 4573.08
     }
   ],
-  "subtotal": 90688.64,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 0.0,
-  "total_due": 90688.64,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "subtotal": 580610.72,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 29030.54,
+  "shipping_amount": 117.23,
+  "total_due": 609758.49,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
 }

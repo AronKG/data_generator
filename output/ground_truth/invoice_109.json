@@ -1,17 +1,17 @@
 {
   "id": 109,
   "filename": "invoice_109.pdf",
-  "layout_style": "formal",
-  "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 2,
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
   "invoice_number": "INVOICE/2025/35839",
-  "issue_date": "01/04/2024",
-  "due_date": "16-Apr-2024",
-  "payment_terms": "Net 15",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "September 27 2022",
+  "due_date": "27 October 2022",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-82470",
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
   "seller_email": "ap@ironwoodprecision.com",
@@ -20,160 +20,40 @@
   "client_name": "Apex Capital Advisors",
   "client_address": "555 California St San Francisco CA 94104 USA",
   "client_email": "invoices@apexcapital.com",
-  "num_line_items": 18,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 50,
-      "unit_price": 158.46,
-      "discount_pct": 0,
-      "line_total": 7923.0
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 397.65,
+      "quantity": 2,
+      "unit_price": 403.16,
       "discount_pct": 0,
-      "line_total": 397.65
+      "line_total": 806.32
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 2117.68,
-      "discount_pct": 10,
-      "line_total": 47647.8
+      "unit_price": 7776.62,
+      "discount_pct": 0,
+      "line_total": 194415.5
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 364.89,
+      "unit_price": 396.83,
       "discount_pct": 0,
-      "line_total": 364.89
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1835.0,
-      "discount_pct": 0,
-      "line_total": 5505.0
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 707.52,
-      "discount_pct": 15,
-      "line_total": 6013.92
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 3,
-      "unit_price": 3054.37,
-      "discount_pct": 20,
-      "line_total": 7330.49
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6434.57,
-      "discount_pct": 20,
-      "line_total": 5147.66
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1404.5,
-      "discount_pct": 0,
-      "line_total": 14045.0
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 991.94,
-      "discount_pct": 10,
-      "line_total": 892.75
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1242.21,
-      "discount_pct": 20,
-      "line_total": 993.77
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 5,
-      "unit_price": 3567.37,
-      "discount_pct": 0,
-      "line_total": 17836.85
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1023.69,
-      "discount_pct": 10,
-      "line_total": 921.32
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 1,
-      "unit_price": 5743.75,
-      "discount_pct": 0,
-      "line_total": 5743.75
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5608.02,
-      "discount_pct": 10,
-      "line_total": 5047.22
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 101.76,
-      "discount_pct": 0,
-      "line_total": 101.76
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 967.37,
-      "discount_pct": 5,
-      "line_total": 22975.04
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 289.49,
-      "discount_pct": 5,
-      "line_total": 13750.77
+      "line_total": 396.83
     }
   ],
-  "subtotal": 162638.64,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 9758.32,
+  "subtotal": 195618.65,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 9780.93,
   "shipping_amount": 0.0,
-  "total_due": 172396.96,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "total_due": 205399.58,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
@@ -181,6 +61,6 @@
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

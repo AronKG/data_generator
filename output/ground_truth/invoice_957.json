@@ -1,16 +1,16 @@
 {
   "id": 957,
   "filename": "invoice_957.pdf",
-  "layout_style": "ledger",
+  "layout_style": "classic",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
   "invoice_number": "RCPT-21658",
-  "issue_date": "2023-06-16",
-  "due_date": "07/16/2023",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "08/02/2023",
+  "due_date": "August 09 2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,79 +20,135 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 7,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3894.7,
-      "discount_pct": 0,
-      "line_total": 7789.4
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 14890.18,
+      "quantity": 10,
+      "unit_price": 2072.0,
       "discount_pct": 0,
-      "line_total": 744509.0
+      "line_total": 20720.0
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1329.84,
-      "discount_pct": 15,
-      "line_total": 1130.36
+      "quantity": 50,
+      "unit_price": 1996.85,
+      "discount_pct": 0,
+      "line_total": 99842.5
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1394.09,
-      "discount_pct": 10,
-      "line_total": 1254.68
+      "quantity": 10,
+      "unit_price": 1361.64,
+      "discount_pct": 0,
+      "line_total": 13616.4
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 408.88,
+      "quantity": 10,
+      "unit_price": 276.12,
+      "discount_pct": 10,
+      "line_total": 2485.08
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 14795.37,
       "discount_pct": 0,
-      "line_total": 408.88
+      "line_total": 44386.11
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1561.39,
-      "discount_pct": 10,
-      "line_total": 1405.25
+      "quantity": 50,
+      "unit_price": 2983.64,
+      "discount_pct": 15,
+      "line_total": 126804.7
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 3,
-      "unit_price": 90.92,
+      "quantity": 10,
+      "unit_price": 106.93,
+      "discount_pct": 15,
+      "line_total": 908.91
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 234.12,
       "discount_pct": 0,
-      "line_total": 272.76
+      "line_total": 1170.6
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 241.46,
+      "discount_pct": 15,
+      "line_total": 10262.05
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 636.95,
+      "discount_pct": 20,
+      "line_total": 2547.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1457.45,
+      "discount_pct": 10,
+      "line_total": 1311.71
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 198.04,
+      "discount_pct": 0,
+      "line_total": 4951.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2358.28,
+      "discount_pct": 0,
+      "line_total": 2358.28
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 4945.19,
+      "discount_pct": 0,
+      "line_total": 14835.57
     }
   ],
-  "subtotal": 756770.33,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 346200.71,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 65778.13,
   "shipping_amount": 0.0,
-  "total_due": 756770.33,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "total_due": 411978.84,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

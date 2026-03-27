@@ -1,13 +1,13 @@
 {
   "id": 21,
   "filename": "invoice_021.pdf",
-  "layout_style": "classic",
+  "layout_style": "modern",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "color_palette_index": 11,
   "invoice_number": "2023-54129",
-  "issue_date": "03/23/2022",
-  "due_date": "2022-04-13",
+  "issue_date": "04/21/2023",
+  "due_date": "2023-05-06",
   "payment_terms": "50% upfront balance on delivery",
   "currency": "AUD",
   "currency_symbol": "A$",
@@ -23,44 +23,44 @@
   "num_line_items": 4,
   "line_items": [
     {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 480.42,
-      "discount_pct": 20,
-      "line_total": 1921.68
-    },
-    {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 330.45,
-      "discount_pct": 15,
-      "line_total": 14044.12
+      "quantity": 2,
+      "unit_price": 1916.64,
+      "discount_pct": 10,
+      "line_total": 3449.95
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 104.59,
-      "discount_pct": 5,
-      "line_total": 99.36
+      "unit_price": 283.42,
+      "discount_pct": 15,
+      "line_total": 240.91
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
+      "quantity": 1,
+      "unit_price": 225.5,
+      "discount_pct": 5,
+      "line_total": 214.22
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
       "quantity": 50,
-      "unit_price": 59.47,
+      "unit_price": 31.32,
       "discount_pct": 20,
-      "line_total": 2378.8
+      "line_total": 1252.8
     }
   ],
-  "subtotal": 18443.96,
+  "subtotal": 5157.88,
   "tax_label": "No Tax",
   "tax_rate_pct": 0.0,
   "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 18443.96,
+  "total_due": 5157.88,
   "notes": "All work performed in accordance with the signed service agreement.",
   "bank_details": {
     "Bank": "Barclays Bank",

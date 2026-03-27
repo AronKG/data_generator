@@ -1,17 +1,17 @@
 {
   "id": 933,
   "filename": "invoice_933.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "minimal",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 1,
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV96112",
-  "issue_date": "September 18 2022",
-  "due_date": "17 December 2022",
-  "payment_terms": "30 days from delivery",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": null,
+  "issue_date": "04 July 2024",
+  "due_date": "18 August 2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-38619",
   "seller_name": "RedBark Sustainable Co.",
   "seller_address": "22 Battery St Burlington VT 05401 USA",
   "seller_email": "hello@redbark.com",
@@ -20,47 +20,47 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 12,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 10,
-      "unit_price": 31.93,
-      "discount_pct": 5,
-      "line_total": 303.33
-    },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 9894.95,
-      "discount_pct": 5,
-      "line_total": 9400.2
+      "unit_price": 13144.2,
+      "discount_pct": 20,
+      "line_total": 10515.36
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2656.01,
-      "discount_pct": 10,
-      "line_total": 2390.41
+      "unit_price": 1939.72,
+      "discount_pct": 5,
+      "line_total": 1842.73
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2392.53,
-      "discount_pct": 20,
-      "line_total": 9570.12
+      "quantity": 1,
+      "unit_price": 3554.09,
+      "discount_pct": 10,
+      "line_total": 3198.68
     },
     {
       "description": "IT Support",
       "unit": "hr",
+      "quantity": 5,
+      "unit_price": 142.59,
+      "discount_pct": 20,
+      "line_total": 570.36
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 102.26,
+      "unit_price": 6708.04,
       "discount_pct": 0,
-      "line_total": 102.26
+      "line_total": 6708.04
     },
     {
       "description": "Social Media Mgmt",
@@ -87,20 +87,20 @@
       "line_total": 18810.23
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Catering Services",
+      "unit": "head",
       "quantity": 50,
-      "unit_price": 937.46,
+      "unit_price": 60.62,
       "discount_pct": 0,
-      "line_total": 46873.0
+      "line_total": 3031.0
     },
     {
-      "description": "iOS App Dev",
-      "unit": "ea",
+      "description": "Community Mgmt",
+      "unit": "mo",
       "quantity": 50,
-      "unit_price": 16648.76,
+      "unit_price": 2125.45,
       "discount_pct": 5,
-      "line_total": 790816.1
+      "line_total": 100958.87
     },
     {
       "description": "Managed Cloud",
@@ -111,32 +111,36 @@
       "line_total": 15123.78
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 2422.23,
+      "unit_price": 775.44,
       "discount_pct": 20,
-      "line_total": 1937.78
+      "line_total": 620.35
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 8406.06,
+      "discount_pct": 0,
+      "line_total": 25218.18
     }
   ],
-  "subtotal": 908971.99,
+  "subtotal": 200242.36,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 172704.68,
+  "tax_amount": 38046.05,
   "shipping_amount": 0.0,
-  "total_due": 1081676.67,
-  "notes": "Please retain this invoice for your accounting records.",
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "total_due": 238288.41,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

@@ -1,0 +1,86 @@
+{
+  "id": 100,
+  "filename": "invoice_100.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
+  "invoice_number": "INV-2023-13549",
+  "issue_date": "March 10 2022",
+  "due_date": "31-Mar-2022",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Lumiere Creations SARL",
+  "seller_address": "18 Bd Haussmann 75009 Paris France",
+  "seller_email": "comptabilite@lumiere-cr.fr",
+  "seller_phone": "+33 1 44 00 11 22",
+  "seller_tax_id": "SIRET: 987 654 321 00099",
+  "client_name": "Vanguard Healthcare",
+  "client_address": "1 Medical Center Dr Boston MA 02115 USA",
+  "client_email": "payables@vanguardhealth.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 787.0,
+      "discount_pct": 10,
+      "line_total": 35415.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10245.49,
+      "discount_pct": 0,
+      "line_total": 10245.49
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1289.04,
+      "discount_pct": 5,
+      "line_total": 30614.7
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1835.4,
+      "discount_pct": 10,
+      "line_total": 1651.86
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 624.55,
+      "discount_pct": 15,
+      "line_total": 2654.34
+    }
+  ],
+  "subtotal": 80581.39,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 8058.14,
+  "shipping_amount": 0.0,
+  "total_due": 88639.53,
+  "notes": null,
+  "bank_details": {
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

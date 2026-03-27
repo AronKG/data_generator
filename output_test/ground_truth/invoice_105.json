@@ -1,0 +1,86 @@
+{
+  "id": 105,
+  "filename": "invoice_105.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
+  "invoice_number": "2022-32895",
+  "issue_date": "10/22/2023",
+  "due_date": "21-Dec-2023",
+  "payment_terms": "Net 21",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1489.54,
+      "discount_pct": 10,
+      "line_total": 4021.76
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 415.03,
+      "discount_pct": 0,
+      "line_total": 20751.5
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1978.95,
+      "discount_pct": 20,
+      "line_total": 39579.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 242.36,
+      "discount_pct": 0,
+      "line_total": 12118.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 7073.6,
+      "discount_pct": 20,
+      "line_total": 5658.88
+    }
+  ],
+  "subtotal": 82129.14,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 18889.7,
+  "shipping_amount": 0.0,
+  "total_due": 101018.84,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

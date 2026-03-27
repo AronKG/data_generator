@@ -1,17 +1,17 @@
 {
   "id": 767,
   "filename": "invoice_767.pdf",
-  "layout_style": "classic",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
   "invoice_number": "RCPT-9219",
-  "issue_date": "03/06/2024",
-  "due_date": "04/20/2024",
-  "payment_terms": "End of Month",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-48687",
+  "issue_date": "10/21/2023",
+  "due_date": "11 November 2023",
+  "payment_terms": "Net 60",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,103 +20,52 @@
   "client_name": "Helix Biotech Corp.",
   "client_address": "One Kendall Sq Cambridge MA 02139 USA",
   "client_email": "ap@helixbiotech.com",
-  "num_line_items": 10,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 2475.93,
-      "discount_pct": 0,
-      "line_total": 2475.93
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1616.39,
+      "quantity": 25,
+      "unit_price": 2787.89,
       "discount_pct": 0,
-      "line_total": 1616.39
+      "line_total": 69697.25
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 3391.64,
+      "unit_price": 4775.52,
       "discount_pct": 0,
-      "line_total": 3391.64
+      "line_total": 4775.52
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 25,
-      "unit_price": 45.43,
-      "discount_pct": 15,
-      "line_total": 965.39
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 6275.25,
-      "discount_pct": 20,
-      "line_total": 251010.0
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
       "quantity": 1,
-      "unit_price": 806.84,
-      "discount_pct": 20,
-      "line_total": 645.47
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 194.57,
+      "unit_price": 62.85,
       "discount_pct": 0,
-      "line_total": 1945.7
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 56.55,
-      "discount_pct": 20,
-      "line_total": 45.24
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3187.18,
-      "discount_pct": 10,
-      "line_total": 2868.46
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 469.71,
-      "discount_pct": 10,
-      "line_total": 2113.69
+      "line_total": 62.85
     }
   ],
-  "subtotal": 267077.91,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 22033.93,
-  "shipping_amount": 249.0,
-  "total_due": 289360.84,
+  "subtotal": 74535.62,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 7453.56,
+  "shipping_amount": 0.0,
+  "total_due": 81989.18,
   "notes": null,
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": false,
-  "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
   "has_tax": true
 }

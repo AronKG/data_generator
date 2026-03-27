@@ -1,16 +1,16 @@
 {
   "id": 656,
   "filename": "invoice_656.pdf",
-  "layout_style": "creative",
+  "layout_style": "bold_header",
   "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 8,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 2,
   "invoice_number": "2024-91821",
-  "issue_date": "21 November 2023",
-  "due_date": "2023-12-06",
-  "payment_terms": "Due on Receipt",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "25 September 2022",
+  "due_date": "10/02/2022",
+  "payment_terms": "Net 15",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,40 +20,160 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 3,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 450.59,
-      "discount_pct": 0,
-      "line_total": 450.59
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 143.75,
-      "discount_pct": 0,
-      "line_total": 3593.75
-    },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 2162.1,
+      "quantity": 5,
+      "unit_price": 1315.28,
+      "discount_pct": 15,
+      "line_total": 5589.94
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 175.78,
       "discount_pct": 0,
-      "line_total": 2162.1
+      "line_total": 351.56
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 47307.29,
+      "discount_pct": 0,
+      "line_total": 1182682.25
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 191.52,
+      "discount_pct": 0,
+      "line_total": 191.52
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 710.81,
+      "discount_pct": 10,
+      "line_total": 31986.45
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 571.14,
+      "discount_pct": 0,
+      "line_total": 571.14
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1137.73,
+      "discount_pct": 5,
+      "line_total": 1080.84
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3019.41,
+      "discount_pct": 20,
+      "line_total": 2415.53
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4342.77,
+      "discount_pct": 15,
+      "line_total": 3691.35
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 99.04,
+      "discount_pct": 0,
+      "line_total": 990.4
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 119.18,
+      "discount_pct": 0,
+      "line_total": 238.36
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2859.4,
+      "discount_pct": 5,
+      "line_total": 135821.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 124.68,
+      "discount_pct": 0,
+      "line_total": 374.04
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1680.36,
+      "discount_pct": 0,
+      "line_total": 5041.08
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 239.83,
+      "discount_pct": 15,
+      "line_total": 2038.56
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 607.43,
+      "discount_pct": 0,
+      "line_total": 15185.75
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 610.57,
+      "discount_pct": 15,
+      "line_total": 1556.95
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 685.8,
+      "discount_pct": 0,
+      "line_total": 685.8
     }
   ],
-  "subtotal": 6206.44,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 1241.29,
+  "subtotal": 1390493.02,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 7447.73,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 1390493.02,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
@@ -62,5 +182,5 @@
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": true
+  "has_tax": false
 }

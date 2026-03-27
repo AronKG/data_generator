@@ -1,17 +1,17 @@
 {
   "id": 905,
   "filename": "invoice_905.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
   "invoice_number": "RCPT-17740",
-  "issue_date": "09/25/2024",
-  "due_date": "October 02 2024",
-  "payment_terms": "2/10 Net 30",
+  "issue_date": "01/18/2022",
+  "due_date": "19/03/2022",
+  "payment_terms": "Immediate",
   "currency": "HKD",
   "currency_symbol": "HK$",
-  "po_number": "PO-53915",
+  "po_number": "PO-48202",
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,131 +20,39 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 13,
+  "num_line_items": 2,
   "line_items": [
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 50,
-      "unit_price": 65.1,
-      "discount_pct": 5,
-      "line_total": 3092.25
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 450.87,
+      "quantity": 5,
+      "unit_price": 362.03,
       "discount_pct": 0,
-      "line_total": 450.87
+      "line_total": 1810.15
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 3180.09,
+      "unit_price": 3559.7,
       "discount_pct": 0,
-      "line_total": 3180.09
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1491.62,
-      "discount_pct": 0,
-      "line_total": 14916.2
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 383.39,
-      "discount_pct": 10,
-      "line_total": 1725.25
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 208.78,
-      "discount_pct": 0,
-      "line_total": 10439.0
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 469.4,
-      "discount_pct": 0,
-      "line_total": 2347.0
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1345.45,
-      "discount_pct": 0,
-      "line_total": 1345.45
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 3,
-      "unit_price": 1704.26,
-      "discount_pct": 0,
-      "line_total": 5112.78
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1828.83,
-      "discount_pct": 0,
-      "line_total": 5486.49
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 198.39,
-      "discount_pct": 10,
-      "line_total": 178.55
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 581.55,
-      "discount_pct": 5,
-      "line_total": 552.47
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 77.56,
-      "discount_pct": 0,
-      "line_total": 77.56
+      "line_total": 3559.7
     }
   ],
-  "subtotal": 48903.96,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 2934.24,
-  "shipping_amount": 98.17,
-  "total_due": 51936.37,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "subtotal": 5369.85,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 268.49,
+  "shipping_amount": 0.0,
+  "total_due": 5638.34,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

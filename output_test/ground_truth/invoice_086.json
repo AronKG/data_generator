@@ -1,0 +1,198 @@
+{
+  "id": 86,
+  "filename": "invoice_086.pdf",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 10,
+  "invoice_number": "PROFORMA-2023-71379",
+  "issue_date": "13 November 2024",
+  "due_date": "27 November 2024",
+  "payment_terms": "Net 15",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Quantum Leaf Labs",
+  "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
+  "seller_email": "billing@quantumleaf.io",
+  "seller_phone": "+1 415-555-0177",
+  "seller_tax_id": "EIN: 88-2345678",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 19,
+  "line_items": [
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 295.6,
+      "discount_pct": 20,
+      "line_total": 1182.4
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2830.0,
+      "discount_pct": 0,
+      "line_total": 5660.0
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1760.94,
+      "discount_pct": 10,
+      "line_total": 39621.15
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 814.02,
+      "discount_pct": 15,
+      "line_total": 6919.17
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 79.66,
+      "discount_pct": 0,
+      "line_total": 1991.5
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 300.64,
+      "discount_pct": 5,
+      "line_total": 856.82
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1071.05,
+      "discount_pct": 15,
+      "line_total": 9103.92
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 165.86,
+      "discount_pct": 20,
+      "line_total": 132.69
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 742.3,
+      "discount_pct": 0,
+      "line_total": 742.3
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 33.96,
+      "discount_pct": 0,
+      "line_total": 33.96
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 61.89,
+      "discount_pct": 5,
+      "line_total": 587.95
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2097.33,
+      "discount_pct": 10,
+      "line_total": 9437.99
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 169.63,
+      "discount_pct": 15,
+      "line_total": 1441.86
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 395.5,
+      "discount_pct": 5,
+      "line_total": 751.45
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 695.24,
+      "discount_pct": 0,
+      "line_total": 34762.0
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 5023.39,
+      "discount_pct": 5,
+      "line_total": 238611.03
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2111.9,
+      "discount_pct": 0,
+      "line_total": 6335.7
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2407.67,
+      "discount_pct": 10,
+      "line_total": 54172.58
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 562.08,
+      "discount_pct": 0,
+      "line_total": 2810.4
+    }
+  ],
+  "subtotal": 415154.87,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 62273.23,
+  "shipping_amount": 0.0,
+  "total_due": 477428.1,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

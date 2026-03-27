@@ -1,17 +1,17 @@
 {
   "id": 801,
   "filename": "invoice_801.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 4,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "TAX-INV78644",
-  "issue_date": "14 February 2022",
-  "due_date": "February 28 2022",
-  "payment_terms": "Net 21",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-99147",
+  "issue_date": "2022-08-08",
+  "due_date": "2022-08-23",
+  "payment_terms": "30 days from delivery",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,51 +20,159 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 3,
+  "num_line_items": 17,
   "line_items": [
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2998.7,
+      "discount_pct": 20,
+      "line_total": 2398.96
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 348.56,
+      "discount_pct": 0,
+      "line_total": 697.12
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 60.15,
+      "discount_pct": 5,
+      "line_total": 1428.56
+    },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 5,
-      "unit_price": 734.23,
+      "quantity": 50,
+      "unit_price": 552.79,
       "discount_pct": 0,
-      "line_total": 3671.15
+      "line_total": 27639.5
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6361.5,
+      "discount_pct": 0,
+      "line_total": 19084.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1456.38,
+      "discount_pct": 15,
+      "line_total": 3713.77
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 105.42,
+      "discount_pct": 0,
+      "line_total": 105.42
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 509.86,
+      "discount_pct": 0,
+      "line_total": 509.86
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3127.8,
+      "discount_pct": 0,
+      "line_total": 15639.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 736.51,
+      "discount_pct": 0,
+      "line_total": 736.51
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 162.75,
+      "discount_pct": 10,
+      "line_total": 146.47
     },
     {
       "description": "Video Production",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5727.83,
+      "unit_price": 9769.89,
       "discount_pct": 0,
-      "line_total": 5727.83
+      "line_total": 9769.89
     },
     {
-      "description": "Data Analysis",
-      "unit": "ea",
+      "description": "Managed Cloud",
+      "unit": "mo",
       "quantity": 25,
-      "unit_price": 572.67,
+      "unit_price": 2368.7,
+      "discount_pct": 10,
+      "line_total": 53295.75
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 259.41,
       "discount_pct": 0,
-      "line_total": 14316.75
+      "line_total": 778.23
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 19406.37,
+      "discount_pct": 10,
+      "line_total": 87328.66
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 600.47,
+      "discount_pct": 0,
+      "line_total": 1801.41
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 439.58,
+      "discount_pct": 10,
+      "line_total": 1978.11
     }
   ],
-  "subtotal": 23715.73,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 227051.72,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 45410.34,
   "shipping_amount": 0.0,
-  "total_due": 23715.73,
+  "total_due": 272462.06,
   "notes": null,
-  "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
-  },
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": false,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": false
+  "has_po_number": false,
+  "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 934,
   "filename": "invoice_934.pdf",
-  "layout_style": "classic",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
   "invoice_number": "047203",
-  "issue_date": "2022-02-12",
-  "due_date": "05/03/2022",
-  "payment_terms": "Net 45",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": null,
+  "issue_date": "18/03/2023",
+  "due_date": "04/08/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-67033",
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,48 +20,40 @@
   "client_name": "The Olive Branch Restaurant",
   "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
   "client_email": "finance@olivebranch.com",
-  "num_line_items": 4,
+  "num_line_items": 3,
   "line_items": [
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 419.69,
+      "quantity": 1,
+      "unit_price": 620.52,
       "discount_pct": 0,
-      "line_total": 2098.45
+      "line_total": 620.52
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5221.66,
-      "discount_pct": 20,
-      "line_total": 4177.33
+      "unit_price": 1667.65,
+      "discount_pct": 0,
+      "line_total": 1667.65
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 1,
       "unit_price": 120.39,
-      "discount_pct": 10,
-      "line_total": 108.35
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 130.74,
-      "discount_pct": 20,
-      "line_total": 104.59
+      "discount_pct": 0,
+      "line_total": 120.39
     }
   ],
-  "subtotal": 6488.72,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 1492.41,
+  "subtotal": 2408.56,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 7981.13,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 2408.56,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
@@ -69,6 +61,6 @@
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

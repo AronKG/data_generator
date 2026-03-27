@@ -1,17 +1,17 @@
 {
   "id": 353,
   "filename": "invoice_353.pdf",
-  "layout_style": "compact",
+  "layout_style": "creative",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV/2023/39694",
-  "issue_date": "07/20/2022",
-  "due_date": "18 September 2022",
-  "payment_terms": "2/10 Net 30",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": "PO-70981",
+  "issue_date": "31 May 2024",
+  "due_date": "07/30/2024",
+  "payment_terms": "Net 21",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-97770",
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,69 +20,109 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 6,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 5,
-      "unit_price": 3611.54,
-      "discount_pct": 5,
-      "line_total": 17154.81
-    },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 2253.02,
-      "discount_pct": 10,
-      "line_total": 101385.9
+      "quantity": 10,
+      "unit_price": 2152.44,
+      "discount_pct": 0,
+      "line_total": 21524.4
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 177.13,
+      "quantity": 25,
+      "unit_price": 130.34,
       "discount_pct": 0,
-      "line_total": 1771.3
+      "line_total": 3258.5
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 25,
-      "unit_price": 469.6,
-      "discount_pct": 0,
-      "line_total": 11740.0
+      "unit_price": 252.28,
+      "discount_pct": 15,
+      "line_total": 5360.95
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 246.29,
-      "discount_pct": 15,
-      "line_total": 5233.66
+      "quantity": 10,
+      "unit_price": 559.82,
+      "discount_pct": 0,
+      "line_total": 5598.2
     },
     {
       "description": "Contract Review",
       "unit": "hr",
+      "quantity": 2,
+      "unit_price": 729.62,
+      "discount_pct": 20,
+      "line_total": 1167.39
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 278.11,
+      "discount_pct": 5,
+      "line_total": 264.2
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
       "quantity": 10,
-      "unit_price": 746.43,
+      "unit_price": 83.91,
+      "discount_pct": 20,
+      "line_total": 671.28
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 88.96,
       "discount_pct": 0,
-      "line_total": 7464.3
+      "line_total": 88.96
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 464.74,
+      "discount_pct": 0,
+      "line_total": 11618.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 984.76,
+      "discount_pct": 20,
+      "line_total": 3939.04
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 16359.22,
+      "discount_pct": 0,
+      "line_total": 408980.5
     }
   ],
-  "subtotal": 144749.97,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 11941.87,
+  "subtotal": 462471.92,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 32373.03,
   "shipping_amount": 0.0,
-  "total_due": 156691.84,
-  "notes": null,
+  "total_due": 494844.95,
+  "notes": "This document is strictly private and confidential.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": false,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,

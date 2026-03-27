@@ -1,16 +1,16 @@
 {
   "id": 365,
   "filename": "invoice_365.pdf",
-  "layout_style": "modern",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 7,
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
   "invoice_number": "TAX-INV/2025/76243",
-  "issue_date": "2023-05-07",
-  "due_date": "2023-06-21",
-  "payment_terms": "End of Month",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "February 06 2024",
+  "due_date": "22 March 2024",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
@@ -20,180 +20,55 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 19,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 98.89,
-      "discount_pct": 0,
-      "line_total": 296.67
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 2992.15,
-      "discount_pct": 20,
-      "line_total": 4787.44
+      "quantity": 25,
+      "unit_price": 1969.77,
+      "discount_pct": 0,
+      "line_total": 49244.25
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 269.91,
-      "discount_pct": 15,
-      "line_total": 229.42
+      "quantity": 10,
+      "unit_price": 131.92,
+      "discount_pct": 5,
+      "line_total": 1253.24
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 164.59,
+      "quantity": 50,
+      "unit_price": 178.41,
       "discount_pct": 20,
-      "line_total": 131.67
+      "line_total": 7136.4
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 581.67,
-      "discount_pct": 10,
-      "line_total": 523.5
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2988.27,
-      "discount_pct": 0,
-      "line_total": 2988.27
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 12634.01,
-      "discount_pct": 15,
-      "line_total": 536945.42
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1875.05,
-      "discount_pct": 20,
-      "line_total": 1500.04
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5553.75,
-      "discount_pct": 0,
-      "line_total": 277687.5
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
       "quantity": 10,
-      "unit_price": 2107.42,
+      "unit_price": 1352.97,
       "discount_pct": 0,
-      "line_total": 21074.2
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2934.74,
-      "discount_pct": 0,
-      "line_total": 2934.74
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 3,
-      "unit_price": 9141.56,
-      "discount_pct": 0,
-      "line_total": 27424.68
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 10,
-      "unit_price": 80.74,
-      "discount_pct": 0,
-      "line_total": 807.4
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 210.97,
-      "discount_pct": 0,
-      "line_total": 210.97
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 4659.28,
-      "discount_pct": 0,
-      "line_total": 4659.28
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 495.41,
-      "discount_pct": 10,
-      "line_total": 4458.69
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 995.44,
-      "discount_pct": 20,
-      "line_total": 39817.6
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 127.46,
-      "discount_pct": 15,
-      "line_total": 108.34
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2623.69,
-      "discount_pct": 5,
-      "line_total": 2492.51
+      "line_total": 13529.7
     }
   ],
-  "subtotal": 929078.34,
+  "subtotal": 71163.59,
   "tax_label": "GST 10pct",
   "tax_rate_pct": 10.0,
-  "tax_amount": 92907.83,
-  "shipping_amount": 119.23,
-  "total_due": 1022105.4,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
-  },
+  "tax_amount": 7116.36,
+  "shipping_amount": 0.0,
+  "total_due": 78279.95,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

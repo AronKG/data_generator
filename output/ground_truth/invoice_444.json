@@ -4,13 +4,13 @@
   "layout_style": "creative",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 14,
+  "color_palette_index": 7,
   "invoice_number": "REF-11224",
-  "issue_date": "21-Mar-2023",
-  "due_date": "20-Apr-2023",
-  "payment_terms": "Due on Receipt",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "26/06/2023",
+  "due_date": "07/11/2023",
+  "payment_terms": "Upon completion",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
@@ -20,39 +20,39 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 9,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 62.31,
-      "discount_pct": 5,
-      "line_total": 295.97
-    },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 781.88,
-      "discount_pct": 0,
-      "line_total": 19547.0
+      "quantity": 5,
+      "unit_price": 830.78,
+      "discount_pct": 5,
+      "line_total": 3946.2
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 304.63,
-      "discount_pct": 10,
-      "line_total": 274.17
+      "quantity": 25,
+      "unit_price": 467.07,
+      "discount_pct": 0,
+      "line_total": 11676.75
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
       "quantity": 1,
-      "unit_price": 25.06,
+      "unit_price": 5.96,
+      "discount_pct": 10,
+      "line_total": 5.36
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 984.32,
       "discount_pct": 0,
-      "line_total": 25.06
+      "line_total": 984.32
     },
     {
       "description": "Event Management",
@@ -93,26 +93,51 @@
       "unit_price": 12719.23,
       "discount_pct": 10,
       "line_total": 572365.35
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 4546.78,
+      "discount_pct": 0,
+      "line_total": 13640.34
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 290.85,
+      "discount_pct": 0,
+      "line_total": 14542.5
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 265.11,
+      "discount_pct": 15,
+      "line_total": 225.34
     }
   ],
-  "subtotal": 616729.13,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 30836.46,
-  "shipping_amount": 0.0,
-  "total_due": 647565.59,
-  "notes": "Please retain this invoice for your accounting records.",
+  "subtotal": 641607.74,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 38496.46,
+  "shipping_amount": 92.47,
+  "total_due": 680196.67,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

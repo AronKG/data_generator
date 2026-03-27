@@ -1,17 +1,17 @@
 {
   "id": 189,
   "filename": "invoice_189.pdf",
-  "layout_style": "minimal",
-  "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 12,
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
   "invoice_number": "REF-88408",
-  "issue_date": "18/11/2022",
-  "due_date": "2022-12-18",
+  "issue_date": "26/08/2023",
+  "due_date": "10 September 2023",
   "payment_terms": "Net 60",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-95078",
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,36 +20,203 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 1,
+  "num_line_items": 22,
   "line_items": [
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1005.13,
+      "discount_pct": 15,
+      "line_total": 854.36
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8197.06,
+      "discount_pct": 0,
+      "line_total": 409853.0
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1522.61,
+      "discount_pct": 0,
+      "line_total": 38065.25
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 40471.45,
+      "discount_pct": 10,
+      "line_total": 72848.61
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1189.18,
+      "discount_pct": 15,
+      "line_total": 3032.41
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 124.95,
+      "discount_pct": 5,
+      "line_total": 118.7
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 75.99,
+      "discount_pct": 15,
+      "line_total": 322.96
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11535.2,
+      "discount_pct": 15,
+      "line_total": 98049.2
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 424.47,
+      "discount_pct": 10,
+      "line_total": 1146.07
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 329.75,
+      "discount_pct": 0,
+      "line_total": 8243.75
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 229.32,
+      "discount_pct": 0,
+      "line_total": 229.32
+    },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 110.5,
+      "quantity": 2,
+      "unit_price": 258.72,
       "discount_pct": 0,
-      "line_total": 552.5
+      "line_total": 517.44
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1435.96,
+      "discount_pct": 15,
+      "line_total": 1220.57
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 194.49,
+      "discount_pct": 10,
+      "line_total": 350.08
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 839.48,
+      "discount_pct": 10,
+      "line_total": 2266.6
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 91.9,
+      "discount_pct": 5,
+      "line_total": 436.52
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 426.31,
+      "discount_pct": 20,
+      "line_total": 341.05
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1651.94,
+      "discount_pct": 0,
+      "line_total": 1651.94
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 198.1,
+      "discount_pct": 0,
+      "line_total": 198.1
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 268.49,
+      "discount_pct": 0,
+      "line_total": 268.49
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1430.07,
+      "discount_pct": 0,
+      "line_total": 2860.14
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 468.46,
+      "discount_pct": 10,
+      "line_total": 843.23
     }
   ],
-  "subtotal": 552.5,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 82.88,
+  "subtotal": 643717.79,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 32185.89,
   "shipping_amount": 0.0,
-  "total_due": 635.38,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "total_due": 675903.68,
+  "notes": null,
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

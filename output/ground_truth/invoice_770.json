@@ -1,17 +1,17 @@
 {
   "id": 770,
   "filename": "invoice_770.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 5,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 0,
   "invoice_number": "BILL/2025/39692",
-  "issue_date": "August 24 2023",
-  "due_date": "31 August 2023",
-  "payment_terms": "Net 7",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-48251",
+  "issue_date": "November 25 2024",
+  "due_date": "12/02/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,163 +20,36 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 17,
+  "num_line_items": 1,
   "line_items": [
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 10,
-      "unit_price": 27.26,
-      "discount_pct": 0,
-      "line_total": 272.6
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
       "quantity": 1,
-      "unit_price": 1027.85,
-      "discount_pct": 20,
-      "line_total": 822.28
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4363.43,
+      "unit_price": 129.59,
       "discount_pct": 0,
-      "line_total": 13090.29
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6388.78,
-      "discount_pct": 0,
-      "line_total": 6388.78
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4321.01,
-      "discount_pct": 5,
-      "line_total": 20524.8
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1350.71,
-      "discount_pct": 15,
-      "line_total": 5740.52
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 31.15,
-      "discount_pct": 10,
-      "line_total": 84.1
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 892.93,
-      "discount_pct": 0,
-      "line_total": 8929.3
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 746.58,
-      "discount_pct": 15,
-      "line_total": 634.59
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 220.24,
-      "discount_pct": 0,
-      "line_total": 2202.4
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 133.01,
-      "discount_pct": 0,
-      "line_total": 399.03
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1108.89,
-      "discount_pct": 10,
-      "line_total": 998.0
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1844.6,
-      "discount_pct": 5,
-      "line_total": 1752.37
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 23651.01,
-      "discount_pct": 20,
-      "line_total": 18920.81
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 164.68,
-      "discount_pct": 15,
-      "line_total": 699.89
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 241.29,
-      "discount_pct": 0,
-      "line_total": 482.58
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 11535.96,
-      "discount_pct": 15,
-      "line_total": 9805.57
+      "line_total": 129.59
     }
   ],
-  "subtotal": 91747.91,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 6422.35,
+  "subtotal": 129.59,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 98170.26,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "total_due": 129.59,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
+  "has_po_number": false,
+  "has_tax": false
 }

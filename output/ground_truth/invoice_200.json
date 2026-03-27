@@ -3,15 +3,15 @@
   "filename": "invoice_200.pdf",
   "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 3,
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
   "invoice_number": "007976",
-  "issue_date": "October 04 2022",
-  "due_date": "18-Oct-2022",
-  "payment_terms": "Net 90",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "May 16 2022",
+  "due_date": "30-May-2022",
+  "payment_terms": "Net 15",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-90064",
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
   "seller_email": "info@apexsolutions.co.uk",
@@ -20,80 +20,56 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 8,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1873.91,
-      "discount_pct": 10,
-      "line_total": 1686.52
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 297.05,
-      "discount_pct": 5,
-      "line_total": 1410.99
+      "quantity": 10,
+      "unit_price": 261.65,
+      "discount_pct": 15,
+      "line_total": 2224.03
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 6966.27,
-      "discount_pct": 10,
-      "line_total": 156741.08
+      "quantity": 50,
+      "unit_price": 7652.55,
+      "discount_pct": 0,
+      "line_total": 382627.5
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 567.9,
-      "discount_pct": 0,
-      "line_total": 2839.5
+      "quantity": 50,
+      "unit_price": 1602.36,
+      "discount_pct": 20,
+      "line_total": 64094.4
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 2,
-      "unit_price": 124.06,
+      "quantity": 1,
+      "unit_price": 181.55,
       "discount_pct": 0,
-      "line_total": 248.12
+      "line_total": 181.55
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 598.16,
-      "discount_pct": 10,
-      "line_total": 1076.69
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 14316.08,
-      "discount_pct": 20,
-      "line_total": 11452.86
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 10,
-      "unit_price": 53.35,
-      "discount_pct": 15,
-      "line_total": 453.47
+      "unit_price": 1931.78,
+      "discount_pct": 0,
+      "line_total": 1931.78
     }
   ],
-  "subtotal": 175909.23,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 17590.92,
-  "shipping_amount": 109.55,
-  "total_due": 193609.7,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "subtotal": 451059.26,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 37212.39,
+  "shipping_amount": 0.0,
+  "total_due": 488271.65,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
     "Bank": "Handelsbanken",
     "Account": "123 456 789",
@@ -102,10 +78,10 @@
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

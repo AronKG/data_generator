@@ -1,17 +1,17 @@
 {
   "id": 525,
   "filename": "invoice_525.pdf",
-  "layout_style": "classic",
+  "layout_style": "two_tone",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 7,
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
   "invoice_number": "RCPT/2024/35605",
-  "issue_date": "2024-03-12",
-  "due_date": "26-Apr-2024",
-  "payment_terms": "End of Month",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-82331",
+  "issue_date": "17 January 2024",
+  "due_date": "04/16/2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
   "seller_email": "accounts@pacificrimexports.hk",
@@ -20,191 +20,60 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 21,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1408.5,
-      "discount_pct": 20,
-      "line_total": 3380.4
-    },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 5,
-      "unit_price": 5645.29,
+      "quantity": 1,
+      "unit_price": 1950.46,
       "discount_pct": 5,
-      "line_total": 26815.13
+      "line_total": 1852.94
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1186.92,
-      "discount_pct": 20,
-      "line_total": 9495.36
+      "quantity": 25,
+      "unit_price": 1253.39,
+      "discount_pct": 5,
+      "line_total": 29768.01
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 216.52,
-      "discount_pct": 0,
-      "line_total": 216.52
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1713.35,
-      "discount_pct": 0,
-      "line_total": 1713.35
+      "quantity": 10,
+      "unit_price": 300.12,
+      "discount_pct": 15,
+      "line_total": 2551.02
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 50,
-      "unit_price": 200.51,
-      "discount_pct": 15,
-      "line_total": 8521.67
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 2324.53,
-      "discount_pct": 15,
-      "line_total": 3951.7
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6765.66,
-      "discount_pct": 15,
-      "line_total": 5750.81
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
       "quantity": 25,
-      "unit_price": 3841.77,
-      "discount_pct": 0,
-      "line_total": 96044.25
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4302.54,
-      "discount_pct": 15,
-      "line_total": 3657.16
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1375.77,
-      "discount_pct": 0,
-      "line_total": 1375.77
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 5,
-      "unit_price": 507.54,
-      "discount_pct": 15,
-      "line_total": 2157.05
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1158.48,
-      "discount_pct": 15,
-      "line_total": 984.71
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 2668.91,
-      "discount_pct": 0,
-      "line_total": 5337.82
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4981.04,
-      "discount_pct": 5,
-      "line_total": 23659.94
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3631.1,
-      "discount_pct": 15,
-      "line_total": 9259.3
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 720.15,
-      "discount_pct": 15,
-      "line_total": 30606.38
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 126.62,
-      "discount_pct": 5,
-      "line_total": 1202.89
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 356.5,
-      "discount_pct": 0,
-      "line_total": 356.5
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 45260.12,
-      "discount_pct": 5,
-      "line_total": 42997.11
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 17599.65,
-      "discount_pct": 20,
-      "line_total": 703986.0
+      "unit_price": 487.46,
+      "discount_pct": 10,
+      "line_total": 10967.85
     }
   ],
-  "subtotal": 981469.82,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 68702.89,
+  "subtotal": 45139.82,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 8576.57,
   "shipping_amount": 0.0,
-  "total_due": 1050172.71,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 53716.39,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 988,
   "filename": "invoice_988.pdf",
-  "layout_style": "ledger",
-  "page_size": "A4",
+  "layout_style": "creative",
+  "page_size": "letter",
   "complexity_tier": "very_complex",
-  "color_palette_index": 4,
+  "color_palette_index": 7,
   "invoice_number": "TAX-INV/2025/83796",
-  "issue_date": "05/18/2024",
-  "due_date": "August 16 2024",
-  "payment_terms": "30 days from delivery",
-  "currency": "NOK",
+  "issue_date": "08/31/2024",
+  "due_date": "10/15/2024",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "SEK",
   "currency_symbol": "kr",
-  "po_number": "PO-75180",
+  "po_number": "PO-74669",
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
   "seller_email": "finance@southerncrossmarine.nz",
@@ -20,180 +20,223 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 19,
+  "num_line_items": 25,
   "line_items": [
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 138.92,
-      "discount_pct": 20,
-      "line_total": 555.68
+      "quantity": 1,
+      "unit_price": 96.54,
+      "discount_pct": 0,
+      "line_total": 96.54
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1735.66,
+      "quantity": 1,
+      "unit_price": 819.45,
       "discount_pct": 0,
-      "line_total": 3471.32
+      "line_total": 819.45
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 192.08,
-      "discount_pct": 0,
-      "line_total": 1920.8
+      "quantity": 1,
+      "unit_price": 88.03,
+      "discount_pct": 10,
+      "line_total": 79.23
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 765.91,
-      "discount_pct": 10,
-      "line_total": 17232.98
+      "quantity": 1,
+      "unit_price": 2069.7,
+      "discount_pct": 0,
+      "line_total": 2069.7
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 937.5,
-      "discount_pct": 0,
-      "line_total": 937.5
+      "unit_price": 882.77,
+      "discount_pct": 20,
+      "line_total": 706.22
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 895.64,
-      "discount_pct": 10,
-      "line_total": 806.08
+      "unit_price": 5438.66,
+      "discount_pct": 0,
+      "line_total": 5438.66
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 39129.18,
-      "discount_pct": 0,
-      "line_total": 39129.18
+      "unit_price": 41247.44,
+      "discount_pct": 20,
+      "line_total": 32997.95
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 451.09,
-      "discount_pct": 20,
-      "line_total": 360.87
+      "quantity": 25,
+      "unit_price": 809.12,
+      "discount_pct": 15,
+      "line_total": 17193.8
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 896.45,
+      "quantity": 2,
+      "unit_price": 738.6,
       "discount_pct": 0,
-      "line_total": 896.45
+      "line_total": 1477.2
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 177.21,
+      "quantity": 25,
+      "unit_price": 182.95,
       "discount_pct": 20,
-      "line_total": 141.77
+      "line_total": 3659.0
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 25,
-      "unit_price": 5954.89,
-      "discount_pct": 15,
-      "line_total": 126541.41
+      "quantity": 2,
+      "unit_price": 7800.91,
+      "discount_pct": 0,
+      "line_total": 15601.82
     },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 635.54,
+      "quantity": 5,
+      "unit_price": 200.46,
       "discount_pct": 0,
-      "line_total": 1271.08
+      "line_total": 1002.3
     },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 13227.25,
-      "discount_pct": 20,
-      "line_total": 264545.0
+      "unit_price": 4997.94,
+      "discount_pct": 5,
+      "line_total": 118701.07
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 2,
-      "unit_price": 978.76,
-      "discount_pct": 0,
-      "line_total": 1957.52
+      "quantity": 50,
+      "unit_price": 532.85,
+      "discount_pct": 10,
+      "line_total": 23978.25
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1514.04,
+      "quantity": 1,
+      "unit_price": 5188.93,
       "discount_pct": 0,
-      "line_total": 7570.2
+      "line_total": 5188.93
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 6920.38,
-      "discount_pct": 5,
-      "line_total": 164359.02
+      "quantity": 5,
+      "unit_price": 13956.08,
+      "discount_pct": 20,
+      "line_total": 55824.32
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1155.94,
-      "discount_pct": 10,
-      "line_total": 52017.3
+      "quantity": 1,
+      "unit_price": 1743.37,
+      "discount_pct": 0,
+      "line_total": 1743.37
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2555.93,
+      "unit_price": 4479.46,
       "discount_pct": 0,
-      "line_total": 2555.93
+      "line_total": 4479.46
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 5,
-      "unit_price": 98.45,
+      "quantity": 25,
+      "unit_price": 15.64,
+      "discount_pct": 10,
+      "line_total": 351.9
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 721.5,
+      "discount_pct": 0,
+      "line_total": 1443.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 143.17,
       "discount_pct": 20,
-      "line_total": 393.8
+      "line_total": 343.61
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 871.88,
+      "discount_pct": 15,
+      "line_total": 37054.9
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 696.64,
+      "discount_pct": 0,
+      "line_total": 3483.2
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 259.99,
+      "discount_pct": 5,
+      "line_total": 493.98
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1978.22,
+      "discount_pct": 0,
+      "line_total": 3956.44
     }
   ],
-  "subtotal": 686663.89,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 68666.39,
-  "shipping_amount": 0.0,
-  "total_due": 755330.28,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "subtotal": 338184.3,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 27900.2,
+  "shipping_amount": 75.46,
+  "total_due": 366159.96,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
+  "has_bank_details": false,
+  "has_shipping": true,
   "has_po_number": true,
   "has_tax": true
 }

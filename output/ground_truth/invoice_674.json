@@ -1,17 +1,17 @@
 {
   "id": 674,
   "filename": "invoice_674.pdf",
-  "layout_style": "compact",
+  "layout_style": "creative",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
   "invoice_number": "INV/2023/58497",
-  "issue_date": "19/08/2023",
-  "due_date": "October 18 2023",
-  "payment_terms": "Due on Receipt",
-  "currency": "SEK",
+  "issue_date": "21 February 2024",
+  "due_date": "21-May-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "NOK",
   "currency_symbol": "kr",
-  "po_number": "PO-46969",
+  "po_number": "PO-18165",
   "seller_name": "BlueSky Consulting GmbH",
   "seller_address": "Unter den Linden 21 10117 Berlin Germany",
   "seller_email": "rechnungen@bluesky.de",
@@ -20,139 +20,174 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 14,
+  "num_line_items": 19,
   "line_items": [
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1195.68,
-      "discount_pct": 10,
-      "line_total": 1076.11
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 472.3,
-      "discount_pct": 15,
-      "line_total": 4014.55
+      "quantity": 1,
+      "unit_price": 838.31,
+      "discount_pct": 10,
+      "line_total": 754.48
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 27313.32,
-      "discount_pct": 10,
-      "line_total": 24581.99
+      "quantity": 5,
+      "unit_price": 12088.79,
+      "discount_pct": 5,
+      "line_total": 57421.75
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 5,
-      "unit_price": 119.68,
-      "discount_pct": 5,
-      "line_total": 568.48
+      "quantity": 25,
+      "unit_price": 169.2,
+      "discount_pct": 0,
+      "line_total": 4230.0
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 138.79,
+      "quantity": 1,
+      "unit_price": 169.94,
       "discount_pct": 0,
-      "line_total": 3469.75
+      "line_total": 169.94
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 6196.24,
+      "quantity": 50,
+      "unit_price": 6743.48,
       "discount_pct": 0,
-      "line_total": 6196.24
+      "line_total": 337174.0
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 8492.17,
+      "quantity": 1,
+      "unit_price": 1949.23,
       "discount_pct": 0,
-      "line_total": 424608.5
+      "line_total": 1949.23
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 113.75,
-      "discount_pct": 0,
-      "line_total": 113.75
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
       "quantity": 10,
-      "unit_price": 552.98,
+      "unit_price": 127.62,
       "discount_pct": 5,
-      "line_total": 5253.31
+      "line_total": 1212.39
     },
     {
-      "description": "SEO Optimization",
-      "unit": "ea",
+      "description": "Equipment Rental",
+      "unit": "day",
       "quantity": 25,
-      "unit_price": 2145.93,
+      "unit_price": 612.07,
       "discount_pct": 15,
-      "line_total": 45601.01
+      "line_total": 13006.49
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1516.95,
+      "discount_pct": 5,
+      "line_total": 2882.2
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 11075.18,
-      "discount_pct": 5,
-      "line_total": 21042.84
+      "quantity": 1,
+      "unit_price": 8336.42,
+      "discount_pct": 0,
+      "line_total": 8336.42
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1616.03,
-      "discount_pct": 0,
-      "line_total": 1616.03
+      "quantity": 25,
+      "unit_price": 2846.97,
+      "discount_pct": 20,
+      "line_total": 56939.4
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1426.32,
-      "discount_pct": 20,
-      "line_total": 28526.4
+      "quantity": 1,
+      "unit_price": 1251.87,
+      "discount_pct": 0,
+      "line_total": 1251.87
     },
     {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3331.95,
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1017.42,
+      "discount_pct": 5,
+      "line_total": 48327.45
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 30.84,
       "discount_pct": 0,
-      "line_total": 3331.95
+      "line_total": 154.2
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1732.84,
+      "discount_pct": 0,
+      "line_total": 5198.52
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 3716.19,
+      "discount_pct": 0,
+      "line_total": 11148.57
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 231.59,
+      "discount_pct": 0,
+      "line_total": 231.59
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 80.66,
+      "discount_pct": 5,
+      "line_total": 3831.35
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 172.83,
+      "discount_pct": 0,
+      "line_total": 864.15
     }
   ],
-  "subtotal": 570000.91,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 28500.05,
+  "subtotal": 555084.0,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 38855.88,
   "shipping_amount": 0.0,
-  "total_due": 598500.96,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
-  },
+  "total_due": 593939.88,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

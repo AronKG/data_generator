@@ -1,0 +1,191 @@
+{
+  "id": 4,
+  "filename": "invoice_004.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
+  "invoice_number": "032103",
+  "issue_date": "August 09 2022",
+  "due_date": "August 16 2022",
+  "payment_terms": "Net 15",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Moonbeam Creative Studio",
+  "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
+  "client_email": "billing@moonbeamstudio.com",
+  "num_line_items": 18,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 7428.43,
+      "discount_pct": 10,
+      "line_total": 334279.35
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1671.5,
+      "discount_pct": 0,
+      "line_total": 1671.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 130.41,
+      "discount_pct": 0,
+      "line_total": 1304.1
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10472.26,
+      "discount_pct": 10,
+      "line_total": 47125.17
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 181.97,
+      "discount_pct": 0,
+      "line_total": 181.97
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 14515.49,
+      "discount_pct": 20,
+      "line_total": 34837.18
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1638.38,
+      "discount_pct": 0,
+      "line_total": 81919.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2292.0,
+      "discount_pct": 10,
+      "line_total": 4125.6
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 367.13,
+      "discount_pct": 0,
+      "line_total": 9178.25
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1460.93,
+      "discount_pct": 10,
+      "line_total": 1314.84
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 692.75,
+      "discount_pct": 0,
+      "line_total": 3463.75
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 279.49,
+      "discount_pct": 15,
+      "line_total": 1187.83
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 741.78,
+      "discount_pct": 10,
+      "line_total": 6676.02
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1538.95,
+      "discount_pct": 20,
+      "line_total": 1231.16
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 415.31,
+      "discount_pct": 15,
+      "line_total": 1059.04
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9603.04,
+      "discount_pct": 10,
+      "line_total": 216068.4
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 25.77,
+      "discount_pct": 20,
+      "line_total": 206.16
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 655.42,
+      "discount_pct": 0,
+      "line_total": 655.42
+    }
+  ],
+  "subtotal": 746484.74,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 111972.71,
+  "shipping_amount": 0.0,
+  "total_due": 858457.45,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

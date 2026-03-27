@@ -1,17 +1,17 @@
 {
   "id": 605,
   "filename": "invoice_605.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "compact",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 4,
+  "color_palette_index": 5,
   "invoice_number": "INVOICE16908",
-  "issue_date": "12/07/2022",
-  "due_date": "08/11/2022",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "September 28 2023",
+  "due_date": "2023-12-27",
+  "payment_terms": "Net 60",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-95784",
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,75 +20,67 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 6,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3984.73,
-      "discount_pct": 10,
-      "line_total": 3586.26
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2200.69,
-      "discount_pct": 0,
-      "line_total": 2200.69
+      "unit_price": 3816.94,
+      "discount_pct": 15,
+      "line_total": 3244.4
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 5,
-      "unit_price": 293.49,
-      "discount_pct": 5,
-      "line_total": 1394.08
+      "quantity": 1,
+      "unit_price": 249.24,
+      "discount_pct": 10,
+      "line_total": 224.32
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1126.05,
+      "discount_pct": 0,
+      "line_total": 1126.05
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 183.62,
-      "discount_pct": 20,
-      "line_total": 293.79
+      "quantity": 5,
+      "unit_price": 150.64,
+      "discount_pct": 5,
+      "line_total": 715.54
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
       "quantity": 2,
-      "unit_price": 644.1,
+      "unit_price": 553.33,
       "discount_pct": 20,
-      "line_total": 1030.56
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 513.65,
-      "discount_pct": 0,
-      "line_total": 1540.95
+      "line_total": 885.33
     }
   ],
-  "subtotal": 10046.33,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 1306.02,
+  "subtotal": 6195.64,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 511.14,
   "shipping_amount": 0.0,
-  "total_due": 11352.35,
-  "notes": null,
+  "total_due": 6706.78,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

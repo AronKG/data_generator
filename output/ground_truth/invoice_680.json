@@ -1,17 +1,17 @@
 {
   "id": 680,
   "filename": "invoice_680.pdf",
-  "layout_style": "formal",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 4,
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
   "invoice_number": "INVOICE13537",
-  "issue_date": "August 19 2024",
-  "due_date": "02-Sep-2024",
-  "payment_terms": "Due on Receipt",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-52398",
+  "issue_date": "August 12 2022",
+  "due_date": "2022-09-26",
+  "payment_terms": "Net 45",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
   "seller_email": "factures@crimsonco.fr",
@@ -20,168 +20,128 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 19,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5726.44,
-      "discount_pct": 20,
-      "line_total": 4581.15
-    },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 103.14,
+      "quantity": 1,
+      "unit_price": 43.41,
       "discount_pct": 0,
-      "line_total": 309.42
+      "line_total": 43.41
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2013.0,
+      "quantity": 3,
+      "unit_price": 12776.41,
       "discount_pct": 0,
-      "line_total": 2013.0
+      "line_total": 38329.23
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 19815.95,
+      "quantity": 1,
+      "unit_price": 3471.4,
       "discount_pct": 0,
-      "line_total": 39631.9
+      "line_total": 3471.4
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 50,
-      "unit_price": 82.07,
-      "discount_pct": 5,
-      "line_total": 3898.32
+      "quantity": 2,
+      "unit_price": 148.43,
+      "discount_pct": 0,
+      "line_total": 296.86
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2331.26,
-      "discount_pct": 20,
-      "line_total": 1865.01
+      "quantity": 50,
+      "unit_price": 2891.69,
+      "discount_pct": 5,
+      "line_total": 137355.27
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 779.71,
-      "discount_pct": 15,
-      "line_total": 1988.26
+      "quantity": 1,
+      "unit_price": 414.52,
+      "discount_pct": 20,
+      "line_total": 331.62
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 879.14,
-      "discount_pct": 20,
-      "line_total": 35165.6
+      "quantity": 3,
+      "unit_price": 969.35,
+      "discount_pct": 15,
+      "line_total": 2471.84
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 290.59,
+      "quantity": 50,
+      "unit_price": 449.53,
       "discount_pct": 20,
-      "line_total": 697.42
+      "line_total": 17981.2
     },
     {
-      "description": "Contract Review",
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 819.43,
+      "discount_pct": 20,
+      "line_total": 1966.63
+    },
+    {
+      "description": "Software Dev",
       "unit": "hr",
       "quantity": 3,
-      "unit_price": 396.61,
+      "unit_price": 155.62,
       "discount_pct": 0,
-      "line_total": 1189.83
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 519.69,
-      "discount_pct": 20,
-      "line_total": 415.75
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 269.57,
-      "discount_pct": 15,
-      "line_total": 2291.34
+      "line_total": 466.86
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1111.6,
-      "discount_pct": 15,
-      "line_total": 944.86
+      "unit_price": 1898.65,
+      "discount_pct": 20,
+      "line_total": 1518.92
     },
     {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2615.28,
-      "discount_pct": 10,
-      "line_total": 2353.75
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 202.17,
+      "discount_pct": 15,
+      "line_total": 1718.44
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5861.92,
-      "discount_pct": 0,
-      "line_total": 5861.92
+      "unit_price": 4271.65,
+      "discount_pct": 15,
+      "line_total": 3630.9
     },
     {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 708.8,
-      "discount_pct": 0,
-      "line_total": 17720.0
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 120.82,
-      "discount_pct": 10,
-      "line_total": 108.74
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 206.35,
-      "discount_pct": 10,
-      "line_total": 371.43
-    },
-    {
-      "description": "Market Research",
+      "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 12903.44,
-      "discount_pct": 20,
-      "line_total": 30968.26
+      "quantity": 1,
+      "unit_price": 11990.23,
+      "discount_pct": 10,
+      "line_total": 10791.21
     }
   ],
-  "subtotal": 152375.96,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 19808.87,
-  "shipping_amount": 212.14,
-  "total_due": 172396.97,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "subtotal": 220373.79,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 13222.43,
+  "shipping_amount": 0.0,
+  "total_due": 233596.22,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": {
     "Bank": "Emirates NBD",
     "IBAN": "AE070331234567890123456",
@@ -189,10 +149,10 @@
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": true,
+  "has_shipping": false,
+  "has_po_number": false,
   "has_tax": true
 }

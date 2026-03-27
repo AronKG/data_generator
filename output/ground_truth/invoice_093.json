@@ -1,14 +1,14 @@
 {
   "id": 93,
   "filename": "invoice_093.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 10,
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
   "invoice_number": "TAX-INV-2024-15752",
-  "issue_date": "2022-05-07",
-  "due_date": "May 28 2022",
-  "payment_terms": "End of Month",
+  "issue_date": "2023-02-28",
+  "due_date": "03/14/2023",
+  "payment_terms": "Net 15",
   "currency": "USD",
   "currency_symbol": "$",
   "po_number": null,
@@ -23,37 +23,37 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1954.25,
-      "discount_pct": 0,
-      "line_total": 5862.75
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1841.92,
-      "discount_pct": 0,
-      "line_total": 3683.84
-    },
-    {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 659.4,
+      "quantity": 2,
+      "unit_price": 1111.14,
       "discount_pct": 0,
-      "line_total": 1978.2
+      "line_total": 2222.28
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 3857.14,
+      "discount_pct": 0,
+      "line_total": 11571.42
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1489.05,
+      "discount_pct": 0,
+      "line_total": 1489.05
     }
   ],
-  "subtotal": 11524.79,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 576.24,
+  "subtotal": 15282.75,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 2903.72,
   "shipping_amount": 0.0,
-  "total_due": 12101.03,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 18186.47,
+  "notes": "This document is strictly private and confidential.",
   "bank_details": {
     "Bank": "DNB Bank ASA",
     "Account": "1503.12.34567",

@@ -1,17 +1,17 @@
 {
   "id": 232,
   "filename": "invoice_232.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
   "invoice_number": "INV-55560",
-  "issue_date": "05-Mar-2024",
-  "due_date": "12-Mar-2024",
-  "payment_terms": "Net 15",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-46063",
+  "issue_date": "25/01/2022",
+  "due_date": "15 February 2022",
+  "payment_terms": "Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-95089",
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
   "seller_email": "ar@maplesoft.ca",
@@ -20,59 +20,222 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 4,
+  "num_line_items": 25,
   "line_items": [
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 25,
-      "unit_price": 103.57,
-      "discount_pct": 0,
-      "line_total": 2589.25
+      "quantity": 1,
+      "unit_price": 108.23,
+      "discount_pct": 20,
+      "line_total": 86.58
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1812.49,
-      "discount_pct": 0,
-      "line_total": 18124.9
+      "quantity": 1,
+      "unit_price": 1008.96,
+      "discount_pct": 20,
+      "line_total": 807.17
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 50,
-      "unit_price": 31.84,
-      "discount_pct": 5,
-      "line_total": 1512.4
+      "quantity": 1,
+      "unit_price": 102.31,
+      "discount_pct": 0,
+      "line_total": 102.31
     },
     {
       "description": "Event Management",
       "unit": "ea",
+      "quantity": 5,
+      "unit_price": 10081.78,
+      "discount_pct": 0,
+      "line_total": 50408.9
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 264.35,
+      "discount_pct": 0,
+      "line_total": 264.35
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1487.94,
+      "discount_pct": 0,
+      "line_total": 74397.0
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1330.18,
+      "discount_pct": 0,
+      "line_total": 6650.9
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 3,
-      "unit_price": 18781.21,
+      "unit_price": 418.41,
+      "discount_pct": 0,
+      "line_total": 1255.23
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 462.69,
+      "discount_pct": 0,
+      "line_total": 1388.07
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1120.46,
       "discount_pct": 15,
-      "line_total": 47892.09
+      "line_total": 952.39
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 521.11,
+      "discount_pct": 0,
+      "line_total": 521.11
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 732.76,
+      "discount_pct": 5,
+      "line_total": 2088.37
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 120.75,
+      "discount_pct": 0,
+      "line_total": 120.75
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 549.3,
+      "discount_pct": 0,
+      "line_total": 1647.9
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 550.07,
+      "discount_pct": 0,
+      "line_total": 550.07
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 6643.43,
+      "discount_pct": 0,
+      "line_total": 166085.75
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1469.84,
+      "discount_pct": 20,
+      "line_total": 1175.87
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 173.85,
+      "discount_pct": 20,
+      "line_total": 695.4
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 143.44,
+      "discount_pct": 5,
+      "line_total": 681.34
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 10623.59,
+      "discount_pct": 0,
+      "line_total": 106235.9
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4591.73,
+      "discount_pct": 20,
+      "line_total": 91834.6
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 128.56,
+      "discount_pct": 10,
+      "line_total": 1157.04
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 164.54,
+      "discount_pct": 0,
+      "line_total": 164.54
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 8059.23,
+      "discount_pct": 5,
+      "line_total": 7656.27
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 2410.55,
+      "discount_pct": 0,
+      "line_total": 60263.75
     }
   ],
-  "subtotal": 70118.64,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 5784.79,
+  "subtotal": 577191.56,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 75034.9,
   "shipping_amount": 0.0,
-  "total_due": 75903.43,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "total_due": 652226.46,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

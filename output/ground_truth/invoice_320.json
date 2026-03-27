@@ -1,17 +1,17 @@
 {
   "id": 320,
   "filename": "invoice_320.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
+  "layout_style": "formal",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "color_palette_index": 13,
   "invoice_number": "INV94644",
-  "issue_date": "February 20 2024",
-  "due_date": "2024-03-21",
-  "payment_terms": "Net 60",
+  "issue_date": "June 25 2023",
+  "due_date": "08/24/2023",
+  "payment_terms": "Due on Receipt",
   "currency": "SGD",
   "currency_symbol": "S$",
-  "po_number": "PO-76355",
+  "po_number": "PO-96428",
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,82 +20,57 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 7,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 92.26,
-      "discount_pct": 20,
-      "line_total": 73.81
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 155.44,
-      "discount_pct": 0,
-      "line_total": 155.44
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 2380.26,
-      "discount_pct": 5,
-      "line_total": 22612.47
+      "quantity": 1,
+      "unit_price": 3065.69,
+      "discount_pct": 20,
+      "line_total": 2452.55
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2839.77,
+      "quantity": 1,
+      "unit_price": 2037.61,
       "discount_pct": 0,
-      "line_total": 14198.85
+      "line_total": 2037.61
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 1141.7,
+      "quantity": 10,
+      "unit_price": 791.36,
       "discount_pct": 5,
-      "line_total": 27115.38
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1703.88,
-      "discount_pct": 15,
-      "line_total": 1448.3
+      "line_total": 7517.92
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 131.46,
-      "discount_pct": 5,
-      "line_total": 124.89
+      "quantity": 5,
+      "unit_price": 269.02,
+      "discount_pct": 0,
+      "line_total": 1345.1
     }
   ],
-  "subtotal": 65729.14,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 5422.65,
+  "subtotal": 13353.18,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 801.19,
   "shipping_amount": 0.0,
-  "total_due": 71151.79,
-  "notes": null,
+  "total_due": 14154.37,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,

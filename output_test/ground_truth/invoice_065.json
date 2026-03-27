@@ -1,0 +1,103 @@
+{
+  "id": 65,
+  "filename": "invoice_065.pdf",
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "RCPT/2023/23513",
+  "issue_date": "28 December 2024",
+  "due_date": "11/02/2025",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Tesseract Labs",
+  "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
+  "seller_email": "billing@tesseractlabs.com",
+  "seller_phone": "+1 408-555-0201",
+  "seller_tax_id": "EIN: 77-8901234",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1251.51,
+      "discount_pct": 5,
+      "line_total": 59446.72
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13011.47,
+      "discount_pct": 20,
+      "line_total": 52045.88
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 707.61,
+      "discount_pct": 15,
+      "line_total": 601.47
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 2135.72,
+      "discount_pct": 5,
+      "line_total": 6086.8
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 133.97,
+      "discount_pct": 20,
+      "line_total": 5358.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 775.97,
+      "discount_pct": 20,
+      "line_total": 3103.88
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 9784.47,
+      "discount_pct": 5,
+      "line_total": 464762.32
+    }
+  ],
+  "subtotal": 591405.87,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 41398.41,
+  "shipping_amount": 0.0,
+  "total_due": 632804.28,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

@@ -1,16 +1,16 @@
 {
   "id": 13,
   "filename": "invoice_013.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "compact",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 7,
+  "color_palette_index": 9,
   "invoice_number": "2023-88357",
-  "issue_date": "18/08/2024",
-  "due_date": "October 17 2024",
-  "payment_terms": "Due on Receipt",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "01-Mar-2024",
+  "due_date": "16 March 2024",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
@@ -20,78 +20,67 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 7,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 306.15,
-      "discount_pct": 10,
-      "line_total": 275.53
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 184.9,
-      "discount_pct": 15,
-      "line_total": 157.16
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1854.57,
+      "quantity": 1,
+      "unit_price": 386.8,
       "discount_pct": 10,
-      "line_total": 83455.65
+      "line_total": 348.12
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 10550.61,
-      "discount_pct": 5,
-      "line_total": 501153.97
+      "quantity": 1,
+      "unit_price": 2788.32,
+      "discount_pct": 15,
+      "line_total": 2370.07
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 25,
-      "unit_price": 842.05,
+      "quantity": 50,
+      "unit_price": 1107.74,
       "discount_pct": 10,
-      "line_total": 18946.12
+      "line_total": 49848.3
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 257.12,
+      "quantity": 50,
+      "unit_price": 290.48,
       "discount_pct": 5,
-      "line_total": 1221.32
+      "line_total": 13797.8
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 228.59,
+      "quantity": 25,
+      "unit_price": 172.46,
       "discount_pct": 10,
-      "line_total": 205.73
+      "line_total": 3880.35
     }
   ],
-  "subtotal": 605415.48,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 121083.1,
+  "subtotal": 70244.64,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 4917.12,
   "shipping_amount": 0.0,
-  "total_due": 726498.58,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": null,
+  "total_due": 75161.76,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

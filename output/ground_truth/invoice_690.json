@@ -1,17 +1,17 @@
 {
   "id": 690,
   "filename": "invoice_690.pdf",
-  "layout_style": "formal",
+  "layout_style": "sidebar",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
   "invoice_number": "2022-4092",
-  "issue_date": "07/10/2024",
-  "due_date": "07/24/2024",
-  "payment_terms": "Net 21",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "21-Dec-2024",
+  "due_date": "04 January 2025",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-99379",
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
   "seller_email": "orders@greenleaforganics.com",
@@ -20,131 +20,71 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 13,
+  "num_line_items": 6,
   "line_items": [
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1564.34,
-      "discount_pct": 0,
-      "line_total": 4693.02
+      "quantity": 1,
+      "unit_price": 4083.05,
+      "discount_pct": 20,
+      "line_total": 3266.44
     },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 726.61,
-      "discount_pct": 10,
-      "line_total": 1307.9
+      "quantity": 10,
+      "unit_price": 274.89,
+      "discount_pct": 0,
+      "line_total": 2748.9
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 458.94,
-      "discount_pct": 20,
-      "line_total": 367.15
+      "quantity": 3,
+      "unit_price": 144.46,
+      "discount_pct": 0,
+      "line_total": 433.38
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5963.19,
+      "unit_price": 16511.05,
       "discount_pct": 0,
-      "line_total": 5963.19
+      "line_total": 16511.05
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2063.81,
+      "quantity": 50,
+      "unit_price": 1626.09,
       "discount_pct": 15,
-      "line_total": 8771.19
+      "line_total": 69108.82
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 3,
-      "unit_price": 1402.1,
-      "discount_pct": 15,
-      "line_total": 3575.35
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 13129.93,
-      "discount_pct": 0,
-      "line_total": 13129.93
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3561.06,
-      "discount_pct": 15,
-      "line_total": 6053.8
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1954.4,
+      "unit_price": 1356.29,
       "discount_pct": 20,
-      "line_total": 1563.52
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 2161.16,
-      "discount_pct": 5,
-      "line_total": 51327.55
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 242.87,
-      "discount_pct": 15,
-      "line_total": 206.44
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1071.31,
-      "discount_pct": 20,
-      "line_total": 8570.48
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 520.83,
-      "discount_pct": 20,
-      "line_total": 10416.6
+      "line_total": 1085.03
     }
   ],
-  "subtotal": 115946.12,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 8116.23,
+  "subtotal": 93153.62,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 4657.68,
   "shipping_amount": 0.0,
-  "total_due": 124062.35,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "total_due": 97811.3,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

@@ -1,0 +1,82 @@
+{
+  "id": 63,
+  "filename": "invoice_063.pdf",
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "TAX-INV5438",
+  "issue_date": "10/21/2023",
+  "due_date": "28-Oct-2023",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 91.58,
+      "discount_pct": 5,
+      "line_total": 4350.05
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5345.23,
+      "discount_pct": 5,
+      "line_total": 50779.68
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 97.36,
+      "discount_pct": 10,
+      "line_total": 87.62
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5872.25,
+      "discount_pct": 0,
+      "line_total": 5872.25
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 774.56,
+      "discount_pct": 0,
+      "line_total": 774.56
+    }
+  ],
+  "subtotal": 61864.16,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 12372.83,
+  "shipping_amount": 0.0,
+  "total_due": 74236.99,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

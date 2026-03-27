@@ -1,17 +1,17 @@
 {
   "id": 302,
   "filename": "invoice_302.pdf",
-  "layout_style": "compact",
+  "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 5,
+  "color_palette_index": 10,
   "invoice_number": "TAX-INV2055",
-  "issue_date": "September 25 2022",
-  "due_date": "10/09/2022",
-  "payment_terms": "Net 15",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-23039",
+  "issue_date": "07/01/2022",
+  "due_date": "08-Jul-2022",
+  "payment_terms": "Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-31047",
   "seller_name": "Oasis Events Co.",
   "seller_address": "55 Palm Boulevard Dubai UAE",
   "seller_email": "events@oasisevents.ae",
@@ -22,14 +22,6 @@
   "client_email": "accounts@quantumdynamics.com",
   "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 3,
-      "unit_price": 234.36,
-      "discount_pct": 20,
-      "line_total": 562.46
-    },
     {
       "description": "Raw Materials",
       "unit": "kg",
@@ -47,12 +39,12 @@
       "line_total": 33386.25
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Web Development",
+      "unit": "hrs",
       "quantity": 25,
-      "unit_price": 1465.52,
+      "unit_price": 198.12,
       "discount_pct": 20,
-      "line_total": 29310.4
+      "line_total": 3962.4
     },
     {
       "description": "IT Support",
@@ -63,12 +55,12 @@
       "line_total": 261.86
     },
     {
-      "description": "iOS App Dev",
+      "description": "BI Reporting",
       "unit": "ea",
       "quantity": 5,
-      "unit_price": 4958.3,
+      "unit_price": 903.18,
       "discount_pct": 5,
-      "line_total": 23551.92
+      "line_total": 4290.1
     },
     {
       "description": "Logo Design",
@@ -77,27 +69,30 @@
       "unit_price": 2359.51,
       "discount_pct": 15,
       "line_total": 2005.58
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1357.29,
+      "discount_pct": 0,
+      "line_total": 4071.87
     }
   ],
-  "subtotal": 89192.85,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 16946.64,
-  "shipping_amount": 0.0,
-  "total_due": 106139.49,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "subtotal": 48092.44,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 4809.24,
+  "shipping_amount": 271.37,
+  "total_due": 53173.05,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
+  "has_bank_details": false,
+  "has_shipping": true,
   "has_po_number": true,
   "has_tax": true
 }

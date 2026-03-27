@@ -1,14 +1,14 @@
 {
   "id": 502,
   "filename": "invoice_502.pdf",
-  "layout_style": "compact",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "simple",
+  "complexity_tier": "complex",
   "color_palette_index": 6,
   "invoice_number": "REF/2024/66351",
-  "issue_date": "18/09/2023",
-  "due_date": "17-Nov-2023",
-  "payment_terms": "Upon completion",
+  "issue_date": "04/16/2024",
+  "due_date": "May 31 2024",
+  "payment_terms": "Due on Receipt",
   "currency": "EUR",
   "currency_symbol": "€",
   "po_number": null,
@@ -20,40 +20,119 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 2,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1041.74,
-      "discount_pct": 0,
-      "line_total": 3125.22
-    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 1042.69,
+      "quantity": 1,
+      "unit_price": 6658.25,
+      "discount_pct": 5,
+      "line_total": 6325.34
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 584.45,
       "discount_pct": 0,
-      "line_total": 2085.38
+      "line_total": 584.45
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 385.73,
+      "discount_pct": 0,
+      "line_total": 385.73
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1338.65,
+      "discount_pct": 0,
+      "line_total": 1338.65
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8628.52,
+      "discount_pct": 10,
+      "line_total": 388283.4
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 386.93,
+      "discount_pct": 0,
+      "line_total": 19346.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 72.02,
+      "discount_pct": 0,
+      "line_total": 216.06
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1895.07,
+      "discount_pct": 20,
+      "line_total": 1516.06
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 314.26,
+      "discount_pct": 5,
+      "line_total": 298.55
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2398.38,
+      "discount_pct": 20,
+      "line_total": 95935.2
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 103.93,
+      "discount_pct": 0,
+      "line_total": 1039.3
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 8502.95,
+      "discount_pct": 0,
+      "line_total": 212573.75
     }
   ],
-  "subtotal": 5210.6,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 364.74,
+  "subtotal": 727842.99,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 167403.89,
   "shipping_amount": 0.0,
-  "total_due": 5575.34,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "total_due": 895246.88,
+  "notes": "This document is strictly private and confidential.",
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,

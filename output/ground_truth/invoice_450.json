@@ -1,17 +1,17 @@
 {
   "id": 450,
   "filename": "invoice_450.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
   "invoice_number": "027784",
-  "issue_date": "05/16/2024",
-  "due_date": "31/05/2024",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-21843",
+  "issue_date": "24-Nov-2022",
+  "due_date": "January 08 2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,68 +20,108 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 5,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1672.55,
-      "discount_pct": 10,
-      "line_total": 4515.89
-    },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2340.25,
-      "discount_pct": 20,
-      "line_total": 5616.6
+      "quantity": 1,
+      "unit_price": 713.88,
+      "discount_pct": 10,
+      "line_total": 642.49
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 301.11,
+      "quantity": 50,
+      "unit_price": 405.81,
       "discount_pct": 0,
-      "line_total": 301.11
+      "line_total": 20290.5
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1366.61,
-      "discount_pct": 10,
-      "line_total": 1229.95
+      "unit_price": 1074.8,
+      "discount_pct": 0,
+      "line_total": 1074.8
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 29285.92,
+      "quantity": 1,
+      "unit_price": 44307.83,
+      "discount_pct": 10,
+      "line_total": 39877.05
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 595.35,
+      "discount_pct": 15,
+      "line_total": 1012.1
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2611.63,
+      "discount_pct": 10,
+      "line_total": 2350.47
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1182.15,
+      "discount_pct": 20,
+      "line_total": 4728.6
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 289.31,
+      "discount_pct": 10,
+      "line_total": 781.14
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1776.89,
+      "discount_pct": 20,
+      "line_total": 35537.8
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 584.45,
       "discount_pct": 0,
-      "line_total": 1464296.0
+      "line_total": 5844.5
     }
   ],
-  "subtotal": 1475959.55,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 73797.98,
-  "shipping_amount": 0.0,
-  "total_due": 1549757.53,
-  "notes": null,
+  "subtotal": 112139.45,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 7849.76,
+  "shipping_amount": 119.7,
+  "total_due": 120108.91,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

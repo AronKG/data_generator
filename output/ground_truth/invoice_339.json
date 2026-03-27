@@ -1,16 +1,16 @@
 {
   "id": 339,
   "filename": "invoice_339.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "two_tone",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "color_palette_index": 9,
   "invoice_number": "INV/2024/68804",
-  "issue_date": "29-Sep-2024",
-  "due_date": "2024-10-13",
-  "payment_terms": "30 days from delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "30 June 2022",
+  "due_date": "15-Jul-2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,76 +20,69 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 7,
+  "num_line_items": 6,
   "line_items": [
     {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 130.47,
-      "discount_pct": 0,
-      "line_total": 130.47
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1129.54,
+      "discount_pct": 10,
+      "line_total": 25414.65
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 3648.82,
+      "unit_price": 2057.49,
       "discount_pct": 20,
-      "line_total": 145952.8
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1361.06,
-      "discount_pct": 0,
-      "line_total": 4083.18
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 472.21,
-      "discount_pct": 20,
-      "line_total": 9444.2
+      "line_total": 82299.6
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 400.2,
-      "discount_pct": 20,
-      "line_total": 8004.0
+      "quantity": 3,
+      "unit_price": 457.25,
+      "discount_pct": 0,
+      "line_total": 1371.75
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 234.38,
-      "discount_pct": 15,
-      "line_total": 199.22
+      "quantity": 25,
+      "unit_price": 225.18,
+      "discount_pct": 20,
+      "line_total": 4503.6
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 106.11,
-      "discount_pct": 5,
-      "line_total": 201.61
+      "quantity": 25,
+      "unit_price": 233.84,
+      "discount_pct": 20,
+      "line_total": 4676.8
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1120.13,
+      "discount_pct": 15,
+      "line_total": 952.11
     }
   ],
-  "subtotal": 168015.48,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 8400.77,
+  "subtotal": 119218.51,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 9835.53,
   "shipping_amount": 0.0,
-  "total_due": 176416.25,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 129054.04,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": true,

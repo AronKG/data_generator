@@ -1,17 +1,17 @@
 {
   "id": 90,
   "filename": "invoice_090.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "complexity_tier": "simple",
+  "color_palette_index": 9,
   "invoice_number": "RCPT-2022-54328",
-  "issue_date": "May 03 2024",
-  "due_date": "August 01 2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-15278",
+  "issue_date": "05 July 2024",
+  "due_date": "2024-07-26",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-18229",
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,103 +20,47 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 10,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6863.18,
-      "discount_pct": 20,
-      "line_total": 5490.54
-    },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 348.16,
-      "discount_pct": 20,
-      "line_total": 2785.28
+      "quantity": 25,
+      "unit_price": 678.21,
+      "discount_pct": 0,
+      "line_total": 16955.25
     },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2253.22,
+      "unit_price": 2217.0,
       "discount_pct": 0,
-      "line_total": 2253.22
+      "line_total": 2217.0
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 127.61,
-      "discount_pct": 5,
-      "line_total": 6061.47
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 4108.49,
-      "discount_pct": 5,
-      "line_total": 3903.07
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 218.2,
-      "discount_pct": 20,
-      "line_total": 174.56
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 523.14,
-      "discount_pct": 10,
-      "line_total": 11770.65
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1547.01,
+      "unit_price": 134.53,
       "discount_pct": 0,
-      "line_total": 7735.05
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7213.41,
-      "discount_pct": 10,
-      "line_total": 6492.07
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 664.12,
-      "discount_pct": 0,
-      "line_total": 664.12
+      "line_total": 134.53
     }
   ],
-  "subtotal": 47330.03,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 3313.1,
-  "shipping_amount": 114.69,
-  "total_due": 50757.82,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "subtotal": 19306.78,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 2509.88,
+  "shipping_amount": 0.0,
+  "total_due": 21816.66,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": false,
   "has_bank_details": false,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

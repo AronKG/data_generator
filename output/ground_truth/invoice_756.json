@@ -1,17 +1,17 @@
 {
   "id": 756,
   "filename": "invoice_756.pdf",
-  "layout_style": "ledger",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 5,
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
   "invoice_number": "054282",
-  "issue_date": "05/25/2024",
-  "due_date": "2024-06-09",
-  "payment_terms": "Net 30",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-82476",
+  "issue_date": "10/25/2022",
+  "due_date": "2022-12-09",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-97306",
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
   "seller_email": "ar@ironcoremfg.com",
@@ -20,119 +20,51 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 12,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 5000.5,
-      "discount_pct": 10,
-      "line_total": 13501.35
-    },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 5,
-      "unit_price": 72.48,
-      "discount_pct": 5,
-      "line_total": 344.28
+      "quantity": 50,
+      "unit_price": 137.03,
+      "discount_pct": 0,
+      "line_total": 6851.5
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 50,
-      "unit_price": 34.71,
-      "discount_pct": 20,
-      "line_total": 1388.4
+      "unit_price": 113.77,
+      "discount_pct": 0,
+      "line_total": 5688.5
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 6444.71,
-      "discount_pct": 20,
-      "line_total": 51557.68
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 2051.85,
-      "discount_pct": 10,
-      "line_total": 9233.33
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3946.63,
-      "discount_pct": 15,
-      "line_total": 33546.36
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 34.72,
-      "discount_pct": 15,
-      "line_total": 737.8
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9745.19,
-      "discount_pct": 0,
-      "line_total": 9745.19
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 966.9,
-      "discount_pct": 10,
-      "line_total": 870.21
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
       "quantity": 2,
-      "unit_price": 543.64,
+      "unit_price": 9104.25,
       "discount_pct": 0,
-      "line_total": 1087.28
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 148.85,
-      "discount_pct": 20,
-      "line_total": 595.4
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1037.06,
-      "discount_pct": 10,
-      "line_total": 933.35
+      "line_total": 18208.5
     }
   ],
-  "subtotal": 123540.63,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 23472.72,
-  "shipping_amount": 29.1,
-  "total_due": 147042.45,
-  "notes": "Please direct billing queries to our accounts department.",
-  "bank_details": null,
+  "subtotal": 30748.5,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 7072.16,
+  "shipping_amount": 0.0,
+  "total_due": 37820.66,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

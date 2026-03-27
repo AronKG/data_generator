@@ -1,16 +1,16 @@
 {
   "id": 973,
   "filename": "invoice_973.pdf",
-  "layout_style": "ledger",
+  "layout_style": "two_tone",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
   "invoice_number": "064512",
-  "issue_date": "July 11 2022",
-  "due_date": "25 July 2022",
-  "payment_terms": "Net 15",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "23 August 2022",
+  "due_date": "07-Oct-2022",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,47 +20,31 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 7,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 110.98,
-      "discount_pct": 0,
-      "line_total": 2774.5
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 708.14,
-      "discount_pct": 5,
-      "line_total": 672.73
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 19458.83,
-      "discount_pct": 5,
-      "line_total": 18485.89
+      "quantity": 25,
+      "unit_price": 5879.68,
+      "discount_pct": 0,
+      "line_total": 146992.0
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 1,
-      "unit_price": 29.25,
-      "discount_pct": 15,
-      "line_total": 24.86
+      "quantity": 25,
+      "unit_price": 96.91,
+      "discount_pct": 0,
+      "line_total": 2422.75
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1750.71,
-      "discount_pct": 15,
-      "line_total": 1488.1
+      "quantity": 5,
+      "unit_price": 1428.2,
+      "discount_pct": 0,
+      "line_total": 7141.0
     },
     {
       "description": "Manufacturing Parts",
@@ -77,15 +61,63 @@
       "unit_price": 162.39,
       "discount_pct": 10,
       "line_total": 1461.51
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1507.03,
+      "discount_pct": 0,
+      "line_total": 1507.03
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 95.96,
+      "discount_pct": 10,
+      "line_total": 2159.1
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 142.82,
+      "discount_pct": 0,
+      "line_total": 7141.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2371.4,
+      "discount_pct": 15,
+      "line_total": 2015.69
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7144.63,
+      "discount_pct": 0,
+      "line_total": 7144.63
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6797.04,
+      "discount_pct": 15,
+      "line_total": 57774.84
     }
   ],
-  "subtotal": 97843.34,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 12719.63,
+  "subtotal": 308695.3,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 70999.92,
   "shipping_amount": 0.0,
-  "total_due": 110562.97,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "total_due": 379695.22,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,

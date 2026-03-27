@@ -1,17 +1,17 @@
 {
   "id": 325,
   "filename": "invoice_325.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
   "invoice_number": "INV-2022-85446",
-  "issue_date": "2022-03-10",
-  "due_date": "17 March 2022",
-  "payment_terms": "2/10 Net 30",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-81522",
+  "issue_date": "February 22 2022",
+  "due_date": "March 01 2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,32 +20,8 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 7,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 813.14,
-      "discount_pct": 20,
-      "line_total": 32525.6
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 257.07,
-      "discount_pct": 5,
-      "line_total": 2442.16
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 18534.97,
-      "discount_pct": 0,
-      "line_total": 55604.91
-    },
     {
       "description": "Software License",
       "unit": "seat",
@@ -71,28 +47,100 @@
       "line_total": 578.11
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Event Management",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 2225.51,
+      "unit_price": 17327.29,
       "discount_pct": 0,
-      "line_total": 2225.51
+      "line_total": 17327.29
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7806.87,
+      "discount_pct": 20,
+      "line_total": 6245.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 652.5,
+      "discount_pct": 10,
+      "line_total": 1174.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 997.26,
+      "discount_pct": 10,
+      "line_total": 4487.67
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1295.34,
+      "discount_pct": 0,
+      "line_total": 1295.34
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 2339.64,
+      "discount_pct": 0,
+      "line_total": 58491.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1194.34,
+      "discount_pct": 0,
+      "line_total": 2388.68
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 309.61,
+      "discount_pct": 0,
+      "line_total": 928.83
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 356.14,
+      "discount_pct": 0,
+      "line_total": 1780.7
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 868.44,
+      "discount_pct": 10,
+      "line_total": 39079.8
     }
   ],
-  "subtotal": 117617.58,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 15290.29,
+  "subtotal": 158018.71,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 33183.93,
   "shipping_amount": 0.0,
-  "total_due": 132907.87,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "total_due": 191202.64,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

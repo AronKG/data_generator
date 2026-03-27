@@ -1,17 +1,17 @@
 {
   "id": 849,
   "filename": "invoice_849.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
+  "layout_style": "modern",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 13,
+  "color_palette_index": 7,
   "invoice_number": "060401",
-  "issue_date": "21-Mar-2023",
-  "due_date": "May 05 2023",
-  "payment_terms": "Net 30",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "2023-12-02",
+  "due_date": "17-Dec-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-84078",
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,39 +20,31 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 9,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 372.61,
-      "discount_pct": 0,
-      "line_total": 9315.25
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 27086.02,
+      "unit_price": 17895.11,
       "discount_pct": 0,
-      "line_total": 1354301.0
+      "line_total": 894755.5
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 1303.88,
+      "unit_price": 4459.4,
       "discount_pct": 0,
-      "line_total": 1303.88
+      "line_total": 4459.4
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9774.07,
-      "discount_pct": 0,
-      "line_total": 9774.07
+      "quantity": 25,
+      "unit_price": 10067.31,
+      "discount_pct": 20,
+      "line_total": 201346.2
     },
     {
       "description": "Logo Design",
@@ -79,12 +71,12 @@
       "line_total": 2542.51
     },
     {
-      "description": "Tech Writing",
-      "unit": "pg",
+      "description": "iOS App Dev",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 60.92,
+      "unit_price": 3065.09,
       "discount_pct": 0,
-      "line_total": 60.92
+      "line_total": 3065.09
     },
     {
       "description": "Translation Services",
@@ -93,27 +85,62 @@
       "unit_price": 146.97,
       "discount_pct": 0,
       "line_total": 3674.25
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 256.98,
+      "discount_pct": 10,
+      "line_total": 5782.05
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 725.87,
+      "discount_pct": 0,
+      "line_total": 725.87
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1880.12,
+      "discount_pct": 0,
+      "line_total": 18801.2
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 914.15,
+      "discount_pct": 0,
+      "line_total": 4570.75
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 139.51,
+      "discount_pct": 15,
+      "line_total": 118.58
     }
   ],
-  "subtotal": 1390872.26,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 292083.17,
+  "subtotal": 1149741.78,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 172461.27,
   "shipping_amount": 0.0,
-  "total_due": 1682955.43,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "total_due": 1322203.05,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 649,
   "filename": "invoice_649.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 11,
   "invoice_number": "BILL85174",
-  "issue_date": "08-May-2022",
-  "due_date": "05/29/2022",
-  "payment_terms": "Net 45",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-62421",
+  "issue_date": "29-Jan-2023",
+  "due_date": "05 February 2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,52 +20,135 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 3,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 178.36,
-      "discount_pct": 0,
-      "line_total": 356.72
-    },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 10,
-      "unit_price": 704.93,
+      "unit_price": 443.17,
       "discount_pct": 0,
-      "line_total": 7049.3
+      "line_total": 4431.7
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 586.83,
+      "quantity": 3,
+      "unit_price": 199.5,
       "discount_pct": 0,
-      "line_total": 586.83
+      "line_total": 598.5
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6700.73,
+      "discount_pct": 10,
+      "line_total": 150766.43
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 4033.7,
+      "discount_pct": 0,
+      "line_total": 4033.7
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1530.05,
+      "discount_pct": 0,
+      "line_total": 1530.05
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 641.83,
+      "discount_pct": 0,
+      "line_total": 641.83
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 690.02,
+      "discount_pct": 20,
+      "line_total": 1104.03
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1956.99,
+      "discount_pct": 5,
+      "line_total": 5577.42
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1341.73,
+      "discount_pct": 0,
+      "line_total": 4025.19
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 2093.15,
+      "discount_pct": 0,
+      "line_total": 104657.5
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 138.94,
+      "discount_pct": 0,
+      "line_total": 416.82
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 206.15,
+      "discount_pct": 10,
+      "line_total": 185.53
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1149.35,
+      "discount_pct": 20,
+      "line_total": 919.48
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 838.46,
+      "discount_pct": 0,
+      "line_total": 1676.92
     }
   ],
-  "subtotal": 7992.85,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 1598.57,
-  "shipping_amount": 0.0,
-  "total_due": 9591.42,
-  "notes": "Please direct billing queries to our accounts department.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "subtotal": 280565.1,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 214.59,
+  "total_due": 280779.69,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": false
 }

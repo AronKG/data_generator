@@ -1,17 +1,17 @@
 {
   "id": 425,
   "filename": "invoice_425.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 8,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
   "invoice_number": "2022-36875",
-  "issue_date": "26-Aug-2022",
-  "due_date": "2022-09-10",
+  "issue_date": "27 September 2022",
+  "due_date": "11/26/2022",
   "payment_terms": "Net 90",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-28209",
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
   "seller_email": "faktura@fjordanalytics.no",
@@ -20,44 +20,135 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 2,
+  "num_line_items": 14,
   "line_items": [
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 795.89,
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3676.92,
+      "discount_pct": 10,
+      "line_total": 3309.23
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18022.86,
       "discount_pct": 0,
-      "line_total": 19897.25
+      "line_total": 18022.86
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 86.07,
+      "discount_pct": 0,
+      "line_total": 86.07
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12779.19,
+      "discount_pct": 20,
+      "line_total": 20446.7
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 673.78,
+      "discount_pct": 5,
+      "line_total": 640.09
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7645.7,
+      "discount_pct": 15,
+      "line_total": 6498.84
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6132.24,
+      "discount_pct": 5,
+      "line_total": 145640.7
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1699.89,
+      "discount_pct": 0,
+      "line_total": 1699.89
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 9337.06,
+      "discount_pct": 0,
+      "line_total": 233426.5
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 160.35,
+      "quantity": 1,
+      "unit_price": 155.27,
       "discount_pct": 0,
-      "line_total": 8017.5
+      "line_total": 155.27
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 54.12,
+      "discount_pct": 20,
+      "line_total": 1082.4
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1059.08,
+      "discount_pct": 20,
+      "line_total": 21181.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 360.06,
+      "discount_pct": 5,
+      "line_total": 1026.17
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 6155.57,
+      "discount_pct": 0,
+      "line_total": 30777.85
     }
   ],
-  "subtotal": 27914.75,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 5582.95,
-  "shipping_amount": 0.0,
-  "total_due": 33497.7,
-  "notes": "Our standard warranty terms apply to all goods and services.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "subtotal": 483994.17,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 223.82,
+  "total_due": 484217.99,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": false
 }

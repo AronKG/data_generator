@@ -1,14 +1,14 @@
 {
   "id": 838,
   "filename": "invoice_838.pdf",
-  "layout_style": "ledger",
+  "layout_style": "creative",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "color_palette_index": 6,
   "invoice_number": "PROFORMA-2022-46804",
-  "issue_date": "2022-07-21",
-  "due_date": "2022-09-04",
-  "payment_terms": "2/10 Net 30",
+  "issue_date": "December 11 2023",
+  "due_date": "12/18/2023",
+  "payment_terms": "End of Month",
   "currency": "SGD",
   "currency_symbol": "S$",
   "po_number": null,
@@ -20,79 +20,92 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 7,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2917.61,
-      "discount_pct": 0,
-      "line_total": 2917.61
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1787.85,
-      "discount_pct": 0,
-      "line_total": 44696.25
+      "quantity": 1,
+      "unit_price": 1652.4,
+      "discount_pct": 15,
+      "line_total": 1404.54
     },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 10,
-      "unit_price": 543.25,
-      "discount_pct": 20,
-      "line_total": 4346.0
+      "unit_price": 346.22,
+      "discount_pct": 15,
+      "line_total": 2942.87
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 10,
-      "unit_price": 146.48,
-      "discount_pct": 0,
-      "line_total": 1464.8
+      "unit_price": 81.49,
+      "discount_pct": 20,
+      "line_total": 651.92
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 160.81,
+      "quantity": 10,
+      "unit_price": 390.6,
       "discount_pct": 0,
-      "line_total": 160.81
+      "line_total": 3906.0
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1324.35,
-      "discount_pct": 5,
-      "line_total": 1258.13
+      "unit_price": 528.29,
+      "discount_pct": 0,
+      "line_total": 528.29
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 3949.79,
+      "unit_price": 3567.64,
+      "discount_pct": 5,
+      "line_total": 3389.26
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 592.94,
       "discount_pct": 0,
-      "line_total": 3949.79
+      "line_total": 592.94
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7829.43,
+      "discount_pct": 5,
+      "line_total": 371897.92
     }
   ],
-  "subtotal": 58793.39,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 0.0,
-  "total_due": 58793.39,
+  "subtotal": 385313.74,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 26971.96,
+  "shipping_amount": 70.9,
+  "total_due": 412356.6,
   "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
+  "has_discount_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

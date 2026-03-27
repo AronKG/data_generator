@@ -1,17 +1,17 @@
 {
   "id": 600,
   "filename": "invoice_600.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 5,
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
   "invoice_number": "2023-77306",
-  "issue_date": "03/03/2024",
-  "due_date": "2024-06-01",
-  "payment_terms": "Net 60",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-28390",
+  "issue_date": "01/09/2024",
+  "due_date": "01 October 2024",
+  "payment_terms": "Net 7",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,172 +20,103 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 18,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 7805.51,
-      "discount_pct": 15,
-      "line_total": 165867.09
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 440.56,
-      "discount_pct": 0,
-      "line_total": 22028.0
+      "quantity": 3,
+      "unit_price": 451.88,
+      "discount_pct": 15,
+      "line_total": 1152.29
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 511.31,
-      "discount_pct": 20,
-      "line_total": 2045.24
+      "quantity": 25,
+      "unit_price": 800.17,
+      "discount_pct": 0,
+      "line_total": 20004.25
     },
     {
       "description": "Print Materials",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 511.08,
-      "discount_pct": 0,
-      "line_total": 511.08
+      "unit_price": 459.21,
+      "discount_pct": 15,
+      "line_total": 390.33
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 890.47,
-      "discount_pct": 20,
-      "line_total": 712.38
+      "quantity": 50,
+      "unit_price": 857.83,
+      "discount_pct": 0,
+      "line_total": 42891.5
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 616.29,
-      "discount_pct": 0,
-      "line_total": 1848.87
+      "quantity": 5,
+      "unit_price": 58.82,
+      "discount_pct": 20,
+      "line_total": 235.28
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Video Production",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 1066.69,
+      "unit_price": 5999.54,
       "discount_pct": 0,
-      "line_total": 1066.69
+      "line_total": 5999.54
     },
     {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 216.34,
-      "discount_pct": 15,
-      "line_total": 367.78
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7223.17,
+      "discount_pct": 20,
+      "line_total": 5778.54
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7936.93,
+      "discount_pct": 0,
+      "line_total": 23810.79
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 1319.76,
-      "discount_pct": 15,
-      "line_total": 1121.8
+      "unit_price": 731.39,
+      "discount_pct": 0,
+      "line_total": 731.39
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 3470.4,
-      "discount_pct": 10,
-      "line_total": 78084.0
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 169.02,
-      "discount_pct": 5,
-      "line_total": 4014.22
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 3,
-      "unit_price": 7588.45,
-      "discount_pct": 0,
-      "line_total": 22765.35
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5591.21,
-      "discount_pct": 0,
-      "line_total": 5591.21
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 6375.9,
-      "discount_pct": 0,
-      "line_total": 19127.7
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 127.84,
+      "quantity": 2,
+      "unit_price": 3431.46,
       "discount_pct": 15,
-      "line_total": 108.66
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 278.41,
-      "discount_pct": 0,
-      "line_total": 556.82
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 2,
-      "unit_price": 111.15,
-      "discount_pct": 0,
-      "line_total": 222.3
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1597.36,
-      "discount_pct": 0,
-      "line_total": 1597.36
+      "line_total": 5833.48
     }
   ],
-  "subtotal": 327636.55,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 22934.56,
+  "subtotal": 106827.39,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 13887.56,
   "shipping_amount": 0.0,
-  "total_due": 350571.11,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
-  },
+  "total_due": 120714.95,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

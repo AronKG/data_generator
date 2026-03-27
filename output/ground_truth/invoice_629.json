@@ -1,16 +1,16 @@
 {
   "id": 629,
   "filename": "invoice_629.pdf",
-  "layout_style": "compact",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
   "invoice_number": "BILL-59530",
-  "issue_date": "17 August 2022",
-  "due_date": "September 16 2022",
-  "payment_terms": "Cash on Delivery",
-  "currency": "USD",
-  "currency_symbol": "$",
+  "issue_date": "06/06/2023",
+  "due_date": "06/21/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
@@ -20,54 +20,139 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 4,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 131.94,
-      "discount_pct": 10,
-      "line_total": 118.75
-    },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 152.42,
-      "discount_pct": 0,
-      "line_total": 3810.5
+      "quantity": 1,
+      "unit_price": 232.44,
+      "discount_pct": 5,
+      "line_total": 220.82
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 2318.13,
+      "quantity": 10,
+      "unit_price": 4601.77,
       "discount_pct": 0,
-      "line_total": 2318.13
+      "line_total": 46017.7
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
+      "quantity": 5,
+      "unit_price": 603.3,
+      "discount_pct": 20,
+      "line_total": 2413.2
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 370.34,
+      "unit_price": 2789.84,
+      "discount_pct": 10,
+      "line_total": 2510.86
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1901.88,
+      "discount_pct": 15,
+      "line_total": 1616.6
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 770.47,
       "discount_pct": 5,
-      "line_total": 351.82
+      "line_total": 3659.73
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 178.13,
+      "discount_pct": 0,
+      "line_total": 534.39
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1541.33,
+      "discount_pct": 0,
+      "line_total": 7706.65
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 973.31,
+      "discount_pct": 0,
+      "line_total": 1946.62
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 210.74,
+      "discount_pct": 20,
+      "line_total": 8429.6
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 9300.9,
+      "discount_pct": 0,
+      "line_total": 18601.8
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1048.11,
+      "discount_pct": 0,
+      "line_total": 26202.75
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 24420.57,
+      "discount_pct": 0,
+      "line_total": 610514.25
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1464.18,
+      "discount_pct": 15,
+      "line_total": 31113.83
     }
   ],
-  "subtotal": 6599.2,
+  "subtotal": 761488.8,
   "tax_label": "GST-HST 15pct",
   "tax_rate_pct": 15.0,
-  "tax_amount": 989.88,
+  "tax_amount": 114223.32,
   "shipping_amount": 0.0,
-  "total_due": 7589.08,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "total_due": 875712.12,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

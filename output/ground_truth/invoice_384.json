@@ -1,16 +1,16 @@
 {
   "id": 384,
   "filename": "invoice_384.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "two_tone",
   "page_size": "A4",
-  "complexity_tier": "complex",
+  "complexity_tier": "medium",
   "color_palette_index": 7,
   "invoice_number": "INV-21263",
-  "issue_date": "04/03/2022",
-  "due_date": "03 May 2022",
-  "payment_terms": "Net 90",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "issue_date": "March 03 2024",
+  "due_date": "03/17/2024",
+  "payment_terms": "Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,88 +20,72 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 8,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 16622.15,
-      "discount_pct": 10,
-      "line_total": 74799.68
-    },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 198.75,
+      "quantity": 3,
+      "unit_price": 146.06,
       "discount_pct": 0,
-      "line_total": 198.75
+      "line_total": 438.18
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 659.73,
-      "discount_pct": 0,
-      "line_total": 659.73
+      "quantity": 50,
+      "unit_price": 184.52,
+      "discount_pct": 15,
+      "line_total": 7842.1
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4226.88,
+      "quantity": 5,
+      "unit_price": 1537.83,
       "discount_pct": 0,
-      "line_total": 8453.76
+      "line_total": 7689.15
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4644.67,
+      "quantity": 1,
+      "unit_price": 2694.99,
       "discount_pct": 0,
-      "line_total": 9289.34
+      "line_total": 2694.99
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Event Management",
+      "unit": "ea",
       "quantity": 2,
-      "unit_price": 1124.01,
+      "unit_price": 10871.52,
       "discount_pct": 0,
-      "line_total": 2248.02
+      "line_total": 21743.04
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 658.72,
+      "quantity": 2,
+      "unit_price": 830.12,
       "discount_pct": 0,
-      "line_total": 658.72
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 3155.24,
-      "discount_pct": 20,
-      "line_total": 126209.6
+      "line_total": 1660.24
     }
   ],
-  "subtotal": 222517.6,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 42278.34,
+  "subtotal": 42067.7,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 5468.8,
   "shipping_amount": 0.0,
-  "total_due": 264795.94,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "total_due": 47536.5,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

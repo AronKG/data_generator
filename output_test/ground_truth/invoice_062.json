@@ -1,0 +1,110 @@
+{
+  "id": 62,
+  "filename": "invoice_062.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
+  "invoice_number": "REF16568",
+  "issue_date": "08/20/2022",
+  "due_date": "September 04 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 8,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 2006.34,
+      "discount_pct": 15,
+      "line_total": 5116.17
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 785.55,
+      "discount_pct": 5,
+      "line_total": 746.27
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 980.26,
+      "discount_pct": 5,
+      "line_total": 931.25
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 82.17,
+      "discount_pct": 20,
+      "line_total": 197.21
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5349.38,
+      "discount_pct": 0,
+      "line_total": 5349.38
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 777.97,
+      "discount_pct": 15,
+      "line_total": 1983.82
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 752.67,
+      "discount_pct": 15,
+      "line_total": 639.77
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1966.21,
+      "discount_pct": 0,
+      "line_total": 9831.05
+    }
+  ],
+  "subtotal": 24794.92,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 2479.49,
+  "shipping_amount": 195.28,
+  "total_due": 27469.69,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

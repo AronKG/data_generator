@@ -1,16 +1,16 @@
 {
   "id": 824,
   "filename": "invoice_824.pdf",
-  "layout_style": "compact",
-  "page_size": "A4",
+  "layout_style": "minimal",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "color_palette_index": 0,
   "invoice_number": "SI/2025/25457",
-  "issue_date": "03/15/2022",
-  "due_date": "05-Apr-2022",
-  "payment_terms": "2/10 Net 30",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "2023-02-13",
+  "due_date": "02/27/2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "RedBark Sustainable Co.",
   "seller_address": "22 Battery St Burlington VT 05401 USA",
@@ -20,46 +20,83 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 3,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1358.06,
-      "discount_pct": 0,
-      "line_total": 4074.18
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1692.72,
-      "discount_pct": 0,
-      "line_total": 1692.72
+      "quantity": 10,
+      "unit_price": 1953.83,
+      "discount_pct": 5,
+      "line_total": 18561.38
     },
     {
       "description": "IT Support",
       "unit": "hr",
+      "quantity": 5,
+      "unit_price": 155.05,
+      "discount_pct": 20,
+      "line_total": 620.2
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 200.48,
+      "discount_pct": 5,
+      "line_total": 190.46
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 881.49,
+      "discount_pct": 10,
+      "line_total": 3966.7
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
       "quantity": 2,
-      "unit_price": 82.39,
+      "unit_price": 552.48,
+      "discount_pct": 15,
+      "line_total": 939.22
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 910.85,
+      "discount_pct": 20,
+      "line_total": 2186.04
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 803.45,
       "discount_pct": 0,
-      "line_total": 164.78
+      "line_total": 2410.35
     }
   ],
-  "subtotal": 5931.68,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 889.75,
+  "subtotal": 28874.35,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 1732.46,
   "shipping_amount": 0.0,
-  "total_due": 6821.43,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": null,
+  "total_due": 30606.81,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

@@ -1,16 +1,16 @@
 {
   "id": 464,
   "filename": "invoice_464.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 8,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
   "invoice_number": "REF/2022/78806",
-  "issue_date": "28 March 2022",
-  "due_date": "05/12/2022",
-  "payment_terms": "Upon completion",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "25/12/2023",
+  "due_date": "2024-01-01",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
@@ -20,203 +20,47 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 22,
+  "num_line_items": 3,
   "line_items": [
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 649.2,
-      "discount_pct": 5,
-      "line_total": 1233.48
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 399.41,
+      "discount_pct": 0,
+      "line_total": 3994.1
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 214.46,
-      "discount_pct": 20,
-      "line_total": 171.57
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 560.11,
-      "discount_pct": 0,
-      "line_total": 560.11
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
       "quantity": 2,
-      "unit_price": 801.71,
+      "unit_price": 242.59,
       "discount_pct": 0,
-      "line_total": 1603.42
+      "line_total": 485.18
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 154.21,
-      "discount_pct": 0,
-      "line_total": 462.63
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 52.25,
-      "discount_pct": 20,
-      "line_total": 41.8
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9851.26,
-      "discount_pct": 5,
-      "line_total": 9358.7
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1359.71,
-      "discount_pct": 0,
-      "line_total": 2719.42
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 10,
-      "unit_price": 58.52,
-      "discount_pct": 0,
-      "line_total": 585.2
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 197.58,
-      "discount_pct": 5,
-      "line_total": 187.7
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
       "quantity": 25,
-      "unit_price": 6347.53,
-      "discount_pct": 10,
-      "line_total": 142819.43
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 1501.68,
-      "discount_pct": 5,
-      "line_total": 14265.96
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 26300.48,
+      "unit_price": 533.43,
       "discount_pct": 0,
-      "line_total": 26300.48
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4375.77,
-      "discount_pct": 15,
-      "line_total": 3719.4
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 340.23,
-      "discount_pct": 5,
-      "line_total": 323.22
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1481.15,
-      "discount_pct": 15,
-      "line_total": 3776.93
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 134.81,
-      "discount_pct": 0,
-      "line_total": 1348.1
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1011.1,
-      "discount_pct": 15,
-      "line_total": 21485.88
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4197.99,
-      "discount_pct": 0,
-      "line_total": 12593.97
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 129.81,
-      "discount_pct": 5,
-      "line_total": 369.96
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 10680.81,
-      "discount_pct": 10,
-      "line_total": 9612.73
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 5,
-      "unit_price": 3308.3,
-      "discount_pct": 5,
-      "line_total": 15714.42
+      "line_total": 13335.75
     }
   ],
-  "subtotal": 269254.51,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 13462.73,
-  "shipping_amount": 287.84,
-  "total_due": 283005.08,
-  "notes": null,
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "subtotal": 17815.03,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 3563.01,
+  "shipping_amount": 0.0,
+  "total_due": 21378.04,
+  "notes": "All work performed in accordance with the signed service agreement.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

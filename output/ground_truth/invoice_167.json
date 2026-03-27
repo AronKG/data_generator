@@ -1,16 +1,16 @@
 {
   "id": 167,
   "filename": "invoice_167.pdf",
-  "layout_style": "modern",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
   "invoice_number": "SI55337",
-  "issue_date": "11/30/2024",
-  "due_date": "07/12/2024",
-  "payment_terms": "End of Month",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "07 November 2022",
+  "due_date": "28-Nov-2022",
+  "payment_terms": "Net 7",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
@@ -20,100 +20,59 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 9,
+  "num_line_items": 4,
   "line_items": [
     {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 654.27,
-      "discount_pct": 15,
-      "line_total": 556.13
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 684.05,
-      "discount_pct": 0,
-      "line_total": 684.05
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 681.38,
+      "discount_pct": 5,
+      "line_total": 32365.55
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 5575.29,
-      "discount_pct": 0,
-      "line_total": 27876.45
+      "quantity": 1,
+      "unit_price": 3448.72,
+      "discount_pct": 10,
+      "line_total": 3103.85
     },
     {
       "description": "Photography Session",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1943.65,
-      "discount_pct": 10,
-      "line_total": 1749.29
+      "unit_price": 522.06,
+      "discount_pct": 0,
+      "line_total": 522.06
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 988.69,
-      "discount_pct": 0,
-      "line_total": 1977.38
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
       "quantity": 1,
-      "unit_price": 240.15,
+      "unit_price": 621.29,
       "discount_pct": 0,
-      "line_total": 240.15
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 35.23,
-      "discount_pct": 0,
-      "line_total": 35.23
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 536.86,
-      "discount_pct": 15,
-      "line_total": 11408.27
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 336.88,
-      "discount_pct": 20,
-      "line_total": 1347.52
+      "line_total": 621.29
     }
   ],
-  "subtotal": 45874.47,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 10551.13,
-  "shipping_amount": 242.16,
-  "total_due": 56667.76,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "subtotal": 36612.75,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 2562.89,
+  "shipping_amount": 0.0,
+  "total_due": 39175.64,
+  "notes": null,
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

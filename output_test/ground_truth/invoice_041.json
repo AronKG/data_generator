@@ -1,0 +1,103 @@
+{
+  "id": 41,
+  "filename": "invoice_041.pdf",
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
+  "invoice_number": "PROFORMA-2025-34313",
+  "issue_date": "2024-12-14",
+  "due_date": "2025-02-12",
+  "payment_terms": "Net 7",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Pearl River Trading Co.",
+  "seller_address": "22 Connaught Rd Central Hong Kong",
+  "seller_email": "finance@pearlriverco.hk",
+  "seller_phone": "+852 2800 5500",
+  "seller_tax_id": "BR No: 87654321",
+  "client_name": "The Grand Brasserie Group",
+  "client_address": "15 Rue Montorgueil 75001 Paris France",
+  "client_email": "comptabilite@grandbrasserie.fr",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 858.04,
+      "discount_pct": 0,
+      "line_total": 858.04
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3510.07,
+      "discount_pct": 15,
+      "line_total": 5967.12
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 1194.66,
+      "discount_pct": 0,
+      "line_total": 3583.98
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 80.73,
+      "discount_pct": 0,
+      "line_total": 2018.25
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8101.79,
+      "discount_pct": 15,
+      "line_total": 6886.52
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 192.42,
+      "discount_pct": 15,
+      "line_total": 4088.92
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1545.28,
+      "discount_pct": 0,
+      "line_total": 1545.28
+    }
+  ],
+  "subtotal": 24948.11,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 4989.62,
+  "shipping_amount": 0.0,
+  "total_due": 29937.73,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

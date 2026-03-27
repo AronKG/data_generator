@@ -1,16 +1,16 @@
 {
   "id": 769,
   "filename": "invoice_769.pdf",
-  "layout_style": "compact",
+  "layout_style": "bold_header",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
   "invoice_number": "2023-13268",
-  "issue_date": "27-Jan-2022",
-  "due_date": "February 03 2022",
-  "payment_terms": "Net 15",
-  "currency": "USD",
-  "currency_symbol": "$",
+  "issue_date": "24 January 2022",
+  "due_date": "10 March 2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,68 +20,107 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 5,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 5,
-      "unit_price": 544.25,
-      "discount_pct": 20,
-      "line_total": 2177.0
-    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
       "quantity": 25,
-      "unit_price": 6327.87,
-      "discount_pct": 0,
-      "line_total": 158196.75
+      "unit_price": 4806.13,
+      "discount_pct": 15,
+      "line_total": 102130.26
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4128.14,
-      "discount_pct": 10,
-      "line_total": 3715.33
+      "quantity": 25,
+      "unit_price": 1336.4,
+      "discount_pct": 0,
+      "line_total": 33410.0
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 295.78,
-      "discount_pct": 5,
-      "line_total": 842.97
+      "quantity": 1,
+      "unit_price": 253.62,
+      "discount_pct": 0,
+      "line_total": 253.62
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 138.89,
+      "quantity": 10,
+      "unit_price": 16.68,
       "discount_pct": 0,
-      "line_total": 138.89
+      "line_total": 166.8
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 686.01,
+      "discount_pct": 20,
+      "line_total": 27440.4
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 550.93,
+      "discount_pct": 0,
+      "line_total": 550.93
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1898.51,
+      "discount_pct": 0,
+      "line_total": 1898.51
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 187.58,
+      "discount_pct": 0,
+      "line_total": 4689.5
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 465.23,
+      "discount_pct": 0,
+      "line_total": 1395.69
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8898.32,
+      "discount_pct": 20,
+      "line_total": 7118.66
     }
   ],
-  "subtotal": 165070.94,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 179054.37,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 8952.72,
   "shipping_amount": 0.0,
-  "total_due": 165070.94,
+  "total_due": 188007.09,
   "notes": null,
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

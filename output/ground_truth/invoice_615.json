@@ -1,16 +1,16 @@
 {
   "id": 615,
   "filename": "invoice_615.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "classic",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 1,
+  "color_palette_index": 10,
   "invoice_number": "076733",
-  "issue_date": "09 July 2024",
-  "due_date": "16/07/2024",
-  "payment_terms": "Upon completion",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "issue_date": "25-Feb-2022",
+  "due_date": "04/11/2022",
+  "payment_terms": "Net 7",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,39 +20,31 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 12,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 140.37,
-      "discount_pct": 0,
-      "line_total": 140.37
-    },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 177.16,
+      "quantity": 1,
+      "unit_price": 89.95,
       "discount_pct": 5,
-      "line_total": 4207.55
+      "line_total": 85.45
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7007.22,
-      "discount_pct": 5,
-      "line_total": 6656.86
+      "quantity": 3,
+      "unit_price": 19488.72,
+      "discount_pct": 0,
+      "line_total": 58466.16
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 400.88,
-      "discount_pct": 20,
-      "line_total": 962.11
+      "quantity": 2,
+      "unit_price": 421.54,
+      "discount_pct": 0,
+      "line_total": 843.08
     },
     {
       "description": "Equipment Rental",
@@ -63,12 +55,12 @@
       "line_total": 12851.0
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
+      "description": "Bookkeeping",
+      "unit": "mo",
       "quantity": 50,
-      "unit_price": 350.74,
+      "unit_price": 727.09,
       "discount_pct": 15,
-      "line_total": 14906.45
+      "line_total": 30901.33
     },
     {
       "description": "Software Dev",
@@ -95,49 +87,40 @@
       "line_total": 40769.0
     },
     {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
+      "description": "Content Writing",
+      "unit": "pg",
       "quantity": 25,
-      "unit_price": 6303.72,
+      "unit_price": 327.63,
       "discount_pct": 10,
-      "line_total": 141833.7
+      "line_total": 7371.68
     },
     {
-      "description": "Catering Services",
-      "unit": "head",
+      "description": "Web Development",
+      "unit": "hrs",
       "quantity": 5,
-      "unit_price": 105.26,
+      "unit_price": 224.4,
       "discount_pct": 0,
-      "line_total": 526.3
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1097.64,
-      "discount_pct": 0,
-      "line_total": 54882.0
+      "line_total": 1122.0
     }
   ],
-  "subtotal": 280905.6,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 42135.84,
-  "shipping_amount": 155.78,
-  "total_due": 323197.22,
-  "notes": null,
+  "subtotal": 155579.96,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 49.18,
+  "total_due": 155629.14,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": false,
+  "has_unit_column": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": true,
   "has_po_number": false,
-  "has_tax": true
+  "has_tax": false
 }

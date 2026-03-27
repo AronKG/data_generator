@@ -1,17 +1,17 @@
 {
   "id": 133,
   "filename": "invoice_133.pdf",
-  "layout_style": "formal",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
   "invoice_number": "2025-13076",
-  "issue_date": "May 28 2024",
-  "due_date": "18 June 2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-92947",
+  "issue_date": "02/17/2023",
+  "due_date": "19/03/2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,63 +20,219 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 5,
+  "num_line_items": 24,
   "line_items": [
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 632.92,
+      "unit_price": 344.78,
       "discount_pct": 15,
-      "line_total": 537.98
+      "line_total": 293.06
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 23027.66,
-      "discount_pct": 5,
-      "line_total": 218762.77
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 504.95,
+      "quantity": 1,
+      "unit_price": 34727.89,
       "discount_pct": 0,
-      "line_total": 2524.75
+      "line_total": 34727.89
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 271.93,
-      "discount_pct": 0,
-      "line_total": 13596.5
+      "quantity": 1,
+      "unit_price": 796.49,
+      "discount_pct": 15,
+      "line_total": 677.02
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 5,
-      "unit_price": 126.81,
+      "quantity": 3,
+      "unit_price": 58.26,
       "discount_pct": 10,
-      "line_total": 570.64
+      "line_total": 157.3
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 11575.34,
+      "discount_pct": 20,
+      "line_total": 18520.54
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 192.89,
+      "discount_pct": 10,
+      "line_total": 520.8
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 102.14,
+      "discount_pct": 0,
+      "line_total": 102.14
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5830.91,
+      "discount_pct": 0,
+      "line_total": 29154.55
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 2943.94,
+      "discount_pct": 20,
+      "line_total": 117757.6
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 67.22,
+      "discount_pct": 20,
+      "line_total": 537.76
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1213.35,
+      "discount_pct": 15,
+      "line_total": 3094.04
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 883.34,
+      "discount_pct": 5,
+      "line_total": 20979.33
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 181.75,
+      "discount_pct": 20,
+      "line_total": 7270.0
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2944.88,
+      "discount_pct": 20,
+      "line_total": 4711.81
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 213.18,
+      "discount_pct": 5,
+      "line_total": 202.52
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 120.31,
+      "discount_pct": 5,
+      "line_total": 114.29
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 475.14,
+      "discount_pct": 10,
+      "line_total": 10690.65
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1324.03,
+      "discount_pct": 15,
+      "line_total": 1125.43
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 154.21,
+      "discount_pct": 0,
+      "line_total": 771.05
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1499.59,
+      "discount_pct": 20,
+      "line_total": 2399.34
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2953.87,
+      "discount_pct": 10,
+      "line_total": 7975.45
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3283.48,
+      "discount_pct": 0,
+      "line_total": 164174.0
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1989.14,
+      "discount_pct": 20,
+      "line_total": 1591.31
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1093.25,
+      "discount_pct": 5,
+      "line_total": 3115.76
     }
   ],
-  "subtotal": 235992.64,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 11799.63,
+  "subtotal": 430663.64,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 64599.55,
   "shipping_amount": 0.0,
-  "total_due": 247792.27,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": null,
+  "total_due": 495263.19,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

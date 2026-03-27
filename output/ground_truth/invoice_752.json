@@ -1,15 +1,15 @@
 {
   "id": 752,
   "filename": "invoice_752.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
+  "layout_style": "classic",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 8,
+  "color_palette_index": 12,
   "invoice_number": "SI-83660",
-  "issue_date": "2024-02-23",
-  "due_date": "09-Mar-2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "SEK",
+  "issue_date": "29 September 2022",
+  "due_date": "2022-10-20",
+  "payment_terms": "Net 30",
+  "currency": "NOK",
   "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
@@ -20,16 +20,8 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 10,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 10,
-      "unit_price": 79.12,
-      "discount_pct": 10,
-      "line_total": 712.08
-    },
     {
       "description": "IT Support",
       "unit": "hr",
@@ -95,28 +87,61 @@
       "line_total": 2670.85
     },
     {
-      "description": "Software License",
-      "unit": "seat",
+      "description": "Event Management",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 4750.84,
+      "unit_price": 9777.94,
       "discount_pct": 5,
-      "line_total": 4513.3
+      "line_total": 9289.04
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 2969.11,
+      "discount_pct": 0,
+      "line_total": 74227.75
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 338.57,
+      "discount_pct": 5,
+      "line_total": 321.64
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 471.2,
+      "discount_pct": 5,
+      "line_total": 4476.4
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 835.57,
+      "discount_pct": 20,
+      "line_total": 1336.91
     }
   ],
-  "subtotal": 74619.19,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 15670.03,
+  "subtotal": 159045.55,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 7952.28,
   "shipping_amount": 0.0,
-  "total_due": 90289.22,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "total_due": 166997.83,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,

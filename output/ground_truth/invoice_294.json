@@ -1,17 +1,17 @@
 {
   "id": 294,
   "filename": "invoice_294.pdf",
-  "layout_style": "creative",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
   "invoice_number": "BILL-85672",
-  "issue_date": "02/11/2024",
-  "due_date": "11/09/2024",
-  "payment_terms": "Net 7",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": null,
+  "issue_date": "19 June 2024",
+  "due_date": "2024-07-03",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-51523",
   "seller_name": "Oasis Events Co.",
   "seller_address": "55 Palm Boulevard Dubai UAE",
   "seller_email": "events@oasisevents.ae",
@@ -23,80 +23,80 @@
   "num_line_items": 7,
   "line_items": [
     {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 2763.91,
-      "discount_pct": 10,
-      "line_total": 2487.52
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 531.0,
-      "discount_pct": 0,
-      "line_total": 13275.0
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 293.19,
-      "discount_pct": 15,
-      "line_total": 498.42
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1622.99,
-      "discount_pct": 20,
-      "line_total": 6491.96
-    },
-    {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 25,
-      "unit_price": 818.13,
-      "discount_pct": 0,
-      "line_total": 20453.25
+      "quantity": 50,
+      "unit_price": 270.73,
+      "discount_pct": 20,
+      "line_total": 10829.2
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 14796.93,
-      "discount_pct": 5,
-      "line_total": 42171.25
+      "quantity": 2,
+      "unit_price": 10660.87,
+      "discount_pct": 15,
+      "line_total": 18123.48
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
+      "quantity": 5,
+      "unit_price": 2724.34,
+      "discount_pct": 20,
+      "line_total": 10897.36
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 12044.65,
+      "discount_pct": 0,
+      "line_total": 301116.25
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 9851.6,
+      "discount_pct": 5,
+      "line_total": 28077.06
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
       "quantity": 1,
-      "unit_price": 3089.09,
+      "unit_price": 800.74,
       "discount_pct": 15,
-      "line_total": 2625.73
+      "line_total": 680.63
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4709.26,
+      "discount_pct": 10,
+      "line_total": 4238.33
     }
   ],
-  "subtotal": 88003.13,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 8800.31,
+  "subtotal": 373962.31,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 56094.35,
   "shipping_amount": 0.0,
-  "total_due": 96803.44,
-  "notes": null,
+  "total_due": 430056.66,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

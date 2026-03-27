@@ -2,15 +2,15 @@
   "id": 413,
   "filename": "invoice_413.pdf",
   "layout_style": "two_tone",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 0,
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "BILL-57833",
-  "issue_date": "01-Apr-2024",
-  "due_date": "2024-05-16",
-  "payment_terms": "Immediate",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "23/12/2023",
+  "due_date": "March 22 2024",
+  "payment_terms": "Net 90",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": null,
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
@@ -20,47 +20,135 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 3,
+  "num_line_items": 14,
   "line_items": [
     {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 228.76,
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1812.46,
+      "discount_pct": 10,
+      "line_total": 81560.7
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 747.75,
       "discount_pct": 0,
-      "line_total": 228.76
+      "line_total": 2243.25
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1573.0,
+      "discount_pct": 5,
+      "line_total": 1494.35
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 247.23,
-      "discount_pct": 0,
-      "line_total": 247.23
+      "quantity": 25,
+      "unit_price": 204.62,
+      "discount_pct": 15,
+      "line_total": 4348.18
     },
     {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1084.72,
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 45540.8,
       "discount_pct": 0,
-      "line_total": 2169.44
+      "line_total": 45540.8
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 129.61,
+      "discount_pct": 0,
+      "line_total": 129.61
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 9122.8,
+      "discount_pct": 20,
+      "line_total": 36491.2
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 97.82,
+      "discount_pct": 20,
+      "line_total": 1956.4
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 228.4,
+      "discount_pct": 0,
+      "line_total": 685.2
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 963.76,
+      "discount_pct": 0,
+      "line_total": 2891.28
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 127.94,
+      "discount_pct": 20,
+      "line_total": 5117.6
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 403.87,
+      "discount_pct": 20,
+      "line_total": 16154.8
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 510.44,
+      "discount_pct": 0,
+      "line_total": 5104.4
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1179.5,
+      "discount_pct": 0,
+      "line_total": 29487.5
     }
   ],
-  "subtotal": 2645.43,
+  "subtotal": 233205.27,
   "tax_label": "No Tax",
   "tax_rate_pct": 0.0,
   "tax_amount": 0.0,
-  "shipping_amount": 0.0,
-  "total_due": 2645.43,
-  "notes": "Please retain this invoice for your accounting records.",
+  "shipping_amount": 260.17,
+  "total_due": 233465.44,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
   "has_bank_details": false,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": false
 }

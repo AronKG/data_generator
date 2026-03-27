@@ -1,17 +1,17 @@
 {
   "id": 132,
   "filename": "invoice_132.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 9,
+  "color_palette_index": 3,
   "invoice_number": "PROFORMA/2024/75763",
-  "issue_date": "May 17 2023",
-  "due_date": "2023-07-16",
-  "payment_terms": "2/10 Net 30",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-78877",
+  "issue_date": "03-Apr-2024",
+  "due_date": "04/10/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-50912",
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
   "seller_email": "orders@greenleaforganics.com",
@@ -20,140 +20,172 @@
   "client_name": "Vivid Apparel Group",
   "client_address": "7th Ave New York NY 10018 USA",
   "client_email": "ap@vividapparel.com",
-  "num_line_items": 14,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 1689.16,
-      "discount_pct": 0,
-      "line_total": 42229.0
-    },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 19734.23,
-      "discount_pct": 0,
-      "line_total": 986711.5
+      "quantity": 1,
+      "unit_price": 19315.59,
+      "discount_pct": 5,
+      "line_total": 18349.81
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5790.65,
-      "discount_pct": 5,
-      "line_total": 5501.12
+      "unit_price": 2719.68,
+      "discount_pct": 15,
+      "line_total": 2311.73
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 74.3,
+      "quantity": 3,
+      "unit_price": 143.38,
       "discount_pct": 15,
-      "line_total": 63.15
+      "line_total": 365.62
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 2372.04,
-      "discount_pct": 15,
-      "line_total": 6048.7
+      "quantity": 50,
+      "unit_price": 1927.98,
+      "discount_pct": 0,
+      "line_total": 96399.0
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 50,
-      "unit_price": 1515.87,
-      "discount_pct": 0,
-      "line_total": 75793.5
+      "quantity": 3,
+      "unit_price": 674.91,
+      "discount_pct": 20,
+      "line_total": 1619.78
     },
     {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1621.64,
-      "discount_pct": 20,
-      "line_total": 3891.94
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2298.76,
+      "discount_pct": 5,
+      "line_total": 2183.82
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4523.38,
-      "discount_pct": 5,
-      "line_total": 4297.21
+      "quantity": 50,
+      "unit_price": 3853.43,
+      "discount_pct": 15,
+      "line_total": 163770.77
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 37769.89,
-      "discount_pct": 15,
-      "line_total": 1605220.32
+      "unit_price": 45646.67,
+      "discount_pct": 10,
+      "line_total": 2054100.15
     },
     {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 9183.75,
-      "discount_pct": 10,
-      "line_total": 413268.75
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 54.22,
+      "discount_pct": 0,
+      "line_total": 542.2
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 223.04,
-      "discount_pct": 0,
-      "line_total": 2230.4
+      "quantity": 1,
+      "unit_price": 259.58,
+      "discount_pct": 15,
+      "line_total": 220.64
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 62.85,
-      "discount_pct": 15,
-      "line_total": 53.42
+      "quantity": 25,
+      "unit_price": 120.53,
+      "discount_pct": 10,
+      "line_total": 2711.93
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 25,
-      "unit_price": 837.39,
+      "quantity": 50,
+      "unit_price": 313.66,
       "discount_pct": 10,
-      "line_total": 18841.28
+      "line_total": 14114.7
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 455.74,
+      "quantity": 1,
+      "unit_price": 613.06,
       "discount_pct": 10,
-      "line_total": 20508.3
+      "line_total": 551.75
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 546.02,
+      "discount_pct": 15,
+      "line_total": 23205.85
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 161.32,
+      "discount_pct": 0,
+      "line_total": 161.32
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 125.61,
+      "discount_pct": 0,
+      "line_total": 6280.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 1442.61,
+      "discount_pct": 0,
+      "line_total": 2885.22
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 531.72,
+      "discount_pct": 0,
+      "line_total": 531.72
     }
   ],
-  "subtotal": 3184658.59,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 191079.52,
-  "shipping_amount": 28.47,
-  "total_due": 3375766.58,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "subtotal": 2390306.51,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 119515.33,
+  "shipping_amount": 0.0,
+  "total_due": 2509821.84,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

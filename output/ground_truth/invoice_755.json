@@ -1,17 +1,17 @@
 {
   "id": 755,
   "filename": "invoice_755.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "INVOICE/2023/68927",
-  "issue_date": "23-Aug-2024",
-  "due_date": "September 06 2024",
-  "payment_terms": "Net 60",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "August 23 2022",
+  "due_date": "30-Aug-2022",
+  "payment_terms": "Net 90",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-28840",
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,79 +20,159 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 7,
+  "num_line_items": 17,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 75.75,
-      "discount_pct": 15,
-      "line_total": 64.39
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 716.19,
-      "discount_pct": 20,
-      "line_total": 572.95
+      "unit_price": 2038.36,
+      "discount_pct": 5,
+      "line_total": 1936.44
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 104.73,
-      "discount_pct": 15,
-      "line_total": 267.06
+      "quantity": 2,
+      "unit_price": 54.33,
+      "discount_pct": 0,
+      "line_total": 108.66
     },
     {
       "description": "Web Development",
       "unit": "hrs",
       "quantity": 1,
-      "unit_price": 216.95,
-      "discount_pct": 5,
-      "line_total": 206.1
+      "unit_price": 219.01,
+      "discount_pct": 20,
+      "line_total": 175.21
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 181.09,
+      "quantity": 10,
+      "unit_price": 417.86,
       "discount_pct": 0,
-      "line_total": 362.18
+      "line_total": 4178.6
     },
     {
-      "description": "iOS App Dev",
+      "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 16806.91,
-      "discount_pct": 20,
-      "line_total": 13445.53
+      "quantity": 25,
+      "unit_price": 3553.52,
+      "discount_pct": 15,
+      "line_total": 75512.3
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 16201.19,
+      "quantity": 50,
+      "unit_price": 13848.54,
       "discount_pct": 0,
-      "line_total": 162011.9
+      "line_total": 692427.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1392.37,
+      "discount_pct": 0,
+      "line_total": 6961.85
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1024.94,
+      "discount_pct": 15,
+      "line_total": 871.2
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 508.98,
+      "discount_pct": 10,
+      "line_total": 458.08
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 438.95,
+      "discount_pct": 10,
+      "line_total": 395.06
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 287.01,
+      "discount_pct": 15,
+      "line_total": 243.96
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 688.54,
+      "discount_pct": 10,
+      "line_total": 30984.3
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1806.27,
+      "discount_pct": 10,
+      "line_total": 1625.64
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 586.69,
+      "discount_pct": 0,
+      "line_total": 586.69
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 5928.26,
+      "discount_pct": 20,
+      "line_total": 4742.61
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2891.02,
+      "discount_pct": 15,
+      "line_total": 7372.1
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 538.65,
+      "discount_pct": 20,
+      "line_total": 4309.2
     }
   ],
-  "subtotal": 176930.11,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 37155.32,
-  "shipping_amount": 0.0,
-  "total_due": 214085.43,
-  "notes": null,
+  "subtotal": 832888.9,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 58302.22,
+  "shipping_amount": 238.3,
+  "total_due": 891429.42,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": false,
+  "has_shipping": true,
+  "has_po_number": true,
   "has_tax": true
 }

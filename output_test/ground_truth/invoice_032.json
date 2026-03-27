@@ -1,0 +1,87 @@
+{
+  "id": 32,
+  "filename": "invoice_032.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "INV96654",
+  "issue_date": "December 12 2023",
+  "due_date": "12/26/2023",
+  "payment_terms": "End of Month",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-19734",
+  "seller_name": "MapleSoft Inc.",
+  "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
+  "seller_email": "ar@maplesoft.ca",
+  "seller_phone": "+1 416-555-0199",
+  "seller_tax_id": "GST/HST: 123456789 RT0001",
+  "client_name": "Apex Capital Advisors",
+  "client_address": "555 California St San Francisco CA 94104 USA",
+  "client_email": "invoices@apexcapital.com",
+  "num_line_items": 5,
+  "line_items": [
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1257.62,
+      "discount_pct": 0,
+      "line_total": 1257.62
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 242.67,
+      "discount_pct": 0,
+      "line_total": 485.34
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 822.34,
+      "discount_pct": 5,
+      "line_total": 19530.58
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9046.93,
+      "discount_pct": 0,
+      "line_total": 9046.93
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2681.37,
+      "discount_pct": 20,
+      "line_total": 10725.48
+    }
+  ],
+  "subtotal": 41045.95,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 41045.95,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
+}

@@ -1,16 +1,16 @@
 {
   "id": 646,
   "filename": "invoice_646.pdf",
-  "layout_style": "formal",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
   "invoice_number": "BILL52096",
-  "issue_date": "July 18 2024",
-  "due_date": "01/08/2024",
-  "payment_terms": "30 days from delivery",
-  "currency": "USD",
-  "currency_symbol": "$",
+  "issue_date": "20-Jul-2022",
+  "due_date": "08/04/2022",
+  "payment_terms": "Immediate",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,100 +20,167 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 9,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 3,
-      "unit_price": 246.87,
-      "discount_pct": 20,
-      "line_total": 592.49
-    },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 150.77,
+      "unit_price": 77.68,
       "discount_pct": 0,
-      "line_total": 150.77
+      "line_total": 77.68
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2364.95,
-      "discount_pct": 0,
-      "line_total": 59123.75
+      "quantity": 10,
+      "unit_price": 4482.58,
+      "discount_pct": 20,
+      "line_total": 35860.64
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 731.26,
-      "discount_pct": 20,
-      "line_total": 585.01
+      "quantity": 2,
+      "unit_price": 665.97,
+      "discount_pct": 0,
+      "line_total": 1331.94
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 7030.39,
-      "discount_pct": 20,
-      "line_total": 56243.12
+      "quantity": 1,
+      "unit_price": 10004.76,
+      "discount_pct": 0,
+      "line_total": 10004.76
     },
     {
-      "description": "iOS App Dev",
+      "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 8369.98,
-      "discount_pct": 0,
-      "line_total": 16739.96
+      "quantity": 1,
+      "unit_price": 2797.39,
+      "discount_pct": 15,
+      "line_total": 2377.78
     },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1654.65,
-      "discount_pct": 0,
-      "line_total": 1654.65
+      "unit_price": 1660.85,
+      "discount_pct": 10,
+      "line_total": 1494.76
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1450.24,
-      "discount_pct": 15,
-      "line_total": 1232.7
+      "quantity": 2,
+      "unit_price": 898.95,
+      "discount_pct": 0,
+      "line_total": 1797.9
     },
     {
       "description": "Web Development",
       "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 97.5,
+      "discount_pct": 15,
+      "line_total": 4143.75
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
       "quantity": 1,
-      "unit_price": 187.06,
+      "unit_price": 1114.74,
+      "discount_pct": 0,
+      "line_total": 1114.74
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 297.94,
+      "discount_pct": 0,
+      "line_total": 595.88
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 632.28,
       "discount_pct": 10,
-      "line_total": 168.35
+      "line_total": 1138.1
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 78.51,
+      "discount_pct": 5,
+      "line_total": 223.75
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 117.89,
+      "discount_pct": 5,
+      "line_total": 5599.77
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 6277.71,
+      "discount_pct": 20,
+      "line_total": 50221.68
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5676.21,
+      "discount_pct": 5,
+      "line_total": 53923.99
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 210.41,
+      "discount_pct": 0,
+      "line_total": 420.82
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1691.21,
+      "discount_pct": 5,
+      "line_total": 16066.49
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 283.7,
+      "discount_pct": 0,
+      "line_total": 283.7
     }
   ],
-  "subtotal": 136490.8,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 11260.49,
-  "shipping_amount": 101.63,
-  "total_due": 147852.92,
+  "subtotal": 186678.13,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 9333.91,
+  "shipping_amount": 0.0,
+  "total_due": 196012.04,
   "notes": "Please retain this invoice for your accounting records.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

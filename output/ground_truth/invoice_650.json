@@ -1,16 +1,16 @@
 {
   "id": 650,
   "filename": "invoice_650.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 5,
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
   "invoice_number": "TAX-INV-2024-16260",
-  "issue_date": "21/04/2023",
-  "due_date": "06/05/2023",
-  "payment_terms": "Net 15",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "October 16 2022",
+  "due_date": "October 30 2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
@@ -20,92 +20,51 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 8,
+  "num_line_items": 3,
   "line_items": [
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4759.14,
-      "discount_pct": 0,
-      "line_total": 23795.7
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
       "quantity": 1,
-      "unit_price": 1779.59,
+      "unit_price": 1473.44,
       "discount_pct": 0,
-      "line_total": 1779.59
+      "line_total": 1473.44
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7798.85,
+      "quantity": 3,
+      "unit_price": 1298.14,
       "discount_pct": 0,
-      "line_total": 7798.85
+      "line_total": 3894.42
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 269.21,
-      "discount_pct": 0,
-      "line_total": 2692.1
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1639.54,
-      "discount_pct": 0,
-      "line_total": 81977.0
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2956.07,
-      "discount_pct": 10,
-      "line_total": 26604.63
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 10,
-      "unit_price": 9886.54,
-      "discount_pct": 10,
-      "line_total": 88978.86
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
       "quantity": 3,
-      "unit_price": 110.64,
-      "discount_pct": 10,
-      "line_total": 298.73
+      "unit_price": 200.62,
+      "discount_pct": 0,
+      "line_total": 601.86
     }
   ],
-  "subtotal": 233925.46,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 46785.09,
-  "shipping_amount": 131.57,
-  "total_due": 280842.12,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "subtotal": 5969.72,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 298.49,
+  "shipping_amount": 0.0,
+  "total_due": 6268.21,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

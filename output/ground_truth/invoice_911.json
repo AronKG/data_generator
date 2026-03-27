@@ -1,17 +1,17 @@
 {
   "id": 911,
   "filename": "invoice_911.pdf",
-  "layout_style": "formal",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
   "invoice_number": "INV-2022-70898",
-  "issue_date": "23/01/2023",
-  "due_date": "2023-02-22",
-  "payment_terms": "End of Month",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-44994",
+  "issue_date": "25/09/2023",
+  "due_date": "24/12/2023",
+  "payment_terms": "Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
   "seller_email": "ar@maplesoft.ca",
@@ -20,23 +20,15 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 14,
+  "num_line_items": 16,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 666.83,
-      "discount_pct": 5,
-      "line_total": 15837.21
-    },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 566.01,
+      "quantity": 25,
+      "unit_price": 334.83,
       "discount_pct": 5,
-      "line_total": 1075.42
+      "line_total": 7952.21
     },
     {
       "description": "Training Workshop",
@@ -95,12 +87,12 @@
       "line_total": 413.8
     },
     {
-      "description": "Content Writing",
-      "unit": "pg",
+      "description": "Legal Consultation",
+      "unit": "hr",
       "quantity": 10,
-      "unit_price": 80.43,
+      "unit_price": 150.61,
       "discount_pct": 10,
-      "line_total": 723.87
+      "line_total": 1355.49
     },
     {
       "description": "Print Materials",
@@ -119,12 +111,12 @@
       "line_total": 46066.4
     },
     {
-      "description": "BI Reporting",
+      "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1523.57,
+      "unit_price": 3188.66,
       "discount_pct": 5,
-      "line_total": 1447.39
+      "line_total": 3029.23
     },
     {
       "description": "Cloud Hosting",
@@ -133,22 +125,46 @@
       "unit_price": 319.37,
       "discount_pct": 0,
       "line_total": 319.37
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1027.53,
+      "discount_pct": 15,
+      "line_total": 1746.8
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 58.04,
+      "discount_pct": 0,
+      "line_total": 174.12
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 209.47,
+      "discount_pct": 0,
+      "line_total": 628.41
     }
   ],
-  "subtotal": 149292.79,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 12316.66,
+  "subtotal": 145095.16,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 7254.76,
   "shipping_amount": 0.0,
-  "total_due": 161609.45,
+  "total_due": 152349.92,
   "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

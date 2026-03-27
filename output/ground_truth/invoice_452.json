@@ -1,16 +1,16 @@
 {
   "id": 452,
   "filename": "invoice_452.pdf",
-  "layout_style": "formal",
+  "layout_style": "bold_header",
   "page_size": "A4",
   "complexity_tier": "medium",
   "color_palette_index": 4,
   "invoice_number": "BILL-54647",
-  "issue_date": "29-Apr-2022",
-  "due_date": "13 June 2022",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "29-Nov-2023",
+  "due_date": "28/01/2024",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,23 +20,23 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 6,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 2244.76,
-      "discount_pct": 0,
-      "line_total": 4489.52
-    },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 5257.2,
-      "discount_pct": 15,
-      "line_total": 44686.2
+      "quantity": 3,
+      "unit_price": 4131.0,
+      "discount_pct": 5,
+      "line_total": 11773.35
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 627.68,
+      "discount_pct": 10,
+      "line_total": 14122.8
     },
     {
       "description": "Office Supplies",
@@ -69,25 +69,29 @@
       "unit_price": 6822.72,
       "discount_pct": 5,
       "line_total": 6481.58
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 103.15,
+      "discount_pct": 0,
+      "line_total": 309.45
     }
   ],
-  "subtotal": 341966.15,
+  "subtotal": 318996.03,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 64973.57,
+  "tax_amount": 60609.25,
   "shipping_amount": 0.0,
-  "total_due": 406939.72,
-  "notes": "Thank you for your business. We value our long-term partnership.",
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "total_due": 379605.28,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

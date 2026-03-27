@@ -1,17 +1,17 @@
 {
   "id": 436,
   "filename": "invoice_436.pdf",
-  "layout_style": "modern",
+  "layout_style": "classic",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 1,
+  "color_palette_index": 10,
   "invoice_number": "078273",
-  "issue_date": "22-Aug-2024",
-  "due_date": "06/09/2024",
-  "payment_terms": "Net 60",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-17748",
+  "issue_date": "26-Dec-2022",
+  "due_date": "09-Jan-2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-21707",
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
   "seller_email": "ar@ironcoremfg.com",
@@ -20,39 +20,31 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 8,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 510.91,
-      "discount_pct": 10,
-      "line_total": 459.82
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 2049.8,
-      "discount_pct": 10,
-      "line_total": 9224.1
+      "quantity": 50,
+      "unit_price": 1877.33,
+      "discount_pct": 20,
+      "line_total": 75093.2
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 1392.14,
+      "quantity": 25,
+      "unit_price": 2539.43,
       "discount_pct": 0,
-      "line_total": 1392.14
+      "line_total": 63485.75
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 3312.4,
+      "quantity": 5,
+      "unit_price": 3612.71,
       "discount_pct": 0,
-      "line_total": 33124.0
+      "line_total": 18063.55
     },
     {
       "description": "Tech Writing",
@@ -85,26 +77,43 @@
       "unit_price": 5314.42,
       "discount_pct": 0,
       "line_total": 132860.5
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2201.32,
+      "discount_pct": 0,
+      "line_total": 11006.6
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 10471.46,
+      "discount_pct": 5,
+      "line_total": 248697.17
     }
   ],
-  "subtotal": 188746.55,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 13212.26,
-  "shipping_amount": 0.0,
-  "total_due": 201958.81,
-  "notes": "This document is strictly private and confidential.",
+  "subtotal": 560892.76,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 33653.57,
+  "shipping_amount": 45.19,
+  "total_due": 594591.52,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": true,
   "has_tax": true
 }

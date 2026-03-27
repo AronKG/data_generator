@@ -1,14 +1,14 @@
 {
   "id": 80,
   "filename": "invoice_080.pdf",
-  "layout_style": "modern",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 6,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "PROFORMA94192",
-  "issue_date": "05/05/2022",
-  "due_date": "05/20/2022",
-  "payment_terms": "Cash on Delivery",
+  "issue_date": "15-Oct-2022",
+  "due_date": "2022-10-29",
+  "payment_terms": "End of Month",
   "currency": "HKD",
   "currency_symbol": "HK$",
   "po_number": null,
@@ -20,87 +20,212 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 8,
+  "num_line_items": 23,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1181.71,
-      "discount_pct": 0,
-      "line_total": 1181.71
-    },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 118.05,
-      "discount_pct": 15,
-      "line_total": 501.71
+      "quantity": 3,
+      "unit_price": 261.98,
+      "discount_pct": 0,
+      "line_total": 785.94
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1841.83,
-      "discount_pct": 5,
-      "line_total": 5249.22
+      "quantity": 10,
+      "unit_price": 2415.16,
+      "discount_pct": 0,
+      "line_total": 24151.6
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 392.83,
+      "quantity": 5,
+      "unit_price": 367.14,
       "discount_pct": 15,
-      "line_total": 333.91
+      "line_total": 1560.34
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 290.99,
-      "discount_pct": 15,
-      "line_total": 1236.71
+      "quantity": 10,
+      "unit_price": 1977.1,
+      "discount_pct": 20,
+      "line_total": 15816.8
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2285.75,
-      "discount_pct": 0,
-      "line_total": 6857.25
+      "quantity": 1,
+      "unit_price": 1493.43,
+      "discount_pct": 20,
+      "line_total": 1194.74
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 848.37,
-      "discount_pct": 0,
-      "line_total": 8483.7
+      "quantity": 3,
+      "unit_price": 610.56,
+      "discount_pct": 5,
+      "line_total": 1740.1
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 10426.67,
+      "quantity": 3,
+      "unit_price": 6084.56,
+      "discount_pct": 0,
+      "line_total": 18253.68
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1941.46,
+      "discount_pct": 5,
+      "line_total": 1844.39
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 5993.62,
       "discount_pct": 15,
-      "line_total": 44313.35
+      "line_total": 50945.77
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 561.68,
+      "discount_pct": 0,
+      "line_total": 1123.36
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 14935.9,
+      "discount_pct": 10,
+      "line_total": 26884.62
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 138.41,
+      "discount_pct": 10,
+      "line_total": 124.57
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 345.06,
+      "discount_pct": 0,
+      "line_total": 345.06
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 110.31,
+      "discount_pct": 10,
+      "line_total": 297.84
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 6856.66,
+      "discount_pct": 15,
+      "line_total": 11656.32
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 381.58,
+      "discount_pct": 20,
+      "line_total": 1526.32
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 950.87,
+      "discount_pct": 10,
+      "line_total": 42789.15
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 375.08,
+      "discount_pct": 20,
+      "line_total": 15003.2
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 803.44,
+      "discount_pct": 0,
+      "line_total": 40172.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 38310.94,
+      "discount_pct": 0,
+      "line_total": 957773.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 595.25,
+      "discount_pct": 0,
+      "line_total": 29762.5
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 959.92,
+      "discount_pct": 10,
+      "line_total": 8639.28
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 137.84,
+      "discount_pct": 0,
+      "line_total": 1378.4
     }
   ],
-  "subtotal": 68157.56,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 4089.45,
-  "shipping_amount": 0.0,
-  "total_due": 72247.01,
-  "notes": "Please retain this invoice for your accounting records.",
-  "bank_details": null,
+  "subtotal": 1253769.48,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 125376.95,
+  "shipping_amount": 25.7,
+  "total_due": 1379172.13,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

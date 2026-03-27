@@ -1,17 +1,17 @@
 {
   "id": 792,
   "filename": "invoice_792.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "PROFORMA/2022/20631",
-  "issue_date": "19 February 2022",
-  "due_date": "26/02/2022",
-  "payment_terms": "Due on Receipt",
+  "issue_date": "28-Jan-2022",
+  "due_date": "02/18/2022",
+  "payment_terms": "Immediate",
   "currency": "AUD",
   "currency_symbol": "A$",
-  "po_number": null,
+  "po_number": "PO-11835",
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,83 +20,107 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 7,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 12551.05,
-      "discount_pct": 20,
-      "line_total": 10040.84
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8431.1,
-      "discount_pct": 10,
-      "line_total": 7587.99
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1544.37,
-      "discount_pct": 15,
-      "line_total": 3938.14
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 2009.51,
-      "discount_pct": 20,
-      "line_total": 3215.22
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 2,
-      "unit_price": 788.5,
-      "discount_pct": 0,
-      "line_total": 1577.0
-    },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3881.76,
+      "quantity": 2,
+      "unit_price": 2204.23,
       "discount_pct": 0,
-      "line_total": 3881.76
+      "line_total": 4408.46
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 410.28,
+      "unit_price": 762.93,
       "discount_pct": 0,
-      "line_total": 410.28
+      "line_total": 762.93
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 201.7,
+      "discount_pct": 0,
+      "line_total": 201.7
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 16391.64,
+      "discount_pct": 0,
+      "line_total": 16391.64
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1028.12,
+      "discount_pct": 20,
+      "line_total": 20562.4
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1418.66,
+      "discount_pct": 15,
+      "line_total": 6029.31
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1861.75,
+      "discount_pct": 15,
+      "line_total": 7912.44
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 303.82,
+      "discount_pct": 15,
+      "line_total": 258.25
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2380.13,
+      "discount_pct": 0,
+      "line_total": 4760.26
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1045.85,
+      "discount_pct": 20,
+      "line_total": 4183.4
     }
   ],
-  "subtotal": 30651.23,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 1839.07,
+  "subtotal": 65470.79,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 5401.34,
   "shipping_amount": 0.0,
-  "total_due": 32490.3,
-  "notes": null,
+  "total_due": 70872.13,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

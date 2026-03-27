@@ -2,16 +2,16 @@
   "id": 1000,
   "filename": "invoice_1000.pdf",
   "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
   "invoice_number": "INV-51783",
-  "issue_date": "30-Jun-2024",
-  "due_date": "July 07 2024",
-  "payment_terms": "Net 45",
+  "issue_date": "19-Feb-2022",
+  "due_date": "March 06 2022",
+  "payment_terms": "Net 30",
   "currency": "AUD",
   "currency_symbol": "A$",
-  "po_number": "PO-40232",
+  "po_number": null,
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
   "seller_email": "billing@tesseractlabs.com",
@@ -20,31 +20,15 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 7,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 76.84,
-      "discount_pct": 0,
-      "line_total": 384.2
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 7386.07,
-      "discount_pct": 5,
-      "line_total": 7016.77
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 45759.28,
-      "discount_pct": 0,
-      "line_total": 137277.84
+      "quantity": 25,
+      "unit_price": 2678.81,
+      "discount_pct": 15,
+      "line_total": 56924.71
     },
     {
       "description": "Photography Session",
@@ -63,40 +47,112 @@
       "line_total": 2012.31
     },
     {
-      "description": "Mobile App Dev",
+      "description": "iOS App Dev",
       "unit": "ea",
       "quantity": 5,
-      "unit_price": 6511.33,
+      "unit_price": 8899.43,
       "discount_pct": 5,
-      "line_total": 30928.82
+      "line_total": 42272.29
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6469.91,
+      "discount_pct": 0,
+      "line_total": 6469.91
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 71.26,
+      "unit_price": 149.94,
+      "discount_pct": 5,
+      "line_total": 142.44
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 557.13,
       "discount_pct": 0,
-      "line_total": 71.26
+      "line_total": 5571.3
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 230.86,
+      "discount_pct": 0,
+      "line_total": 5771.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 813.76,
+      "discount_pct": 0,
+      "line_total": 813.76
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 695.99,
+      "discount_pct": 0,
+      "line_total": 6959.9
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1347.13,
+      "discount_pct": 5,
+      "line_total": 3839.32
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 303.15,
+      "discount_pct": 0,
+      "line_total": 303.15
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 628.4,
+      "discount_pct": 0,
+      "line_total": 628.4
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 343.45,
+      "discount_pct": 0,
+      "line_total": 1030.35
     }
   ],
-  "subtotal": 184612.5,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 36922.5,
-  "shipping_amount": 0.0,
-  "total_due": 221535.0,
-  "notes": null,
+  "subtotal": 139660.64,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 9776.24,
+  "shipping_amount": 249.31,
+  "total_due": 149686.19,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": false,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

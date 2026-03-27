@@ -1,0 +1,71 @@
+{
+  "id": 85,
+  "filename": "invoice_085.pdf",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
+  "invoice_number": "TAX-INV/2025/62754",
+  "issue_date": "10/02/2022",
+  "due_date": "09-Oct-2022",
+  "payment_terms": "Net 90",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
+  "seller_name": "Crimson and Co.",
+  "seller_address": "3 Rue de Rivoli 75001 Paris France",
+  "seller_email": "factures@crimsonco.fr",
+  "seller_phone": "+33 1 40 00 00 00",
+  "seller_tax_id": "SIRET: 123 456 789 00012",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 3,
+  "line_items": [
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14242.51,
+      "discount_pct": 0,
+      "line_total": 71212.55
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 216.78,
+      "discount_pct": 0,
+      "line_total": 216.78
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 901.32,
+      "discount_pct": 0,
+      "line_total": 4506.6
+    }
+  ],
+  "subtotal": 75935.93,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 6264.71,
+  "shipping_amount": 0.0,
+  "total_due": 82200.64,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

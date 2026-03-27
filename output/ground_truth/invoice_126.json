@@ -2,15 +2,15 @@
   "id": 126,
   "filename": "invoice_126.pdf",
   "layout_style": "sidebar",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 10,
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
   "invoice_number": "INVOICE-2023-66625",
-  "issue_date": "07/16/2024",
-  "due_date": "14-Sep-2024",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "14 April 2024",
+  "due_date": "May 05 2024",
+  "payment_terms": "Net 21",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Oasis Events Co.",
   "seller_address": "55 Palm Boulevard Dubai UAE",
@@ -20,103 +20,68 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 10,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 57.95,
-      "discount_pct": 0,
-      "line_total": 289.75
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3855.7,
-      "discount_pct": 20,
-      "line_total": 30845.6
+      "quantity": 1,
+      "unit_price": 3927.44,
+      "discount_pct": 0,
+      "line_total": 3927.44
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 488.97,
+      "quantity": 1,
+      "unit_price": 302.5,
       "discount_pct": 0,
-      "line_total": 2444.85
+      "line_total": 302.5
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 845.84,
-      "discount_pct": 0,
-      "line_total": 845.84
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1789.83,
+      "quantity": 2,
+      "unit_price": 2168.83,
       "discount_pct": 20,
-      "line_total": 14318.64
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8781.08,
-      "discount_pct": 0,
-      "line_total": 8781.08
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 301.39,
-      "discount_pct": 0,
-      "line_total": 301.39
+      "line_total": 3470.13
     },
     {
       "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1970.55,
+      "quantity": 10,
+      "unit_price": 1929.91,
+      "discount_pct": 20,
+      "line_total": 15439.28
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1067.32,
       "discount_pct": 0,
-      "line_total": 98527.5
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1440.81,
-      "discount_pct": 20,
-      "line_total": 57632.4
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3330.07,
-      "discount_pct": 20,
-      "line_total": 7992.17
+      "line_total": 5336.6
     }
   ],
-  "subtotal": 221979.22,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 18313.29,
-  "shipping_amount": 286.47,
-  "total_due": 240578.98,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": null,
+  "subtotal": 28475.95,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 1708.56,
+  "shipping_amount": 0.0,
+  "total_due": 30184.51,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
+  "has_bank_details": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

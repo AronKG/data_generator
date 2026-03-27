@@ -1,17 +1,17 @@
 {
   "id": 418,
   "filename": "invoice_418.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 10,
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
   "invoice_number": "2024-41118",
-  "issue_date": "24-Sep-2022",
-  "due_date": "08 October 2022",
-  "payment_terms": "30 days from delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": null,
+  "issue_date": "17/05/2022",
+  "due_date": "2022-05-31",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-60045",
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,79 +20,31 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 8,
+  "num_line_items": 2,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 47.14,
-      "discount_pct": 0,
-      "line_total": 235.7
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 1265.87,
+      "quantity": 1,
+      "unit_price": 1271.8,
       "discount_pct": 0,
-      "line_total": 3797.61
+      "line_total": 1271.8
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1618.31,
-      "discount_pct": 5,
-      "line_total": 76869.72
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1030.5,
+      "quantity": 1,
+      "unit_price": 2201.94,
       "discount_pct": 0,
-      "line_total": 5152.5
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 8773.85,
-      "discount_pct": 10,
-      "line_total": 394823.25
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 17140.9,
-      "discount_pct": 0,
-      "line_total": 51422.7
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 154.3,
-      "discount_pct": 0,
-      "line_total": 771.5
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 572.5,
-      "discount_pct": 0,
-      "line_total": 14312.5
+      "line_total": 2201.94
     }
   ],
-  "subtotal": 547385.48,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 45159.3,
+  "subtotal": 3473.74,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 347.37,
   "shipping_amount": 0.0,
-  "total_due": 592544.78,
+  "total_due": 3821.11,
   "notes": null,
   "bank_details": null,
   "has_logo": true,
@@ -101,6 +53,6 @@
   "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

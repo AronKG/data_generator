@@ -1,14 +1,14 @@
 {
   "id": 585,
   "filename": "invoice_585.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 1,
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
   "invoice_number": "PROFORMA17844",
-  "issue_date": "05/12/2023",
-  "due_date": "04 March 2024",
-  "payment_terms": "Net 45",
+  "issue_date": "August 05 2024",
+  "due_date": "2024-08-20",
+  "payment_terms": "Cash on Delivery",
   "currency": "AED",
   "currency_symbol": "AED",
   "po_number": null,
@@ -20,144 +20,104 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 16,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 1171.61,
-      "discount_pct": 15,
-      "line_total": 9958.68
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 4305.28,
-      "discount_pct": 15,
-      "line_total": 182974.4
+      "quantity": 2,
+      "unit_price": 2408.85,
+      "discount_pct": 20,
+      "line_total": 3854.16
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 167.62,
+      "quantity": 1,
+      "unit_price": 671.55,
       "discount_pct": 5,
-      "line_total": 1592.39
+      "line_total": 637.97
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1851.67,
+      "discount_pct": 0,
+      "line_total": 3703.34
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 5,
-      "unit_price": 1071.44,
+      "quantity": 10,
+      "unit_price": 144.19,
       "discount_pct": 5,
-      "line_total": 5089.34
+      "line_total": 1369.81
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 111.69,
-      "discount_pct": 20,
-      "line_total": 89.35
+      "quantity": 5,
+      "unit_price": 140.48,
+      "discount_pct": 5,
+      "line_total": 667.28
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 268.31,
-      "discount_pct": 0,
-      "line_total": 6707.75
+      "quantity": 1,
+      "unit_price": 149.3,
+      "discount_pct": 20,
+      "line_total": 119.44
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 20575.85,
+      "quantity": 25,
+      "unit_price": 46967.45,
       "discount_pct": 0,
-      "line_total": 20575.85
+      "line_total": 1174186.25
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1386.34,
-      "discount_pct": 15,
-      "line_total": 1178.39
+      "unit_price": 896.59,
+      "discount_pct": 0,
+      "line_total": 896.59
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1474.02,
-      "discount_pct": 20,
-      "line_total": 2358.43
+      "quantity": 1,
+      "unit_price": 1056.8,
+      "discount_pct": 15,
+      "line_total": 898.28
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6850.61,
-      "discount_pct": 0,
-      "line_total": 6850.61
+      "quantity": 2,
+      "unit_price": 19630.28,
+      "discount_pct": 20,
+      "line_total": 31408.45
     },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5499.69,
+      "unit_price": 5759.89,
       "discount_pct": 0,
-      "line_total": 5499.69
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 394.42,
-      "discount_pct": 5,
-      "line_total": 374.7
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1730.05,
-      "discount_pct": 5,
-      "line_total": 16435.47
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 436.78,
-      "discount_pct": 20,
-      "line_total": 3494.24
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 83.83,
-      "discount_pct": 10,
-      "line_total": 75.45
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 9362.43,
-      "discount_pct": 0,
-      "line_total": 234060.75
+      "line_total": 5759.89
     }
   ],
-  "subtotal": 497315.49,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 29838.93,
-  "shipping_amount": 206.57,
-  "total_due": 527360.99,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "subtotal": 1223501.46,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 159055.19,
+  "shipping_amount": 27.24,
+  "total_due": 1382583.89,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,

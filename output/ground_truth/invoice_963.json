@@ -2,16 +2,16 @@
   "id": 963,
   "filename": "invoice_963.pdf",
   "layout_style": "classic",
-  "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 1,
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
   "invoice_number": "TAX-INV61652",
-  "issue_date": "09/08/2024",
-  "due_date": "29-Sep-2024",
-  "payment_terms": "Net 7",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-18966",
+  "issue_date": "2023-04-28",
+  "due_date": "12-May-2023",
+  "payment_terms": "Net 90",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
   "seller_email": "accounts@mirageproductions.ae",
@@ -20,31 +20,227 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 1,
+  "num_line_items": 25,
   "line_items": [
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 25,
-      "unit_price": 1399.1,
+      "quantity": 1,
+      "unit_price": 7007.33,
+      "discount_pct": 5,
+      "line_total": 6656.96
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 244.76,
       "discount_pct": 0,
-      "line_total": 34977.5
+      "line_total": 12238.0
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1692.8,
+      "discount_pct": 0,
+      "line_total": 3385.6
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 362.49,
+      "discount_pct": 10,
+      "line_total": 1631.21
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 100.67,
+      "discount_pct": 20,
+      "line_total": 241.61
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1323.49,
+      "discount_pct": 0,
+      "line_total": 6617.45
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 113.92,
+      "discount_pct": 5,
+      "line_total": 541.12
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 307.54,
+      "discount_pct": 5,
+      "line_total": 876.49
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1186.89,
+      "discount_pct": 5,
+      "line_total": 28188.64
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1161.16,
+      "discount_pct": 0,
+      "line_total": 58058.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 5338.62,
+      "discount_pct": 5,
+      "line_total": 15215.07
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5565.35,
+      "discount_pct": 0,
+      "line_total": 11130.7
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 9202.55,
+      "discount_pct": 20,
+      "line_total": 14724.08
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 571.69,
+      "discount_pct": 20,
+      "line_total": 1372.06
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 38532.18,
+      "discount_pct": 0,
+      "line_total": 192660.9
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 3149.52,
+      "discount_pct": 0,
+      "line_total": 6299.04
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 584.64,
+      "discount_pct": 20,
+      "line_total": 935.42
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 788.87,
+      "discount_pct": 0,
+      "line_total": 788.87
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1667.56,
+      "discount_pct": 20,
+      "line_total": 66702.4
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3650.64,
+      "discount_pct": 10,
+      "line_total": 3285.58
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 2826.52,
+      "discount_pct": 10,
+      "line_total": 63596.7
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 453.61,
+      "discount_pct": 5,
+      "line_total": 430.93
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 985.35,
+      "discount_pct": 0,
+      "line_total": 4926.75
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1305.49,
+      "discount_pct": 5,
+      "line_total": 1240.22
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1234.52,
+      "discount_pct": 10,
+      "line_total": 3333.2
     }
   ],
-  "subtotal": 34977.5,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 1748.88,
-  "shipping_amount": 0.0,
-  "total_due": 36726.38,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": null,
+  "subtotal": 505077.0,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 95964.63,
+  "shipping_amount": 177.69,
+  "total_due": 601219.32,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

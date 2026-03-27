@@ -1,17 +1,17 @@
 {
   "id": 165,
   "filename": "invoice_165.pdf",
-  "layout_style": "compact",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "INVOICE-82291",
-  "issue_date": "24/07/2024",
-  "due_date": "31 July 2024",
+  "issue_date": "2022-05-06",
+  "due_date": "05 June 2022",
   "payment_terms": "50% upfront balance on delivery",
   "currency": "CAD",
   "currency_symbol": "CA$",
-  "po_number": null,
+  "po_number": "PO-59138",
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
   "seller_email": "studio@cobaltdigital.hk",
@@ -20,63 +20,143 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 5,
+  "num_line_items": 15,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1485.7,
-      "discount_pct": 0,
-      "line_total": 2971.4
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 13409.39,
+      "unit_price": 5381.87,
       "discount_pct": 0,
-      "line_total": 13409.39
+      "line_total": 5381.87
     },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 725.33,
-      "discount_pct": 10,
-      "line_total": 652.8
+      "unit_price": 791.35,
+      "discount_pct": 0,
+      "line_total": 791.35
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1112.39,
+      "quantity": 2,
+      "unit_price": 1471.74,
       "discount_pct": 0,
-      "line_total": 55619.5
+      "line_total": 2943.48
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 119.45,
+      "quantity": 1,
+      "unit_price": 452.03,
       "discount_pct": 0,
-      "line_total": 1194.5
+      "line_total": 452.03
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 144.23,
+      "discount_pct": 0,
+      "line_total": 1442.3
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 206.64,
+      "discount_pct": 0,
+      "line_total": 206.64
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1285.84,
+      "discount_pct": 0,
+      "line_total": 12858.4
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4164.43,
+      "discount_pct": 0,
+      "line_total": 208221.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 379.96,
+      "discount_pct": 5,
+      "line_total": 721.92
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 3894.38,
+      "discount_pct": 15,
+      "line_total": 165511.15
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1163.01,
+      "discount_pct": 10,
+      "line_total": 10467.09
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 219.79,
+      "discount_pct": 20,
+      "line_total": 351.66
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1054.16,
+      "discount_pct": 0,
+      "line_total": 26354.0
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 121.47,
+      "discount_pct": 0,
+      "line_total": 242.94
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 325.93,
+      "discount_pct": 0,
+      "line_total": 325.93
     }
   ],
-  "subtotal": 73847.59,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 4430.86,
+  "subtotal": 436272.26,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 87254.45,
   "shipping_amount": 0.0,
-  "total_due": 78278.45,
+  "total_due": 523526.71,
   "notes": "This document is strictly private and confidential.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
+  "has_discount_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

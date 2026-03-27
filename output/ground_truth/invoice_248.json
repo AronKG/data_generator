@@ -1,16 +1,16 @@
 {
   "id": 248,
   "filename": "invoice_248.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 6,
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
   "invoice_number": "BILL1292",
-  "issue_date": "June 11 2022",
-  "due_date": "26-Jul-2022",
-  "payment_terms": "Due on Receipt",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "issue_date": "11/19/2023",
+  "due_date": "04 December 2023",
+  "payment_terms": "Net 90",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,94 +20,74 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 9,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9461.81,
-      "discount_pct": 0,
-      "line_total": 9461.81
-    },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 208.07,
-      "discount_pct": 0,
-      "line_total": 10403.5
+      "quantity": 5,
+      "unit_price": 511.93,
+      "discount_pct": 5,
+      "line_total": 2431.67
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1804.55,
-      "discount_pct": 5,
-      "line_total": 1714.32
+      "unit_price": 1955.74,
+      "discount_pct": 0,
+      "line_total": 1955.74
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 1080.42,
-      "discount_pct": 15,
-      "line_total": 4591.78
+      "quantity": 50,
+      "unit_price": 812.62,
+      "discount_pct": 0,
+      "line_total": 40631.0
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 3950.42,
+      "quantity": 1,
+      "unit_price": 9022.77,
       "discount_pct": 5,
-      "line_total": 18764.49
+      "line_total": 8571.63
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 615.08,
-      "discount_pct": 5,
-      "line_total": 584.33
+      "quantity": 5,
+      "unit_price": 540.21,
+      "discount_pct": 15,
+      "line_total": 2295.89
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 3,
-      "unit_price": 5599.94,
-      "discount_pct": 20,
-      "line_total": 13439.86
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1176.68,
+      "quantity": 5,
+      "unit_price": 3614.33,
       "discount_pct": 5,
-      "line_total": 3353.54
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 152.03,
-      "discount_pct": 15,
-      "line_total": 1292.25
+      "line_total": 17168.07
     }
   ],
-  "subtotal": 63605.88,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 3816.35,
+  "subtotal": 73054.0,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 14610.8,
   "shipping_amount": 0.0,
-  "total_due": 67422.23,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": null,
+  "total_due": 87664.8,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

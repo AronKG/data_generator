@@ -1,16 +1,16 @@
 {
   "id": 356,
   "filename": "invoice_356.pdf",
-  "layout_style": "classic",
+  "layout_style": "bold_header",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 6,
+  "complexity_tier": "simple",
+  "color_palette_index": 12,
   "invoice_number": "REF/2022/26280",
-  "issue_date": "02-Jul-2023",
-  "due_date": "16-Jul-2023",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "08/03/2022",
+  "due_date": "August 24 2022",
+  "payment_terms": "Net 60",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
@@ -20,162 +20,30 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 17,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 25,
-      "unit_price": 71.0,
-      "discount_pct": 10,
-      "line_total": 1597.5
-    },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 50,
-      "unit_price": 218.43,
-      "discount_pct": 20,
-      "line_total": 8737.2
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 3,
-      "unit_price": 31.21,
-      "discount_pct": 0,
-      "line_total": 93.63
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 50,
-      "unit_price": 1149.33,
-      "discount_pct": 0,
-      "line_total": 57466.5
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 7194.18,
-      "discount_pct": 0,
-      "line_total": 359709.0
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3985.31,
-      "discount_pct": 10,
-      "line_total": 3586.78
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
       "quantity": 10,
-      "unit_price": 1071.04,
+      "unit_price": 122.19,
       "discount_pct": 0,
-      "line_total": 10710.4
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 3027.66,
-      "discount_pct": 0,
-      "line_total": 75691.5
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1452.87,
-      "discount_pct": 5,
-      "line_total": 2760.45
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 149.66,
-      "discount_pct": 0,
-      "line_total": 149.66
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 212.66,
-      "discount_pct": 0,
-      "line_total": 212.66
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1161.24,
-      "discount_pct": 0,
-      "line_total": 5806.2
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 270.69,
-      "discount_pct": 10,
-      "line_total": 12181.05
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 8246.44,
-      "discount_pct": 0,
-      "line_total": 82464.4
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 104.68,
-      "discount_pct": 0,
-      "line_total": 209.36
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 166.05,
-      "discount_pct": 0,
-      "line_total": 166.05
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 5,
-      "unit_price": 962.91,
-      "discount_pct": 0,
-      "line_total": 4814.55
+      "line_total": 1221.9
     }
   ],
-  "subtotal": 626356.89,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 119007.81,
+  "subtotal": 1221.9,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 100.81,
   "shipping_amount": 0.0,
-  "total_due": 745364.7,
-  "notes": "Please direct billing queries to our accounts department.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "total_due": 1322.71,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

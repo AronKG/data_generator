@@ -1,17 +1,17 @@
 {
   "id": 562,
   "filename": "invoice_562.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "sidebar",
+  "page_size": "letter",
   "complexity_tier": "very_complex",
-  "color_palette_index": 12,
+  "color_palette_index": 4,
   "invoice_number": "SI-2024-8459",
-  "issue_date": "2023-07-22",
-  "due_date": "21 August 2023",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": "PO-58186",
+  "issue_date": "12-Jul-2023",
+  "due_date": "2023-08-02",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-69831",
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,163 +20,228 @@
   "client_name": "Vivid Apparel Group",
   "client_address": "7th Ave New York NY 10018 USA",
   "client_email": "ap@vividapparel.com",
-  "num_line_items": 17,
+  "num_line_items": 25,
   "line_items": [
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 687.83,
-      "discount_pct": 20,
-      "line_total": 2751.32
+      "quantity": 10,
+      "unit_price": 416.09,
+      "discount_pct": 0,
+      "line_total": 4160.9
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 424.44,
+      "quantity": 1,
+      "unit_price": 678.05,
       "discount_pct": 0,
-      "line_total": 10611.0
+      "line_total": 678.05
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 10,
-      "unit_price": 380.62,
-      "discount_pct": 0,
-      "line_total": 3806.2
+      "quantity": 1,
+      "unit_price": 679.01,
+      "discount_pct": 10,
+      "line_total": 611.11
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 145.68,
+      "quantity": 2,
+      "unit_price": 104.13,
       "discount_pct": 0,
-      "line_total": 145.68
+      "line_total": 208.26
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1576.15,
-      "discount_pct": 10,
-      "line_total": 1418.54
+      "unit_price": 1188.8,
+      "discount_pct": 20,
+      "line_total": 951.04
     },
     {
       "description": "Video Production",
       "unit": "ea",
       "quantity": 2,
-      "unit_price": 2043.39,
+      "unit_price": 5240.17,
       "discount_pct": 0,
-      "line_total": 4086.78
+      "line_total": 10480.34
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 3037.82,
-      "discount_pct": 20,
-      "line_total": 2430.26
+      "unit_price": 5868.95,
+      "discount_pct": 10,
+      "line_total": 5282.06
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 24614.25,
-      "discount_pct": 0,
-      "line_total": 49228.5
+      "quantity": 1,
+      "unit_price": 5267.3,
+      "discount_pct": 20,
+      "line_total": 4213.84
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 146.98,
-      "discount_pct": 10,
-      "line_total": 132.28
+      "unit_price": 61.85,
+      "discount_pct": 20,
+      "line_total": 49.48
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2884.89,
-      "discount_pct": 20,
-      "line_total": 2307.91
+      "quantity": 10,
+      "unit_price": 9421.7,
+      "discount_pct": 5,
+      "line_total": 89506.15
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5449.98,
-      "discount_pct": 20,
-      "line_total": 4359.98
+      "quantity": 10,
+      "unit_price": 13482.81,
+      "discount_pct": 0,
+      "line_total": 134828.1
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 10,
-      "unit_price": 79.24,
-      "discount_pct": 5,
-      "line_total": 752.78
+      "quantity": 2,
+      "unit_price": 117.76,
+      "discount_pct": 10,
+      "line_total": 211.97
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 258.41,
-      "discount_pct": 0,
-      "line_total": 2584.1
+      "quantity": 5,
+      "unit_price": 119.85,
+      "discount_pct": 15,
+      "line_total": 509.36
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 784.69,
-      "discount_pct": 10,
-      "line_total": 1412.44
+      "quantity": 25,
+      "unit_price": 327.71,
+      "discount_pct": 15,
+      "line_total": 6963.84
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 855.17,
-      "discount_pct": 15,
-      "line_total": 3634.47
+      "quantity": 10,
+      "unit_price": 715.71,
+      "discount_pct": 5,
+      "line_total": 6799.24
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 6558.04,
-      "discount_pct": 15,
-      "line_total": 139358.35
+      "quantity": 2,
+      "unit_price": 8000.0,
+      "discount_pct": 20,
+      "line_total": 12800.0
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 168.76,
+      "quantity": 2,
+      "unit_price": 1156.1,
       "discount_pct": 5,
-      "line_total": 1603.22
+      "line_total": 2196.59
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 537.48,
+      "discount_pct": 5,
+      "line_total": 510.61
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 101.25,
+      "discount_pct": 10,
+      "line_total": 91.12
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 159.58,
+      "discount_pct": 0,
+      "line_total": 159.58
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1464.17,
+      "discount_pct": 0,
+      "line_total": 1464.17
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 107.27,
+      "discount_pct": 0,
+      "line_total": 214.54
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 427.1,
+      "discount_pct": 15,
+      "line_total": 18151.75
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2677.25,
+      "discount_pct": 5,
+      "line_total": 7630.16
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 483.93,
+      "discount_pct": 0,
+      "line_total": 483.93
     }
   ],
-  "subtotal": 230623.81,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 13837.43,
-  "shipping_amount": 190.8,
-  "total_due": 244652.04,
+  "subtotal": 309156.19,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 15457.81,
+  "shipping_amount": 0.0,
+  "total_due": 324614.0,
   "notes": null,
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

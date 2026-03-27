@@ -1,16 +1,16 @@
 {
   "id": 759,
   "filename": "invoice_759.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
   "invoice_number": "064667",
-  "issue_date": "04/11/2022",
-  "due_date": "July 10 2022",
-  "payment_terms": "Net 45",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "issue_date": "12-Jul-2024",
+  "due_date": "26/08/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
@@ -20,67 +20,139 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 5,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 341.11,
-      "discount_pct": 5,
-      "line_total": 972.16
-    },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 185.66,
+      "quantity": 50,
+      "unit_price": 216.25,
       "discount_pct": 20,
-      "line_total": 445.58
+      "line_total": 8650.0
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 488.81,
-      "discount_pct": 10,
-      "line_total": 439.93
+      "quantity": 25,
+      "unit_price": 748.7,
+      "discount_pct": 15,
+      "line_total": 15909.88
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1441.67,
-      "discount_pct": 20,
-      "line_total": 57666.8
+      "quantity": 2,
+      "unit_price": 741.01,
+      "discount_pct": 10,
+      "line_total": 1333.82
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
+      "quantity": 1,
+      "unit_price": 3843.84,
+      "discount_pct": 0,
+      "line_total": 3843.84
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 3313.66,
+      "discount_pct": 20,
+      "line_total": 2650.93
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
       "quantity": 25,
-      "unit_price": 5307.48,
+      "unit_price": 19966.71,
+      "discount_pct": 20,
+      "line_total": 399334.2
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8892.9,
+      "discount_pct": 0,
+      "line_total": 8892.9
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 153.57,
       "discount_pct": 15,
-      "line_total": 112783.95
+      "line_total": 652.67
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 908.17,
+      "discount_pct": 20,
+      "line_total": 2179.61
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 865.04,
+      "discount_pct": 10,
+      "line_total": 2335.61
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1850.93,
+      "discount_pct": 10,
+      "line_total": 83291.85
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 792.88,
+      "discount_pct": 0,
+      "line_total": 792.88
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 524.26,
+      "discount_pct": 10,
+      "line_total": 471.83
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 589.66,
+      "discount_pct": 0,
+      "line_total": 2948.3
     }
   ],
-  "subtotal": 172308.42,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 14215.44,
+  "subtotal": 533288.32,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 186523.86,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 533288.32,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": true
+  "has_tax": false
 }

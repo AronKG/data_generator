@@ -1,17 +1,17 @@
 {
   "id": 290,
   "filename": "invoice_290.pdf",
-  "layout_style": "modern",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 0,
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
   "invoice_number": "PROFORMA/2025/97905",
-  "issue_date": "11/04/2023",
-  "due_date": "19/11/2023",
-  "payment_terms": "Net 15",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "30/11/2022",
+  "due_date": "14-Jan-2023",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-31775",
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
   "seller_email": "faktura@fjordanalytics.no",
@@ -20,175 +20,124 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 19,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 10155.81,
-      "discount_pct": 0,
-      "line_total": 10155.81
-    },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1939.88,
-      "discount_pct": 0,
-      "line_total": 5819.64
+      "quantity": 10,
+      "unit_price": 2442.8,
+      "discount_pct": 5,
+      "line_total": 23206.6
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 258.16,
+      "quantity": 50,
+      "unit_price": 275.15,
       "discount_pct": 0,
-      "line_total": 258.16
+      "line_total": 13757.5
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 12233.89,
-      "discount_pct": 10,
-      "line_total": 22021.0
+      "quantity": 1,
+      "unit_price": 5961.95,
+      "discount_pct": 0,
+      "line_total": 5961.95
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 6292.89,
-      "discount_pct": 15,
-      "line_total": 10697.91
+      "quantity": 1,
+      "unit_price": 1551.41,
+      "discount_pct": 20,
+      "line_total": 1241.13
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 391.63,
-      "discount_pct": 0,
-      "line_total": 1958.15
+      "quantity": 1,
+      "unit_price": 147.07,
+      "discount_pct": 10,
+      "line_total": 132.36
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 435.2,
-      "discount_pct": 10,
-      "line_total": 391.68
+      "quantity": 2,
+      "unit_price": 824.27,
+      "discount_pct": 15,
+      "line_total": 1401.26
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 672.66,
-      "discount_pct": 10,
-      "line_total": 605.39
+      "quantity": 5,
+      "unit_price": 1463.39,
+      "discount_pct": 0,
+      "line_total": 7316.95
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 656.5,
-      "discount_pct": 0,
-      "line_total": 656.5
+      "unit_price": 370.41,
+      "discount_pct": 10,
+      "line_total": 333.37
     },
     {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 2,
-      "unit_price": 88.96,
-      "discount_pct": 15,
-      "line_total": 151.23
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 653.43,
-      "discount_pct": 20,
-      "line_total": 13068.6
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7317.57,
+      "discount_pct": 10,
+      "line_total": 6585.81
     },
     {
       "description": "Software License",
       "unit": "seat",
       "quantity": 1,
-      "unit_price": 1842.63,
+      "unit_price": 4276.23,
       "discount_pct": 0,
-      "line_total": 1842.63
+      "line_total": 4276.23
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 50,
-      "unit_price": 80.52,
-      "discount_pct": 20,
-      "line_total": 3220.8
+      "quantity": 2,
+      "unit_price": 102.62,
+      "discount_pct": 15,
+      "line_total": 174.45
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 260.82,
-      "discount_pct": 0,
-      "line_total": 13041.0
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 823.67,
-      "discount_pct": 0,
-      "line_total": 823.67
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1247.66,
-      "discount_pct": 0,
-      "line_total": 12476.6
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
       "quantity": 25,
-      "unit_price": 287.35,
-      "discount_pct": 10,
-      "line_total": 6465.38
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 34927.39,
-      "discount_pct": 0,
-      "line_total": 174636.95
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 593.35,
-      "discount_pct": 0,
-      "line_total": 593.35
+      "unit_price": 498.53,
+      "discount_pct": 20,
+      "line_total": 9970.6
     }
   ],
-  "subtotal": 278884.45,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 23007.97,
-  "shipping_amount": 0.0,
-  "total_due": 301892.42,
+  "subtotal": 74358.21,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 14871.64,
+  "shipping_amount": 269.18,
+  "total_due": 89499.03,
   "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
   "has_tax": true
 }

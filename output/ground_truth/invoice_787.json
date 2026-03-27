@@ -1,16 +1,16 @@
 {
   "id": 787,
   "filename": "invoice_787.pdf",
-  "layout_style": "creative",
+  "layout_style": "formal",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 0,
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
   "invoice_number": "INV-69671",
-  "issue_date": "June 24 2023",
-  "due_date": "2023-09-22",
-  "payment_terms": "Net 7",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "09/01/2024",
+  "due_date": "2024-10-16",
+  "payment_terms": "30 days from delivery",
+  "currency": "SEK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
@@ -20,167 +20,111 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 19,
+  "num_line_items": 12,
   "line_items": [
     {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1647.05,
-      "discount_pct": 5,
-      "line_total": 1564.7
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 62.14,
-      "discount_pct": 15,
-      "line_total": 105.64
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 742.54,
+      "discount_pct": 0,
+      "line_total": 7425.4
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 3,
-      "unit_price": 7878.41,
-      "discount_pct": 15,
-      "line_total": 20089.95
+      "quantity": 1,
+      "unit_price": 6039.65,
+      "discount_pct": 0,
+      "line_total": 6039.65
     },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 4758.39,
-      "discount_pct": 15,
-      "line_total": 101115.79
+      "unit_price": 4662.4,
+      "discount_pct": 10,
+      "line_total": 104904.0
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 319.47,
-      "discount_pct": 5,
-      "line_total": 15174.83
+      "quantity": 3,
+      "unit_price": 328.54,
+      "discount_pct": 15,
+      "line_total": 837.78
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 1864.63,
-      "discount_pct": 0,
-      "line_total": 1864.63
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 190.33,
-      "discount_pct": 10,
-      "line_total": 342.59
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 2,
-      "unit_price": 109.49,
-      "discount_pct": 20,
-      "line_total": 175.18
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
       "quantity": 25,
-      "unit_price": 173.58,
-      "discount_pct": 0,
-      "line_total": 4339.5
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 132.14,
+      "unit_price": 1478.99,
       "discount_pct": 15,
-      "line_total": 2807.97
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1323.17,
-      "discount_pct": 15,
-      "line_total": 1124.69
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 3,
-      "unit_price": 70.44,
-      "discount_pct": 20,
-      "line_total": 169.06
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 195.01,
-      "discount_pct": 10,
-      "line_total": 351.02
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 2268.91,
-      "discount_pct": 0,
-      "line_total": 11344.55
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1719.85,
-      "discount_pct": 20,
-      "line_total": 34397.0
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1835.75,
-      "discount_pct": 20,
-      "line_total": 14686.0
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 50,
-      "unit_price": 249.23,
-      "discount_pct": 10,
-      "line_total": 11215.35
+      "line_total": 31428.54
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 19366.52,
-      "discount_pct": 10,
-      "line_total": 17429.87
+      "quantity": 50,
+      "unit_price": 15722.11,
+      "discount_pct": 5,
+      "line_total": 746800.22
     },
     {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 6999.48,
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 56.61,
+      "discount_pct": 0,
+      "line_total": 56.61
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 195.46,
+      "discount_pct": 10,
+      "line_total": 351.83
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1800.92,
       "discount_pct": 20,
-      "line_total": 55995.84
+      "line_total": 2881.47
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 694.67,
+      "discount_pct": 0,
+      "line_total": 17366.75
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 71.28,
+      "discount_pct": 15,
+      "line_total": 1514.7
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 543.16,
+      "discount_pct": 15,
+      "line_total": 461.69
     }
   ],
-  "subtotal": 294294.16,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 20600.59,
-  "shipping_amount": 80.89,
-  "total_due": 314975.64,
+  "subtotal": 920068.64,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 174813.04,
+  "shipping_amount": 0.0,
+  "total_due": 1094881.68,
   "notes": null,
   "bank_details": {
     "Bank": "Emirates NBD",
@@ -189,10 +133,10 @@
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 470,
   "filename": "invoice_470.pdf",
-  "layout_style": "classic",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 14,
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
   "invoice_number": "BILL-2023-21546",
-  "issue_date": "July 07 2023",
-  "due_date": "28/07/2023",
-  "payment_terms": "Net 15",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-72533",
+  "issue_date": "06/03/2023",
+  "due_date": "June 04 2023",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
   "seller_name": "Cactus and Clay Designs",
   "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
   "seller_email": "accounts@cactusclay.com",
@@ -20,139 +20,75 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 14,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 11216.38,
-      "discount_pct": 0,
-      "line_total": 280409.5
-    },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2846.35,
+      "quantity": 5,
+      "unit_price": 3285.07,
       "discount_pct": 0,
-      "line_total": 2846.35
+      "line_total": 16425.35
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 7022.31,
-      "discount_pct": 15,
-      "line_total": 298448.17
+      "quantity": 1,
+      "unit_price": 2668.23,
+      "discount_pct": 0,
+      "line_total": 2668.23
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4779.52,
+      "quantity": 25,
+      "unit_price": 1364.04,
       "discount_pct": 0,
-      "line_total": 4779.52
+      "line_total": 34101.0
     },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 1,
-      "unit_price": 637.57,
+      "unit_price": 769.27,
       "discount_pct": 0,
-      "line_total": 637.57
+      "line_total": 769.27
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 208.4,
-      "discount_pct": 10,
-      "line_total": 187.56
+      "quantity": 50,
+      "unit_price": 265.49,
+      "discount_pct": 15,
+      "line_total": 11283.32
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 25,
-      "unit_price": 34.1,
-      "discount_pct": 15,
-      "line_total": 724.62
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 55.79,
-      "discount_pct": 10,
-      "line_total": 251.06
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
       "quantity": 1,
-      "unit_price": 923.18,
+      "unit_price": 115.35,
       "discount_pct": 0,
-      "line_total": 923.18
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 764.54,
-      "discount_pct": 0,
-      "line_total": 7645.4
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 575.73,
-      "discount_pct": 0,
-      "line_total": 575.73
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2719.4,
-      "discount_pct": 15,
-      "line_total": 11557.45
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 3,
-      "unit_price": 3980.44,
-      "discount_pct": 0,
-      "line_total": 11941.32
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 509.71,
-      "discount_pct": 15,
-      "line_total": 433.25
+      "line_total": 115.35
     }
   ],
-  "subtotal": 621360.68,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 51262.26,
+  "subtotal": 65362.52,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 8497.13,
   "shipping_amount": 0.0,
-  "total_due": 672622.94,
-  "notes": null,
+  "total_due": 73859.65,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

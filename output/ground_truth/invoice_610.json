@@ -1,17 +1,17 @@
 {
   "id": 610,
   "filename": "invoice_610.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
+  "layout_style": "formal",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "color_palette_index": 8,
   "invoice_number": "SI/2024/69541",
-  "issue_date": "05/03/2024",
-  "due_date": "01/08/2024",
-  "payment_terms": "Immediate",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "2024-08-01",
+  "due_date": "2024-08-08",
+  "payment_terms": "Net 90",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-46887",
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,51 +20,76 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 3,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 443.26,
-      "discount_pct": 0,
-      "line_total": 886.52
-    },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1434.07,
-      "discount_pct": 0,
-      "line_total": 7170.35
+      "quantity": 1,
+      "unit_price": 2355.46,
+      "discount_pct": 5,
+      "line_total": 2237.69
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 10,
-      "unit_price": 92.86,
-      "discount_pct": 0,
-      "line_total": 928.6
+      "quantity": 25,
+      "unit_price": 50.06,
+      "discount_pct": 15,
+      "line_total": 1063.77
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 69.87,
+      "discount_pct": 5,
+      "line_total": 66.38
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3803.44,
+      "discount_pct": 5,
+      "line_total": 90331.7
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 520.95,
+      "discount_pct": 10,
+      "line_total": 11721.38
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 349.59,
+      "discount_pct": 10,
+      "line_total": 629.26
     }
   ],
-  "subtotal": 8985.47,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 1707.24,
+  "subtotal": 106050.18,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 15907.53,
   "shipping_amount": 0.0,
-  "total_due": 10692.71,
-  "notes": "This document is strictly private and confidential.",
+  "total_due": 121957.71,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

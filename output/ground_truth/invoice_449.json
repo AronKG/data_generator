@@ -1,16 +1,16 @@
 {
   "id": 449,
   "filename": "invoice_449.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 9,
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
   "invoice_number": "024635",
-  "issue_date": "04 February 2023",
-  "due_date": "2023-02-19",
-  "payment_terms": "Due on Receipt",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "20/12/2022",
+  "due_date": "January 19 2023",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
@@ -20,171 +20,47 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 18,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 2400.69,
-      "discount_pct": 20,
-      "line_total": 1920.55
-    },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1546.15,
-      "discount_pct": 20,
-      "line_total": 3710.76
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 505.1,
+      "quantity": 50,
+      "unit_price": 2557.99,
       "discount_pct": 0,
-      "line_total": 5051.0
+      "line_total": 127899.5
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 137.77,
-      "discount_pct": 20,
-      "line_total": 330.65
+      "quantity": 2,
+      "unit_price": 136.65,
+      "discount_pct": 0,
+      "line_total": 273.3
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 42.72,
-      "discount_pct": 10,
-      "line_total": 38.45
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 75.89,
-      "discount_pct": 5,
-      "line_total": 1802.39
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 509.74,
-      "discount_pct": 5,
-      "line_total": 2421.26
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 25191.8,
+      "quantity": 10,
+      "unit_price": 122.87,
       "discount_pct": 0,
-      "line_total": 25191.8
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 369.71,
-      "discount_pct": 20,
-      "line_total": 295.77
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13399.88,
-      "discount_pct": 0,
-      "line_total": 13399.88
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 3,
-      "unit_price": 27.38,
-      "discount_pct": 0,
-      "line_total": 82.14
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2030.21,
-      "discount_pct": 5,
-      "line_total": 96434.97
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 299.69,
-      "discount_pct": 5,
-      "line_total": 569.41
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 12434.2,
-      "discount_pct": 15,
-      "line_total": 10569.07
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 5,
-      "unit_price": 174.08,
-      "discount_pct": 0,
-      "line_total": 870.4
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 300.81,
-      "discount_pct": 0,
-      "line_total": 300.81
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5320.61,
-      "discount_pct": 20,
-      "line_total": 212824.4
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 3,
-      "unit_price": 3727.68,
-      "discount_pct": 0,
-      "line_total": 11183.04
+      "line_total": 1228.7
     }
   ],
-  "subtotal": 386996.75,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 19349.84,
-  "shipping_amount": 236.6,
-  "total_due": 406583.19,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "subtotal": 129401.5,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 25880.3,
+  "shipping_amount": 0.0,
+  "total_due": 155281.8,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

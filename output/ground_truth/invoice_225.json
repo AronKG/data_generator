@@ -1,16 +1,16 @@
 {
   "id": 225,
   "filename": "invoice_225.pdf",
-  "layout_style": "classic",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 13,
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
   "invoice_number": "REF-86601",
-  "issue_date": "19-Jun-2023",
-  "due_date": "19-Jul-2023",
-  "payment_terms": "Net 60",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "06/07/2023",
+  "due_date": "2023-08-05",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
@@ -20,16 +20,8 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 11,
+  "num_line_items": 17,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 1600.6,
-      "discount_pct": 15,
-      "line_total": 13605.1
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
@@ -95,12 +87,12 @@
       "line_total": 474.79
     },
     {
-      "description": "Content Writing",
-      "unit": "pg",
+      "description": "Legal Consultation",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 269.73,
+      "unit_price": 416.81,
       "discount_pct": 20,
-      "line_total": 215.78
+      "line_total": 333.45
     },
     {
       "description": "Manufacturing Parts",
@@ -109,22 +101,83 @@
       "unit_price": 2169.04,
       "discount_pct": 0,
       "line_total": 21690.4
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10793.42,
+      "discount_pct": 15,
+      "line_total": 27523.22
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 531.4,
+      "discount_pct": 0,
+      "line_total": 1594.2
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1967.29,
+      "discount_pct": 0,
+      "line_total": 1967.29
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 167.07,
+      "discount_pct": 0,
+      "line_total": 167.07
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 262.06,
+      "discount_pct": 5,
+      "line_total": 248.96
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 105.43,
+      "discount_pct": 15,
+      "line_total": 4480.77
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1452.94,
+      "discount_pct": 0,
+      "line_total": 72647.0
     }
   ],
-  "subtotal": 93418.37,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 17749.49,
-  "shipping_amount": 217.47,
-  "total_due": 111385.33,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": null,
+  "subtotal": 188559.45,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 24512.73,
+  "shipping_amount": 0.0,
+  "total_due": 213072.18,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

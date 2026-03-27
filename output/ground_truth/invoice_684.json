@@ -1,17 +1,17 @@
 {
   "id": 684,
   "filename": "invoice_684.pdf",
-  "layout_style": "two_tone",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
   "invoice_number": "SI/2024/40010",
-  "issue_date": "08-May-2024",
-  "due_date": "06/07/2024",
+  "issue_date": "04 June 2023",
+  "due_date": "19-Jun-2023",
   "payment_terms": "Net 60",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-71852",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,55 +20,139 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 4,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 897.81,
-      "discount_pct": 0,
-      "line_total": 897.81
-    },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2869.72,
-      "discount_pct": 10,
-      "line_total": 2582.75
+      "quantity": 25,
+      "unit_price": 8283.44,
+      "discount_pct": 5,
+      "line_total": 196731.7
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 8194.09,
-      "discount_pct": 20,
-      "line_total": 32776.36
+      "quantity": 1,
+      "unit_price": 42143.47,
+      "discount_pct": 10,
+      "line_total": 37929.12
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 2051.99,
+      "quantity": 2,
+      "unit_price": 1657.46,
+      "discount_pct": 5,
+      "line_total": 3149.17
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1718.28,
+      "discount_pct": 15,
+      "line_total": 2921.08
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3920.19,
+      "discount_pct": 10,
+      "line_total": 88204.28
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 260.49,
       "discount_pct": 0,
-      "line_total": 20519.9
+      "line_total": 520.98
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2376.23,
+      "discount_pct": 20,
+      "line_total": 47524.6
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 476.57,
+      "discount_pct": 0,
+      "line_total": 476.57
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 803.7,
+      "discount_pct": 0,
+      "line_total": 1607.4
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 221.75,
+      "discount_pct": 5,
+      "line_total": 631.99
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1853.55,
+      "discount_pct": 5,
+      "line_total": 8804.36
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 409.84,
+      "discount_pct": 10,
+      "line_total": 18442.8
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 486.2,
+      "discount_pct": 0,
+      "line_total": 1458.6
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 113.35,
+      "discount_pct": 15,
+      "line_total": 4817.38
     }
   ],
-  "subtotal": 56776.82,
+  "subtotal": 413220.03,
   "tax_label": "GST 5pct",
   "tax_rate_pct": 5.0,
-  "tax_amount": 2838.84,
+  "tax_amount": 20661.0,
   "shipping_amount": 0.0,
-  "total_due": 59615.66,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 433881.03,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

@@ -1,16 +1,16 @@
 {
   "id": 287,
   "filename": "invoice_287.pdf",
-  "layout_style": "compact",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 5,
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
   "invoice_number": "TAX-INV-2024-58129",
-  "issue_date": "08/26/2024",
-  "due_date": "10 September 2024",
-  "payment_terms": "End of Month",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "2022-10-03",
+  "due_date": "02/11/2022",
+  "payment_terms": "Upon completion",
+  "currency": "SEK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Lumiere Creations SARL",
   "seller_address": "18 Bd Haussmann 75009 Paris France",
@@ -20,212 +20,68 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 24,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 10,
-      "unit_price": 767.1,
-      "discount_pct": 0,
-      "line_total": 7671.0
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 2,
-      "unit_price": 1762.08,
-      "discount_pct": 0,
-      "line_total": 3524.16
-    },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 6257.17,
+      "quantity": 1,
+      "unit_price": 4707.97,
       "discount_pct": 20,
-      "line_total": 10011.47
+      "line_total": 3766.38
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 25,
-      "unit_price": 1358.63,
-      "discount_pct": 5,
-      "line_total": 32267.46
+      "quantity": 10,
+      "unit_price": 706.54,
+      "discount_pct": 0,
+      "line_total": 7065.4
     },
     {
-      "description": "Community Mgmt",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1607.26,
-      "discount_pct": 5,
-      "line_total": 1526.9
+      "quantity": 5,
+      "unit_price": 1887.04,
+      "discount_pct": 0,
+      "line_total": 9435.2
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 277.22,
+      "quantity": 10,
+      "unit_price": 361.05,
       "discount_pct": 5,
-      "line_total": 263.36
+      "line_total": 3429.97
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 612.13,
-      "discount_pct": 0,
-      "line_total": 6121.3
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1034.91,
+      "discount_pct": 15,
+      "line_total": 879.67
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 341.25,
-      "discount_pct": 0,
-      "line_total": 3412.5
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 270.42,
-      "discount_pct": 15,
-      "line_total": 5746.43
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 7305.63,
-      "discount_pct": 0,
-      "line_total": 36528.15
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5586.3,
-      "discount_pct": 5,
-      "line_total": 265349.25
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
       "quantity": 1,
-      "unit_price": 112.67,
-      "discount_pct": 10,
-      "line_total": 101.4
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 220.62,
-      "discount_pct": 10,
-      "line_total": 397.12
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 125.25,
+      "unit_price": 242.68,
       "discount_pct": 0,
-      "line_total": 125.25
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 465.53,
-      "discount_pct": 0,
-      "line_total": 23276.5
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 4242.04,
-      "discount_pct": 5,
-      "line_total": 201496.9
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1715.71,
-      "discount_pct": 10,
-      "line_total": 1544.14
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 964.76,
-      "discount_pct": 5,
-      "line_total": 916.52
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 47664.8,
-      "discount_pct": 0,
-      "line_total": 95329.6
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 164.55,
-      "discount_pct": 0,
-      "line_total": 164.55
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1634.96,
-      "discount_pct": 0,
-      "line_total": 40874.0
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 3,
-      "unit_price": 127.51,
-      "discount_pct": 10,
-      "line_total": 344.28
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 12237.69,
-      "discount_pct": 5,
-      "line_total": 581290.28
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 661.21,
-      "discount_pct": 10,
-      "line_total": 14877.23
+      "line_total": 242.68
     }
   ],
-  "subtotal": 1333159.75,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 24819.3,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 2481.93,
   "shipping_amount": 0.0,
-  "total_due": 1333159.75,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "total_due": 27301.23,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": false,
@@ -234,5 +90,5 @@
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

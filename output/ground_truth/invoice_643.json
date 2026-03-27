@@ -1,17 +1,17 @@
 {
   "id": 643,
   "filename": "invoice_643.pdf",
-  "layout_style": "modern",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 6,
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
   "invoice_number": "TAX-INV/2025/20777",
-  "issue_date": "04-Oct-2024",
-  "due_date": "25-Oct-2024",
+  "issue_date": "26/04/2023",
+  "due_date": "26/05/2023",
   "payment_terms": "End of Month",
   "currency": "GBP",
   "currency_symbol": "£",
-  "po_number": null,
+  "po_number": "PO-57933",
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,52 +20,139 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 3,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 2749.32,
-      "discount_pct": 0,
-      "line_total": 2749.32
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 312.4,
-      "discount_pct": 0,
-      "line_total": 937.2
-    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
+      "quantity": 3,
+      "unit_price": 2433.45,
+      "discount_pct": 20,
+      "line_total": 5840.28
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
       "quantity": 25,
-      "unit_price": 2836.33,
+      "unit_price": 174.98,
+      "discount_pct": 20,
+      "line_total": 3499.6
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 813.12,
+      "discount_pct": 15,
+      "line_total": 6911.52
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6383.8,
+      "discount_pct": 5,
+      "line_total": 303230.5
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 222.15,
       "discount_pct": 0,
-      "line_total": 70908.25
+      "line_total": 666.45
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 194.4,
+      "discount_pct": 5,
+      "line_total": 184.68
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 5207.08,
+      "discount_pct": 15,
+      "line_total": 221300.9
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12663.47,
+      "discount_pct": 0,
+      "line_total": 25326.94
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12098.28,
+      "discount_pct": 15,
+      "line_total": 20567.08
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 104.15,
+      "discount_pct": 0,
+      "line_total": 5207.5
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 330.5,
+      "discount_pct": 5,
+      "line_total": 313.97
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 334.02,
+      "discount_pct": 10,
+      "line_total": 1503.09
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 358.23,
+      "discount_pct": 0,
+      "line_total": 1791.15
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 61.24,
+      "discount_pct": 5,
+      "line_total": 581.78
     }
   ],
-  "subtotal": 74594.77,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 4475.69,
+  "subtotal": 596925.44,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 77600.31,
   "shipping_amount": 0.0,
-  "total_due": 79070.46,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "total_due": 674525.75,
+  "notes": null,
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

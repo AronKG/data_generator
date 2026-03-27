@@ -1,17 +1,17 @@
 {
   "id": 269,
   "filename": "invoice_269.pdf",
-  "layout_style": "formal",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 14,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
   "invoice_number": "023016",
-  "issue_date": "14-May-2022",
-  "due_date": "2022-08-12",
-  "payment_terms": "Cash on Delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-96988",
+  "issue_date": "2024-09-08",
+  "due_date": "08-Oct-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
   "seller_email": "billing@tesseractlabs.com",
@@ -20,39 +20,135 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 2,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 791.8,
-      "discount_pct": 0,
-      "line_total": 2375.4
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 385.08,
+      "quantity": 1,
+      "unit_price": 419.58,
+      "discount_pct": 20,
+      "line_total": 335.66
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 333.07,
       "discount_pct": 0,
-      "line_total": 1925.4
+      "line_total": 16653.5
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 479.04,
+      "discount_pct": 0,
+      "line_total": 11976.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1266.51,
+      "discount_pct": 10,
+      "line_total": 5699.3
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2596.72,
+      "discount_pct": 0,
+      "line_total": 2596.72
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 3,
+      "unit_price": 82.26,
+      "discount_pct": 15,
+      "line_total": 209.76
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 16394.27,
+      "discount_pct": 0,
+      "line_total": 409856.75
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1861.16,
+      "discount_pct": 20,
+      "line_total": 1488.93
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 83.03,
+      "discount_pct": 10,
+      "line_total": 74.73
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1580.52,
+      "discount_pct": 5,
+      "line_total": 1501.49
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 82.12,
+      "discount_pct": 0,
+      "line_total": 2053.0
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 291.69,
+      "discount_pct": 15,
+      "line_total": 2479.37
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 141.7,
+      "discount_pct": 15,
+      "line_total": 120.44
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 337.76,
+      "discount_pct": 0,
+      "line_total": 1688.8
     }
   ],
-  "subtotal": 4300.8,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 258.05,
+  "subtotal": 456734.45,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 4558.85,
-  "notes": null,
+  "total_due": 456734.45,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
+  "has_po_number": false,
+  "has_tax": false
 }

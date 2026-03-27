@@ -4,14 +4,14 @@
   "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "color_palette_index": 11,
   "invoice_number": "RCPT/2023/98069",
-  "issue_date": "09/10/2023",
-  "due_date": "10/10/2023",
-  "payment_terms": "Net 90",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-47125",
+  "issue_date": "08/05/2023",
+  "due_date": "19-Sep-2023",
+  "payment_terms": "Net 7",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
   "seller_email": "faktura@fjordanalytics.no",
@@ -20,124 +20,83 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 12,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 5,
-      "unit_price": 120.0,
-      "discount_pct": 5,
-      "line_total": 570.0
-    },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 372.49,
-      "discount_pct": 0,
-      "line_total": 372.49
+      "quantity": 50,
+      "unit_price": 398.14,
+      "discount_pct": 5,
+      "line_total": 18911.65
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 105.53,
-      "discount_pct": 5,
-      "line_total": 2506.34
+      "unit_price": 227.39,
+      "discount_pct": 0,
+      "line_total": 5684.75
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 2420.39,
-      "discount_pct": 20,
-      "line_total": 3872.62
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 250.27,
+      "discount_pct": 10,
+      "line_total": 5631.07
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 14545.13,
+      "quantity": 2,
+      "unit_price": 7968.22,
       "discount_pct": 0,
-      "line_total": 363628.25
+      "line_total": 15936.44
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 50,
-      "unit_price": 1361.0,
-      "discount_pct": 0,
-      "line_total": 68050.0
+      "quantity": 10,
+      "unit_price": 1181.81,
+      "discount_pct": 20,
+      "line_total": 9454.48
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 2433.91,
+      "unit_price": 5818.05,
       "discount_pct": 0,
-      "line_total": 60847.75
+      "line_total": 145451.25
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 244.77,
+      "quantity": 50,
+      "unit_price": 261.63,
       "discount_pct": 0,
-      "line_total": 734.31
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 2,
-      "unit_price": 104.82,
-      "discount_pct": 0,
-      "line_total": 209.64
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2340.93,
-      "discount_pct": 5,
-      "line_total": 2223.88
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1938.51,
-      "discount_pct": 10,
-      "line_total": 5233.98
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 8.25,
-      "discount_pct": 0,
-      "line_total": 8.25
+      "line_total": 13081.5
     }
   ],
-  "subtotal": 508257.51,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 96568.93,
-  "shipping_amount": 118.33,
-  "total_due": 604944.77,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "subtotal": 214151.14,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 44971.74,
+  "shipping_amount": 74.37,
+  "total_due": 259197.25,
+  "notes": null,
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": true,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

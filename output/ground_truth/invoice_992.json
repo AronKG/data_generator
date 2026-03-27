@@ -1,16 +1,16 @@
 {
   "id": 992,
   "filename": "invoice_992.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "two_tone",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
   "invoice_number": "INV-2022-68556",
-  "issue_date": "06/07/2023",
-  "due_date": "20-Jul-2023",
-  "payment_terms": "Immediate",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "09 May 2022",
+  "due_date": "08-Jun-2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
@@ -20,62 +20,98 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 5,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1041.76,
-      "discount_pct": 0,
-      "line_total": 1041.76
-    },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 10,
-      "unit_price": 64.66,
-      "discount_pct": 0,
-      "line_total": 646.6
+      "unit_price": 84.76,
+      "discount_pct": 10,
+      "line_total": 762.84
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 738.81,
-      "discount_pct": 10,
-      "line_total": 6649.29
+      "quantity": 1,
+      "unit_price": 972.14,
+      "discount_pct": 0,
+      "line_total": 972.14
     },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 152.87,
+      "unit_price": 93.13,
       "discount_pct": 0,
-      "line_total": 152.87
+      "line_total": 93.13
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5839.56,
+      "discount_pct": 10,
+      "line_total": 10511.21
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 781.93,
+      "discount_pct": 15,
+      "line_total": 1993.92
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 266.56,
+      "discount_pct": 15,
+      "line_total": 5664.4
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 6474.06,
+      "discount_pct": 5,
+      "line_total": 307517.85
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 3390.5,
+      "discount_pct": 10,
+      "line_total": 9154.35
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
       "quantity": 1,
-      "unit_price": 2186.42,
-      "discount_pct": 0,
-      "line_total": 2186.42
+      "unit_price": 944.93,
+      "discount_pct": 5,
+      "line_total": 897.68
     }
   ],
-  "subtotal": 10676.94,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 880.85,
+  "subtotal": 337567.52,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 16878.38,
   "shipping_amount": 0.0,
-  "total_due": 11557.79,
+  "total_due": 354445.9,
   "notes": "Our standard warranty terms apply to all goods and services.",
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

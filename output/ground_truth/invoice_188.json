@@ -1,16 +1,16 @@
 {
   "id": 188,
   "filename": "invoice_188.pdf",
-  "layout_style": "classic",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 10,
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "INV-2024-40377",
-  "issue_date": "2022-08-13",
-  "due_date": "27/08/2022",
-  "payment_terms": "Net 15",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "September 09 2022",
+  "due_date": "09 October 2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "EUR",
+  "currency_symbol": "€",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,39 +20,163 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 2,
+  "num_line_items": 17,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1533.71,
-      "discount_pct": 0,
-      "line_total": 3067.42
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 2769.37,
+      "quantity": 1,
+      "unit_price": 3938.37,
       "discount_pct": 0,
-      "line_total": 69234.25
+      "line_total": 3938.37
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 50,
+      "unit_price": 143.19,
+      "discount_pct": 15,
+      "line_total": 6085.57
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2253.75,
+      "discount_pct": 0,
+      "line_total": 2253.75
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 152.41,
+      "discount_pct": 5,
+      "line_total": 144.79
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 243.28,
+      "discount_pct": 0,
+      "line_total": 243.28
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1734.13,
+      "discount_pct": 15,
+      "line_total": 73700.52
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2108.45,
+      "discount_pct": 20,
+      "line_total": 1686.76
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 111.59,
+      "discount_pct": 10,
+      "line_total": 502.16
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 420.79,
+      "discount_pct": 5,
+      "line_total": 19987.52
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8374.44,
+      "discount_pct": 0,
+      "line_total": 418722.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 700.61,
+      "discount_pct": 5,
+      "line_total": 1331.16
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2440.86,
+      "discount_pct": 0,
+      "line_total": 2440.86
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 86.55,
+      "discount_pct": 15,
+      "line_total": 147.13
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 449.47,
+      "discount_pct": 15,
+      "line_total": 764.1
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 654.35,
+      "discount_pct": 0,
+      "line_total": 654.35
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 109.95,
+      "discount_pct": 10,
+      "line_total": 989.55
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 9847.97,
+      "discount_pct": 0,
+      "line_total": 98479.7
     }
   ],
-  "subtotal": 72301.67,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 14460.33,
-  "shipping_amount": 0.0,
-  "total_due": 86762.0,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": null,
+  "subtotal": 632071.57,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 52145.9,
+  "shipping_amount": 246.32,
+  "total_due": 684463.79,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

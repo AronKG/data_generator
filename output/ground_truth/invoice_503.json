@@ -1,17 +1,17 @@
 {
   "id": 503,
   "filename": "invoice_503.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "medium",
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "complex",
   "color_palette_index": 2,
   "invoice_number": "2024-1279",
-  "issue_date": "11/01/2024",
-  "due_date": "2025-01-30",
-  "payment_terms": "Net 30",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "14-Nov-2023",
+  "due_date": "December 05 2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-38489",
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,31 +20,15 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 5,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1755.22,
-      "discount_pct": 15,
-      "line_total": 1491.94
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 812.13,
-      "discount_pct": 0,
-      "line_total": 812.13
-    },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 195.32,
-      "discount_pct": 20,
-      "line_total": 1562.56
+      "quantity": 2,
+      "unit_price": 88.46,
+      "discount_pct": 5,
+      "line_total": 168.07
     },
     {
       "description": "Video Production",
@@ -61,22 +45,59 @@
       "unit_price": 7.45,
       "discount_pct": 0,
       "line_total": 7.45
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 541.17,
+      "discount_pct": 20,
+      "line_total": 432.94
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3484.7,
+      "discount_pct": 0,
+      "line_total": 174235.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1695.29,
+      "discount_pct": 5,
+      "line_total": 4831.58
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 120.2,
+      "discount_pct": 10,
+      "line_total": 5409.0
     }
   ],
-  "subtotal": 6089.51,
+  "subtotal": 187299.47,
   "tax_label": "HST 13pct",
   "tax_rate_pct": 13.0,
-  "tax_amount": 791.64,
+  "tax_amount": 24348.93,
   "shipping_amount": 0.0,
-  "total_due": 6881.15,
+  "total_due": 211648.4,
   "notes": "Subject to our standard terms and conditions of service.",
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

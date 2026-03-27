@@ -1,17 +1,17 @@
 {
   "id": 846,
   "filename": "invoice_846.pdf",
-  "layout_style": "formal",
+  "layout_style": "minimal",
   "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 11,
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "PROFORMA95084",
-  "issue_date": "29/01/2022",
-  "due_date": "February 28 2022",
-  "payment_terms": "Net 21",
-  "currency": "SEK",
-  "currency_symbol": "kr",
-  "po_number": "PO-89019",
+  "issue_date": "12/08/2023",
+  "due_date": "2023-09-02",
+  "payment_terms": "Due on Receipt",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
   "seller_name": "RedBark Sustainable Co.",
   "seller_address": "22 Battery St Burlington VT 05401 USA",
   "seller_email": "hello@redbark.com",
@@ -20,40 +20,72 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 3,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 50,
-      "unit_price": 54.99,
-      "discount_pct": 0,
-      "line_total": 2749.5
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 25,
-      "unit_price": 244.75,
-      "discount_pct": 0,
-      "line_total": 6118.75
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 1364.26,
+      "quantity": 1,
+      "unit_price": 102.91,
+      "discount_pct": 10,
+      "line_total": 92.62
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 8954.43,
       "discount_pct": 0,
-      "line_total": 4092.78
+      "line_total": 89544.3
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 102.34,
+      "discount_pct": 20,
+      "line_total": 245.62
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 654.24,
+      "discount_pct": 5,
+      "line_total": 3107.64
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 240.74,
+      "discount_pct": 10,
+      "line_total": 216.67
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 327.46,
+      "discount_pct": 5,
+      "line_total": 933.26
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1694.51,
+      "discount_pct": 0,
+      "line_total": 3389.02
     }
   ],
-  "subtotal": 12961.03,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 2592.21,
-  "shipping_amount": 0.0,
-  "total_due": 15553.24,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "subtotal": 97529.13,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 5851.75,
+  "shipping_amount": 259.05,
+  "total_due": 103639.93,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
     "Bank": "Handelsbanken",
     "Account": "123 456 789",
@@ -65,7 +97,7 @@
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

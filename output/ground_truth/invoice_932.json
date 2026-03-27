@@ -1,17 +1,17 @@
 {
   "id": 932,
   "filename": "invoice_932.pdf",
-  "layout_style": "classic",
+  "layout_style": "modern",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "color_palette_index": 2,
   "invoice_number": "092777",
-  "issue_date": "08-Nov-2022",
-  "due_date": "12/08/2022",
-  "payment_terms": "Upon completion",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-36688",
+  "issue_date": "07/27/2023",
+  "due_date": "26 August 2023",
+  "payment_terms": "Net 21",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "Cactus and Clay Designs",
   "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
   "seller_email": "accounts@cactusclay.com",
@@ -20,39 +20,39 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 5,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 4366.03,
-      "discount_pct": 15,
-      "line_total": 92778.14
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1811.09,
-      "discount_pct": 10,
-      "line_total": 1629.98
+      "unit_price": 1576.11,
+      "discount_pct": 15,
+      "line_total": 1339.69
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 724.08,
+      "unit_price": 1363.56,
       "discount_pct": 10,
-      "line_total": 651.67
+      "line_total": 1227.2
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
+      "quantity": 1,
+      "unit_price": 63.45,
+      "discount_pct": 10,
+      "line_total": 57.11
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
       "quantity": 5,
-      "unit_price": 24.87,
+      "unit_price": 532.93,
       "discount_pct": 0,
-      "line_total": 124.35
+      "line_total": 2664.65
     },
     {
       "description": "Social Media Mgmt",
@@ -61,22 +61,30 @@
       "unit_price": 1141.32,
       "discount_pct": 0,
       "line_total": 3423.96
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 7185.72,
+      "discount_pct": 15,
+      "line_total": 30539.31
     }
   ],
-  "subtotal": 98608.1,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 6902.57,
+  "subtotal": 39251.92,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 7457.86,
   "shipping_amount": 0.0,
-  "total_due": 105510.67,
-  "notes": null,
+  "total_due": 46709.78,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 421,
   "filename": "invoice_421.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 7,
   "invoice_number": "SI-2022-52790",
-  "issue_date": "14/10/2023",
-  "due_date": "28 November 2023",
-  "payment_terms": "Upon completion",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "10/03/2023",
+  "due_date": "2023-10-10",
+  "payment_terms": "Net 60",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-69312",
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,79 +20,212 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 7,
+  "num_line_items": 23,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1790.52,
-      "discount_pct": 5,
-      "line_total": 1700.99
-    },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 3,
-      "unit_price": 89.16,
+      "quantity": 5,
+      "unit_price": 122.61,
       "discount_pct": 0,
-      "line_total": 267.48
+      "line_total": 613.05
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 1,
-      "unit_price": 549.34,
-      "discount_pct": 15,
-      "line_total": 466.94
+      "quantity": 25,
+      "unit_price": 715.51,
+      "discount_pct": 0,
+      "line_total": 17887.75
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 172.51,
-      "discount_pct": 20,
-      "line_total": 6900.4
+      "quantity": 3,
+      "unit_price": 301.68,
+      "discount_pct": 0,
+      "line_total": 905.04
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 492.42,
-      "discount_pct": 5,
-      "line_total": 2338.99
+      "quantity": 1,
+      "unit_price": 376.79,
+      "discount_pct": 10,
+      "line_total": 339.11
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 5,
-      "unit_price": 840.2,
+      "quantity": 1,
+      "unit_price": 639.61,
       "discount_pct": 0,
-      "line_total": 4201.0
+      "line_total": 639.61
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1395.47,
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 761.66,
       "discount_pct": 0,
-      "line_total": 34886.75
+      "line_total": 7616.6
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 863.08,
+      "discount_pct": 15,
+      "line_total": 733.62
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1671.92,
+      "discount_pct": 0,
+      "line_total": 1671.92
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1670.13,
+      "discount_pct": 0,
+      "line_total": 41753.25
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 128.61,
+      "discount_pct": 10,
+      "line_total": 115.75
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2130.2,
+      "discount_pct": 0,
+      "line_total": 10651.0
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1111.24,
+      "discount_pct": 0,
+      "line_total": 3333.72
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 255.19,
+      "discount_pct": 15,
+      "line_total": 216.91
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 406.77,
+      "discount_pct": 10,
+      "line_total": 366.09
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1307.66,
+      "discount_pct": 10,
+      "line_total": 5884.47
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 302.33,
+      "discount_pct": 0,
+      "line_total": 906.99
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 37882.63,
+      "discount_pct": 20,
+      "line_total": 303061.04
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 6432.87,
+      "discount_pct": 5,
+      "line_total": 12222.45
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 1361.47,
+      "discount_pct": 0,
+      "line_total": 34036.75
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 4754.67,
+      "discount_pct": 0,
+      "line_total": 23773.35
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 113.31,
+      "discount_pct": 20,
+      "line_total": 90.65
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 13856.93,
+      "discount_pct": 0,
+      "line_total": 692846.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4751.37,
+      "discount_pct": 0,
+      "line_total": 23756.85
     }
   ],
-  "subtotal": 50762.55,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 2538.13,
+  "subtotal": 1183422.47,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 97632.35,
   "shipping_amount": 0.0,
-  "total_due": 53300.68,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "total_due": 1281054.82,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

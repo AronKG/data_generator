@@ -1,16 +1,16 @@
 {
   "id": 338,
   "filename": "invoice_338.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "modern",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
   "invoice_number": "090477",
-  "issue_date": "07 May 2022",
-  "due_date": "May 28 2022",
-  "payment_terms": "Immediate",
-  "currency": "NOK",
-  "currency_symbol": "kr",
+  "issue_date": "27-Feb-2023",
+  "due_date": "20 March 2023",
+  "payment_terms": "Net 21",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
@@ -20,23 +20,15 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 4,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 591.16,
-      "discount_pct": 15,
-      "line_total": 502.49
-    },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 8436.57,
-      "discount_pct": 0,
-      "line_total": 25309.71
+      "quantity": 2,
+      "unit_price": 8175.91,
+      "discount_pct": 15,
+      "line_total": 13899.05
     },
     {
       "description": "Market Research",
@@ -53,25 +45,56 @@
       "unit_price": 5508.6,
       "discount_pct": 20,
       "line_total": 4406.88
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 637.18,
+      "discount_pct": 0,
+      "line_total": 637.18
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 7192.88,
+      "discount_pct": 5,
+      "line_total": 341661.8
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 781.38,
+      "discount_pct": 20,
+      "line_total": 6251.04
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1113.78,
+      "discount_pct": 5,
+      "line_total": 2116.18
     }
   ],
-  "subtotal": 202028.08,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 40405.62,
+  "subtotal": 540781.13,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 81117.17,
   "shipping_amount": 0.0,
-  "total_due": 242433.7,
-  "notes": null,
+  "total_due": 621898.3,
+  "notes": "Thank you for your business. We value our long-term partnership.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

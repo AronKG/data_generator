@@ -1,16 +1,16 @@
 {
   "id": 263,
   "filename": "invoice_263.pdf",
-  "layout_style": "bold_header",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 9,
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
   "invoice_number": "RCPT76350",
-  "issue_date": "10/02/2024",
-  "due_date": "10/16/2024",
-  "payment_terms": "30 days from delivery",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "June 09 2022",
+  "due_date": "16 June 2022",
+  "payment_terms": "End of Month",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
@@ -20,135 +20,103 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 14,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 8919.56,
-      "discount_pct": 10,
-      "line_total": 401380.2
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 749.76,
+      "quantity": 10,
+      "unit_price": 705.26,
       "discount_pct": 10,
-      "line_total": 16869.6
+      "line_total": 6347.34
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 46078.85,
-      "discount_pct": 20,
-      "line_total": 110589.24
+      "quantity": 25,
+      "unit_price": 9995.72,
+      "discount_pct": 10,
+      "line_total": 224903.7
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 3,
-      "unit_price": 6120.95,
-      "discount_pct": 0,
-      "line_total": 18362.85
+      "unit_price": 7444.5,
+      "discount_pct": 20,
+      "line_total": 17866.8
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 45.96,
+      "quantity": 3,
+      "unit_price": 109.93,
       "discount_pct": 0,
-      "line_total": 45.96
+      "line_total": 329.79
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 3178.48,
-      "discount_pct": 5,
-      "line_total": 6039.11
+      "quantity": 1,
+      "unit_price": 1704.04,
+      "discount_pct": 0,
+      "line_total": 1704.04
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 2,
-      "unit_price": 1831.6,
-      "discount_pct": 0,
-      "line_total": 3663.2
+      "unit_price": 1537.89,
+      "discount_pct": 5,
+      "line_total": 2921.99
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3969.63,
-      "discount_pct": 20,
-      "line_total": 31757.04
+      "quantity": 2,
+      "unit_price": 5513.52,
+      "discount_pct": 0,
+      "line_total": 11027.04
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1914.95,
-      "discount_pct": 15,
-      "line_total": 4883.12
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 111.12,
+      "quantity": 10,
+      "unit_price": 1238.61,
       "discount_pct": 20,
-      "line_total": 88.9
+      "line_total": 9908.88
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1104.07,
-      "discount_pct": 0,
-      "line_total": 55203.5
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 115.86,
+      "discount_pct": 15,
+      "line_total": 295.44
     },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 14875.53,
+      "unit_price": 4769.05,
       "discount_pct": 20,
-      "line_total": 11900.42
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 156.09,
-      "discount_pct": 0,
-      "line_total": 156.09
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 83.49,
-      "discount_pct": 15,
-      "line_total": 70.97
+      "line_total": 3815.24
     }
   ],
-  "subtotal": 661010.2,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 125591.94,
+  "subtotal": 279120.26,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 786602.14,
-  "notes": "Goods remain property of seller until full payment received.",
+  "total_due": 279120.26,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": true
+  "has_tax": false
 }

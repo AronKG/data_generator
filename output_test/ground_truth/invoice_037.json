@@ -1,0 +1,138 @@
+{
+  "id": 37,
+  "filename": "invoice_037.pdf",
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "064529",
+  "issue_date": "08-Feb-2024",
+  "due_date": "23-Feb-2024",
+  "payment_terms": "Net 7",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-80748",
+  "seller_name": "Cobalt Digital Studio",
+  "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
+  "seller_email": "studio@cobaltdigital.hk",
+  "seller_phone": "+852 3900 1111",
+  "seller_tax_id": "BR No: 11223344",
+  "client_name": "Brightside Retailers",
+  "client_address": "99 Commerce Blvd Austin TX 78701 USA",
+  "client_email": "ap@brightsideretail.com",
+  "num_line_items": 12,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 43215.85,
+      "discount_pct": 5,
+      "line_total": 82110.11
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 50,
+      "unit_price": 970.09,
+      "discount_pct": 0,
+      "line_total": 48504.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1059.44,
+      "discount_pct": 0,
+      "line_total": 1059.44
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 9344.4,
+      "discount_pct": 5,
+      "line_total": 88771.8
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 523.49,
+      "discount_pct": 0,
+      "line_total": 523.49
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 758.2,
+      "discount_pct": 0,
+      "line_total": 758.2
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 14710.56,
+      "discount_pct": 20,
+      "line_total": 117684.48
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1770.05,
+      "discount_pct": 15,
+      "line_total": 3009.09
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 218.23,
+      "discount_pct": 0,
+      "line_total": 218.23
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 169.34,
+      "discount_pct": 15,
+      "line_total": 143.94
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18418.94,
+      "discount_pct": 0,
+      "line_total": 18418.94
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7931.64,
+      "discount_pct": 15,
+      "line_total": 13483.79
+    }
+  ],
+  "subtotal": 374686.01,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 71190.34,
+  "shipping_amount": 0.0,
+  "total_due": 445876.35,
+  "notes": "Please retain this invoice for your accounting records.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

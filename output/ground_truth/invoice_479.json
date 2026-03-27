@@ -1,16 +1,16 @@
 {
   "id": 479,
   "filename": "invoice_479.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
+  "layout_style": "compact",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV/2022/63307",
-  "issue_date": "2023-08-15",
-  "due_date": "09/14/2023",
-  "payment_terms": "Due on Receipt",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "07/19/2023",
+  "due_date": "17/10/2023",
+  "payment_terms": "Cash on Delivery",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
@@ -23,131 +23,135 @@
   "num_line_items": 14,
   "line_items": [
     {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8507.87,
-      "discount_pct": 15,
-      "line_total": 7231.69
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 225.61,
-      "discount_pct": 0,
-      "line_total": 1128.05
-    },
-    {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 2233.14,
-      "discount_pct": 15,
-      "line_total": 18981.69
+      "quantity": 5,
+      "unit_price": 1822.75,
+      "discount_pct": 0,
+      "line_total": 9113.75
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3186.72,
+      "quantity": 10,
+      "unit_price": 3595.43,
       "discount_pct": 15,
-      "line_total": 135435.6
+      "line_total": 30561.15
     },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 50,
-      "unit_price": 870.48,
-      "discount_pct": 0,
-      "line_total": 43524.0
+      "unit_price": 814.11,
+      "discount_pct": 15,
+      "line_total": 34599.67
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1516.45,
-      "discount_pct": 20,
-      "line_total": 1213.16
+      "quantity": 50,
+      "unit_price": 1740.96,
+      "discount_pct": 0,
+      "line_total": 87048.0
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 296.43,
-      "discount_pct": 15,
-      "line_total": 6299.14
+      "quantity": 1,
+      "unit_price": 464.0,
+      "discount_pct": 20,
+      "line_total": 371.2
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1340.34,
-      "discount_pct": 20,
-      "line_total": 10722.72
+      "quantity": 25,
+      "unit_price": 1015.87,
+      "discount_pct": 15,
+      "line_total": 21587.24
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1136.6,
-      "discount_pct": 5,
-      "line_total": 1079.77
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 618.62,
-      "discount_pct": 0,
-      "line_total": 618.62
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9794.21,
-      "discount_pct": 0,
-      "line_total": 9794.21
+      "quantity": 10,
+      "unit_price": 1576.78,
+      "discount_pct": 20,
+      "line_total": 12614.24
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 5,
-      "unit_price": 41.49,
-      "discount_pct": 10,
-      "line_total": 186.71
+      "quantity": 1,
+      "unit_price": 54.44,
+      "discount_pct": 5,
+      "line_total": 51.72
     },
     {
-      "description": "Accounting Services",
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 650.25,
+      "discount_pct": 0,
+      "line_total": 650.25
+    },
+    {
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 808.37,
-      "discount_pct": 15,
-      "line_total": 34355.72
+      "quantity": 1,
+      "unit_price": 1961.13,
+      "discount_pct": 0,
+      "line_total": 1961.13
     },
     {
-      "description": "Contract Review",
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 4255.92,
+      "discount_pct": 10,
+      "line_total": 19151.64
+    },
+    {
+      "description": "IT Support",
       "unit": "hr",
       "quantity": 50,
-      "unit_price": 691.04,
+      "unit_price": 133.5,
+      "discount_pct": 15,
+      "line_total": 5673.75
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5055.65,
       "discount_pct": 20,
-      "line_total": 27641.6
+      "line_total": 202226.0
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 118.52,
+      "discount_pct": 10,
+      "line_total": 106.67
     }
   ],
-  "subtotal": 298212.68,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 38767.65,
+  "subtotal": 425716.41,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 97914.77,
   "shipping_amount": 0.0,
-  "total_due": 336980.33,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 523631.18,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

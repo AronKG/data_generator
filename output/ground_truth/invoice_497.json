@@ -1,14 +1,14 @@
 {
   "id": 497,
   "filename": "invoice_497.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "color_palette_index": 13,
   "invoice_number": "INVOICE-2025-76484",
-  "issue_date": "2023-09-04",
-  "due_date": "03-Nov-2023",
-  "payment_terms": "Upon completion",
+  "issue_date": "05/12/2024",
+  "due_date": "10-Aug-2024",
+  "payment_terms": "Net 7",
   "currency": "AUD",
   "currency_symbol": "A$",
   "po_number": null,
@@ -20,73 +20,66 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 6,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 13548.47,
-      "discount_pct": 10,
-      "line_total": 609681.15
-    },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 3,
-      "unit_price": 89.65,
-      "discount_pct": 0,
-      "line_total": 268.95
+      "quantity": 50,
+      "unit_price": 109.39,
+      "discount_pct": 10,
+      "line_total": 4922.55
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1605.89,
-      "discount_pct": 20,
-      "line_total": 1284.71
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 10846.89,
+      "discount_pct": 0,
+      "line_total": 32540.67
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 7841.38,
-      "discount_pct": 5,
-      "line_total": 22347.93
+      "quantity": 1,
+      "unit_price": 11986.24,
+      "discount_pct": 20,
+      "line_total": 9588.99
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7566.8,
-      "discount_pct": 0,
-      "line_total": 7566.8
+      "quantity": 3,
+      "unit_price": 5044.03,
+      "discount_pct": 5,
+      "line_total": 14375.49
     },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 818.73,
+      "unit_price": 1905.22,
       "discount_pct": 0,
-      "line_total": 818.73
+      "line_total": 1905.22
     }
   ],
-  "subtotal": 641968.27,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 96295.24,
+  "subtotal": 63332.92,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 8233.28,
   "shipping_amount": 0.0,
-  "total_due": 738263.51,
-  "notes": null,
+  "total_due": 71566.2,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

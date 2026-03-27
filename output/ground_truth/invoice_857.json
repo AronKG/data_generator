@@ -1,17 +1,17 @@
 {
   "id": 857,
   "filename": "invoice_857.pdf",
-  "layout_style": "two_tone",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 14,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 5,
   "invoice_number": "RCPT-30437",
-  "issue_date": "09-Sep-2022",
-  "due_date": "23/09/2022",
-  "payment_terms": "Net 90",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "22/05/2022",
+  "due_date": "June 06 2022",
+  "payment_terms": "Net 15",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-80665",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,151 +20,51 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 16,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2705.52,
-      "discount_pct": 0,
-      "line_total": 13527.6
-    },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3215.84,
-      "discount_pct": 15,
-      "line_total": 136673.2
+      "quantity": 1,
+      "unit_price": 3931.47,
+      "discount_pct": 0,
+      "line_total": 3931.47
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1397.81,
+      "quantity": 1,
+      "unit_price": 2904.64,
       "discount_pct": 0,
-      "line_total": 34945.25
+      "line_total": 2904.64
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 5,
-      "unit_price": 172.56,
-      "discount_pct": 20,
-      "line_total": 690.24
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
       "quantity": 50,
-      "unit_price": 1989.72,
+      "unit_price": 181.75,
       "discount_pct": 0,
-      "line_total": 99486.0
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 420.21,
-      "discount_pct": 10,
-      "line_total": 378.19
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 116.88,
-      "discount_pct": 10,
-      "line_total": 105.19
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 89.01,
-      "discount_pct": 5,
-      "line_total": 84.56
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 677.57,
-      "discount_pct": 0,
-      "line_total": 33878.5
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1992.16,
-      "discount_pct": 0,
-      "line_total": 1992.16
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 25,
-      "unit_price": 26.09,
-      "discount_pct": 0,
-      "line_total": 652.25
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 518.59,
-      "discount_pct": 0,
-      "line_total": 5185.9
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1836.51,
-      "discount_pct": 10,
-      "line_total": 1652.86
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 50,
-      "unit_price": 771.04,
-      "discount_pct": 0,
-      "line_total": 38552.0
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 4433.7,
-      "discount_pct": 5,
-      "line_total": 210600.75
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 693.59,
-      "discount_pct": 15,
-      "line_total": 1768.65
+      "line_total": 9087.5
     }
   ],
-  "subtotal": 580173.3,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 110232.93,
-  "shipping_amount": 211.5,
-  "total_due": 690617.73,
-  "notes": "Goods remain property of seller until full payment received.",
-  "bank_details": null,
+  "subtotal": 15923.61,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 15923.61,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": false,
-  "has_tax": true
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
 }

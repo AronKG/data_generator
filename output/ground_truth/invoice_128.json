@@ -1,17 +1,17 @@
 {
   "id": 128,
   "filename": "invoice_128.pdf",
-  "layout_style": "minimal",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 14,
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
   "invoice_number": "2022-20920",
-  "issue_date": "14/06/2022",
-  "due_date": "29/07/2022",
-  "payment_terms": "Net 90",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-29482",
+  "issue_date": "December 03 2023",
+  "due_date": "17 January 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,43 +20,87 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 2,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 605.14,
-      "discount_pct": 0,
-      "line_total": 605.14
-    },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 1,
-      "unit_price": 367.09,
+      "unit_price": 492.75,
+      "discount_pct": 5,
+      "line_total": 468.11
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 883.59,
       "discount_pct": 0,
-      "line_total": 367.09
+      "line_total": 883.59
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1789.93,
+      "discount_pct": 5,
+      "line_total": 5101.3
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 165.56,
+      "discount_pct": 0,
+      "line_total": 827.8
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 782.76,
+      "discount_pct": 10,
+      "line_total": 1408.97
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 395.34,
+      "discount_pct": 0,
+      "line_total": 19767.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7458.86,
+      "discount_pct": 10,
+      "line_total": 6712.97
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 723.95,
+      "discount_pct": 15,
+      "line_total": 1846.07
     }
   ],
-  "subtotal": 972.23,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 58.33,
-  "shipping_amount": 0.0,
-  "total_due": 1030.56,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
-  "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
-  },
+  "subtotal": 37015.81,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 3701.58,
+  "shipping_amount": 71.54,
+  "total_due": 40788.93,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

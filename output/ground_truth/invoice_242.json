@@ -1,16 +1,16 @@
 {
   "id": 242,
   "filename": "invoice_242.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
   "invoice_number": "INV-11516",
-  "issue_date": "30-May-2024",
-  "due_date": "2024-08-28",
-  "payment_terms": "Upon completion",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "21 November 2024",
+  "due_date": "February 19 2025",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
@@ -20,53 +20,220 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 4,
+  "num_line_items": 25,
   "line_items": [
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 236.13,
+      "discount_pct": 15,
+      "line_total": 200.71
+    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 4679.93,
-      "discount_pct": 5,
-      "line_total": 4445.93
+      "unit_price": 4092.32,
+      "discount_pct": 0,
+      "line_total": 4092.32
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 33996.59,
+      "quantity": 1,
+      "unit_price": 20054.81,
       "discount_pct": 0,
-      "line_total": 169982.95
+      "line_total": 20054.81
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 859.38,
+      "quantity": 2,
+      "unit_price": 62.84,
       "discount_pct": 0,
-      "line_total": 859.38
+      "line_total": 125.68
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
+      "quantity": 25,
+      "unit_price": 423.0,
+      "discount_pct": 20,
+      "line_total": 8460.0
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
       "quantity": 1,
-      "unit_price": 844.21,
+      "unit_price": 101.68,
       "discount_pct": 5,
-      "line_total": 802.0
+      "line_total": 96.6
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 837.12,
+      "discount_pct": 5,
+      "line_total": 19881.6
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 700.29,
+      "discount_pct": 10,
+      "line_total": 630.26
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 172.81,
+      "discount_pct": 10,
+      "line_total": 155.53
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 273.59,
+      "discount_pct": 10,
+      "line_total": 246.23
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4488.44,
+      "discount_pct": 0,
+      "line_total": 4488.44
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 484.7,
+      "discount_pct": 0,
+      "line_total": 4847.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 935.72,
+      "discount_pct": 20,
+      "line_total": 18714.4
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 167.0,
+      "discount_pct": 15,
+      "line_total": 141.95
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1990.01,
+      "discount_pct": 5,
+      "line_total": 3781.02
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2384.08,
+      "discount_pct": 0,
+      "line_total": 2384.08
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 330.67,
+      "discount_pct": 10,
+      "line_total": 595.21
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 95.32,
+      "discount_pct": 0,
+      "line_total": 190.64
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 392.83,
+      "discount_pct": 0,
+      "line_total": 1178.49
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 578.42,
+      "discount_pct": 10,
+      "line_total": 26028.9
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 907.52,
+      "discount_pct": 0,
+      "line_total": 22688.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3630.2,
+      "discount_pct": 20,
+      "line_total": 2904.16
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 703.38,
+      "discount_pct": 20,
+      "line_total": 562.7
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 31.45,
+      "discount_pct": 0,
+      "line_total": 31.45
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2079.44,
+      "discount_pct": 0,
+      "line_total": 2079.44
     }
   ],
-  "subtotal": 176090.26,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 14527.45,
+  "subtotal": 144559.62,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 8673.58,
   "shipping_amount": 0.0,
-  "total_due": 190617.71,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "total_due": 153233.2,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
   "has_discount_column": false,

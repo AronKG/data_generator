@@ -1,16 +1,16 @@
 {
   "id": 8,
   "filename": "invoice_008.pdf",
-  "layout_style": "classic",
+  "layout_style": "formal",
   "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 2,
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "SI-75409",
-  "issue_date": "2022-09-30",
-  "due_date": "21/10/2022",
-  "payment_terms": "Net 30",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "06 February 2023",
+  "due_date": "02/27/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": null,
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
@@ -20,33 +20,113 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 1,
+  "num_line_items": 11,
   "line_items": [
     {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 217.94,
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1768.39,
       "discount_pct": 0,
-      "line_total": 10897.0
+      "line_total": 3536.78
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 2315.67,
+      "discount_pct": 5,
+      "line_total": 21998.86
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1730.37,
+      "discount_pct": 20,
+      "line_total": 69214.8
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 315.38,
+      "discount_pct": 0,
+      "line_total": 315.38
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1512.49,
+      "discount_pct": 10,
+      "line_total": 4083.72
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 78.53,
+      "discount_pct": 20,
+      "line_total": 314.12
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 297.72,
+      "discount_pct": 0,
+      "line_total": 297.72
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 215.55,
+      "discount_pct": 0,
+      "line_total": 215.55
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1679.74,
+      "discount_pct": 10,
+      "line_total": 15117.66
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3958.06,
+      "discount_pct": 10,
+      "line_total": 3562.25
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 693.24,
+      "discount_pct": 0,
+      "line_total": 693.24
     }
   ],
-  "subtotal": 10897.0,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 2070.43,
+  "subtotal": 119350.08,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 11935.01,
   "shipping_amount": 0.0,
-  "total_due": 12967.43,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 131285.09,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

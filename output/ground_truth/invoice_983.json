@@ -1,17 +1,17 @@
 {
   "id": 983,
   "filename": "invoice_983.pdf",
-  "layout_style": "minimal",
+  "layout_style": "formal",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 9,
+  "complexity_tier": "simple",
+  "color_palette_index": 4,
   "invoice_number": "057341",
-  "issue_date": "03-Jul-2024",
-  "due_date": "24 July 2024",
-  "payment_terms": "Due on Receipt",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": "PO-87406",
+  "issue_date": "04/28/2023",
+  "due_date": "19/05/2023",
+  "payment_terms": "Net 45",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,159 +20,31 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 17,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 827.56,
-      "discount_pct": 0,
-      "line_total": 1655.12
-    },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 3,
-      "unit_price": 6551.04,
-      "discount_pct": 0,
-      "line_total": 19653.12
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 378.73,
-      "discount_pct": 0,
-      "line_total": 378.73
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 50,
-      "unit_price": 94.4,
-      "discount_pct": 0,
-      "line_total": 4720.0
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 196.58,
-      "discount_pct": 5,
-      "line_total": 9337.55
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
       "quantity": 10,
-      "unit_price": 7490.3,
+      "unit_price": 9107.64,
       "discount_pct": 0,
-      "line_total": 74903.0
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1770.14,
-      "discount_pct": 15,
-      "line_total": 1504.62
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 3390.98,
-      "discount_pct": 0,
-      "line_total": 16954.9
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 407.27,
-      "discount_pct": 0,
-      "line_total": 814.54
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2551.29,
-      "discount_pct": 20,
-      "line_total": 6123.1
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 590.51,
-      "discount_pct": 10,
-      "line_total": 1594.38
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 10,
-      "unit_price": 457.28,
-      "discount_pct": 0,
-      "line_total": 4572.8
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 157.12,
-      "discount_pct": 20,
-      "line_total": 125.7
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 845.01,
-      "discount_pct": 0,
-      "line_total": 42250.5
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 637.21,
-      "discount_pct": 15,
-      "line_total": 541.63
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 12336.05,
-      "discount_pct": 20,
-      "line_total": 9868.84
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 661.75,
-      "discount_pct": 0,
-      "line_total": 3308.75
+      "line_total": 91076.4
     }
   ],
-  "subtotal": 198307.28,
+  "subtotal": 91076.4,
   "tax_label": "HST 13pct",
   "tax_rate_pct": 13.0,
-  "tax_amount": 25779.95,
+  "tax_amount": 11839.93,
   "shipping_amount": 0.0,
-  "total_due": 224087.23,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "total_due": 102916.33,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

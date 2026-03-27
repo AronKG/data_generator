@@ -1,17 +1,17 @@
 {
   "id": 651,
   "filename": "invoice_651.pdf",
-  "layout_style": "creative",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 4,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
   "invoice_number": "2022-84787",
-  "issue_date": "05-Apr-2023",
-  "due_date": "04/19/2023",
-  "payment_terms": "Net 90",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-77344",
+  "issue_date": "07/10/2022",
+  "due_date": "2022-10-08",
+  "payment_terms": "End of Month",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,51 +20,68 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 3,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1351.86,
-      "discount_pct": 0,
-      "line_total": 1351.86
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 136.57,
-      "discount_pct": 0,
-      "line_total": 1365.7
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 50,
-      "unit_price": 3898.86,
+      "quantity": 1,
+      "unit_price": 2427.14,
       "discount_pct": 0,
-      "line_total": 194943.0
+      "line_total": 2427.14
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1564.88,
+      "discount_pct": 15,
+      "line_total": 6650.74
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 4529.48,
+      "discount_pct": 20,
+      "line_total": 36235.84
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3047.83,
+      "discount_pct": 15,
+      "line_total": 129532.77
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 766.87,
+      "discount_pct": 15,
+      "line_total": 16295.99
     }
   ],
-  "subtotal": 197660.56,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 19766.06,
+  "subtotal": 191142.48,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 217426.62,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 191142.48,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
+  "has_po_number": false,
+  "has_tax": false
 }

@@ -1,17 +1,17 @@
 {
   "id": 409,
   "filename": "invoice_409.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "layout_style": "bold_header",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
   "invoice_number": "PROFORMA31945",
-  "issue_date": "29/06/2024",
-  "due_date": "13 August 2024",
-  "payment_terms": "Net 90",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-23818",
+  "issue_date": "27-Jan-2024",
+  "due_date": "26-Apr-2024",
+  "payment_terms": "Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
   "seller_email": "studio@cobaltdigital.hk",
@@ -20,76 +20,172 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 6,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 10,
-      "unit_price": 2108.64,
-      "discount_pct": 10,
-      "line_total": 18977.76
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 167.97,
+      "quantity": 3,
+      "unit_price": 355.73,
       "discount_pct": 5,
-      "line_total": 3989.29
+      "line_total": 1013.83
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1665.6,
-      "discount_pct": 10,
-      "line_total": 1499.04
+      "quantity": 25,
+      "unit_price": 1266.62,
+      "discount_pct": 0,
+      "line_total": 31665.5
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 413.74,
-      "discount_pct": 5,
-      "line_total": 786.11
+      "quantity": 50,
+      "unit_price": 284.63,
+      "discount_pct": 0,
+      "line_total": 14231.5
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1250.53,
-      "discount_pct": 5,
-      "line_total": 3564.01
+      "quantity": 1,
+      "unit_price": 1519.65,
+      "discount_pct": 0,
+      "line_total": 1519.65
     },
     {
-      "description": "BI Reporting",
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 800.32,
+      "discount_pct": 0,
+      "line_total": 800.32
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 40104.55,
+      "discount_pct": 20,
+      "line_total": 96250.92
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 88.27,
+      "discount_pct": 0,
+      "line_total": 88.27
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 5942.67,
+      "discount_pct": 0,
+      "line_total": 297133.5
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 158.29,
+      "discount_pct": 0,
+      "line_total": 158.29
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 13999.15,
+      "discount_pct": 10,
+      "line_total": 125992.35
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1144.85,
+      "discount_pct": 0,
+      "line_total": 1144.85
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 11733.82,
+      "discount_pct": 0,
+      "line_total": 117338.2
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 300.66,
+      "discount_pct": 10,
+      "line_total": 13529.7
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 245.39,
+      "discount_pct": 0,
+      "line_total": 245.39
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 232.49,
+      "discount_pct": 5,
+      "line_total": 220.87
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2767.9,
+      "discount_pct": 0,
+      "line_total": 2767.9
+    },
+    {
+      "description": "Photography Session",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 2395.72,
+      "unit_price": 760.94,
+      "discount_pct": 20,
+      "line_total": 15218.8
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4845.2,
       "discount_pct": 0,
-      "line_total": 59893.0
+      "line_total": 121130.0
     }
   ],
-  "subtotal": 88709.21,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 840449.84,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 58831.49,
   "shipping_amount": 0.0,
-  "total_due": 88709.21,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "total_due": 899281.33,
+  "notes": "Our standard warranty terms apply to all goods and services.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": false
+  "has_po_number": false,
+  "has_tax": true
 }

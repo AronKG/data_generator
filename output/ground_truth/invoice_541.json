@@ -1,17 +1,17 @@
 {
   "id": 541,
   "filename": "invoice_541.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 14,
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
   "invoice_number": "INVOICE76143",
-  "issue_date": "September 20 2024",
-  "due_date": "27/09/2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-64980",
+  "issue_date": "January 15 2022",
+  "due_date": "01 March 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-81205",
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,174 +20,51 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 19,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1330.15,
-      "discount_pct": 0,
-      "line_total": 13301.5
-    },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 2,
-      "unit_price": 356.23,
-      "discount_pct": 5,
-      "line_total": 676.84
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 9088.29,
-      "discount_pct": 0,
-      "line_total": 90882.9
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 19680.77,
-      "discount_pct": 10,
-      "line_total": 53138.08
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 124.8,
-      "discount_pct": 20,
-      "line_total": 499.2
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 465.16,
-      "discount_pct": 15,
-      "line_total": 1186.16
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2292.42,
-      "discount_pct": 10,
-      "line_total": 10315.89
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 812.54,
-      "discount_pct": 15,
-      "line_total": 690.66
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
       "quantity": 50,
-      "unit_price": 2329.18,
-      "discount_pct": 5,
-      "line_total": 110636.05
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 2,
-      "unit_price": 31.18,
-      "discount_pct": 20,
-      "line_total": 49.89
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 83.64,
+      "unit_price": 411.07,
       "discount_pct": 0,
-      "line_total": 418.2
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 2804.39,
-      "discount_pct": 0,
-      "line_total": 140219.5
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 143.9,
-      "discount_pct": 0,
-      "line_total": 143.9
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 5642.09,
-      "discount_pct": 0,
-      "line_total": 56420.9
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 901.96,
-      "discount_pct": 0,
-      "line_total": 901.96
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 168.49,
-      "discount_pct": 5,
-      "line_total": 160.07
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3298.1,
-      "discount_pct": 15,
-      "line_total": 28033.85
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1299.94,
-      "discount_pct": 15,
-      "line_total": 1104.95
+      "line_total": 20553.5
     },
     {
       "description": "Contract Review",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 456.42,
+      "unit_price": 722.05,
       "discount_pct": 0,
-      "line_total": 456.42
+      "line_total": 722.05
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8209.46,
+      "discount_pct": 0,
+      "line_total": 8209.46
     }
   ],
-  "subtotal": 509236.92,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 76385.54,
+  "subtotal": 29485.01,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 1474.25,
   "shipping_amount": 0.0,
-  "total_due": 585622.46,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": null,
+  "total_due": 30959.26,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

@@ -1,17 +1,17 @@
 {
   "id": 377,
   "filename": "invoice_377.pdf",
-  "layout_style": "creative",
+  "layout_style": "classic",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
   "invoice_number": "BILL-44762",
-  "issue_date": "18-May-2022",
-  "due_date": "01/06/2022",
-  "payment_terms": "Net 15",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "25-Jun-2022",
+  "due_date": "July 25 2022",
+  "payment_terms": "Upon completion",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": "PO-57836",
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
   "seller_email": "ar@ironcoremfg.com",
@@ -20,39 +20,191 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 2,
+  "num_line_items": 21,
   "line_items": [
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 257.99,
-      "discount_pct": 0,
-      "line_total": 257.99
-    },
     {
       "description": "Content Writing",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 324.83,
+      "unit_price": 376.98,
+      "discount_pct": 5,
+      "line_total": 358.13
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 159.04,
+      "discount_pct": 15,
+      "line_total": 675.92
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 518.19,
+      "discount_pct": 5,
+      "line_total": 492.28
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1358.59,
+      "discount_pct": 5,
+      "line_total": 3871.98
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 859.63,
+      "discount_pct": 5,
+      "line_total": 8166.48
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 898.42,
+      "discount_pct": 20,
+      "line_total": 17968.4
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1147.27,
       "discount_pct": 0,
-      "line_total": 324.83
+      "line_total": 3441.81
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 76.27,
+      "discount_pct": 0,
+      "line_total": 152.54
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1186.78,
+      "discount_pct": 0,
+      "line_total": 1186.78
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3530.83,
+      "discount_pct": 0,
+      "line_total": 7061.66
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 128.21,
+      "discount_pct": 5,
+      "line_total": 1218.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1280.58,
+      "discount_pct": 5,
+      "line_total": 60827.55
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2066.62,
+      "discount_pct": 0,
+      "line_total": 2066.62
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 121.78,
+      "discount_pct": 0,
+      "line_total": 121.78
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 301.11,
+      "discount_pct": 0,
+      "line_total": 903.33
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 309.31,
+      "discount_pct": 0,
+      "line_total": 618.62
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 110.13,
+      "discount_pct": 20,
+      "line_total": 88.1
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 2,
+      "unit_price": 331.67,
+      "discount_pct": 0,
+      "line_total": 663.34
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 174.53,
+      "discount_pct": 20,
+      "line_total": 1396.24
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 2910.92,
+      "discount_pct": 5,
+      "line_total": 27653.74
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6230.18,
+      "discount_pct": 15,
+      "line_total": 5295.65
     }
   ],
-  "subtotal": 582.82,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 110.74,
+  "subtotal": 144228.95,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 18749.76,
   "shipping_amount": 0.0,
-  "total_due": 693.56,
-  "notes": null,
+  "total_due": 162978.71,
+  "notes": "All work performed in accordance with the signed service agreement.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

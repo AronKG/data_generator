@@ -1,16 +1,16 @@
 {
   "id": 966,
   "filename": "invoice_966.pdf",
-  "layout_style": "ledger",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 2,
+  "layout_style": "sidebar",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "SI/2022/53380",
-  "issue_date": "24-Aug-2023",
-  "due_date": "08/10/2023",
-  "payment_terms": "2/10 Net 30",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "09 December 2023",
+  "due_date": "January 08 2024",
+  "payment_terms": "End of Month",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Lumiere Creations SARL",
   "seller_address": "18 Bd Haussmann 75009 Paris France",
@@ -20,68 +20,123 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 5,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 66.32,
-      "discount_pct": 0,
-      "line_total": 3316.0
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 563.71,
-      "discount_pct": 0,
-      "line_total": 563.71
+      "quantity": 3,
+      "unit_price": 199.4,
+      "discount_pct": 5,
+      "line_total": 568.29
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 11666.77,
-      "discount_pct": 5,
-      "line_total": 11083.43
+      "quantity": 10,
+      "unit_price": 4438.92,
+      "discount_pct": 15,
+      "line_total": 37730.82
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 115.31,
+      "quantity": 1,
+      "unit_price": 272.06,
       "discount_pct": 5,
-      "line_total": 328.63
+      "line_total": 258.46
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 956.46,
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 185.73,
       "discount_pct": 15,
-      "line_total": 8129.91
+      "line_total": 157.87
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 1403.52,
+      "discount_pct": 0,
+      "line_total": 14035.2
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 118.21,
+      "discount_pct": 15,
+      "line_total": 502.39
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1206.37,
+      "discount_pct": 20,
+      "line_total": 4825.48
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1579.04,
+      "discount_pct": 0,
+      "line_total": 7895.2
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3901.14,
+      "discount_pct": 15,
+      "line_total": 165798.45
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 7584.63,
+      "discount_pct": 20,
+      "line_total": 60677.04
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 145.22,
+      "discount_pct": 20,
+      "line_total": 5808.8
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1253.36,
+      "discount_pct": 0,
+      "line_total": 12533.6
     }
   ],
-  "subtotal": 23421.68,
+  "subtotal": 310791.6,
   "tax_label": "GST 10pct",
   "tax_rate_pct": 10.0,
-  "tax_amount": 2342.17,
-  "shipping_amount": 0.0,
-  "total_due": 25763.85,
+  "tax_amount": 31079.16,
+  "shipping_amount": 247.11,
+  "total_due": 342117.87,
   "notes": null,
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

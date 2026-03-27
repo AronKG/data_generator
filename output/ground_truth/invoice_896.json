@@ -1,17 +1,17 @@
 {
   "id": 896,
   "filename": "invoice_896.pdf",
-  "layout_style": "ledger",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 12,
+  "complexity_tier": "simple",
+  "color_palette_index": 7,
   "invoice_number": "RCPT11940",
-  "issue_date": "06/07/2023",
-  "due_date": "July 21 2023",
-  "payment_terms": "End of Month",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "15-Dec-2022",
+  "due_date": "13-Feb-2023",
+  "payment_terms": "30 days from delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-25157",
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,127 +20,52 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 13,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 110.14,
-      "discount_pct": 20,
-      "line_total": 4405.6
-    },
     {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 367.22,
+      "quantity": 1,
+      "unit_price": 456.35,
       "discount_pct": 0,
-      "line_total": 1836.1
+      "line_total": 456.35
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 116.39,
-      "discount_pct": 20,
-      "line_total": 93.11
+      "unit_price": 147.34,
+      "discount_pct": 0,
+      "line_total": 147.34
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 50,
-      "unit_price": 342.58,
+      "quantity": 25,
+      "unit_price": 763.76,
       "discount_pct": 0,
-      "line_total": 17129.0
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 330.61,
-      "discount_pct": 0,
-      "line_total": 16530.5
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 5573.89,
-      "discount_pct": 0,
-      "line_total": 11147.78
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 792.18,
-      "discount_pct": 20,
-      "line_total": 31687.2
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 928.49,
-      "discount_pct": 5,
-      "line_total": 1764.13
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 207.19,
-      "discount_pct": 15,
-      "line_total": 176.11
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 169.21,
-      "discount_pct": 0,
-      "line_total": 8460.5
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 4955.55,
-      "discount_pct": 0,
-      "line_total": 4955.55
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1285.48,
-      "discount_pct": 20,
-      "line_total": 1028.38
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1089.98,
-      "discount_pct": 0,
-      "line_total": 1089.98
+      "line_total": 19094.0
     }
   ],
-  "subtotal": 100303.94,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 6018.24,
-  "shipping_amount": 173.61,
-  "total_due": 106495.79,
-  "notes": "Please retain this invoice for your accounting records.",
-  "bank_details": null,
+  "subtotal": 19697.69,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 4136.51,
+  "shipping_amount": 0.0,
+  "total_due": 23834.2,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

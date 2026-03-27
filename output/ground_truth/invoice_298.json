@@ -4,10 +4,10 @@
   "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "simple",
-  "color_palette_index": 0,
+  "color_palette_index": 3,
   "invoice_number": "2025-77909",
-  "issue_date": "12 August 2024",
-  "due_date": "02 September 2024",
+  "issue_date": "22 March 2023",
+  "due_date": "12 April 2023",
   "payment_terms": "Due on Receipt",
   "currency": "GBP",
   "currency_symbol": "£",
@@ -23,36 +23,36 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 28.0,
-      "discount_pct": 0,
-      "line_total": 28.0
-    },
-    {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 816.5,
+      "quantity": 1,
+      "unit_price": 2353.23,
       "discount_pct": 0,
-      "line_total": 4082.5
+      "line_total": 2353.23
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 426.0,
+      "quantity": 5,
+      "unit_price": 272.2,
       "discount_pct": 0,
-      "line_total": 1278.0
+      "line_total": 1361.0
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 724.2,
+      "discount_pct": 0,
+      "line_total": 2172.6
     }
   ],
-  "subtotal": 5388.5,
+  "subtotal": 5886.83,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 444.55,
+  "tax_amount": 485.66,
   "shipping_amount": 0.0,
-  "total_due": 5833.05,
+  "total_due": 6372.49,
   "notes": null,
   "bank_details": {
     "Bank": "Westpac",

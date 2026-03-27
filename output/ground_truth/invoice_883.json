@@ -1,16 +1,16 @@
 {
   "id": 883,
   "filename": "invoice_883.pdf",
-  "layout_style": "classic",
+  "layout_style": "two_tone",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 14,
+  "color_palette_index": 11,
   "invoice_number": "SI-10737",
-  "issue_date": "13 August 2022",
-  "due_date": "October 12 2022",
-  "payment_terms": "End of Month",
-  "currency": "USD",
-  "currency_symbol": "$",
+  "issue_date": "February 09 2024",
+  "due_date": "February 24 2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
@@ -20,16 +20,8 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 9,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 221.63,
-      "discount_pct": 10,
-      "line_total": 199.47
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
@@ -55,12 +47,12 @@
       "line_total": 1066.97
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 2,
-      "unit_price": 853.18,
+      "unit_price": 279.95,
       "discount_pct": 0,
-      "line_total": 1706.36
+      "line_total": 559.9
     },
     {
       "description": "Maintenance Contract",
@@ -93,21 +85,57 @@
       "unit_price": 141.02,
       "discount_pct": 5,
       "line_total": 133.97
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 188.56,
+      "discount_pct": 15,
+      "line_total": 160.28
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 972.59,
+      "discount_pct": 20,
+      "line_total": 3890.36
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 532.12,
+      "discount_pct": 0,
+      "line_total": 532.12
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 552.48,
+      "discount_pct": 0,
+      "line_total": 552.48
     }
   ],
-  "subtotal": 69077.89,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 13815.58,
+  "subtotal": 72867.2,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 7286.72,
   "shipping_amount": 0.0,
-  "total_due": 82893.47,
+  "total_due": 80153.92,
   "notes": null,
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": false,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

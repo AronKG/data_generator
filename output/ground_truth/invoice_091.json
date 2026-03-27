@@ -1,17 +1,17 @@
 {
   "id": 91,
   "filename": "invoice_091.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "classic",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 12,
+  "complexity_tier": "complex",
+  "color_palette_index": 1,
   "invoice_number": "TAX-INV-98277",
-  "issue_date": "05 September 2024",
-  "due_date": "09/12/2024",
-  "payment_terms": "Net 45",
+  "issue_date": "13 March 2022",
+  "due_date": "June 11 2022",
+  "payment_terms": "2/10 Net 30",
   "currency": "USD",
   "currency_symbol": "$",
-  "po_number": "PO-77351",
+  "po_number": "PO-28485",
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
   "seller_email": "ar@ironcoremfg.com",
@@ -20,38 +20,138 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 2,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 5622.01,
-      "discount_pct": 0,
-      "line_total": 56220.1
-    },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 483.78,
+      "quantity": 25,
+      "unit_price": 395.77,
+      "discount_pct": 20,
+      "line_total": 7915.4
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 11295.23,
+      "discount_pct": 15,
+      "line_total": 28802.84
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 615.23,
       "discount_pct": 0,
-      "line_total": 4837.8
+      "line_total": 15380.75
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 33177.01,
+      "discount_pct": 0,
+      "line_total": 99531.03
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 30.59,
+      "discount_pct": 10,
+      "line_total": 27.53
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 579.89,
+      "discount_pct": 0,
+      "line_total": 5798.9
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 14185.8,
+      "discount_pct": 15,
+      "line_total": 602896.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 1626.58,
+      "discount_pct": 5,
+      "line_total": 38631.28
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 1247.85,
+      "discount_pct": 0,
+      "line_total": 31196.25
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 852.34,
+      "discount_pct": 0,
+      "line_total": 2557.02
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1399.29,
+      "discount_pct": 0,
+      "line_total": 1399.29
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 6226.9,
+      "discount_pct": 15,
+      "line_total": 52928.65
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1201.77,
+      "discount_pct": 5,
+      "line_total": 3425.04
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2897.23,
+      "discount_pct": 0,
+      "line_total": 5794.46
     }
   ],
-  "subtotal": 61057.9,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 14043.32,
+  "subtotal": 896284.94,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 62739.95,
   "shipping_amount": 0.0,
-  "total_due": 75101.22,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "total_due": 959024.89,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

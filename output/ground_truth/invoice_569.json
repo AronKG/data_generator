@@ -1,17 +1,17 @@
 {
   "id": 569,
   "filename": "invoice_569.pdf",
-  "layout_style": "modern",
-  "page_size": "letter",
+  "layout_style": "compact",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "color_palette_index": 0,
   "invoice_number": "BILL-2025-67007",
-  "issue_date": "2022-05-22",
-  "due_date": "21 June 2022",
-  "payment_terms": "Net 21",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "09/17/2023",
+  "due_date": "01/11/2023",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-69524",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,68 +20,59 @@
   "client_name": "Sunrise Academy",
   "client_address": "10 Scholar Way Singapore 188064",
   "client_email": "finance@sunriseacademy.edu.sg",
-  "num_line_items": 5,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 487.42,
-      "discount_pct": 0,
-      "line_total": 12185.5
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 50,
-      "unit_price": 3852.33,
+      "quantity": 1,
+      "unit_price": 2340.04,
+      "discount_pct": 15,
+      "line_total": 1989.03
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 497.98,
       "discount_pct": 0,
-      "line_total": 192616.5
+      "line_total": 1493.94
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3278.71,
-      "discount_pct": 10,
-      "line_total": 29508.39
+      "quantity": 1,
+      "unit_price": 3646.87,
+      "discount_pct": 15,
+      "line_total": 3099.84
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5748.21,
-      "discount_pct": 0,
-      "line_total": 5748.21
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 642.7,
+      "quantity": 10,
+      "unit_price": 5398.94,
       "discount_pct": 10,
-      "line_total": 578.43
+      "line_total": 48590.46
     }
   ],
-  "subtotal": 240637.03,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 48127.41,
+  "subtotal": 55173.27,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 5517.33,
   "shipping_amount": 0.0,
-  "total_due": 288764.44,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "total_due": 60690.6,
+  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

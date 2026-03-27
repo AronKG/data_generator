@@ -4,13 +4,13 @@
   "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 7,
+  "color_palette_index": 14,
   "invoice_number": "2025-26569",
-  "issue_date": "06/01/2023",
-  "due_date": "27-Jan-2023",
-  "payment_terms": "Net 21",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "January 23 2023",
+  "due_date": "2023-01-30",
+  "payment_terms": "Net 15",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Lumiere Creations SARL",
   "seller_address": "18 Bd Haussmann 75009 Paris France",
@@ -20,48 +20,81 @@
   "client_name": "Vivid Apparel Group",
   "client_address": "7th Ave New York NY 10018 USA",
   "client_email": "ap@vividapparel.com",
-  "num_line_items": 3,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 207.41,
-      "discount_pct": 0,
-      "line_total": 207.41
-    },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 7989.01,
+      "quantity": 3,
+      "unit_price": 2110.04,
       "discount_pct": 0,
-      "line_total": 39945.05
+      "line_total": 6330.12
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 97.55,
+      "quantity": 1,
+      "unit_price": 81.85,
+      "discount_pct": 5,
+      "line_total": 77.76
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 140.13,
+      "discount_pct": 20,
+      "line_total": 112.1
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1949.53,
       "discount_pct": 0,
-      "line_total": 195.1
+      "line_total": 9747.65
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 244.06,
+      "discount_pct": 0,
+      "line_total": 244.06
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 9480.17,
+      "discount_pct": 10,
+      "line_total": 25596.46
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 5369.43,
+      "discount_pct": 0,
+      "line_total": 5369.43
     }
   ],
-  "subtotal": 40347.56,
+  "subtotal": 47477.58,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 7666.04,
+  "tax_amount": 9020.74,
   "shipping_amount": 0.0,
-  "total_due": 48013.6,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "total_due": 56498.32,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

@@ -2,16 +2,16 @@
   "id": 848,
   "filename": "invoice_848.pdf",
   "layout_style": "creative",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
   "invoice_number": "INVOICE-2025-59436",
-  "issue_date": "February 09 2022",
-  "due_date": "24-Feb-2022",
-  "payment_terms": "Net 60",
+  "issue_date": "12-Nov-2022",
+  "due_date": "12 December 2022",
+  "payment_terms": "Net 90",
   "currency": "SGD",
   "currency_symbol": "S$",
-  "po_number": null,
+  "po_number": "PO-83068",
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
   "seller_email": "finance@southerncrossmarine.nz",
@@ -20,68 +20,135 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 5,
+  "num_line_items": 14,
   "line_items": [
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 170.94,
-      "discount_pct": 10,
-      "line_total": 153.85
+      "quantity": 10,
+      "unit_price": 232.26,
+      "discount_pct": 20,
+      "line_total": 1858.08
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 25,
-      "unit_price": 1133.06,
-      "discount_pct": 5,
-      "line_total": 26910.17
+      "quantity": 1,
+      "unit_price": 456.31,
+      "discount_pct": 10,
+      "line_total": 410.68
     },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 50,
-      "unit_price": 272.47,
-      "discount_pct": 20,
-      "line_total": 10898.8
+      "unit_price": 306.1,
+      "discount_pct": 15,
+      "line_total": 13009.25
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3838.74,
-      "discount_pct": 20,
-      "line_total": 30709.92
+      "quantity": 2,
+      "unit_price": 4115.11,
+      "discount_pct": 15,
+      "line_total": 6995.69
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 183.35,
+      "unit_price": 107.12,
+      "discount_pct": 0,
+      "line_total": 107.12
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 116.44,
+      "discount_pct": 20,
+      "line_total": 93.15
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 44.6,
+      "discount_pct": 0,
+      "line_total": 44.6
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4251.87,
+      "discount_pct": 15,
+      "line_total": 3614.09
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2358.71,
+      "discount_pct": 15,
+      "line_total": 2004.9
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 572.67,
+      "discount_pct": 0,
+      "line_total": 28633.5
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2147.33,
+      "discount_pct": 15,
+      "line_total": 1825.23
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 905.7,
+      "discount_pct": 0,
+      "line_total": 2717.1
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 166.47,
+      "discount_pct": 0,
+      "line_total": 166.47
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2547.22,
       "discount_pct": 10,
-      "line_total": 165.01
+      "line_total": 114624.9
     }
   ],
-  "subtotal": 68837.75,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 176104.76,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 35220.95,
   "shipping_amount": 0.0,
-  "total_due": 68837.75,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
-  },
+  "total_due": 211325.71,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_po_number": true,
+  "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 289,
   "filename": "invoice_289.pdf",
-  "layout_style": "modern",
+  "layout_style": "two_tone",
   "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 8,
+  "color_palette_index": 4,
   "invoice_number": "2022-11911",
-  "issue_date": "2024-05-12",
-  "due_date": "06/11/2024",
-  "payment_terms": "End of Month",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-10503",
+  "issue_date": "June 13 2023",
+  "due_date": "20-Jun-2023",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-50422",
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
   "seller_email": "accounts@pacificrimexports.hk",
@@ -20,140 +20,167 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 14,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 793.71,
-      "discount_pct": 10,
-      "line_total": 17858.48
-    },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 195.67,
+      "quantity": 3,
+      "unit_price": 247.3,
       "discount_pct": 0,
-      "line_total": 195.67
+      "line_total": 741.9
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1353.58,
-      "discount_pct": 15,
-      "line_total": 1150.54
+      "unit_price": 1537.06,
+      "discount_pct": 20,
+      "line_total": 1229.65
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 50,
-      "unit_price": 955.57,
-      "discount_pct": 20,
-      "line_total": 38222.8
+      "quantity": 1,
+      "unit_price": 965.44,
+      "discount_pct": 0,
+      "line_total": 965.44
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7664.29,
+      "quantity": 25,
+      "unit_price": 2845.86,
       "discount_pct": 0,
-      "line_total": 7664.29
+      "line_total": 71146.5
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 13617.82,
-      "discount_pct": 0,
-      "line_total": 340445.5
+      "quantity": 5,
+      "unit_price": 45261.71,
+      "discount_pct": 15,
+      "line_total": 192362.27
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 460.51,
+      "quantity": 50,
+      "unit_price": 196.46,
       "discount_pct": 15,
-      "line_total": 1957.17
+      "line_total": 8349.55
     },
     {
       "description": "Event Management",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 5961.08,
-      "discount_pct": 15,
-      "line_total": 253345.9
+      "unit_price": 5012.74,
+      "discount_pct": 0,
+      "line_total": 250637.0
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
       "quantity": 50,
-      "unit_price": 1924.08,
-      "discount_pct": 0,
-      "line_total": 96204.0
+      "unit_price": 6404.2,
+      "discount_pct": 20,
+      "line_total": 256168.0
     },
     {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 124.47,
-      "discount_pct": 20,
-      "line_total": 4978.8
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 939.83,
+      "discount_pct": 10,
+      "line_total": 21146.17
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 378.45,
+      "discount_pct": 15,
+      "line_total": 321.68
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 991.73,
+      "discount_pct": 10,
+      "line_total": 22313.92
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 839.8,
+      "discount_pct": 0,
+      "line_total": 1679.6
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 136.24,
+      "discount_pct": 10,
+      "line_total": 122.62
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 18721.34,
-      "discount_pct": 10,
-      "line_total": 421230.15
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
       "quantity": 1,
-      "unit_price": 883.05,
-      "discount_pct": 15,
-      "line_total": 750.59
+      "unit_price": 7195.11,
+      "discount_pct": 5,
+      "line_total": 6835.35
     },
     {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 4365.55,
-      "discount_pct": 10,
-      "line_total": 98224.88
-    },
-    {
-      "description": "Legal Consultation",
+      "description": "IT Support",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 206.8,
+      "quantity": 50,
+      "unit_price": 137.52,
+      "discount_pct": 15,
+      "line_total": 5844.6
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 779.8,
       "discount_pct": 0,
-      "line_total": 413.6
+      "line_total": 779.8
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2444.48,
+      "discount_pct": 0,
+      "line_total": 122224.0
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1966.07,
+      "discount_pct": 0,
+      "line_total": 5898.21
     }
   ],
-  "subtotal": 1282642.37,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 295007.75,
-  "shipping_amount": 64.22,
-  "total_due": 1577714.34,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "subtotal": 968766.26,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 67813.64,
+  "shipping_amount": 0.0,
+  "total_due": 1036579.9,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": true,
   "has_tax": true
 }

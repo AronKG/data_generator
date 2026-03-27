@@ -1,17 +1,17 @@
 {
   "id": 222,
   "filename": "invoice_222.pdf",
-  "layout_style": "formal",
+  "layout_style": "sidebar",
   "page_size": "A4",
   "complexity_tier": "medium",
   "color_palette_index": 14,
   "invoice_number": "INVOICE26524",
-  "issue_date": "2023-11-17",
-  "due_date": "January 16 2024",
-  "payment_terms": "Net 90",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": null,
+  "issue_date": "May 13 2024",
+  "due_date": "2024-05-20",
+  "payment_terms": "Net 21",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-35745",
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,52 +20,71 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 3,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2362.22,
-      "discount_pct": 0,
-      "line_total": 59055.5
-    },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 254.49,
+      "quantity": 2,
+      "unit_price": 119.31,
       "discount_pct": 0,
-      "line_total": 2544.9
+      "line_total": 238.62
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 989.21,
+      "unit_price": 2876.9,
       "discount_pct": 0,
-      "line_total": 989.21
+      "line_total": 2876.9
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1706.05,
+      "discount_pct": 10,
+      "line_total": 1535.44
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 6659.14,
+      "discount_pct": 20,
+      "line_total": 53273.12
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 574.7,
+      "discount_pct": 0,
+      "line_total": 1149.4
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 677.23,
+      "discount_pct": 20,
+      "line_total": 5417.84
     }
   ],
-  "subtotal": 62589.61,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 6258.96,
+  "subtotal": 64491.32,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 68848.57,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "total_due": 64491.32,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

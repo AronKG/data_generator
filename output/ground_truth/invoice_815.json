@@ -1,17 +1,17 @@
 {
   "id": 815,
   "filename": "invoice_815.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 9,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
   "invoice_number": "SI/2024/78658",
-  "issue_date": "October 18 2024",
-  "due_date": "25-Oct-2024",
-  "payment_terms": "Net 21",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-25094",
+  "issue_date": "24-Jan-2022",
+  "due_date": "07-Feb-2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,36 +20,143 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 1,
+  "num_line_items": 15,
   "line_items": [
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 783.66,
+      "discount_pct": 0,
+      "line_total": 1567.32
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 331.53,
+      "discount_pct": 20,
+      "line_total": 795.67
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 56.21,
+      "discount_pct": 10,
+      "line_total": 151.77
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3915.06,
+      "discount_pct": 0,
+      "line_total": 195753.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 357.82,
+      "discount_pct": 5,
+      "line_total": 8498.23
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 5,
+      "unit_price": 77.69,
+      "discount_pct": 15,
+      "line_total": 330.18
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7370.77,
+      "discount_pct": 0,
+      "line_total": 7370.77
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 342.73,
+      "discount_pct": 0,
+      "line_total": 342.73
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1052.1,
+      "discount_pct": 5,
+      "line_total": 2998.48
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3478.91,
+      "discount_pct": 15,
+      "line_total": 29570.73
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 144.5,
+      "discount_pct": 10,
+      "line_total": 390.15
+    },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1166.59,
+      "quantity": 25,
+      "unit_price": 504.75,
       "discount_pct": 0,
-      "line_total": 5832.95
+      "line_total": 12618.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 820.39,
+      "discount_pct": 20,
+      "line_total": 656.31
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 477.31,
+      "discount_pct": 5,
+      "line_total": 11336.11
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2442.22,
+      "discount_pct": 20,
+      "line_total": 1953.78
     }
   ],
-  "subtotal": 5832.95,
+  "subtotal": 274333.98,
   "tax_label": "VAT 23pct",
   "tax_rate_pct": 23.0,
-  "tax_amount": 1341.58,
+  "tax_amount": 63096.82,
   "shipping_amount": 0.0,
-  "total_due": 7174.53,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "total_due": 337430.8,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

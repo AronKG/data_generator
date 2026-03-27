@@ -1,17 +1,17 @@
 {
   "id": 166,
   "filename": "invoice_166.pdf",
-  "layout_style": "creative",
-  "page_size": "letter",
+  "layout_style": "classic",
+  "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "color_palette_index": 4,
   "invoice_number": "037269",
-  "issue_date": "11/28/2022",
-  "due_date": "01/12/2023",
-  "payment_terms": "Upon completion",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": null,
+  "issue_date": "2023-11-29",
+  "due_date": "20 December 2023",
+  "payment_terms": "Net 15",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-37565",
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
   "seller_email": "accounts@mirageproductions.ae",
@@ -20,107 +20,131 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 10,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 17330.91,
-      "discount_pct": 5,
-      "line_total": 82321.82
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 678.94,
-      "discount_pct": 0,
-      "line_total": 678.94
-    },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 2862.71,
-      "discount_pct": 0,
-      "line_total": 143135.5
+      "unit_price": 5076.82,
+      "discount_pct": 10,
+      "line_total": 228456.9
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2028.6,
+      "unit_price": 3012.83,
       "discount_pct": 0,
-      "line_total": 2028.6
+      "line_total": 3012.83
     },
     {
-      "description": "Community Mgmt",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1537.4,
-      "discount_pct": 10,
-      "line_total": 1383.66
+      "quantity": 5,
+      "unit_price": 1276.2,
+      "discount_pct": 0,
+      "line_total": 6381.0
     },
     {
       "description": "Photography Session",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 1486.76,
-      "discount_pct": 10,
-      "line_total": 33452.1
+      "unit_price": 1467.47,
+      "discount_pct": 15,
+      "line_total": 31183.74
     },
     {
       "description": "Event Management",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 10341.13,
-      "discount_pct": 0,
-      "line_total": 258528.25
+      "unit_price": 8802.02,
+      "discount_pct": 10,
+      "line_total": 198045.45
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 548.66,
-      "discount_pct": 5,
-      "line_total": 2606.13
+      "quantity": 25,
+      "unit_price": 503.0,
+      "discount_pct": 0,
+      "line_total": 12575.0
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
       "quantity": 5,
-      "unit_price": 1812.49,
-      "discount_pct": 0,
-      "line_total": 9062.45
+      "unit_price": 1075.61,
+      "discount_pct": 5,
+      "line_total": 5109.15
     },
     {
-      "description": "Logo Design",
-      "unit": "ea",
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 742.31,
+      "discount_pct": 0,
+      "line_total": 3711.55
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
       "quantity": 10,
-      "unit_price": 912.9,
+      "unit_price": 490.03,
       "discount_pct": 10,
-      "line_total": 8216.1
+      "line_total": 4410.27
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 27.03,
+      "discount_pct": 0,
+      "line_total": 27.03
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 896.34,
+      "discount_pct": 0,
+      "line_total": 1792.68
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 781.53,
+      "discount_pct": 5,
+      "line_total": 37122.67
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 270.73,
+      "discount_pct": 0,
+      "line_total": 6768.25
     }
   ],
-  "subtotal": 541413.55,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 108282.71,
-  "shipping_amount": 55.17,
-  "total_due": 649751.43,
-  "notes": "Goods remain property of seller until full payment received.",
+  "subtotal": 538596.52,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 70017.55,
+  "shipping_amount": 148.38,
+  "total_due": 608762.45,
+  "notes": null,
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": true,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

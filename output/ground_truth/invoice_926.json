@@ -1,16 +1,16 @@
 {
   "id": 926,
   "filename": "invoice_926.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 2,
+  "complexity_tier": "medium",
+  "color_palette_index": 1,
   "invoice_number": "INVOICE/2022/10438",
-  "issue_date": "12/22/2022",
-  "due_date": "2023-02-05",
-  "payment_terms": "Net 90",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "2023-12-25",
+  "due_date": "January 01 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "SEK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
@@ -20,219 +20,70 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 24,
+  "num_line_items": 6,
   "line_items": [
     {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 18699.45,
-      "discount_pct": 10,
-      "line_total": 50488.52
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1292.6,
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 560.62,
       "discount_pct": 15,
-      "line_total": 3296.13
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2091.5,
-      "discount_pct": 5,
-      "line_total": 19869.25
+      "line_total": 2382.63
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 2,
-      "unit_price": 1165.18,
-      "discount_pct": 0,
-      "line_total": 2330.36
+      "quantity": 5,
+      "unit_price": 1084.93,
+      "discount_pct": 10,
+      "line_total": 4882.19
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 629.78,
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 9639.46,
       "discount_pct": 10,
-      "line_total": 5668.02
+      "line_total": 26026.54
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 905.76,
+      "unit_price": 2321.96,
       "discount_pct": 0,
-      "line_total": 905.76
+      "line_total": 2321.96
     },
     {
-      "description": "Bookkeeping",
+      "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 831.78,
+      "quantity": 1,
+      "unit_price": 1139.98,
       "discount_pct": 0,
-      "line_total": 20794.5
+      "line_total": 1139.98
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1009.92,
-      "discount_pct": 5,
-      "line_total": 959.42
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1305.33,
-      "discount_pct": 0,
-      "line_total": 2610.66
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 5,
-      "unit_price": 686.02,
-      "discount_pct": 5,
-      "line_total": 3258.59
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 7249.39,
-      "discount_pct": 0,
-      "line_total": 181234.75
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 93.51,
-      "discount_pct": 5,
-      "line_total": 88.83
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 100.46,
-      "discount_pct": 15,
-      "line_total": 426.95
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
       "quantity": 3,
-      "unit_price": 3798.48,
-      "discount_pct": 5,
-      "line_total": 10825.67
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 25,
-      "unit_price": 823.54,
-      "discount_pct": 0,
-      "line_total": 20588.5
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 5,
-      "unit_price": 95.84,
+      "unit_price": 929.81,
       "discount_pct": 15,
-      "line_total": 407.32
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 450.92,
-      "discount_pct": 5,
-      "line_total": 428.37
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3880.85,
-      "discount_pct": 0,
-      "line_total": 194042.5
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2131.56,
-      "discount_pct": 15,
-      "line_total": 5435.48
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 179.21,
-      "discount_pct": 0,
-      "line_total": 179.21
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 18549.95,
-      "discount_pct": 10,
-      "line_total": 166949.55
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2380.2,
-      "discount_pct": 10,
-      "line_total": 6426.54
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 10,
-      "unit_price": 702.0,
-      "discount_pct": 15,
-      "line_total": 5967.0
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2429.13,
-      "discount_pct": 0,
-      "line_total": 2429.13
+      "line_total": 2371.02
     }
   ],
-  "subtotal": 705611.01,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 49392.77,
+  "subtotal": 39124.32,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 5868.65,
   "shipping_amount": 0.0,
-  "total_due": 755003.78,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
-  },
+  "total_due": 44992.97,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

@@ -1,17 +1,17 @@
 {
   "id": 140,
   "filename": "invoice_140.pdf",
-  "layout_style": "compact",
+  "layout_style": "bold_header",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 6,
+  "color_palette_index": 7,
   "invoice_number": "PROFORMA-2024-64997",
-  "issue_date": "01/05/2022",
-  "due_date": "30 June 2022",
+  "issue_date": "May 18 2024",
+  "due_date": "2024-06-01",
   "payment_terms": "Cash on Delivery",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-90153",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-84875",
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,16 +20,8 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 8,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1067.13,
-      "discount_pct": 0,
-      "line_total": 26678.25
-    },
     {
       "description": "Security Services",
       "unit": "day",
@@ -55,12 +47,12 @@
       "line_total": 5560.82
     },
     {
-      "description": "BI Reporting",
-      "unit": "ea",
+      "description": "Community Mgmt",
+      "unit": "mo",
       "quantity": 1,
-      "unit_price": 500.32,
+      "unit_price": 600.18,
       "discount_pct": 0,
-      "line_total": 500.32
+      "line_total": 600.18
     },
     {
       "description": "Catering Services",
@@ -85,19 +77,35 @@
       "unit_price": 981.31,
       "discount_pct": 10,
       "line_total": 44158.95
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1720.28,
+      "discount_pct": 5,
+      "line_total": 1634.27
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3429.81,
+      "discount_pct": 20,
+      "line_total": 137192.4
     }
   ],
-  "subtotal": 79409.63,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 10323.25,
-  "shipping_amount": 147.73,
-  "total_due": 89880.61,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "subtotal": 191657.91,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 15811.78,
+  "shipping_amount": 189.28,
+  "total_due": 207658.97,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": true,

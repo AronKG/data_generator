@@ -1,17 +1,17 @@
 {
   "id": 17,
   "filename": "invoice_017.pdf",
-  "layout_style": "classic",
+  "layout_style": "two_tone",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 9,
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
   "invoice_number": "PROFORMA-2024-73513",
-  "issue_date": "06/04/2022",
-  "due_date": "18/06/2022",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-27641",
+  "issue_date": "09/03/2022",
+  "due_date": "18/10/2022",
+  "payment_terms": "Net 7",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-82498",
   "seller_name": "Ironwood Precision Mfg.",
   "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
   "seller_email": "ap@ironwoodprecision.com",
@@ -20,66 +20,130 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 5,
+  "num_line_items": 13,
   "line_items": [
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 869.19,
-      "discount_pct": 10,
-      "line_total": 782.27
+      "quantity": 5,
+      "unit_price": 646.53,
+      "discount_pct": 0,
+      "line_total": 3232.65
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2273.5,
-      "discount_pct": 5,
-      "line_total": 6479.47
+      "quantity": 10,
+      "unit_price": 346.34,
+      "discount_pct": 10,
+      "line_total": 3117.06
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 326.26,
-      "discount_pct": 0,
-      "line_total": 16313.0
+      "quantity": 2,
+      "unit_price": 267.0,
+      "discount_pct": 10,
+      "line_total": 480.6
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2727.67,
+      "quantity": 50,
+      "unit_price": 4832.27,
       "discount_pct": 0,
-      "line_total": 13638.35
+      "line_total": 241613.5
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 10,
-      "unit_price": 213.73,
+      "quantity": 1,
+      "unit_price": 844.31,
       "discount_pct": 10,
-      "line_total": 1923.57
+      "line_total": 759.88
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 774.56,
+      "discount_pct": 5,
+      "line_total": 735.83
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 332.66,
+      "discount_pct": 0,
+      "line_total": 1663.3
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12741.15,
+      "discount_pct": 20,
+      "line_total": 20385.84
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 29364.51,
+      "discount_pct": 10,
+      "line_total": 26428.06
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 782.86,
+      "discount_pct": 5,
+      "line_total": 743.72
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 3618.12,
+      "discount_pct": 0,
+      "line_total": 36181.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1231.31,
+      "discount_pct": 10,
+      "line_total": 1108.18
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 191.66,
+      "discount_pct": 0,
+      "line_total": 9583.0
     }
   ],
-  "subtotal": 39136.66,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 3228.77,
+  "subtotal": 346032.82,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 17301.64,
   "shipping_amount": 0.0,
-  "total_due": 42365.43,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 363334.46,
+  "notes": null,
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,

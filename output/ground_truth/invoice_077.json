@@ -1,16 +1,16 @@
 {
   "id": 77,
   "filename": "invoice_077.pdf",
-  "layout_style": "ledger",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 11,
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
   "invoice_number": "PROFORMA-2024-8380",
-  "issue_date": "03/17/2024",
-  "due_date": "31 March 2024",
-  "payment_terms": "Net 90",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "2022-07-21",
+  "due_date": "2022-08-11",
+  "payment_terms": "Immediate",
+  "currency": "SEK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,204 +20,92 @@
   "client_name": "Quantum Dynamics Corp",
   "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
   "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 22,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1145.1,
-      "discount_pct": 0,
-      "line_total": 28627.5
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 541.71,
-      "discount_pct": 0,
-      "line_total": 1083.42
-    },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 189.78,
-      "discount_pct": 0,
-      "line_total": 1897.8
+      "quantity": 5,
+      "unit_price": 127.64,
+      "discount_pct": 10,
+      "line_total": 574.38
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1249.47,
-      "discount_pct": 10,
-      "line_total": 5622.62
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1778.43,
+      "discount_pct": 0,
+      "line_total": 1778.43
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 5,
-      "unit_price": 1721.55,
-      "discount_pct": 0,
-      "line_total": 8607.75
+      "quantity": 2,
+      "unit_price": 1917.5,
+      "discount_pct": 5,
+      "line_total": 3643.25
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 50,
-      "unit_price": 68.05,
-      "discount_pct": 0,
-      "line_total": 3402.5
+      "unit_price": 68.9,
+      "discount_pct": 15,
+      "line_total": 2928.25
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 1,
-      "unit_price": 5445.74,
-      "discount_pct": 15,
-      "line_total": 4628.88
+      "quantity": 5,
+      "unit_price": 2397.88,
+      "discount_pct": 20,
+      "line_total": 9591.52
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 272.18,
-      "discount_pct": 5,
-      "line_total": 6464.27
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1050.89,
+      "discount_pct": 0,
+      "line_total": 1050.89
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 8754.93,
-      "discount_pct": 0,
-      "line_total": 43774.65
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2013.32,
-      "discount_pct": 20,
-      "line_total": 4831.97
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
       "quantity": 1,
-      "unit_price": 400.57,
-      "discount_pct": 20,
-      "line_total": 320.46
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 203.06,
+      "unit_price": 10325.47,
       "discount_pct": 0,
-      "line_total": 406.12
+      "line_total": 10325.47
     },
     {
-      "description": "Consulting Day Rate",
+      "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 2888.47,
-      "discount_pct": 15,
-      "line_total": 2455.2
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 1429.77,
-      "discount_pct": 0,
-      "line_total": 1429.77
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 2211.44,
-      "discount_pct": 20,
-      "line_total": 8845.76
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
       "quantity": 50,
-      "unit_price": 67.67,
-      "discount_pct": 5,
-      "line_total": 3214.32
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1789.3,
-      "discount_pct": 20,
-      "line_total": 7157.2
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 3647.49,
-      "discount_pct": 5,
-      "line_total": 3465.12
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 2102.13,
+      "unit_price": 445.92,
       "discount_pct": 15,
-      "line_total": 8934.05
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5956.21,
-      "discount_pct": 5,
-      "line_total": 282919.97
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 10,
-      "unit_price": 677.5,
-      "discount_pct": 0,
-      "line_total": 6775.0
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 934.15,
-      "discount_pct": 0,
-      "line_total": 934.15
+      "line_total": 18951.6
     }
   ],
-  "subtotal": 435798.48,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 48843.79,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 3419.07,
   "shipping_amount": 0.0,
-  "total_due": 435798.48,
-  "notes": "Goods remain property of seller until full payment received.",
+  "total_due": 52262.86,
+  "notes": null,
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

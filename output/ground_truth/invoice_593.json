@@ -1,17 +1,17 @@
 {
   "id": 593,
   "filename": "invoice_593.pdf",
-  "layout_style": "minimal",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
   "invoice_number": "REF-24991",
-  "issue_date": "07/11/2023",
-  "due_date": "2023-07-25",
-  "payment_terms": "End of Month",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "August 12 2022",
+  "due_date": "02 September 2022",
+  "payment_terms": "30 days from delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-25063",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,79 +20,116 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 7,
+  "num_line_items": 11,
   "line_items": [
     {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 756.31,
-      "discount_pct": 10,
-      "line_total": 6806.79
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 8216.85,
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1340.68,
       "discount_pct": 0,
-      "line_total": 205421.25
+      "line_total": 2681.36
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 1,
-      "unit_price": 27.27,
+      "quantity": 2,
+      "unit_price": 59.33,
       "discount_pct": 0,
-      "line_total": 27.27
+      "line_total": 118.66
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 338.4,
-      "discount_pct": 15,
-      "line_total": 287.64
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 9445.69,
+      "discount_pct": 5,
+      "line_total": 17946.81
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 13668.07,
-      "discount_pct": 15,
-      "line_total": 116178.6
+      "quantity": 3,
+      "unit_price": 12963.49,
+      "discount_pct": 5,
+      "line_total": 36945.95
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 413.74,
-      "discount_pct": 5,
-      "line_total": 1179.16
+      "quantity": 25,
+      "unit_price": 175.55,
+      "discount_pct": 0,
+      "line_total": 4388.75
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 25,
-      "unit_price": 98.17,
+      "quantity": 50,
+      "unit_price": 188.19,
       "discount_pct": 0,
-      "line_total": 2454.25
+      "line_total": 9409.5
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8970.27,
+      "discount_pct": 0,
+      "line_total": 448513.5
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14952.52,
+      "discount_pct": 10,
+      "line_total": 336431.7
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 5680.06,
+      "discount_pct": 0,
+      "line_total": 142001.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 468.68,
+      "discount_pct": 0,
+      "line_total": 2343.4
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6220.42,
+      "discount_pct": 15,
+      "line_total": 5287.36
     }
   ],
-  "subtotal": 332354.96,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 0.0,
-  "total_due": 332354.96,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": null,
+  "subtotal": 1006068.49,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 201213.7,
+  "shipping_amount": 261.07,
+  "total_due": 1207543.26,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": true,
+  "has_tax": true
 }

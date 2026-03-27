@@ -4,14 +4,14 @@
   "layout_style": "modern",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 9,
+  "color_palette_index": 4,
   "invoice_number": "INVOICE-2023-35331",
-  "issue_date": "16 June 2024",
-  "due_date": "07/07/2024",
-  "payment_terms": "Net 7",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "March 24 2023",
+  "due_date": "04/23/2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-72800",
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,67 +20,60 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 5,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 750.28,
-      "discount_pct": 20,
-      "line_total": 600.22
-    },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 4942.8,
-      "discount_pct": 5,
-      "line_total": 117391.5
+      "quantity": 1,
+      "unit_price": 2404.83,
+      "discount_pct": 20,
+      "line_total": 1923.86
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 3,
-      "unit_price": 464.25,
-      "discount_pct": 0,
-      "line_total": 1392.75
+      "quantity": 25,
+      "unit_price": 989.83,
+      "discount_pct": 5,
+      "line_total": 23508.46
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 3,
-      "unit_price": 2009.58,
-      "discount_pct": 5,
-      "line_total": 5727.3
+      "unit_price": 3446.11,
+      "discount_pct": 0,
+      "line_total": 10338.33
     },
     {
       "description": "Print Materials",
       "unit": "lot",
       "quantity": 3,
-      "unit_price": 653.87,
-      "discount_pct": 0,
-      "line_total": 1961.61
+      "unit_price": 227.39,
+      "discount_pct": 5,
+      "line_total": 648.06
     }
   ],
-  "subtotal": 127073.38,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 10483.55,
+  "subtotal": 36418.71,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 6919.55,
   "shipping_amount": 0.0,
-  "total_due": 137556.93,
-  "notes": "Goods remain property of seller until full payment received.",
+  "total_due": 43338.26,
+  "notes": null,
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

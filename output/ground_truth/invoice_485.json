@@ -1,16 +1,16 @@
 {
   "id": 485,
   "filename": "invoice_485.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "two_tone",
   "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 9,
+  "color_palette_index": 10,
   "invoice_number": "RCPT-2023-76968",
-  "issue_date": "17/10/2024",
-  "due_date": "31-Oct-2024",
-  "payment_terms": "Cash on Delivery",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "2022-09-08",
+  "due_date": "08/10/2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
@@ -20,31 +20,23 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 11,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 31865.53,
-      "discount_pct": 0,
-      "line_total": 31865.53
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 405.42,
+      "quantity": 2,
+      "unit_price": 271.49,
       "discount_pct": 0,
-      "line_total": 4054.2
+      "line_total": 542.98
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 525.82,
-      "discount_pct": 20,
-      "line_total": 420.66
+      "quantity": 50,
+      "unit_price": 308.67,
+      "discount_pct": 10,
+      "line_total": 13890.15
     },
     {
       "description": "Managed Cloud",
@@ -63,12 +55,12 @@
       "line_total": 114.62
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
+      "description": "Bookkeeping",
+      "unit": "mo",
       "quantity": 5,
-      "unit_price": 412.68,
+      "unit_price": 902.58,
       "discount_pct": 15,
-      "line_total": 1753.89
+      "line_total": 3835.97
     },
     {
       "description": "Consulting Day Rate",
@@ -95,41 +87,60 @@
       "line_total": 97615.0
     },
     {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
+      "description": "Social Media Mgmt",
+      "unit": "mo",
       "quantity": 2,
-      "unit_price": 6902.42,
+      "unit_price": 1765.85,
       "discount_pct": 15,
-      "line_total": 11734.11
+      "line_total": 3001.94
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Software License",
+      "unit": "seat",
       "quantity": 5,
-      "unit_price": 1513.75,
+      "unit_price": 7282.74,
       "discount_pct": 10,
-      "line_total": 6811.88
+      "line_total": 32772.33
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13270.91,
+      "discount_pct": 0,
+      "line_total": 13270.91
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 306.93,
+      "discount_pct": 0,
+      "line_total": 920.79
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 7208.19,
+      "discount_pct": 20,
+      "line_total": 288327.6
     }
   ],
-  "subtotal": 164523.9,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 9871.43,
-  "shipping_amount": 231.64,
-  "total_due": 174626.97,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
-  "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
-  },
+  "subtotal": 464446.3,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 88244.8,
+  "shipping_amount": 0.0,
+  "total_due": 552691.1,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

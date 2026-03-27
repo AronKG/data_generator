@@ -1,17 +1,17 @@
 {
   "id": 531,
   "filename": "invoice_531.pdf",
-  "layout_style": "modern",
-  "page_size": "letter",
-  "complexity_tier": "medium",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
   "color_palette_index": 4,
   "invoice_number": "SI66305",
-  "issue_date": "August 26 2024",
-  "due_date": "2024-10-10",
-  "payment_terms": "30 days from delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "10 November 2024",
+  "due_date": "25 December 2024",
+  "payment_terms": "Net 45",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-53150",
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
   "seller_email": "finance@southerncrossmarine.nz",
@@ -20,61 +20,165 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 5,
+  "num_line_items": 18,
   "line_items": [
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8473.03,
-      "discount_pct": 0,
-      "line_total": 8473.03
+      "quantity": 25,
+      "unit_price": 7247.91,
+      "discount_pct": 15,
+      "line_total": 154018.09
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 50,
-      "unit_price": 954.03,
-      "discount_pct": 15,
-      "line_total": 40546.28
+      "quantity": 25,
+      "unit_price": 625.52,
+      "discount_pct": 5,
+      "line_total": 14856.1
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 826.7,
-      "discount_pct": 0,
-      "line_total": 2480.1
+      "quantity": 1,
+      "unit_price": 1187.58,
+      "discount_pct": 5,
+      "line_total": 1128.2
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1085.26,
+      "quantity": 25,
+      "unit_price": 2788.83,
       "discount_pct": 0,
-      "line_total": 3255.78
+      "line_total": 69720.75
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1981.35,
+      "quantity": 1,
+      "unit_price": 1287.61,
+      "discount_pct": 20,
+      "line_total": 1030.09
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1885.69,
+      "discount_pct": 0,
+      "line_total": 18856.9
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 360.37,
+      "discount_pct": 0,
+      "line_total": 720.74
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 170.57,
       "discount_pct": 15,
-      "line_total": 42103.69
+      "line_total": 144.98
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 910.02,
+      "discount_pct": 20,
+      "line_total": 728.02
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 7120.05,
+      "discount_pct": 15,
+      "line_total": 6052.04
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 10945.06,
+      "discount_pct": 10,
+      "line_total": 98505.54
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1607.7,
+      "discount_pct": 15,
+      "line_total": 13665.45
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1277.32,
+      "discount_pct": 0,
+      "line_total": 1277.32
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 160.89,
+      "discount_pct": 10,
+      "line_total": 144.8
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 2044.13,
+      "discount_pct": 15,
+      "line_total": 8687.55
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 248.83,
+      "discount_pct": 10,
+      "line_total": 223.95
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1357.58,
+      "discount_pct": 5,
+      "line_total": 1289.7
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 5,
+      "unit_price": 983.7,
+      "discount_pct": 0,
+      "line_total": 4918.5
     }
   ],
-  "subtotal": 96858.88,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 5811.53,
+  "subtotal": 395968.72,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 59395.31,
   "shipping_amount": 0.0,
-  "total_due": 102670.41,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 455364.03,
+  "notes": "Thank you for your business. We value our long-term partnership.",
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
   "has_discount_column": true,
@@ -82,6 +186,6 @@
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

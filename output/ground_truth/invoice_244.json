@@ -1,16 +1,16 @@
 {
   "id": 244,
   "filename": "invoice_244.pdf",
-  "layout_style": "ledger",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 6,
+  "complexity_tier": "complex",
+  "color_palette_index": 5,
   "invoice_number": "2023-72521",
-  "issue_date": "20 July 2024",
-  "due_date": "10-Aug-2024",
-  "payment_terms": "2/10 Net 30",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "04/09/2023",
+  "due_date": "30 April 2023",
+  "payment_terms": "Immediate",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
@@ -20,32 +20,97 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 1,
+  "num_line_items": 9,
   "line_items": [
     {
-      "description": "Community Mgmt",
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 661.34,
+      "discount_pct": 5,
+      "line_total": 6282.73
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 716.09,
+      "discount_pct": 0,
+      "line_total": 3580.45
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 5210.56,
+      "discount_pct": 0,
+      "line_total": 5210.56
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1611.63,
+      "discount_pct": 20,
+      "line_total": 2578.61
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1628.84,
+      "discount_pct": 0,
+      "line_total": 40721.0
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 434.45,
+      "discount_pct": 10,
+      "line_total": 391.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 778.39,
+      "discount_pct": 5,
+      "line_total": 7394.7
+    },
+    {
+      "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 2306.82,
+      "unit_price": 989.17,
       "discount_pct": 0,
-      "line_total": 2306.82
+      "line_total": 989.17
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3834.88,
+      "discount_pct": 0,
+      "line_total": 3834.88
     }
   ],
-  "subtotal": 2306.82,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 299.89,
+  "subtotal": 70983.1,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 7098.31,
   "shipping_amount": 0.0,
-  "total_due": 2606.71,
-  "notes": "This document is strictly private and confidential.",
+  "total_due": 78081.41,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

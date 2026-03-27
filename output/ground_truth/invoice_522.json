@@ -1,16 +1,16 @@
 {
   "id": 522,
   "filename": "invoice_522.pdf",
-  "layout_style": "minimal",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
   "invoice_number": "TAX-INV/2024/65920",
-  "issue_date": "April 27 2022",
-  "due_date": "2022-05-12",
-  "payment_terms": "Due on Receipt",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "10/11/2022",
+  "due_date": "2022-11-25",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,60 +20,167 @@
   "client_name": "Moonbeam Creative Studio",
   "client_address": "33 Artisan Alley Brooklyn NY 11201 USA",
   "client_email": "billing@moonbeamstudio.com",
-  "num_line_items": 4,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 1092.25,
-      "discount_pct": 0,
-      "line_total": 2184.5
-    },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 355.14,
-      "discount_pct": 15,
-      "line_total": 301.87
+      "quantity": 5,
+      "unit_price": 877.06,
+      "discount_pct": 5,
+      "line_total": 4166.03
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 10,
-      "unit_price": 291.27,
-      "discount_pct": 10,
-      "line_total": 2621.43
+      "quantity": 1,
+      "unit_price": 598.5,
+      "discount_pct": 15,
+      "line_total": 508.72
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 747.42,
+      "discount_pct": 15,
+      "line_total": 31765.35
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
+      "quantity": 5,
+      "unit_price": 14268.29,
+      "discount_pct": 10,
+      "line_total": 64207.31
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 122.28,
+      "discount_pct": 0,
+      "line_total": 244.56
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 528.22,
+      "discount_pct": 0,
+      "line_total": 13205.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 4687.36,
+      "discount_pct": 0,
+      "line_total": 9374.72
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
       "quantity": 1,
-      "unit_price": 8543.74,
+      "unit_price": 334.22,
+      "discount_pct": 5,
+      "line_total": 317.51
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 727.66,
+      "discount_pct": 0,
+      "line_total": 727.66
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 150.04,
+      "discount_pct": 0,
+      "line_total": 7502.0
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1759.1,
+      "discount_pct": 0,
+      "line_total": 3518.2
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1494.37,
       "discount_pct": 20,
-      "line_total": 6834.99
+      "line_total": 1195.5
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1941.0,
+      "discount_pct": 15,
+      "line_total": 4949.55
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1459.27,
+      "discount_pct": 0,
+      "line_total": 72963.5
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 390.03,
+      "discount_pct": 5,
+      "line_total": 370.53
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 831.57,
+      "discount_pct": 5,
+      "line_total": 789.99
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 886.57,
+      "discount_pct": 0,
+      "line_total": 886.57
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 17891.79,
+      "discount_pct": 0,
+      "line_total": 447294.75
     }
   ],
-  "subtotal": 11942.79,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 2388.56,
-  "shipping_amount": 0.0,
-  "total_due": 14331.35,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "subtotal": 663987.95,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 46479.16,
+  "shipping_amount": 114.98,
+  "total_due": 710582.09,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": true,
-  "has_shipping": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

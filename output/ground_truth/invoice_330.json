@@ -1,17 +1,17 @@
 {
   "id": 330,
   "filename": "invoice_330.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 0,
+  "complexity_tier": "medium",
+  "color_palette_index": 5,
   "invoice_number": "048274",
-  "issue_date": "04 July 2024",
-  "due_date": "18/08/2024",
-  "payment_terms": "End of Month",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": null,
+  "issue_date": "November 13 2023",
+  "due_date": "01/12/2024",
+  "payment_terms": "Net 90",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-60324",
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
   "seller_email": "finance@southerncrossmarine.nz",
@@ -20,127 +20,63 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 13,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 9886.2,
-      "discount_pct": 15,
-      "line_total": 420163.5
-    },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 343.91,
+      "quantity": 1,
+      "unit_price": 262.37,
       "discount_pct": 0,
-      "line_total": 3439.1
+      "line_total": 262.37
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2548.15,
-      "discount_pct": 20,
-      "line_total": 2038.52
+      "quantity": 50,
+      "unit_price": 2452.62,
+      "discount_pct": 0,
+      "line_total": 122631.0
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 2,
-      "unit_price": 614.66,
-      "discount_pct": 0,
-      "line_total": 1229.32
+      "quantity": 3,
+      "unit_price": 574.11,
+      "discount_pct": 10,
+      "line_total": 1550.1
     },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1610.7,
-      "discount_pct": 0,
-      "line_total": 3221.4
+      "quantity": 50,
+      "unit_price": 5325.09,
+      "discount_pct": 15,
+      "line_total": 226316.32
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
       "quantity": 10,
-      "unit_price": 5194.76,
+      "unit_price": 6685.42,
       "discount_pct": 0,
-      "line_total": 51947.6
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 122.59,
-      "discount_pct": 0,
-      "line_total": 122.59
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3079.65,
-      "discount_pct": 10,
-      "line_total": 8315.06
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 542.0,
-      "discount_pct": 0,
-      "line_total": 542.0
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 236.04,
-      "discount_pct": 0,
-      "line_total": 236.04
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3393.85,
-      "discount_pct": 0,
-      "line_total": 10181.55
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 916.18,
-      "discount_pct": 0,
-      "line_total": 9161.8
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 25,
-      "unit_price": 1546.45,
-      "discount_pct": 10,
-      "line_total": 34795.12
+      "line_total": 66854.2
     }
   ],
-  "subtotal": 545393.6,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 44994.97,
+  "subtotal": 417613.99,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 41761.4,
   "shipping_amount": 0.0,
-  "total_due": 590388.57,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "total_due": 459375.39,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

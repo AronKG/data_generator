@@ -1,17 +1,17 @@
 {
   "id": 316,
   "filename": "invoice_316.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
+  "layout_style": "formal",
+  "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 7,
+  "color_palette_index": 13,
   "invoice_number": "SI-60056",
-  "issue_date": "05/08/2024",
-  "due_date": "07-Jun-2024",
-  "payment_terms": "Net 21",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "29 May 2023",
+  "due_date": "19-Jun-2023",
+  "payment_terms": "Net 60",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-19791",
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,223 +20,215 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 25,
+  "num_line_items": 24,
   "line_items": [
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 305.3,
-      "discount_pct": 0,
-      "line_total": 305.3
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3131.71,
-      "discount_pct": 20,
-      "line_total": 5010.74
-    },
     {
       "description": "Web Development",
       "unit": "hrs",
       "quantity": 1,
-      "unit_price": 189.06,
+      "unit_price": 95.09,
       "discount_pct": 0,
-      "line_total": 189.06
+      "line_total": 95.09
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 814.82,
+      "quantity": 2,
+      "unit_price": 566.28,
       "discount_pct": 20,
-      "line_total": 16296.4
+      "line_total": 906.05
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 10,
-      "unit_price": 893.02,
-      "discount_pct": 20,
-      "line_total": 7144.16
+      "quantity": 1,
+      "unit_price": 704.54,
+      "discount_pct": 0,
+      "line_total": 704.54
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 1,
-      "unit_price": 588.12,
-      "discount_pct": 15,
-      "line_total": 499.9
+      "quantity": 25,
+      "unit_price": 1129.64,
+      "discount_pct": 20,
+      "line_total": 22592.8
     },
     {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1655.4,
-      "discount_pct": 0,
-      "line_total": 3310.8
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 719.76,
+      "discount_pct": 20,
+      "line_total": 5758.08
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 944.37,
-      "discount_pct": 0,
-      "line_total": 1888.74
+      "quantity": 1,
+      "unit_price": 1241.36,
+      "discount_pct": 15,
+      "line_total": 1055.16
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 7618.92,
+      "quantity": 2,
+      "unit_price": 2975.86,
       "discount_pct": 0,
-      "line_total": 7618.92
+      "line_total": 5951.72
     },
     {
-      "description": "Event Management",
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 781.85,
+      "discount_pct": 0,
+      "line_total": 1563.7
+    },
+    {
+      "description": "Market Research",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 14213.57,
-      "discount_pct": 15,
-      "line_total": 36244.6
+      "quantity": 1,
+      "unit_price": 14339.46,
+      "discount_pct": 0,
+      "line_total": 14339.46
     },
     {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 41.5,
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1093.39,
       "discount_pct": 15,
-      "line_total": 35.27
+      "line_total": 2788.14
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 4140.17,
-      "discount_pct": 0,
-      "line_total": 4140.17
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 516.81,
-      "discount_pct": 5,
-      "line_total": 4909.69
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 656.72,
-      "discount_pct": 20,
-      "line_total": 1050.75
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3987.1,
-      "discount_pct": 0,
-      "line_total": 7974.2
+      "unit_price": 931.14,
+      "discount_pct": 15,
+      "line_total": 791.47
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1252.91,
-      "discount_pct": 15,
-      "line_total": 5324.87
+      "quantity": 1,
+      "unit_price": 2522.32,
+      "discount_pct": 0,
+      "line_total": 2522.32
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 85.7,
-      "discount_pct": 10,
-      "line_total": 77.13
+      "quantity": 10,
+      "unit_price": 145.54,
+      "discount_pct": 5,
+      "line_total": 1382.63
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 401.65,
-      "discount_pct": 10,
-      "line_total": 361.49
+      "quantity": 2,
+      "unit_price": 308.1,
+      "discount_pct": 20,
+      "line_total": 492.96
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 265.01,
+      "quantity": 2,
+      "unit_price": 631.26,
       "discount_pct": 0,
-      "line_total": 795.03
+      "line_total": 1262.52
     },
     {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 3,
-      "unit_price": 68.62,
-      "discount_pct": 0,
-      "line_total": 205.86
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1112.95,
-      "discount_pct": 15,
-      "line_total": 47300.38
-    },
-    {
-      "description": "Market Research",
+      "description": "Event Management",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 9061.24,
-      "discount_pct": 0,
-      "line_total": 27183.72
+      "quantity": 5,
+      "unit_price": 7071.56,
+      "discount_pct": 15,
+      "line_total": 30054.13
     },
     {
-      "description": "Community Mgmt",
-      "unit": "mo",
+      "description": "Software Dev",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 1315.06,
-      "discount_pct": 0,
-      "line_total": 1315.06
+      "unit_price": 110.83,
+      "discount_pct": 10,
+      "line_total": 99.75
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 898.59,
-      "discount_pct": 20,
-      "line_total": 7188.72
+      "quantity": 1,
+      "unit_price": 1485.19,
+      "discount_pct": 10,
+      "line_total": 1336.67
     },
     {
-      "description": "Office Supplies",
-      "unit": "lot",
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 12913.99,
+      "discount_pct": 0,
+      "line_total": 38741.97
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1080.55,
+      "discount_pct": 0,
+      "line_total": 3241.65
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1446.63,
+      "discount_pct": 15,
+      "line_total": 61481.78
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 190.36,
+      "discount_pct": 0,
+      "line_total": 571.08
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
       "quantity": 1,
-      "unit_price": 1225.01,
+      "unit_price": 2004.32,
+      "discount_pct": 0,
+      "line_total": 2004.32
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1564.59,
       "discount_pct": 20,
-      "line_total": 980.01
+      "line_total": 12516.72
     }
   ],
-  "subtotal": 187350.97,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 18735.1,
-  "shipping_amount": 36.29,
-  "total_due": 206122.36,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "subtotal": 212254.71,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 10612.74,
+  "shipping_amount": 0.0,
+  "total_due": 222867.45,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

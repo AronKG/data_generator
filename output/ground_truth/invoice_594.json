@@ -1,16 +1,16 @@
 {
   "id": 594,
   "filename": "invoice_594.pdf",
-  "layout_style": "classic",
-  "page_size": "A4",
+  "layout_style": "compact",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 4,
+  "color_palette_index": 0,
   "invoice_number": "REF-2023-26585",
-  "issue_date": "22/06/2024",
-  "due_date": "06 July 2024",
-  "payment_terms": "Net 45",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "09-May-2022",
+  "due_date": "08/06/2022",
+  "payment_terms": "Net 7",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
@@ -20,109 +20,85 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 11,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1237.76,
-      "discount_pct": 0,
-      "line_total": 1237.76
-    },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 110.06,
-      "discount_pct": 5,
-      "line_total": 104.56
+      "quantity": 2,
+      "unit_price": 50.52,
+      "discount_pct": 20,
+      "line_total": 80.83
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 5292.18,
-      "discount_pct": 15,
-      "line_total": 112458.82
+      "quantity": 1,
+      "unit_price": 5712.39,
+      "discount_pct": 0,
+      "line_total": 5712.39
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 240.23,
-      "discount_pct": 0,
-      "line_total": 480.46
+      "quantity": 1,
+      "unit_price": 220.12,
+      "discount_pct": 5,
+      "line_total": 209.11
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8184.53,
+      "quantity": 25,
+      "unit_price": 8199.81,
       "discount_pct": 15,
-      "line_total": 6956.85
+      "line_total": 174245.96
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 688.2,
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1576.63,
       "discount_pct": 0,
-      "line_total": 2064.6
+      "line_total": 3153.26
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 1,
-      "unit_price": 38.14,
-      "discount_pct": 0,
-      "line_total": 38.14
+      "unit_price": 70.19,
+      "discount_pct": 15,
+      "line_total": 59.66
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 25,
-      "unit_price": 4515.72,
-      "discount_pct": 20,
-      "line_total": 90314.4
+      "quantity": 3,
+      "unit_price": 8229.81,
+      "discount_pct": 0,
+      "line_total": 24689.43
     },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 1,
-      "unit_price": 999.92,
-      "discount_pct": 10,
-      "line_total": 899.93
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1630.71,
-      "discount_pct": 15,
-      "line_total": 2772.21
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 5264.56,
-      "discount_pct": 10,
-      "line_total": 14214.31
+      "unit_price": 310.63,
+      "discount_pct": 0,
+      "line_total": 310.63
     }
   ],
-  "subtotal": 231542.04,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 43992.99,
+  "subtotal": 208461.27,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 43776.87,
   "shipping_amount": 0.0,
-  "total_due": 275535.03,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "total_due": 252238.14,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,

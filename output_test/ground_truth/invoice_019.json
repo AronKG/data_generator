@@ -1,0 +1,94 @@
+{
+  "id": 19,
+  "filename": "invoice_019.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "2023-17951",
+  "issue_date": "06/08/2023",
+  "due_date": "2023-08-20",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 10,
+      "unit_price": 91.64,
+      "discount_pct": 15,
+      "line_total": 778.94
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 889.47,
+      "discount_pct": 0,
+      "line_total": 22236.75
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1074.53,
+      "discount_pct": 20,
+      "line_total": 42981.2
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 3963.12,
+      "discount_pct": 0,
+      "line_total": 19815.6
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 120.98,
+      "discount_pct": 20,
+      "line_total": 967.84
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1553.65,
+      "discount_pct": 5,
+      "line_total": 1475.97
+    }
+  ],
+  "subtotal": 88256.3,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 88256.3,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": {
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

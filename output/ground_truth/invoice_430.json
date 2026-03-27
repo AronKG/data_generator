@@ -1,17 +1,17 @@
 {
   "id": 430,
   "filename": "invoice_430.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 13,
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 14,
   "invoice_number": "BILL-8560",
-  "issue_date": "2023-08-17",
-  "due_date": "16 October 2023",
+  "issue_date": "12-Feb-2024",
+  "due_date": "February 27 2024",
   "payment_terms": "Due on Receipt",
-  "currency": "NOK",
+  "currency": "SEK",
   "currency_symbol": "kr",
-  "po_number": null,
+  "po_number": "PO-30037",
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
   "seller_email": "billing@novabridge.io",
@@ -20,156 +20,100 @@
   "client_name": "Vivid Apparel Group",
   "client_address": "7th Ave New York NY 10018 USA",
   "client_email": "ap@vividapparel.com",
-  "num_line_items": 16,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 106.0,
-      "discount_pct": 5,
-      "line_total": 302.1
-    },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 884.51,
-      "discount_pct": 5,
-      "line_total": 2520.85
+      "quantity": 10,
+      "unit_price": 848.13,
+      "discount_pct": 20,
+      "line_total": 6785.04
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 3484.25,
-      "discount_pct": 0,
-      "line_total": 17421.25
+      "quantity": 3,
+      "unit_price": 1367.99,
+      "discount_pct": 5,
+      "line_total": 3898.77
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "IT Support",
+      "unit": "hr",
       "quantity": 3,
-      "unit_price": 725.53,
-      "discount_pct": 10,
-      "line_total": 1958.93
+      "unit_price": 128.49,
+      "discount_pct": 5,
+      "line_total": 366.2
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 230.93,
-      "discount_pct": 20,
-      "line_total": 554.23
+      "quantity": 5,
+      "unit_price": 441.06,
+      "discount_pct": 0,
+      "line_total": 2205.3
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 117.02,
+      "quantity": 3,
+      "unit_price": 41.29,
       "discount_pct": 10,
-      "line_total": 105.32
+      "line_total": 111.48
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 963.12,
+      "quantity": 3,
+      "unit_price": 1020.11,
       "discount_pct": 20,
-      "line_total": 1540.99
+      "line_total": 2448.26
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 148.41,
-      "discount_pct": 0,
-      "line_total": 1484.1
+      "quantity": 1,
+      "unit_price": 212.47,
+      "discount_pct": 10,
+      "line_total": 191.22
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 534.52,
-      "discount_pct": 15,
-      "line_total": 22717.1
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1928.07,
-      "discount_pct": 0,
-      "line_total": 1928.07
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 189.87,
-      "discount_pct": 5,
-      "line_total": 180.38
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 3864.22,
-      "discount_pct": 15,
-      "line_total": 6569.17
+      "unit_price": 285.64,
+      "discount_pct": 20,
+      "line_total": 457.02
     },
     {
-      "description": "Market Research",
+      "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4783.52,
-      "discount_pct": 5,
-      "line_total": 4544.34
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 994.21,
-      "discount_pct": 10,
-      "line_total": 44739.45
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 115.37,
+      "quantity": 10,
+      "unit_price": 8610.04,
       "discount_pct": 0,
-      "line_total": 346.11
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1650.66,
-      "discount_pct": 0,
-      "line_total": 4951.98
+      "line_total": 86100.4
     }
   ],
-  "subtotal": 111864.37,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 7830.51,
+  "subtotal": 102563.69,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 23589.65,
   "shipping_amount": 0.0,
-  "total_due": 119694.88,
-  "notes": "Goods remain property of seller until full payment received.",
+  "total_due": 126153.34,
+  "notes": "Thank you for your business. We value our long-term partnership.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

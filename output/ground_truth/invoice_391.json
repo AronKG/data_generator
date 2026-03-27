@@ -1,16 +1,16 @@
 {
   "id": 391,
   "filename": "invoice_391.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "creative",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "color_palette_index": 3,
   "invoice_number": "2023-49945",
-  "issue_date": "07/12/2022",
-  "due_date": "26 July 2022",
+  "issue_date": "05/24/2022",
+  "due_date": "08 June 2022",
   "payment_terms": "50% upfront balance on delivery",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
@@ -23,44 +23,44 @@
   "num_line_items": 4,
   "line_items": [
     {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 481.97,
-      "discount_pct": 0,
-      "line_total": 24098.5
-    },
-    {
       "description": "Contract Review",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 747.21,
-      "discount_pct": 10,
-      "line_total": 672.49
+      "quantity": 50,
+      "unit_price": 618.7,
+      "discount_pct": 20,
+      "line_total": 24748.0
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
       "quantity": 1,
-      "unit_price": 757.73,
-      "discount_pct": 0,
-      "line_total": 757.73
+      "unit_price": 1828.45,
+      "discount_pct": 10,
+      "line_total": 1645.61
     },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1102.46,
+      "unit_price": 1098.47,
+      "discount_pct": 0,
+      "line_total": 1098.47
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9200.82,
       "discount_pct": 10,
-      "line_total": 992.21
+      "line_total": 8280.74
     }
   ],
-  "subtotal": 26520.93,
+  "subtotal": 35772.82,
   "tax_label": "GST-HST 15pct",
   "tax_rate_pct": 15.0,
-  "tax_amount": 3978.14,
+  "tax_amount": 5365.92,
   "shipping_amount": 0.0,
-  "total_due": 30499.07,
+  "total_due": 41138.74,
   "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,

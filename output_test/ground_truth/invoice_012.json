@@ -1,0 +1,135 @@
+{
+  "id": 12,
+  "filename": "invoice_012.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
+  "invoice_number": "PROFORMA-5015",
+  "issue_date": "2022-12-16",
+  "due_date": "23 December 2022",
+  "payment_terms": "Net 21",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
+  "seller_name": "BlueSky Consulting GmbH",
+  "seller_address": "Unter den Linden 21 10117 Berlin Germany",
+  "seller_email": "rechnungen@bluesky.de",
+  "seller_phone": "+49 30 555 0123",
+  "seller_tax_id": "USt-IdNr: DE123456789",
+  "client_name": "Sunrise Academy",
+  "client_address": "10 Scholar Way Singapore 188064",
+  "client_email": "finance@sunriseacademy.edu.sg",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 96.47,
+      "discount_pct": 0,
+      "line_total": 2411.75
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 555.43,
+      "discount_pct": 0,
+      "line_total": 555.43
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 2,
+      "unit_price": 106.64,
+      "discount_pct": 0,
+      "line_total": 213.28
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 596.47,
+      "discount_pct": 0,
+      "line_total": 14911.75
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 716.7,
+      "discount_pct": 0,
+      "line_total": 3583.5
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 802.49,
+      "discount_pct": 0,
+      "line_total": 802.49
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 96.1,
+      "discount_pct": 0,
+      "line_total": 96.1
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 8163.61,
+      "discount_pct": 0,
+      "line_total": 81636.1
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 535.85,
+      "discount_pct": 20,
+      "line_total": 10717.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 523.28,
+      "discount_pct": 20,
+      "line_total": 2093.12
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1196.93,
+      "discount_pct": 20,
+      "line_total": 957.54
+    }
+  ],
+  "subtotal": 117978.06,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 15337.15,
+  "shipping_amount": 222.57,
+  "total_due": 133537.78,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

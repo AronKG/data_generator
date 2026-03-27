@@ -1,17 +1,17 @@
 {
   "id": 707,
   "filename": "invoice_707.pdf",
-  "layout_style": "two_tone",
-  "page_size": "A4",
+  "layout_style": "classic",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "color_palette_index": 6,
   "invoice_number": "INV-2024-30837",
-  "issue_date": "08/16/2022",
-  "due_date": "14 November 2022",
-  "payment_terms": "Cash on Delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": "PO-99329",
+  "issue_date": "26-Jun-2024",
+  "due_date": "17/07/2024",
+  "payment_terms": "Net 7",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
   "seller_email": "accounts@mirageproductions.ae",
@@ -20,55 +20,75 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 4,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 8844.56,
-      "discount_pct": 15,
-      "line_total": 37589.38
-    },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3833.61,
-      "discount_pct": 20,
-      "line_total": 3066.89
+      "quantity": 3,
+      "unit_price": 4829.11,
+      "discount_pct": 0,
+      "line_total": 14487.33
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 16172.1,
-      "discount_pct": 0,
-      "line_total": 48516.3
+      "quantity": 10,
+      "unit_price": 19658.75,
+      "discount_pct": 20,
+      "line_total": 157270.0
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
+      "quantity": 1,
+      "unit_price": 12104.48,
+      "discount_pct": 15,
+      "line_total": 10288.81
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1001.77,
+      "discount_pct": 0,
+      "line_total": 1001.77
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
       "quantity": 10,
-      "unit_price": 14739.04,
+      "unit_price": 590.13,
+      "discount_pct": 10,
+      "line_total": 5311.17
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 2459.2,
       "discount_pct": 20,
-      "line_total": 117912.32
+      "line_total": 5902.08
     }
   ],
-  "subtotal": 207084.89,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 41416.98,
+  "subtotal": 194261.16,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 9713.06,
   "shipping_amount": 0.0,
-  "total_due": 248501.87,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 203974.22,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

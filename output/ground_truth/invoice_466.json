@@ -1,16 +1,16 @@
 {
   "id": 466,
   "filename": "invoice_466.pdf",
-  "layout_style": "classic",
+  "layout_style": "sidebar",
   "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "color_palette_index": 5,
   "invoice_number": "RCPT-85585",
-  "issue_date": "17-Oct-2023",
-  "due_date": "2023-12-01",
+  "issue_date": "21-Oct-2023",
+  "due_date": "2023-12-20",
   "payment_terms": "30 days from delivery",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
   "po_number": null,
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
@@ -23,71 +23,67 @@
   "num_line_items": 6,
   "line_items": [
     {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1342.03,
-      "discount_pct": 0,
-      "line_total": 33550.75
-    },
-    {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 50,
-      "unit_price": 866.01,
-      "discount_pct": 0,
-      "line_total": 43300.5
+      "quantity": 1,
+      "unit_price": 449.52,
+      "discount_pct": 10,
+      "line_total": 404.57
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 1050.29,
+      "quantity": 1,
+      "unit_price": 104.31,
       "discount_pct": 0,
-      "line_total": 2100.58
+      "line_total": 104.31
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 450.4,
-      "discount_pct": 10,
-      "line_total": 1216.08
+      "quantity": 10,
+      "unit_price": 208.67,
+      "discount_pct": 0,
+      "line_total": 2086.7
     },
     {
       "description": "Office Supplies",
       "unit": "lot",
       "quantity": 2,
-      "unit_price": 1257.53,
+      "unit_price": 927.15,
       "discount_pct": 0,
-      "line_total": 2515.06
+      "line_total": 1854.3
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 420.09,
+      "quantity": 50,
+      "unit_price": 538.64,
       "discount_pct": 0,
-      "line_total": 840.18
+      "line_total": 26932.0
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 358.22,
+      "discount_pct": 0,
+      "line_total": 358.22
     }
   ],
-  "subtotal": 83523.15,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 6890.66,
+  "subtotal": 31740.1,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 1904.41,
   "shipping_amount": 0.0,
-  "total_due": 90413.81,
+  "total_due": 33644.51,
   "notes": null,
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": false,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

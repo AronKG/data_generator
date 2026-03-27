@@ -1,16 +1,16 @@
 {
   "id": 666,
   "filename": "invoice_666.pdf",
-  "layout_style": "modern",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
   "invoice_number": "TAX-INV-2024-74794",
-  "issue_date": "12-Jun-2024",
-  "due_date": "07/03/2024",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "12/05/2023",
+  "due_date": "26/06/2023",
+  "payment_terms": "Immediate",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,83 +20,108 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 7,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 55.49,
-      "discount_pct": 20,
-      "line_total": 443.92
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 13215.69,
-      "discount_pct": 0,
-      "line_total": 13215.69
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 2434.54,
-      "discount_pct": 0,
-      "line_total": 2434.54
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1893.82,
-      "discount_pct": 0,
-      "line_total": 47345.5
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1828.75,
-      "discount_pct": 0,
-      "line_total": 1828.75
-    },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5396.63,
-      "discount_pct": 0,
-      "line_total": 5396.63
+      "quantity": 3,
+      "unit_price": 18034.22,
+      "discount_pct": 5,
+      "line_total": 51397.53
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 975.39,
+      "quantity": 10,
+      "unit_price": 1582.63,
       "discount_pct": 0,
-      "line_total": 975.39
+      "line_total": 15826.3
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 50,
+      "unit_price": 100.75,
+      "discount_pct": 0,
+      "line_total": 5037.5
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 9939.88,
+      "discount_pct": 0,
+      "line_total": 19879.76
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 674.22,
+      "discount_pct": 0,
+      "line_total": 3371.1
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 317.65,
+      "discount_pct": 10,
+      "line_total": 285.88
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1052.15,
+      "discount_pct": 20,
+      "line_total": 841.72
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3084.4,
+      "discount_pct": 10,
+      "line_total": 27759.6
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 152.47,
+      "discount_pct": 0,
+      "line_total": 3811.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 140.02,
+      "discount_pct": 0,
+      "line_total": 140.02
     }
   ],
-  "subtotal": 71640.42,
+  "subtotal": 128351.16,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 5910.33,
-  "shipping_amount": 0.0,
-  "total_due": 77550.75,
-  "notes": "Please retain this invoice for your accounting records.",
+  "tax_amount": 10588.97,
+  "shipping_amount": 109.74,
+  "total_due": 139049.87,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

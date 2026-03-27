@@ -1,0 +1,234 @@
+{
+  "id": 102,
+  "filename": "invoice_102.pdf",
+  "layout_style": "minimal",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
+  "invoice_number": "INVOICE-75550",
+  "issue_date": "11/18/2023",
+  "due_date": "16/02/2024",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-86372",
+  "seller_name": "Sunrise Digital Agency",
+  "seller_address": "12F 88 Queensway Admiralty Hong Kong",
+  "seller_email": "hello@sunrisedigital.hk",
+  "seller_phone": "+852 3100 0000",
+  "seller_tax_id": "BR No: 98765432",
+  "client_name": "Fernwood Property Group",
+  "client_address": "300 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "ap@fernwoodproperty.com.au",
+  "num_line_items": 24,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1581.69,
+      "discount_pct": 0,
+      "line_total": 1581.69
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 262.99,
+      "discount_pct": 15,
+      "line_total": 2235.41
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 322.22,
+      "discount_pct": 10,
+      "line_total": 290.0
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6406.63,
+      "discount_pct": 0,
+      "line_total": 160165.75
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3970.44,
+      "discount_pct": 0,
+      "line_total": 3970.44
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 2383.54,
+      "discount_pct": 15,
+      "line_total": 6078.03
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 48.55,
+      "discount_pct": 20,
+      "line_total": 194.2
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4297.81,
+      "discount_pct": 5,
+      "line_total": 4082.92
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 687.28,
+      "discount_pct": 0,
+      "line_total": 687.28
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13272.79,
+      "discount_pct": 0,
+      "line_total": 13272.79
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2412.3,
+      "discount_pct": 0,
+      "line_total": 7236.9
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 301.72,
+      "discount_pct": 0,
+      "line_total": 603.44
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 238.52,
+      "discount_pct": 0,
+      "line_total": 238.52
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 155.16,
+      "discount_pct": 15,
+      "line_total": 659.43
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9824.59,
+      "discount_pct": 0,
+      "line_total": 9824.59
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 544.22,
+      "discount_pct": 0,
+      "line_total": 544.22
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1752.69,
+      "discount_pct": 0,
+      "line_total": 1752.69
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 16325.02,
+      "discount_pct": 15,
+      "line_total": 69381.34
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 374.47,
+      "discount_pct": 15,
+      "line_total": 636.6
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 979.14,
+      "discount_pct": 10,
+      "line_total": 44061.3
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 316.86,
+      "discount_pct": 0,
+      "line_total": 316.86
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 119.44,
+      "discount_pct": 10,
+      "line_total": 2687.4
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 1176.52,
+      "discount_pct": 20,
+      "line_total": 4706.08
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 118.05,
+      "discount_pct": 5,
+      "line_total": 112.15
+    }
+  ],
+  "subtotal": 335320.03,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 70417.21,
+  "shipping_amount": 0.0,
+  "total_due": 405737.24,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

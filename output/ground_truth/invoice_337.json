@@ -1,17 +1,17 @@
 {
   "id": 337,
   "filename": "invoice_337.pdf",
-  "layout_style": "sidebar",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 7,
+  "color_palette_index": 11,
   "invoice_number": "2023-10666",
-  "issue_date": "26-Aug-2023",
-  "due_date": "25-Oct-2023",
-  "payment_terms": "Due on Receipt",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": "PO-36864",
+  "issue_date": "25/03/2024",
+  "due_date": "09-May-2024",
+  "payment_terms": "Net 45",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-16800",
   "seller_name": "Boreal Systems Inc.",
   "seller_address": "1 Place Ville Marie Montreal QC H3B 4A9 Canada",
   "seller_email": "invoices@borealsys.ca",
@@ -20,66 +20,73 @@
   "client_name": "Arctic Exploration Ltd.",
   "client_address": "Polar Wharf 1 Tromso 9008 Norway",
   "client_email": "regnskap@arcticexplore.no",
-  "num_line_items": 5,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 5,
-      "unit_price": 78.88,
-      "discount_pct": 15,
-      "line_total": 335.24
-    },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5371.11,
-      "discount_pct": 15,
-      "line_total": 228272.17
+      "quantity": 25,
+      "unit_price": 3979.73,
+      "discount_pct": 5,
+      "line_total": 94518.59
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 25,
-      "unit_price": 95.79,
-      "discount_pct": 0,
-      "line_total": 2394.75
+      "quantity": 2,
+      "unit_price": 127.97,
+      "discount_pct": 5,
+      "line_total": 243.14
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 15562.1,
-      "discount_pct": 20,
-      "line_total": 311242.0
+      "quantity": 3,
+      "unit_price": 48385.26,
+      "discount_pct": 0,
+      "line_total": 145155.78
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4021.94,
+      "quantity": 1,
+      "unit_price": 18143.12,
+      "discount_pct": 20,
+      "line_total": 14514.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 120.62,
       "discount_pct": 10,
-      "line_total": 18098.73
+      "line_total": 217.12
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 129.17,
+      "discount_pct": 20,
+      "line_total": 310.01
     }
   ],
-  "subtotal": 560342.89,
+  "subtotal": 254959.14,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 46228.29,
+  "tax_amount": 21034.13,
   "shipping_amount": 0.0,
-  "total_due": 606571.18,
-  "notes": null,
+  "total_due": 275993.27,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,

@@ -1,16 +1,16 @@
 {
   "id": 59,
   "filename": "invoice_059.pdf",
-  "layout_style": "modern",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "complexity_tier": "simple",
+  "color_palette_index": 1,
   "invoice_number": "TAX-INV-2023-42233",
-  "issue_date": "2023-05-01",
-  "due_date": "05/15/2023",
-  "payment_terms": "Net 45",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "2022-08-01",
+  "due_date": "2022-09-15",
+  "payment_terms": "Due on Receipt",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
@@ -20,124 +20,44 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 12,
+  "num_line_items": 2,
   "line_items": [
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 800.66,
-      "discount_pct": 10,
-      "line_total": 18014.85
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 471.46,
-      "discount_pct": 10,
-      "line_total": 10607.85
+      "unit_price": 1411.6,
+      "discount_pct": 0,
+      "line_total": 35290.0
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 336.73,
-      "discount_pct": 20,
-      "line_total": 538.77
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 50,
-      "unit_price": 2342.68,
-      "discount_pct": 0,
-      "line_total": 117134.0
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 32.47,
-      "discount_pct": 15,
-      "line_total": 27.6
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 2,
-      "unit_price": 5332.02,
-      "discount_pct": 0,
-      "line_total": 10664.04
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 1347.83,
-      "discount_pct": 0,
-      "line_total": 33695.75
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 994.07,
-      "discount_pct": 15,
-      "line_total": 1689.92
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 217.73,
-      "discount_pct": 10,
-      "line_total": 9797.85
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
       "quantity": 5,
-      "unit_price": 436.11,
+      "unit_price": 143.13,
       "discount_pct": 0,
-      "line_total": 2180.55
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7603.2,
-      "discount_pct": 0,
-      "line_total": 7603.2
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 6068.4,
-      "discount_pct": 5,
-      "line_total": 288249.0
+      "line_total": 715.65
     }
   ],
-  "subtotal": 500203.38,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 75030.51,
-  "shipping_amount": 193.39,
-  "total_due": 575427.28,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "subtotal": 36005.65,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 6841.07,
+  "shipping_amount": 0.0,
+  "total_due": 42846.72,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

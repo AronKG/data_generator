@@ -1,16 +1,16 @@
 {
   "id": 890,
   "filename": "invoice_890.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "layout_style": "classic",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 8,
   "invoice_number": "RCPT-2023-23418",
-  "issue_date": "26/07/2022",
-  "due_date": "16/08/2022",
-  "payment_terms": "Net 21",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "03/10/2023",
+  "due_date": "17/03/2023",
+  "payment_terms": "Net 7",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,79 +20,151 @@
   "client_name": "Helix Biotech Corp.",
   "client_address": "One Kendall Sq Cambridge MA 02139 USA",
   "client_email": "ap@helixbiotech.com",
-  "num_line_items": 7,
+  "num_line_items": 16,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 156.89,
-      "discount_pct": 0,
-      "line_total": 3922.25
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2904.5,
-      "discount_pct": 20,
-      "line_total": 2323.6
+      "quantity": 10,
+      "unit_price": 1085.68,
+      "discount_pct": 0,
+      "line_total": 10856.8
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 1695.58,
-      "discount_pct": 5,
-      "line_total": 40270.03
+      "quantity": 50,
+      "unit_price": 1516.77,
+      "discount_pct": 0,
+      "line_total": 75838.5
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4965.02,
-      "discount_pct": 0,
-      "line_total": 14895.06
+      "quantity": 5,
+      "unit_price": 1051.5,
+      "discount_pct": 5,
+      "line_total": 4994.62
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 567.21,
+      "discount_pct": 15,
+      "line_total": 482.13
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1507.96,
-      "discount_pct": 0,
-      "line_total": 75398.0
+      "quantity": 1,
+      "unit_price": 2668.7,
+      "discount_pct": 10,
+      "line_total": 2401.83
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 309.73,
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 85.86,
       "discount_pct": 5,
-      "line_total": 1471.22
+      "line_total": 815.67
     },
     {
-      "description": "Community Mgmt",
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 246.61,
+      "discount_pct": 0,
+      "line_total": 739.83
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 471.02,
+      "discount_pct": 20,
+      "line_total": 1130.45
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 452.04,
+      "discount_pct": 0,
+      "line_total": 2260.2
+    },
+    {
+      "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 636.49,
-      "discount_pct": 15,
-      "line_total": 541.02
+      "unit_price": 277.51,
+      "discount_pct": 20,
+      "line_total": 222.01
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 197.63,
+      "discount_pct": 0,
+      "line_total": 395.26
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13042.47,
+      "discount_pct": 0,
+      "line_total": 13042.47
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 3803.35,
+      "discount_pct": 5,
+      "line_total": 36131.82
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 186.36,
+      "discount_pct": 0,
+      "line_total": 559.08
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 408.73,
+      "discount_pct": 0,
+      "line_total": 817.46
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1827.8,
+      "discount_pct": 0,
+      "line_total": 9139.0
     }
   ],
-  "subtotal": 138821.18,
+  "subtotal": 159827.13,
   "tax_label": "HST 13pct",
   "tax_rate_pct": 13.0,
-  "tax_amount": 18046.75,
-  "shipping_amount": 0.0,
-  "total_due": 156867.93,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "tax_amount": 20777.53,
+  "shipping_amount": 19.6,
+  "total_due": 180624.26,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": false,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

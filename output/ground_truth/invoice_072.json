@@ -1,16 +1,16 @@
 {
   "id": 72,
   "filename": "invoice_072.pdf",
-  "layout_style": "classic",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 8,
+  "complexity_tier": "medium",
+  "color_palette_index": 6,
   "invoice_number": "BILL/2023/98543",
-  "issue_date": "23/12/2024",
-  "due_date": "01/13/2025",
-  "payment_terms": "Immediate",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "August 21 2024",
+  "due_date": "2024-10-05",
+  "payment_terms": "2/10 Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "BlueSky Consulting GmbH",
   "seller_address": "Unter den Linden 21 10117 Berlin Germany",
@@ -20,139 +20,54 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 14,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 1425.42,
-      "discount_pct": 0,
-      "line_total": 1425.42
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 850.86,
-      "discount_pct": 0,
-      "line_total": 2552.58
-    },
     {
       "description": "Video Production",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 7721.9,
-      "discount_pct": 0,
-      "line_total": 7721.9
+      "unit_price": 9688.06,
+      "discount_pct": 15,
+      "line_total": 8234.85
     },
     {
       "description": "Content Writing",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 147.09,
+      "unit_price": 291.58,
       "discount_pct": 0,
-      "line_total": 147.09
+      "line_total": 291.58
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 281.96,
-      "discount_pct": 0,
-      "line_total": 14098.0
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 254.4,
-      "discount_pct": 0,
-      "line_total": 12720.0
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 25,
-      "unit_price": 121.05,
-      "discount_pct": 0,
-      "line_total": 3026.25
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 2023.86,
+      "unit_price": 1452.36,
+      "discount_pct": 10,
+      "line_total": 1307.12
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2026.42,
       "discount_pct": 20,
-      "line_total": 1619.09
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4172.97,
-      "discount_pct": 0,
-      "line_total": 4172.97
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 210.17,
-      "discount_pct": 0,
-      "line_total": 2101.7
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 14789.76,
-      "discount_pct": 0,
-      "line_total": 73948.8
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 10362.66,
-      "discount_pct": 0,
-      "line_total": 51813.3
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 3,
-      "unit_price": 330.97,
-      "discount_pct": 10,
-      "line_total": 893.62
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 25,
-      "unit_price": 73.37,
-      "discount_pct": 10,
-      "line_total": 1650.83
+      "line_total": 40528.4
     }
   ],
-  "subtotal": 177891.55,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 8894.58,
+  "subtotal": 50361.95,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 6547.05,
   "shipping_amount": 0.0,
-  "total_due": 186786.13,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "total_due": 56909.0,
+  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
+  "has_discount_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

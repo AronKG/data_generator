@@ -1,17 +1,17 @@
 {
   "id": 415,
   "filename": "invoice_415.pdf",
-  "layout_style": "creative",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "color_palette_index": 3,
   "invoice_number": "2025-83081",
-  "issue_date": "11/13/2022",
-  "due_date": "11/28/2022",
-  "payment_terms": "Net 21",
+  "issue_date": "06 December 2022",
+  "due_date": "27/12/2022",
+  "payment_terms": "End of Month",
   "currency": "AUD",
   "currency_symbol": "A$",
-  "po_number": "PO-42748",
+  "po_number": "PO-23482",
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
   "seller_email": "rechnung@helix-beratung.de",
@@ -20,31 +20,23 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 4,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1410.84,
-      "discount_pct": 10,
-      "line_total": 1269.76
-    },
     {
       "description": "Photography Session",
       "unit": "ea",
       "quantity": 3,
-      "unit_price": 1219.76,
+      "unit_price": 1498.5,
       "discount_pct": 0,
-      "line_total": 3659.28
+      "line_total": 4495.5
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2222.0,
-      "discount_pct": 0,
-      "line_total": 11110.0
+      "quantity": 25,
+      "unit_price": 2993.37,
+      "discount_pct": 20,
+      "line_total": 59867.4
     },
     {
       "description": "Market Research",
@@ -53,22 +45,58 @@
       "unit_price": 3299.83,
       "discount_pct": 5,
       "line_total": 78370.96
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 226.86,
+      "discount_pct": 15,
+      "line_total": 1928.31
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 316.45,
+      "discount_pct": 0,
+      "line_total": 949.35
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1132.63,
+      "discount_pct": 20,
+      "line_total": 1812.21
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 5168.1,
+      "discount_pct": 5,
+      "line_total": 49096.95
     }
   ],
-  "subtotal": 94410.0,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 21714.3,
+  "subtotal": 196520.68,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 116124.3,
-  "notes": "Thank you for your business. We value our long-term partnership.",
-  "bank_details": null,
+  "total_due": 196520.68,
+  "notes": null,
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
-  "has_tax": true
+  "has_tax": false
 }

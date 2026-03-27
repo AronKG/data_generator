@@ -1,0 +1,90 @@
+{
+  "id": 101,
+  "filename": "invoice_101.pdf",
+  "layout_style": "formal",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
+  "invoice_number": "PROFORMA-2024-26578",
+  "issue_date": "17 October 2024",
+  "due_date": "2024-12-16",
+  "payment_terms": "Immediate",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Desert Bloom LLC",
+  "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
+  "seller_email": "invoices@desertbloom.com",
+  "seller_phone": "+1 480-555-0144",
+  "seller_tax_id": "EIN: 98-7654321",
+  "client_name": "SkyBridge Aviation PLC",
+  "client_address": "Waterside Harmondsworth UB7 0GB UK",
+  "client_email": "procurement@skybridgeav.com",
+  "num_line_items": 6,
+  "line_items": [
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 4537.65,
+      "discount_pct": 15,
+      "line_total": 96425.06
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 13298.01,
+      "discount_pct": 15,
+      "line_total": 56516.54
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 52.53,
+      "discount_pct": 20,
+      "line_total": 84.05
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 1171.95,
+      "discount_pct": 15,
+      "line_total": 1992.32
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 5,
+      "unit_price": 233.58,
+      "discount_pct": 5,
+      "line_total": 1109.51
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 100.67,
+      "discount_pct": 0,
+      "line_total": 302.01
+    }
+  ],
+  "subtotal": 156429.49,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 156429.49,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": false
+}

@@ -1,17 +1,17 @@
 {
   "id": 694,
   "filename": "invoice_694.pdf",
-  "layout_style": "modern",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "complexity_tier": "complex",
+  "color_palette_index": 13,
   "invoice_number": "TAX-INV-26573",
-  "issue_date": "26/11/2022",
-  "due_date": "10/01/2023",
-  "payment_terms": "Immediate",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": null,
+  "issue_date": "January 01 2024",
+  "due_date": "01/22/2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-37490",
   "seller_name": "Southern Cross Marine Ltd.",
   "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
   "seller_email": "finance@southerncrossmarine.nz",
@@ -20,24 +20,8 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 7,
+  "num_line_items": 12,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 4222.81,
-      "discount_pct": 0,
-      "line_total": 21114.05
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 41.96,
-      "discount_pct": 20,
-      "line_total": 335.68
-    },
     {
       "description": "IT Support",
       "unit": "hr",
@@ -77,26 +61,82 @@
       "unit_price": 401.63,
       "discount_pct": 5,
       "line_total": 381.55
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 46.38,
+      "discount_pct": 0,
+      "line_total": 231.9
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 280.57,
+      "discount_pct": 10,
+      "line_total": 252.51
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 740.25,
+      "discount_pct": 20,
+      "line_total": 5922.0
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 479.87,
+      "discount_pct": 0,
+      "line_total": 1439.61
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2922.44,
+      "discount_pct": 0,
+      "line_total": 2922.44
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 624.72,
+      "discount_pct": 0,
+      "line_total": 1874.16
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3807.81,
+      "discount_pct": 20,
+      "line_total": 152312.4
     }
   ],
-  "subtotal": 73697.84,
+  "subtotal": 217203.13,
   "tax_label": "GST 5pct",
   "tax_rate_pct": 5.0,
-  "tax_amount": 3684.89,
+  "tax_amount": 10860.16,
   "shipping_amount": 0.0,
-  "total_due": 77382.73,
-  "notes": "This document is strictly private and confidential.",
+  "total_due": 228063.29,
+  "notes": null,
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

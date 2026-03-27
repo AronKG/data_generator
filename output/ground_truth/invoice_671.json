@@ -1,17 +1,17 @@
 {
   "id": 671,
   "filename": "invoice_671.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "medium",
+  "layout_style": "formal",
+  "page_size": "A4",
+  "complexity_tier": "complex",
   "color_palette_index": 4,
   "invoice_number": "REF/2024/54659",
-  "issue_date": "09/30/2024",
-  "due_date": "14-Nov-2024",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-70260",
+  "issue_date": "2024-12-14",
+  "due_date": "28-Jan-2025",
+  "payment_terms": "30 days from delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-83982",
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,67 +20,110 @@
   "client_name": "Cornerstone Retail Holdings",
   "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
   "client_email": "payables@cornerstoneretail.ca",
-  "num_line_items": 5,
+  "num_line_items": 11,
   "line_items": [
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 36897.27,
+      "quantity": 5,
+      "unit_price": 3116.64,
       "discount_pct": 0,
-      "line_total": 922431.75
+      "line_total": 15583.2
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 25,
-      "unit_price": 705.71,
-      "discount_pct": 0,
-      "line_total": 17642.75
+      "quantity": 2,
+      "unit_price": 782.35,
+      "discount_pct": 15,
+      "line_total": 1329.99
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 10469.7,
+      "quantity": 10,
+      "unit_price": 2722.83,
       "discount_pct": 10,
-      "line_total": 9422.73
+      "line_total": 24505.47
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 477.57,
-      "discount_pct": 15,
-      "line_total": 811.87
+      "quantity": 10,
+      "unit_price": 566.43,
+      "discount_pct": 5,
+      "line_total": 5381.08
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 10,
-      "unit_price": 1127.94,
+      "quantity": 1,
+      "unit_price": 1101.31,
+      "discount_pct": 20,
+      "line_total": 881.05
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 3679.31,
+      "discount_pct": 15,
+      "line_total": 78185.34
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 2748.75,
+      "discount_pct": 15,
+      "line_total": 58410.94
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 512.49,
       "discount_pct": 10,
-      "line_total": 10151.46
+      "line_total": 922.48
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 5040.15,
+      "discount_pct": 5,
+      "line_total": 4788.14
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 799.65,
+      "discount_pct": 5,
+      "line_total": 18991.69
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 338.25,
+      "discount_pct": 5,
+      "line_total": 964.01
     }
   ],
-  "subtotal": 960460.56,
+  "subtotal": 209943.39,
   "tax_label": "GST-HST 15pct",
   "tax_rate_pct": 15.0,
-  "tax_amount": 144069.08,
+  "tax_amount": 31491.51,
   "shipping_amount": 0.0,
-  "total_due": 1104529.64,
-  "notes": null,
-  "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
-  },
+  "total_due": 241434.9,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

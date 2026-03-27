@@ -1,16 +1,16 @@
 {
   "id": 790,
   "filename": "invoice_790.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 13,
+  "layout_style": "bold_header",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
   "invoice_number": "017451",
-  "issue_date": "14 October 2024",
-  "due_date": "2024-10-21",
+  "issue_date": "February 18 2022",
+  "due_date": "19 May 2022",
   "payment_terms": "Upon completion",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
@@ -20,69 +20,141 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 6,
+  "num_line_items": 15,
   "line_items": [
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 295.35,
-      "discount_pct": 10,
-      "line_total": 13290.75
-    },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 10,
-      "unit_price": 603.01,
-      "discount_pct": 5,
-      "line_total": 5728.6
+      "quantity": 5,
+      "unit_price": 214.83,
+      "discount_pct": 0,
+      "line_total": 1074.15
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 491.54,
+      "discount_pct": 0,
+      "line_total": 1474.62
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 57.49,
+      "quantity": 25,
+      "unit_price": 34.12,
       "discount_pct": 0,
-      "line_total": 287.45
+      "line_total": 853.0
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 137.89,
-      "discount_pct": 0,
-      "line_total": 1378.9
+      "quantity": 1,
+      "unit_price": 134.08,
+      "discount_pct": 20,
+      "line_total": 107.26
     },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5295.13,
-      "discount_pct": 5,
-      "line_total": 5030.37
+      "unit_price": 12134.24,
+      "discount_pct": 0,
+      "line_total": 12134.24
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Content Writing",
+      "unit": "pg",
       "quantity": 1,
-      "unit_price": 1995.03,
+      "unit_price": 141.7,
+      "discount_pct": 10,
+      "line_total": 127.53
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 15815.35,
+      "discount_pct": 20,
+      "line_total": 632614.0
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 2131.77,
+      "discount_pct": 10,
+      "line_total": 19185.93
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 820.19,
+      "discount_pct": 10,
+      "line_total": 1476.34
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 81.9,
       "discount_pct": 5,
-      "line_total": 1895.28
+      "line_total": 155.61
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 712.7,
+      "discount_pct": 0,
+      "line_total": 35635.0
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18066.95,
+      "discount_pct": 15,
+      "line_total": 15356.91
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 524.94,
+      "discount_pct": 0,
+      "line_total": 13123.5
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 10,
+      "unit_price": 63.87,
+      "discount_pct": 0,
+      "line_total": 638.7
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1297.65,
+      "discount_pct": 0,
+      "line_total": 12976.5
     }
   ],
-  "subtotal": 27611.35,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 5522.27,
+  "subtotal": 746933.29,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 37346.66,
   "shipping_amount": 0.0,
-  "total_due": 33133.62,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "total_due": 784279.95,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": true,

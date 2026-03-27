@@ -1,16 +1,16 @@
 {
   "id": 171,
   "filename": "invoice_171.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 13,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
   "invoice_number": "PROFORMA/2025/82636",
-  "issue_date": "10/23/2022",
-  "due_date": "13-Nov-2022",
-  "payment_terms": "Net 7",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "27 March 2023",
+  "due_date": "May 11 2023",
+  "payment_terms": "Net 45",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
@@ -20,118 +20,210 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 12,
+  "num_line_items": 23,
   "line_items": [
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1526.84,
-      "discount_pct": 0,
-      "line_total": 38171.0
-    },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 11090.85,
-      "discount_pct": 15,
-      "line_total": 471361.12
+      "quantity": 3,
+      "unit_price": 11870.35,
+      "discount_pct": 0,
+      "line_total": 35611.05
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1269.45,
-      "discount_pct": 5,
-      "line_total": 1205.98
+      "quantity": 25,
+      "unit_price": 1258.43,
+      "discount_pct": 0,
+      "line_total": 31460.75
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2538.97,
+      "quantity": 5,
+      "unit_price": 2024.2,
       "discount_pct": 0,
-      "line_total": 63474.25
+      "line_total": 10121.0
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 158.37,
+      "quantity": 50,
+      "unit_price": 157.25,
       "discount_pct": 5,
-      "line_total": 150.45
+      "line_total": 7469.38
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1347.7,
-      "discount_pct": 0,
-      "line_total": 4043.1
+      "quantity": 1,
+      "unit_price": 1363.52,
+      "discount_pct": 10,
+      "line_total": 1227.17
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 397.37,
-      "discount_pct": 5,
-      "line_total": 377.5
+      "unit_price": 249.82,
+      "discount_pct": 0,
+      "line_total": 249.82
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 10756.79,
-      "discount_pct": 10,
-      "line_total": 9681.11
+      "quantity": 2,
+      "unit_price": 2396.5,
+      "discount_pct": 20,
+      "line_total": 3834.4
     },
     {
-      "description": "BI Reporting",
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1898.52,
+      "discount_pct": 5,
+      "line_total": 90179.7
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 605.61,
+      "discount_pct": 0,
+      "line_total": 1816.83
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1895.26,
+      "discount_pct": 0,
+      "line_total": 9476.3
+    },
+    {
+      "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1276.39,
-      "discount_pct": 0,
-      "line_total": 1276.39
+      "unit_price": 1418.75,
+      "discount_pct": 5,
+      "line_total": 1347.81
     },
     {
-      "description": "Maintenance Contract",
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 241.04,
+      "discount_pct": 5,
+      "line_total": 228.99
+    },
+    {
+      "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 254.9,
-      "discount_pct": 20,
-      "line_total": 407.84
+      "quantity": 10,
+      "unit_price": 1167.5,
+      "discount_pct": 0,
+      "line_total": 11675.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 3,
+      "unit_price": 133.7,
+      "discount_pct": 10,
+      "line_total": 360.99
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1298.12,
+      "discount_pct": 0,
+      "line_total": 3894.36
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 50,
-      "unit_price": 112.01,
+      "unit_price": 108.38,
+      "discount_pct": 0,
+      "line_total": 5419.0
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 962.78,
+      "discount_pct": 10,
+      "line_total": 43325.1
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3435.07,
+      "discount_pct": 0,
+      "line_total": 17175.35
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 282.76,
       "discount_pct": 5,
-      "line_total": 5320.47
+      "line_total": 6715.55
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1831.95,
+      "discount_pct": 10,
+      "line_total": 4946.27
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 19709.21,
+      "discount_pct": 0,
+      "line_total": 19709.21
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 3,
-      "unit_price": 633.77,
+      "quantity": 1,
+      "unit_price": 1429.35,
+      "discount_pct": 5,
+      "line_total": 1357.88
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 2355.52,
       "discount_pct": 0,
-      "line_total": 1901.31
+      "line_total": 23555.2
     }
   ],
-  "subtotal": 597370.52,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 41815.94,
+  "subtotal": 331157.11,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 19869.43,
   "shipping_amount": 0.0,
-  "total_due": 639186.46,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "total_due": 351026.54,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

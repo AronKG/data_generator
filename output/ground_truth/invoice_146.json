@@ -1,16 +1,16 @@
 {
   "id": 146,
   "filename": "invoice_146.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 4,
+  "complexity_tier": "medium",
+  "color_palette_index": 9,
   "invoice_number": "REF/2023/39498",
-  "issue_date": "04/15/2024",
-  "due_date": "April 30 2024",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "2022-10-26",
+  "due_date": "11/25/2022",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
@@ -20,114 +20,58 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 11,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 176.08,
-      "discount_pct": 0,
-      "line_total": 176.08
-    },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2754.33,
+      "quantity": 1,
+      "unit_price": 4727.88,
       "discount_pct": 0,
-      "line_total": 8262.99
+      "line_total": 4727.88
     },
     {
       "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 12281.18,
-      "discount_pct": 10,
-      "line_total": 552653.1
+      "quantity": 1,
+      "unit_price": 16747.27,
+      "discount_pct": 0,
+      "line_total": 16747.27
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 564.74,
-      "discount_pct": 5,
-      "line_total": 2682.51
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 721.14,
+      "quantity": 3,
+      "unit_price": 176.11,
       "discount_pct": 0,
-      "line_total": 721.14
+      "line_total": 528.33
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4173.57,
-      "discount_pct": 20,
-      "line_total": 3338.86
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 163.98,
-      "discount_pct": 20,
-      "line_total": 3279.6
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2577.71,
-      "discount_pct": 0,
-      "line_total": 25777.1
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1956.39,
-      "discount_pct": 20,
-      "line_total": 7825.56
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
       "quantity": 50,
-      "unit_price": 5173.78,
-      "discount_pct": 0,
-      "line_total": 258689.0
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 771.24,
-      "discount_pct": 0,
-      "line_total": 771.24
+      "unit_price": 2956.78,
+      "discount_pct": 10,
+      "line_total": 133055.1
     }
   ],
-  "subtotal": 864177.18,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 43208.86,
+  "subtotal": 155058.58,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 10854.1,
   "shipping_amount": 0.0,
-  "total_due": 907386.04,
-  "notes": "Subject to our standard terms and conditions of service.",
+  "total_due": 165912.68,
+  "notes": null,
   "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
+  "has_unit_column": false,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

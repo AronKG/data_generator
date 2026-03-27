@@ -1,16 +1,16 @@
 {
   "id": 661,
   "filename": "invoice_661.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
+  "layout_style": "classic",
+  "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 13,
+  "color_palette_index": 12,
   "invoice_number": "BILL71389",
-  "issue_date": "16 April 2022",
-  "due_date": "05/31/2022",
-  "payment_terms": "Net 45",
-  "currency": "EUR",
-  "currency_symbol": "€",
+  "issue_date": "07-Feb-2024",
+  "due_date": "07/04/2024",
+  "payment_terms": "Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
@@ -20,131 +20,99 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 13,
+  "num_line_items": 9,
   "line_items": [
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 168.22,
-      "discount_pct": 0,
-      "line_total": 4205.5
-    },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 885.83,
-      "discount_pct": 5,
-      "line_total": 841.54
+      "quantity": 5,
+      "unit_price": 839.19,
+      "discount_pct": 20,
+      "line_total": 3356.76
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 147.63,
+      "quantity": 25,
+      "unit_price": 100.19,
       "discount_pct": 0,
-      "line_total": 295.26
+      "line_total": 2504.75
     },
     {
       "description": "Training Workshop",
       "unit": "person",
       "quantity": 1,
-      "unit_price": 352.67,
-      "discount_pct": 0,
-      "line_total": 352.67
+      "unit_price": 622.05,
+      "discount_pct": 5,
+      "line_total": 590.95
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 25,
-      "unit_price": 41.6,
-      "discount_pct": 5,
-      "line_total": 988.0
+      "quantity": 2,
+      "unit_price": 52.02,
+      "discount_pct": 0,
+      "line_total": 104.04
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 8730.56,
-      "discount_pct": 5,
-      "line_total": 16588.06
+      "quantity": 1,
+      "unit_price": 2717.55,
+      "discount_pct": 0,
+      "line_total": 2717.55
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
       "quantity": 25,
-      "unit_price": 572.24,
-      "discount_pct": 0,
-      "line_total": 14306.0
+      "unit_price": 344.69,
+      "discount_pct": 5,
+      "line_total": 8186.39
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 50,
-      "unit_price": 133.65,
+      "quantity": 2,
+      "unit_price": 182.37,
       "discount_pct": 5,
-      "line_total": 6348.38
+      "line_total": 346.5
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 12794.37,
+      "quantity": 25,
+      "unit_price": 7740.25,
       "discount_pct": 0,
-      "line_total": 127943.7
+      "line_total": 193506.25
     },
     {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 314.54,
-      "discount_pct": 10,
-      "line_total": 283.09
-    },
-    {
-      "description": "Managed Cloud",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 231.79,
-      "discount_pct": 20,
-      "line_total": 927.16
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 105.09,
+      "quantity": 50,
+      "unit_price": 1097.58,
       "discount_pct": 5,
-      "line_total": 99.84
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 14529.69,
-      "discount_pct": 20,
-      "line_total": 23247.5
+      "line_total": 52135.05
     }
   ],
-  "subtotal": 196426.7,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 0.0,
-  "total_due": 196426.7,
+  "subtotal": 263448.24,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 15806.89,
+  "shipping_amount": 185.19,
+  "total_due": 279440.32,
   "notes": null,
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": false,
+  "has_shipping": true,
   "has_po_number": false,
-  "has_tax": false
+  "has_tax": true
 }

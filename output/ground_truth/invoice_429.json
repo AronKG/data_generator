@@ -1,17 +1,17 @@
 {
   "id": 429,
   "filename": "invoice_429.pdf",
-  "layout_style": "compact",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 8,
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
   "invoice_number": "2022-18526",
-  "issue_date": "October 15 2024",
-  "due_date": "January 13 2025",
-  "payment_terms": "Immediate",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-99040",
+  "issue_date": "2024-07-11",
+  "due_date": "08/25/2024",
+  "payment_terms": "Net 45",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,68 +20,103 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 5,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8634.6,
-      "discount_pct": 10,
-      "line_total": 7771.14
-    },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
       "quantity": 50,
-      "unit_price": 1948.16,
+      "unit_price": 1998.72,
       "discount_pct": 10,
-      "line_total": 87667.2
+      "line_total": 89942.4
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1059.34,
+      "discount_pct": 0,
+      "line_total": 1059.34
     },
     {
       "description": "Equipment Rental",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 1135.22,
+      "quantity": 1,
+      "unit_price": 450.56,
       "discount_pct": 0,
-      "line_total": 2270.44
+      "line_total": 450.56
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 14991.49,
-      "discount_pct": 10,
-      "line_total": 674617.05
+      "quantity": 1,
+      "unit_price": 4767.5,
+      "discount_pct": 0,
+      "line_total": 4767.5
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
+      "quantity": 5,
+      "unit_price": 34607.48,
+      "discount_pct": 15,
+      "line_total": 147081.79
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 23440.32,
+      "unit_price": 245.98,
       "discount_pct": 0,
-      "line_total": 23440.32
+      "line_total": 245.98
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 1182.29,
+      "discount_pct": 5,
+      "line_total": 2246.35
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 103.18,
+      "discount_pct": 15,
+      "line_total": 87.7
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 811.71,
+      "discount_pct": 15,
+      "line_total": 689.95
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 590.19,
+      "discount_pct": 5,
+      "line_total": 2803.4
     }
   ],
-  "subtotal": 795766.15,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 79576.62,
-  "shipping_amount": 0.0,
-  "total_due": 875342.77,
-  "notes": "Thank you for your business. We value our long-term partnership.",
-  "bank_details": {
-    "Bank": "Westpac",
-    "BSB": "032-000",
-    "Account": "123456",
-    "SWIFT": "WPACAU2S"
-  },
+  "subtotal": 249374.97,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 47381.24,
+  "shipping_amount": 65.44,
+  "total_due": 296821.65,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

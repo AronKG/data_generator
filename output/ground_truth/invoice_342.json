@@ -3,15 +3,15 @@
   "filename": "invoice_342.pdf",
   "layout_style": "minimal",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 7,
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
   "invoice_number": "2024-86392",
-  "issue_date": "September 14 2023",
-  "due_date": "2023-12-13",
-  "payment_terms": "Net 60",
+  "issue_date": "09/12/2024",
+  "due_date": "11/11/2024",
+  "payment_terms": "50% upfront balance on delivery",
   "currency": "HKD",
   "currency_symbol": "HK$",
-  "po_number": "PO-19458",
+  "po_number": null,
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
   "seller_email": "hello@sunrisedigital.hk",
@@ -20,131 +20,52 @@
   "client_name": "The Grand Brasserie Group",
   "client_address": "15 Rue Montorgueil 75001 Paris France",
   "client_email": "comptabilite@grandbrasserie.fr",
-  "num_line_items": 13,
+  "num_line_items": 3,
   "line_items": [
     {
       "description": "Event Management",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 17166.06,
+      "unit_price": 7788.99,
       "discount_pct": 0,
-      "line_total": 17166.06
+      "line_total": 7788.99
     },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 10,
-      "unit_price": 1864.57,
-      "discount_pct": 5,
-      "line_total": 17713.42
+      "quantity": 1,
+      "unit_price": 1863.15,
+      "discount_pct": 0,
+      "line_total": 1863.15
     },
     {
       "description": "Logo Design",
       "unit": "ea",
       "quantity": 50,
-      "unit_price": 787.02,
-      "discount_pct": 10,
-      "line_total": 35415.9
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 283.3,
+      "unit_price": 1139.78,
       "discount_pct": 0,
-      "line_total": 7082.5
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 233.51,
-      "discount_pct": 15,
-      "line_total": 992.42
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 257.38,
-      "discount_pct": 10,
-      "line_total": 231.64
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 156.98,
-      "discount_pct": 5,
-      "line_total": 149.13
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 14565.62,
-      "discount_pct": 5,
-      "line_total": 138373.39
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1131.89,
-      "discount_pct": 20,
-      "line_total": 1811.02
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 1458.77,
-      "discount_pct": 0,
-      "line_total": 2917.54
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 10526.43,
-      "discount_pct": 20,
-      "line_total": 8421.14
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 894.81,
-      "discount_pct": 10,
-      "line_total": 1610.66
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2888.16,
-      "discount_pct": 0,
-      "line_total": 2888.16
+      "line_total": 56989.0
     }
   ],
-  "subtotal": 234772.98,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 46954.6,
-  "shipping_amount": 283.69,
-  "total_due": 282011.27,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "subtotal": 66641.14,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 3998.47,
+  "shipping_amount": 0.0,
+  "total_due": 70639.61,
+  "notes": null,
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": true,
+  "has_shipping": false,
+  "has_po_number": false,
   "has_tax": true
 }

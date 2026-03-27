@@ -1,14 +1,14 @@
 {
   "id": 566,
   "filename": "invoice_566.pdf",
-  "layout_style": "formal",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 1,
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
   "invoice_number": "2024-20188",
-  "issue_date": "07/31/2024",
-  "due_date": "August 30 2024",
-  "payment_terms": "Due on Receipt",
+  "issue_date": "August 26 2023",
+  "due_date": "September 09 2023",
+  "payment_terms": "2/10 Net 30",
   "currency": "EUR",
   "currency_symbol": "€",
   "po_number": null,
@@ -20,46 +20,226 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 3,
+  "num_line_items": 25,
   "line_items": [
     {
-      "description": "BI Reporting",
+      "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1212.35,
+      "quantity": 1,
+      "unit_price": 2261.78,
+      "discount_pct": 10,
+      "line_total": 2035.6
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 74.67,
       "discount_pct": 0,
-      "line_total": 12123.5
+      "line_total": 74.67
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3179.92,
+      "discount_pct": 0,
+      "line_total": 9539.76
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1003.59,
+      "discount_pct": 0,
+      "line_total": 10035.9
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3040.39,
-      "discount_pct": 0,
-      "line_total": 3040.39
+      "quantity": 5,
+      "unit_price": 4562.21,
+      "discount_pct": 5,
+      "line_total": 21670.5
     },
     {
-      "description": "SEO Optimization",
+      "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 3014.15,
+      "quantity": 50,
+      "unit_price": 6314.49,
       "discount_pct": 0,
-      "line_total": 9042.45
+      "line_total": 315724.5
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 2,
+      "unit_price": 3217.32,
+      "discount_pct": 0,
+      "line_total": 6434.64
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1191.22,
+      "discount_pct": 10,
+      "line_total": 1072.1
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 978.93,
+      "discount_pct": 15,
+      "line_total": 20802.26
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 120.19,
+      "discount_pct": 15,
+      "line_total": 102.16
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 14124.18,
+      "discount_pct": 15,
+      "line_total": 300138.83
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 455.27,
+      "discount_pct": 0,
+      "line_total": 2276.35
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2347.64,
+      "discount_pct": 5,
+      "line_total": 2230.26
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 212.48,
+      "discount_pct": 15,
+      "line_total": 180.61
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 486.92,
+      "discount_pct": 10,
+      "line_total": 438.23
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 170.61,
+      "discount_pct": 20,
+      "line_total": 3412.2
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 74.63,
+      "discount_pct": 5,
+      "line_total": 70.9
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 45073.06,
+      "discount_pct": 5,
+      "line_total": 1070485.18
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 96.66,
+      "discount_pct": 15,
+      "line_total": 246.48
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1884.44,
+      "discount_pct": 15,
+      "line_total": 40044.35
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 179.58,
+      "discount_pct": 15,
+      "line_total": 152.64
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 212.16,
+      "discount_pct": 0,
+      "line_total": 5304.0
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1249.34,
+      "discount_pct": 10,
+      "line_total": 1124.41
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1945.74,
+      "discount_pct": 15,
+      "line_total": 4961.64
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 11100.06,
+      "discount_pct": 10,
+      "line_total": 9990.05
     }
   ],
-  "subtotal": 24206.34,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 1452.38,
+  "subtotal": 1828548.22,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 91427.41,
   "shipping_amount": 0.0,
-  "total_due": 25658.72,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
-  "bank_details": null,
+  "total_due": 1919975.63,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

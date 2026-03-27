@@ -1,17 +1,17 @@
 {
   "id": 653,
   "filename": "invoice_653.pdf",
-  "layout_style": "formal",
-  "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 9,
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 4,
   "invoice_number": "2022-26302",
-  "issue_date": "02/01/2022",
-  "due_date": "2022-02-16",
-  "payment_terms": "Net 60",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "13-Dec-2022",
+  "due_date": "20 December 2022",
+  "payment_terms": "Immediate",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-72012",
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,31 +20,163 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 1,
+  "num_line_items": 17,
   "line_items": [
     {
-      "description": "Video Production",
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 32.49,
+      "discount_pct": 0,
+      "line_total": 162.45
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1800.22,
+      "discount_pct": 0,
+      "line_total": 90011.0
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1162.83,
+      "discount_pct": 0,
+      "line_total": 29070.75
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 83.89,
+      "discount_pct": 5,
+      "line_total": 3984.77
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4640.96,
+      "discount_pct": 15,
+      "line_total": 98620.4
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1159.08,
+      "discount_pct": 5,
+      "line_total": 1101.13
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 16581.97,
+      "discount_pct": 0,
+      "line_total": 414549.25
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 180.78,
+      "discount_pct": 0,
+      "line_total": 180.78
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 515.02,
+      "discount_pct": 5,
+      "line_total": 24463.45
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 693.76,
+      "discount_pct": 0,
+      "line_total": 6937.6
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 1,
+      "unit_price": 1086.69,
+      "discount_pct": 0,
+      "line_total": 1086.69
+    },
+    {
+      "description": "Export Documentation",
       "unit": "ea",
       "quantity": 10,
-      "unit_price": 2707.36,
+      "unit_price": 168.06,
       "discount_pct": 0,
-      "line_total": 27073.6
+      "line_total": 1680.6
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 1176.8,
+      "discount_pct": 0,
+      "line_total": 58840.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 204.66,
+      "discount_pct": 0,
+      "line_total": 1023.3
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 416.68,
+      "discount_pct": 15,
+      "line_total": 8854.45
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 682.32,
+      "discount_pct": 15,
+      "line_total": 28998.6
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 17090.5,
+      "discount_pct": 15,
+      "line_total": 29053.85
     }
   ],
-  "subtotal": 27073.6,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 1895.15,
+  "subtotal": 798619.07,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 28968.75,
-  "notes": "This document is strictly private and confidential.",
-  "bank_details": null,
+  "total_due": 798619.07,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

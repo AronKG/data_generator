@@ -1,0 +1,130 @@
+{
+  "id": 35,
+  "filename": "invoice_035.pdf",
+  "layout_style": "sidebar",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 12,
+  "invoice_number": "PROFORMA-92189",
+  "issue_date": "25-Feb-2023",
+  "due_date": "26-May-2023",
+  "payment_terms": "Net 60",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Oasis Events Co.",
+  "seller_address": "55 Palm Boulevard Dubai UAE",
+  "seller_email": "events@oasisevents.ae",
+  "seller_phone": "+971 4 555 0155",
+  "seller_tax_id": "TRN: 100234567890003",
+  "client_name": "Cornerstone Retail Holdings",
+  "client_address": "200 Bay St Toronto ON M5J 2J3 Canada",
+  "client_email": "payables@cornerstoneretail.ca",
+  "num_line_items": 11,
+  "line_items": [
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 2035.23,
+      "discount_pct": 20,
+      "line_total": 40704.6
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 887.71,
+      "discount_pct": 20,
+      "line_total": 7101.68
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 10492.66,
+      "discount_pct": 0,
+      "line_total": 10492.66
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 331.94,
+      "discount_pct": 20,
+      "line_total": 2655.52
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 83.05,
+      "discount_pct": 5,
+      "line_total": 78.9
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 544.6,
+      "discount_pct": 0,
+      "line_total": 5446.0
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 360.14,
+      "discount_pct": 5,
+      "line_total": 342.13
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 782.47,
+      "discount_pct": 0,
+      "line_total": 782.47
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 859.52,
+      "discount_pct": 0,
+      "line_total": 859.52
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1806.89,
+      "discount_pct": 0,
+      "line_total": 45172.25
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 1103.79,
+      "discount_pct": 0,
+      "line_total": 1103.79
+    }
+  ],
+  "subtotal": 114739.52,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 8031.77,
+  "shipping_amount": 95.22,
+  "total_due": 122866.51,
+  "notes": null,
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": true,
+  "has_po_number": false,
+  "has_tax": true
+}

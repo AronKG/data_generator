@@ -1,0 +1,103 @@
+{
+  "id": 71,
+  "filename": "invoice_071.pdf",
+  "layout_style": "creative",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 13,
+  "invoice_number": "REF78022",
+  "issue_date": "03/05/2023",
+  "due_date": "05/04/2023",
+  "payment_terms": "Net 15",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": null,
+  "seller_name": "Southern Cross Marine Ltd.",
+  "seller_address": "Princes Wharf Auckland CBD 1010 New Zealand",
+  "seller_email": "finance@southerncrossmarine.nz",
+  "seller_phone": "+64 9 444 0177",
+  "seller_tax_id": "NZBN: 9429087654321",
+  "client_name": "ClearSky Airlines",
+  "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
+  "client_email": "procurement@clearskyair.com",
+  "num_line_items": 7,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 94.2,
+      "discount_pct": 15,
+      "line_total": 160.14
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8598.27,
+      "discount_pct": 20,
+      "line_total": 343930.8
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 319.05,
+      "discount_pct": 0,
+      "line_total": 1595.25
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 154.03,
+      "discount_pct": 15,
+      "line_total": 392.78
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 998.43,
+      "discount_pct": 0,
+      "line_total": 4992.15
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 4497.96,
+      "discount_pct": 20,
+      "line_total": 35983.68
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 388.01,
+      "discount_pct": 20,
+      "line_total": 3104.08
+    }
+  ],
+  "subtotal": 390158.88,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 50720.65,
+  "shipping_amount": 0.0,
+  "total_due": 440879.53,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

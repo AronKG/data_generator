@@ -2,15 +2,15 @@
   "id": 819,
   "filename": "invoice_819.pdf",
   "layout_style": "classic",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 9,
   "invoice_number": "SI-38573",
-  "issue_date": "02/12/2024",
-  "due_date": "02-Mar-2025",
-  "payment_terms": "Immediate",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "04/21/2022",
+  "due_date": "20 July 2022",
+  "payment_terms": "Due on Receipt",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
@@ -20,83 +20,183 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 7,
+  "num_line_items": 20,
   "line_items": [
     {
-      "description": "SEO Optimization",
+      "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3091.42,
+      "quantity": 5,
+      "unit_price": 8184.13,
       "discount_pct": 10,
-      "line_total": 27822.78
+      "line_total": 36828.58
     },
     {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 6780.0,
-      "discount_pct": 10,
-      "line_total": 6102.0
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 1904.56,
+      "discount_pct": 0,
+      "line_total": 47614.0
     },
     {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4499.75,
-      "discount_pct": 20,
-      "line_total": 3599.8
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 269.52,
+      "discount_pct": 15,
+      "line_total": 5727.3
     },
     {
       "description": "Architecture Fees",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 38432.6,
-      "discount_pct": 10,
-      "line_total": 864733.5
+      "unit_price": 49766.42,
+      "discount_pct": 20,
+      "line_total": 995328.4
     },
     {
-      "description": "iOS App Dev",
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 565.32,
+      "discount_pct": 15,
+      "line_total": 2402.61
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 153.92,
+      "discount_pct": 20,
+      "line_total": 246.27
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 659.78,
+      "discount_pct": 20,
+      "line_total": 527.82
+    },
+    {
+      "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 18171.02,
+      "quantity": 1,
+      "unit_price": 1307.49,
+      "discount_pct": 20,
+      "line_total": 1045.99
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 111.29,
       "discount_pct": 0,
-      "line_total": 90855.1
+      "line_total": 111.29
     },
     {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 1481.32,
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1565.58,
       "discount_pct": 10,
-      "line_total": 13331.88
+      "line_total": 70451.1
     },
     {
-      "description": "Software Dev",
-      "unit": "hr",
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 5425.99,
+      "discount_pct": 5,
+      "line_total": 10309.38
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1773.04,
+      "discount_pct": 10,
+      "line_total": 3191.47
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1711.0,
+      "discount_pct": 20,
+      "line_total": 4106.4
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
       "quantity": 5,
-      "unit_price": 151.42,
-      "discount_pct": 10,
-      "line_total": 681.39
+      "unit_price": 671.27,
+      "discount_pct": 0,
+      "line_total": 3356.35
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9193.85,
+      "discount_pct": 0,
+      "line_total": 9193.85
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1616.06,
+      "discount_pct": 0,
+      "line_total": 3232.12
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3219.08,
+      "discount_pct": 0,
+      "line_total": 3219.08
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1695.42,
+      "discount_pct": 15,
+      "line_total": 14411.07
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 5793.06,
+      "discount_pct": 5,
+      "line_total": 55034.07
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 2536.34,
+      "discount_pct": 20,
+      "line_total": 20290.72
     }
   ],
-  "subtotal": 1007126.45,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 211496.55,
-  "shipping_amount": 0.0,
-  "total_due": 1218623.0,
-  "notes": null,
-  "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
-  },
+  "subtotal": 1286627.87,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 295924.41,
+  "shipping_amount": 230.61,
+  "total_due": 1582782.89,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": false,
-  "has_bank_details": true,
-  "has_shipping": false,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

@@ -1,16 +1,16 @@
 {
   "id": 454,
   "filename": "invoice_454.pdf",
-  "layout_style": "creative",
-  "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 6,
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
   "invoice_number": "TAX-INV-2025-28584",
-  "issue_date": "2022-09-15",
-  "due_date": "29 September 2022",
-  "payment_terms": "2/10 Net 30",
-  "currency": "SGD",
-  "currency_symbol": "S$",
+  "issue_date": "10-Aug-2022",
+  "due_date": "24/08/2022",
+  "payment_terms": "Net 21",
+  "currency": "AED",
+  "currency_symbol": "AED",
   "po_number": null,
   "seller_name": "NovaBridge Technologies",
   "seller_address": "500 Silicon Ave San Jose CA 95110 USA",
@@ -20,211 +20,68 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 23,
+  "num_line_items": 5,
   "line_items": [
     {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3483.37,
-      "discount_pct": 15,
-      "line_total": 5921.73
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 6928.48,
-      "discount_pct": 0,
-      "line_total": 173212.0
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 114.77,
-      "discount_pct": 20,
-      "line_total": 4590.8
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1715.95,
+      "discount_pct": 10,
+      "line_total": 1544.36
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2224.83,
-      "discount_pct": 15,
-      "line_total": 94555.27
+      "quantity": 3,
+      "unit_price": 3794.28,
+      "discount_pct": 0,
+      "line_total": 11382.84
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 1213.92,
+      "quantity": 2,
+      "unit_price": 2466.92,
       "discount_pct": 20,
-      "line_total": 4855.68
+      "line_total": 3947.07
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 966.54,
+      "discount_pct": 5,
+      "line_total": 9182.13
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 226.87,
-      "discount_pct": 0,
-      "line_total": 1134.35
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 753.4,
-      "discount_pct": 15,
-      "line_total": 6403.9
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 8493.18,
-      "discount_pct": 10,
-      "line_total": 7643.86
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 2924.95,
-      "discount_pct": 10,
-      "line_total": 65811.38
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 3703.24,
-      "discount_pct": 20,
-      "line_total": 74064.8
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 415.02,
-      "discount_pct": 10,
-      "line_total": 373.52
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 10,
-      "unit_price": 724.32,
-      "discount_pct": 20,
-      "line_total": 5794.56
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1508.71,
-      "discount_pct": 0,
-      "line_total": 75435.5
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 6839.43,
-      "discount_pct": 0,
-      "line_total": 170985.75
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1343.59,
-      "discount_pct": 0,
-      "line_total": 2687.18
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 3605.72,
-      "discount_pct": 0,
-      "line_total": 36057.2
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 7539.71,
-      "discount_pct": 5,
-      "line_total": 35813.62
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
       "quantity": 3,
-      "unit_price": 15358.13,
-      "discount_pct": 5,
-      "line_total": 43770.67
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 16489.17,
-      "discount_pct": 5,
-      "line_total": 15664.71
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 107.15,
-      "discount_pct": 5,
-      "line_total": 101.79
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 183.89,
+      "unit_price": 184.61,
       "discount_pct": 0,
-      "line_total": 9194.5
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 10,
-      "unit_price": 76.62,
-      "discount_pct": 0,
-      "line_total": 766.2
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 562.26,
-      "discount_pct": 15,
-      "line_total": 2389.61
+      "line_total": 553.83
     }
   ],
-  "subtotal": 837228.58,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 50233.71,
-  "shipping_amount": 157.41,
-  "total_due": 887619.7,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
+  "subtotal": 26610.23,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 1862.72,
+  "shipping_amount": 0.0,
+  "total_due": 28472.95,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

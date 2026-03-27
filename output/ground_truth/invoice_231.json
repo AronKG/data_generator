@@ -1,17 +1,17 @@
 {
   "id": 231,
   "filename": "invoice_231.pdf",
-  "layout_style": "sidebar",
-  "page_size": "A4",
-  "complexity_tier": "complex",
+  "layout_style": "compact",
+  "page_size": "letter",
+  "complexity_tier": "simple",
   "color_palette_index": 3,
   "invoice_number": "031053",
-  "issue_date": "04-Jul-2024",
-  "due_date": "25 July 2024",
-  "payment_terms": "Net 90",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "March 09 2023",
+  "due_date": "06/07/2023",
+  "payment_terms": "Upon completion",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-83730",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,139 +20,31 @@
   "client_name": "GoldenGate Financial",
   "client_address": "101 Market St San Francisco CA 94105 USA",
   "client_email": "invoices@goldengatefin.com",
-  "num_line_items": 14,
+  "num_line_items": 1,
   "line_items": [
     {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 592.91,
-      "discount_pct": 0,
-      "line_total": 592.91
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 176.67,
-      "discount_pct": 15,
-      "line_total": 450.51
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 5,
-      "unit_price": 787.85,
-      "discount_pct": 15,
-      "line_total": 3348.36
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 48.45,
-      "discount_pct": 0,
-      "line_total": 145.35
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3325.31,
-      "discount_pct": 10,
-      "line_total": 149638.95
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 909.89,
-      "discount_pct": 20,
-      "line_total": 1455.82
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 470.36,
-      "discount_pct": 0,
-      "line_total": 2351.8
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5538.5,
-      "discount_pct": 15,
-      "line_total": 4707.72
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 622.5,
-      "discount_pct": 20,
-      "line_total": 12450.0
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 139.73,
-      "discount_pct": 0,
-      "line_total": 419.19
-    },
-    {
-      "description": "Social Media Mgmt",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1820.75,
-      "discount_pct": 20,
-      "line_total": 7283.0
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
       "quantity": 25,
-      "unit_price": 18773.98,
+      "unit_price": 1337.6,
       "discount_pct": 0,
-      "line_total": 469349.5
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 50,
-      "unit_price": 141.65,
-      "discount_pct": 0,
-      "line_total": 7082.5
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1072.34,
-      "discount_pct": 0,
-      "line_total": 53617.0
+      "line_total": 33440.0
     }
   ],
-  "subtotal": 712892.61,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 33440.0,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 2340.8,
   "shipping_amount": 0.0,
-  "total_due": 712892.61,
-  "notes": null,
-  "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
-  },
+  "total_due": 35780.8,
+  "notes": "Thank you for your business. We value our long-term partnership.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": true,
+  "has_notes": true,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_po_number": true,
+  "has_tax": true
 }

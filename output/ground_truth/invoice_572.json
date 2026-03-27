@@ -1,17 +1,17 @@
 {
   "id": 572,
   "filename": "invoice_572.pdf",
-  "layout_style": "creative",
+  "layout_style": "classic",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 2,
+  "complexity_tier": "medium",
+  "color_palette_index": 8,
   "invoice_number": "TAX-INV-2025-26103",
-  "issue_date": "08/02/2023",
-  "due_date": "01-Mar-2023",
-  "payment_terms": "Upon completion",
+  "issue_date": "20-May-2023",
+  "due_date": "August 18 2023",
+  "payment_terms": "2/10 Net 30",
   "currency": "AED",
   "currency_symbol": "AED",
-  "po_number": "PO-15639",
+  "po_number": "PO-78926",
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
   "seller_email": "accounts@mirageproductions.ae",
@@ -20,188 +20,53 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 21,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 45.42,
-      "discount_pct": 10,
-      "line_total": 40.88
-    },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 10834.63,
-      "discount_pct": 15,
-      "line_total": 18418.87
+      "quantity": 10,
+      "unit_price": 13146.29,
+      "discount_pct": 0,
+      "line_total": 131462.9
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 2,
-      "unit_price": 546.71,
-      "discount_pct": 20,
-      "line_total": 874.74
+      "quantity": 25,
+      "unit_price": 803.19,
+      "discount_pct": 0,
+      "line_total": 20079.75
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 604.99,
-      "discount_pct": 10,
-      "line_total": 27224.55
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 974.17,
-      "discount_pct": 10,
-      "line_total": 4383.76
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1862.18,
-      "discount_pct": 15,
-      "line_total": 1582.85
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 1,
-      "unit_price": 2336.87,
+      "quantity": 10,
+      "unit_price": 484.97,
       "discount_pct": 0,
-      "line_total": 2336.87
+      "line_total": 4849.7
     },
     {
-      "description": "Software Dev",
+      "description": "Contract Review",
       "unit": "hr",
       "quantity": 3,
-      "unit_price": 243.46,
-      "discount_pct": 0,
-      "line_total": 730.38
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 635.67,
-      "discount_pct": 10,
-      "line_total": 14302.57
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1264.95,
-      "discount_pct": 0,
-      "line_total": 1264.95
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2988.38,
-      "discount_pct": 0,
-      "line_total": 149419.0
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 1378.38,
-      "discount_pct": 10,
-      "line_total": 1240.54
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1783.0,
+      "unit_price": 425.85,
       "discount_pct": 5,
-      "line_total": 84692.5
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 416.63,
-      "discount_pct": 20,
-      "line_total": 333.3
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 471.39,
-      "discount_pct": 10,
-      "line_total": 424.25
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 7535.24,
-      "discount_pct": 15,
-      "line_total": 6404.95
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 9442.31,
-      "discount_pct": 0,
-      "line_total": 18884.62
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 3,
-      "unit_price": 343.68,
-      "discount_pct": 0,
-      "line_total": 1031.04
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 67.04,
-      "discount_pct": 5,
-      "line_total": 63.69
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 5,
-      "unit_price": 368.4,
-      "discount_pct": 0,
-      "line_total": 1842.0
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 9285.27,
-      "discount_pct": 5,
-      "line_total": 26463.02
+      "line_total": 1213.67
     }
   ],
-  "subtotal": 361959.33,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 157606.02,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 13002.5,
   "shipping_amount": 0.0,
-  "total_due": 361959.33,
-  "notes": "Thank you for your business. We value our long-term partnership.",
+  "total_due": 170608.52,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
   "has_discount_column": false,
@@ -210,5 +75,5 @@
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
-  "has_tax": false
+  "has_tax": true
 }

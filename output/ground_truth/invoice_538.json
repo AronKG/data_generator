@@ -1,17 +1,17 @@
 {
   "id": 538,
   "filename": "invoice_538.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 3,
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
   "invoice_number": "062740",
-  "issue_date": "October 26 2022",
-  "due_date": "2022-12-25",
-  "payment_terms": "30 days from delivery",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-82800",
+  "issue_date": "2024-05-30",
+  "due_date": "14 June 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-42505",
   "seller_name": "Horizon Tech Ventures",
   "seller_address": "3100 Hillview Ave Palo Alto CA 94304 USA",
   "seller_email": "ar@horizontech.com",
@@ -20,98 +20,81 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 9,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 18843.72,
-      "discount_pct": 20,
-      "line_total": 376874.4
-    },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 521.78,
-      "discount_pct": 15,
-      "line_total": 22175.65
+      "quantity": 25,
+      "unit_price": 2569.49,
+      "discount_pct": 0,
+      "line_total": 64237.25
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2999.15,
-      "discount_pct": 15,
-      "line_total": 2549.28
+      "quantity": 25,
+      "unit_price": 9387.85,
+      "discount_pct": 20,
+      "line_total": 187757.0
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 182.59,
-      "discount_pct": 10,
-      "line_total": 164.33
+      "quantity": 50,
+      "unit_price": 62.09,
+      "discount_pct": 15,
+      "line_total": 2638.82
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 19571.37,
-      "discount_pct": 0,
-      "line_total": 195713.7
+      "quantity": 1,
+      "unit_price": 5609.37,
+      "discount_pct": 15,
+      "line_total": 4767.96
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 240.2,
-      "discount_pct": 5,
-      "line_total": 1140.95
+      "quantity": 1,
+      "unit_price": 379.85,
+      "discount_pct": 10,
+      "line_total": 341.87
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 2455.98,
+      "discount_pct": 0,
+      "line_total": 24559.8
     },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 808.47,
-      "discount_pct": 15,
-      "line_total": 687.2
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
       "quantity": 5,
-      "unit_price": 314.2,
-      "discount_pct": 0,
-      "line_total": 1571.0
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 1335.68,
+      "unit_price": 440.86,
       "discount_pct": 5,
-      "line_total": 2537.79
+      "line_total": 2094.09
     }
   ],
-  "subtotal": 603414.3,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 120682.86,
+  "subtotal": 286396.79,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 28639.68,
   "shipping_amount": 0.0,
-  "total_due": 724097.16,
-  "notes": null,
+  "total_due": 315036.47,
+  "notes": "This document is strictly private and confidential.",
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,

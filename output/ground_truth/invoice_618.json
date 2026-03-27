@@ -1,17 +1,17 @@
 {
   "id": 618,
   "filename": "invoice_618.pdf",
-  "layout_style": "creative",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 9,
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 1,
   "invoice_number": "2024-88614",
-  "issue_date": "18 October 2023",
-  "due_date": "08 November 2023",
-  "payment_terms": "End of Month",
+  "issue_date": "28 April 2023",
+  "due_date": "12/05/2023",
+  "payment_terms": "Net 45",
   "currency": "CAD",
   "currency_symbol": "CA$",
-  "po_number": "PO-83605",
+  "po_number": null,
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
   "seller_email": "ar@ironcoremfg.com",
@@ -20,51 +20,204 @@
   "client_name": "Iron Horse Brewing Co.",
   "client_address": "2211 Brewery Way Portland OR 97201 USA",
   "client_email": "orders@ironhorsebrewing.com",
-  "num_line_items": 3,
+  "num_line_items": 22,
   "line_items": [
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 7686.79,
-      "discount_pct": 0,
-      "line_total": 15373.58
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 8266.2,
+      "unit_price": 15794.91,
       "discount_pct": 0,
-      "line_total": 206655.0
+      "line_total": 394872.75
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 1569.91,
+      "unit_price": 4279.9,
+      "discount_pct": 5,
+      "line_total": 4065.9
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 144.27,
       "discount_pct": 0,
-      "line_total": 1569.91
+      "line_total": 144.27
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 910.32,
+      "discount_pct": 10,
+      "line_total": 819.29
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 6811.39,
+      "discount_pct": 15,
+      "line_total": 5789.68
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 172.56,
+      "discount_pct": 0,
+      "line_total": 345.12
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 167.64,
+      "discount_pct": 10,
+      "line_total": 7543.8
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 111.31,
+      "discount_pct": 15,
+      "line_total": 189.23
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 894.21,
+      "discount_pct": 20,
+      "line_total": 1430.74
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 1036.43,
+      "discount_pct": 10,
+      "line_total": 932.79
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 25,
+      "unit_price": 3886.54,
+      "discount_pct": 5,
+      "line_total": 92305.32
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 247.95,
+      "discount_pct": 10,
+      "line_total": 223.16
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 187.37,
+      "discount_pct": 10,
+      "line_total": 505.9
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3945.26,
+      "discount_pct": 0,
+      "line_total": 11835.78
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 53.02,
+      "discount_pct": 15,
+      "line_total": 225.34
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2151.49,
+      "discount_pct": 5,
+      "line_total": 102195.77
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9346.46,
+      "discount_pct": 15,
+      "line_total": 7944.49
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 8958.13,
+      "discount_pct": 10,
+      "line_total": 24186.95
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 5,
+      "unit_price": 648.44,
+      "discount_pct": 0,
+      "line_total": 3242.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1443.96,
+      "discount_pct": 5,
+      "line_total": 2743.52
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 115.63,
+      "discount_pct": 5,
+      "line_total": 2746.21
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 545.68,
+      "discount_pct": 0,
+      "line_total": 545.68
     }
   ],
-  "subtotal": 223598.49,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 11179.92,
+  "subtotal": 664833.89,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 86428.41,
   "shipping_amount": 0.0,
-  "total_due": 234778.41,
-  "notes": null,
+  "total_due": 751262.3,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
   },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

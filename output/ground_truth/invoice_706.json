@@ -3,15 +3,15 @@
   "filename": "invoice_706.pdf",
   "layout_style": "bold_header",
   "page_size": "letter",
-  "complexity_tier": "medium",
+  "complexity_tier": "simple",
   "color_palette_index": 0,
   "invoice_number": "064820",
-  "issue_date": "November 21 2022",
-  "due_date": "2022-12-06",
-  "payment_terms": "Net 90",
-  "currency": "AED",
-  "currency_symbol": "AED",
-  "po_number": "PO-12847",
+  "issue_date": "09/01/2023",
+  "due_date": "16 January 2023",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,44 +20,28 @@
   "client_name": "Azure Bay Resort Group",
   "client_address": "1 Ocean Dr Miami Beach FL 33139 USA",
   "client_email": "finance@azurebayresorts.com",
-  "num_line_items": 3,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1140.56,
-      "discount_pct": 0,
-      "line_total": 1140.56
-    },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 1,
-      "unit_price": 75.59,
+      "quantity": 5,
+      "unit_price": 82.29,
       "discount_pct": 0,
-      "line_total": 75.59
-    },
-    {
-      "description": "Maintenance Contract",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1317.81,
-      "discount_pct": 0,
-      "line_total": 32945.25
+      "line_total": 411.45
     }
   ],
-  "subtotal": 34161.4,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 6490.67,
+  "subtotal": 411.45,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 53.49,
   "shipping_amount": 0.0,
-  "total_due": 40652.07,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 464.94,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
   "bank_details": {
-    "Bank": "DBS Bank",
-    "Account": "012-345678-9",
-    "SWIFT": "DBSSSGSG"
+    "Bank": "DNB Bank ASA",
+    "Account": "1503.12.34567",
+    "BIC": "DNBANOKK"
   },
   "has_logo": true,
   "has_discount_column": false,
@@ -65,6 +49,6 @@
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

@@ -2,16 +2,16 @@
   "id": 401,
   "filename": "invoice_401.pdf",
   "layout_style": "modern",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 0,
   "invoice_number": "006403",
-  "issue_date": "April 13 2023",
-  "due_date": "12-Jun-2023",
-  "payment_terms": "Net 7",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": null,
+  "issue_date": "06/02/2024",
+  "due_date": "17/07/2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-71568",
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
   "seller_email": "info@apexsolutions.co.uk",
@@ -20,56 +20,208 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 5,
+  "num_line_items": 24,
   "line_items": [
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1871.3,
+      "quantity": 50,
+      "unit_price": 1741.47,
       "discount_pct": 0,
-      "line_total": 46782.5
+      "line_total": 87073.5
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
       "quantity": 5,
-      "unit_price": 1721.98,
-      "discount_pct": 0,
-      "line_total": 8609.9
+      "unit_price": 1704.07,
+      "discount_pct": 15,
+      "line_total": 7242.3
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 492.62,
-      "discount_pct": 10,
-      "line_total": 443.36
+      "quantity": 3,
+      "unit_price": 182.63,
+      "discount_pct": 0,
+      "line_total": 547.89
     },
     {
       "description": "Training Workshop",
       "unit": "person",
-      "quantity": 1,
-      "unit_price": 666.25,
-      "discount_pct": 0,
-      "line_total": 666.25
+      "quantity": 25,
+      "unit_price": 676.77,
+      "discount_pct": 10,
+      "line_total": 15227.33
     },
     {
       "description": "Catering Services",
       "unit": "head",
+      "quantity": 25,
+      "unit_price": 101.2,
+      "discount_pct": 0,
+      "line_total": 2530.0
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 113.17,
+      "discount_pct": 15,
+      "line_total": 96.19
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 535.54,
+      "discount_pct": 0,
+      "line_total": 26777.0
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 80.23,
+      "discount_pct": 0,
+      "line_total": 160.46
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 291.69,
+      "discount_pct": 0,
+      "line_total": 291.69
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1550.72,
+      "discount_pct": 0,
+      "line_total": 1550.72
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 143.72,
+      "discount_pct": 0,
+      "line_total": 287.44
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 44327.85,
+      "discount_pct": 0,
+      "line_total": 221639.25
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 50,
+      "unit_price": 1313.42,
+      "discount_pct": 15,
+      "line_total": 55820.35
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
       "quantity": 3,
-      "unit_price": 87.69,
+      "unit_price": 4224.92,
+      "discount_pct": 0,
+      "line_total": 12674.76
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1091.38,
+      "discount_pct": 10,
+      "line_total": 2946.73
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 878.01,
+      "discount_pct": 15,
+      "line_total": 3731.54
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 2930.49,
       "discount_pct": 5,
-      "line_total": 249.92
+      "line_total": 139198.27
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 248.15,
+      "discount_pct": 0,
+      "line_total": 248.15
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7038.3,
+      "discount_pct": 10,
+      "line_total": 19003.41
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 232.52,
+      "discount_pct": 0,
+      "line_total": 11626.0
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1008.09,
+      "discount_pct": 15,
+      "line_total": 42843.82
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1232.12,
+      "discount_pct": 15,
+      "line_total": 10473.02
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1175.83,
+      "discount_pct": 0,
+      "line_total": 3527.49
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2272.5,
+      "discount_pct": 0,
+      "line_total": 2272.5
     }
   ],
-  "subtotal": 56751.93,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 10782.87,
+  "subtotal": 667789.81,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 100168.47,
   "shipping_amount": 0.0,
-  "total_due": 67534.8,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 767958.28,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
@@ -77,6 +229,6 @@
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

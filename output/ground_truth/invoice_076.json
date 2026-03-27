@@ -1,17 +1,17 @@
 {
   "id": 76,
   "filename": "invoice_076.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 11,
+  "color_palette_index": 13,
   "invoice_number": "PROFORMA78048",
-  "issue_date": "02/06/2022",
-  "due_date": "April 07 2022",
-  "payment_terms": "Immediate",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "02/22/2024",
+  "due_date": "23 March 2024",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-98521",
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,228 +20,143 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 25,
+  "num_line_items": 15,
   "line_items": [
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 50,
-      "unit_price": 5486.97,
-      "discount_pct": 0,
-      "line_total": 274348.5
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1716.78,
-      "discount_pct": 5,
-      "line_total": 1630.94
-    },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 138.91,
-      "discount_pct": 0,
-      "line_total": 277.82
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 134.24,
-      "discount_pct": 10,
-      "line_total": 6040.8
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4667.44,
-      "discount_pct": 0,
-      "line_total": 14002.32
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 1458.93,
-      "discount_pct": 5,
-      "line_total": 34649.59
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 1969.58,
+      "unit_price": 103.08,
       "discount_pct": 20,
-      "line_total": 1575.66
+      "line_total": 82.46
     },
     {
       "description": "Contract Review",
       "unit": "hr",
       "quantity": 25,
-      "unit_price": 250.04,
+      "unit_price": 646.24,
       "discount_pct": 10,
-      "line_total": 5625.9
+      "line_total": 14540.4
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 235.73,
+      "discount_pct": 20,
+      "line_total": 1885.84
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2136.08,
+      "discount_pct": 15,
+      "line_total": 9078.34
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 855.6,
+      "discount_pct": 0,
+      "line_total": 855.6
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 3989.89,
+      "discount_pct": 0,
+      "line_total": 11969.67
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 872.23,
+      "discount_pct": 0,
+      "line_total": 21805.75
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 3574.79,
-      "discount_pct": 5,
-      "line_total": 6792.1
+      "quantity": 50,
+      "unit_price": 1903.06,
+      "discount_pct": 10,
+      "line_total": 85637.7
     },
     {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1810.45,
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 3,
+      "unit_price": 112.98,
       "discount_pct": 0,
-      "line_total": 1810.45
+      "line_total": 338.94
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 244.21,
-      "discount_pct": 0,
-      "line_total": 1221.05
+      "quantity": 25,
+      "unit_price": 586.8,
+      "discount_pct": 5,
+      "line_total": 13936.5
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 50,
-      "unit_price": 143.23,
+      "quantity": 1,
+      "unit_price": 33.05,
       "discount_pct": 20,
-      "line_total": 5729.2
+      "line_total": 26.44
     },
     {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 6491.29,
-      "discount_pct": 0,
-      "line_total": 32456.45
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 80.01,
+      "discount_pct": 10,
+      "line_total": 1800.23
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1834.88,
-      "discount_pct": 20,
-      "line_total": 4403.71
+      "quantity": 2,
+      "unit_price": 1253.78,
+      "discount_pct": 5,
+      "line_total": 2382.18
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 1112.92,
-      "discount_pct": 5,
-      "line_total": 1057.27
+      "unit_price": 362.09,
+      "discount_pct": 0,
+      "line_total": 362.09
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 14603.16,
-      "discount_pct": 0,
-      "line_total": 14603.16
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 980.17,
-      "discount_pct": 20,
-      "line_total": 784.14
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 234.4,
-      "discount_pct": 20,
-      "line_total": 562.56
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
       "quantity": 5,
-      "unit_price": 114.71,
+      "unit_price": 4721.65,
       "discount_pct": 0,
-      "line_total": 573.55
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 50,
-      "unit_price": 1347.87,
-      "discount_pct": 0,
-      "line_total": 67393.5
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1051.19,
-      "discount_pct": 5,
-      "line_total": 1997.26
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 872.51,
-      "discount_pct": 0,
-      "line_total": 8725.1
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 10,
-      "unit_price": 691.92,
-      "discount_pct": 20,
-      "line_total": 5535.36
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 50,
-      "unit_price": 444.81,
-      "discount_pct": 10,
-      "line_total": 20016.45
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1617.87,
-      "discount_pct": 0,
-      "line_total": 40446.75
+      "line_total": 23608.25
     }
   ],
-  "subtotal": 552259.59,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 33135.58,
-  "shipping_amount": 84.1,
-  "total_due": 585479.27,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": {
-    "Bank": "TD Bank Canada",
-    "Transit": "00000",
-    "Institution": "004",
-    "Account": "1234567"
-  },
+  "subtotal": 188310.39,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
+  "shipping_amount": 0.0,
+  "total_due": 188310.39,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": false,
-  "has_tax": true
+  "has_notes": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": false
 }

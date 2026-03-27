@@ -1,17 +1,17 @@
 {
   "id": 277,
   "filename": "invoice_277.pdf",
-  "layout_style": "minimal",
-  "page_size": "A4",
+  "layout_style": "formal",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 4,
+  "color_palette_index": 0,
   "invoice_number": "RCPT-46974",
-  "issue_date": "20-Jul-2022",
-  "due_date": "August 04 2022",
-  "payment_terms": "Cash on Delivery",
-  "currency": "NOK",
-  "currency_symbol": "kr",
-  "po_number": null,
+  "issue_date": "15/01/2023",
+  "due_date": "22/01/2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-59162",
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,79 +20,135 @@
   "client_name": "The Olive Branch Restaurant",
   "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
   "client_email": "finance@olivebranch.com",
-  "num_line_items": 7,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 200.37,
-      "discount_pct": 0,
-      "line_total": 200.37
-    },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 11339.2,
-      "discount_pct": 10,
-      "line_total": 20410.56
+      "quantity": 3,
+      "unit_price": 13988.52,
+      "discount_pct": 5,
+      "line_total": 39867.28
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 868.4,
+      "quantity": 10,
+      "unit_price": 1493.69,
       "discount_pct": 0,
-      "line_total": 21710.0
+      "line_total": 14936.9
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 134.73,
-      "discount_pct": 20,
-      "line_total": 1077.84
+      "quantity": 2,
+      "unit_price": 151.59,
+      "discount_pct": 10,
+      "line_total": 272.86
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 232.49,
-      "discount_pct": 0,
-      "line_total": 2324.9
+      "quantity": 1,
+      "unit_price": 151.45,
+      "discount_pct": 5,
+      "line_total": 143.88
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1648.05,
-      "discount_pct": 10,
-      "line_total": 2966.49
+      "quantity": 1,
+      "unit_price": 1390.27,
+      "discount_pct": 20,
+      "line_total": 1112.22
     },
     {
       "description": "Photography Session",
       "unit": "ea",
+      "quantity": 10,
+      "unit_price": 1850.53,
+      "discount_pct": 20,
+      "line_total": 14804.24
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 2,
+      "unit_price": 266.6,
+      "discount_pct": 0,
+      "line_total": 533.2
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 1452.56,
-      "discount_pct": 5,
-      "line_total": 1379.93
+      "unit_price": 612.97,
+      "discount_pct": 15,
+      "line_total": 521.02
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 3,
+      "unit_price": 501.88,
+      "discount_pct": 0,
+      "line_total": 1505.64
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 725.57,
+      "discount_pct": 15,
+      "line_total": 616.73
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 1,
+      "unit_price": 9363.19,
+      "discount_pct": 10,
+      "line_total": 8426.87
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3290.26,
+      "discount_pct": 20,
+      "line_total": 13161.04
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 216.49,
+      "discount_pct": 0,
+      "line_total": 216.49
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 124.87,
+      "discount_pct": 10,
+      "line_total": 561.92
     }
   ],
-  "subtotal": 50070.09,
-  "tax_label": "VAT 23pct",
-  "tax_rate_pct": 23.0,
-  "tax_amount": 11516.12,
+  "subtotal": 96680.29,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 7976.12,
   "shipping_amount": 0.0,
-  "total_due": 61586.21,
-  "notes": "Please retain this invoice for your accounting records.",
+  "total_due": 104656.41,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

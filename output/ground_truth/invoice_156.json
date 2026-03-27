@@ -1,17 +1,17 @@
 {
   "id": 156,
   "filename": "invoice_156.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 4,
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
   "invoice_number": "2022-57064",
-  "issue_date": "April 17 2023",
-  "due_date": "2023-07-16",
-  "payment_terms": "Upon completion",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-57719",
+  "issue_date": "09/11/2024",
+  "due_date": "10/11/2024",
+  "payment_terms": "Cash on Delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
   "seller_email": "factures@crimsonco.fr",
@@ -23,48 +23,49 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 744.96,
-      "discount_pct": 0,
-      "line_total": 37248.0
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 491.86,
-      "discount_pct": 0,
-      "line_total": 983.72
-    },
-    {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 2470.77,
+      "quantity": 1,
+      "unit_price": 7532.76,
       "discount_pct": 0,
-      "line_total": 7412.31
+      "line_total": 7532.76
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2986.83,
+      "discount_pct": 0,
+      "line_total": 8960.49
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 10,
+      "unit_price": 529.82,
+      "discount_pct": 0,
+      "line_total": 5298.2
     }
   ],
-  "subtotal": 45644.03,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 6846.6,
+  "subtotal": 21791.45,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 1089.57,
   "shipping_amount": 0.0,
-  "total_due": 52490.63,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "total_due": 22881.02,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

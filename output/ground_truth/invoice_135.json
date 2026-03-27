@@ -1,17 +1,17 @@
 {
   "id": 135,
   "filename": "invoice_135.pdf",
-  "layout_style": "bold_header",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "complexity_tier": "complex",
+  "color_palette_index": 2,
   "invoice_number": "RCPT-2024-58129",
-  "issue_date": "17/11/2024",
-  "due_date": "15/02/2025",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "2022-10-29",
+  "due_date": "19 November 2022",
+  "payment_terms": "Cash on Delivery",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-75845",
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,59 +20,139 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 4,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1389.47,
-      "discount_pct": 15,
-      "line_total": 1181.05
-    },
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2687.91,
-      "discount_pct": 15,
-      "line_total": 2284.72
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 322.46,
-      "discount_pct": 15,
-      "line_total": 274.09
+      "quantity": 10,
+      "unit_price": 368.99,
+      "discount_pct": 0,
+      "line_total": 3689.9
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
+      "quantity": 1,
+      "unit_price": 137.14,
+      "discount_pct": 0,
+      "line_total": 137.14
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 275.85,
+      "discount_pct": 20,
+      "line_total": 2206.8
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 59.52,
+      "discount_pct": 0,
+      "line_total": 59.52
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 118.33,
+      "discount_pct": 20,
+      "line_total": 94.66
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
       "quantity": 25,
-      "unit_price": 258.05,
+      "unit_price": 1441.64,
       "discount_pct": 15,
-      "line_total": 5483.56
+      "line_total": 30634.85
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1401.17,
+      "discount_pct": 15,
+      "line_total": 5954.97
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 3576.27,
+      "discount_pct": 5,
+      "line_total": 16987.28
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2774.25,
+      "discount_pct": 20,
+      "line_total": 4438.8
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 2232.27,
+      "discount_pct": 15,
+      "line_total": 94871.47
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 134.24,
+      "discount_pct": 0,
+      "line_total": 134.24
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 222.12,
+      "discount_pct": 20,
+      "line_total": 4442.4
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 253.12,
+      "discount_pct": 20,
+      "line_total": 202.5
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 5908.32,
+      "discount_pct": 20,
+      "line_total": 118166.4
     }
   ],
-  "subtotal": 9223.42,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 760.93,
+  "subtotal": 282020.93,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 9984.35,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 282020.93,
+  "notes": null,
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

@@ -1,17 +1,17 @@
 {
   "id": 283,
   "filename": "invoice_283.pdf",
-  "layout_style": "creative",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 6,
+  "complexity_tier": "medium",
+  "color_palette_index": 2,
   "invoice_number": "REF-2022-39787",
-  "issue_date": "22 January 2022",
-  "due_date": "21 February 2022",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": null,
+  "issue_date": "22 July 2023",
+  "due_date": "September 20 2023",
+  "payment_terms": "Net 90",
+  "currency": "SEK",
+  "currency_symbol": "kr",
+  "po_number": "PO-49739",
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
   "seller_email": "factures@crimsonco.fr",
@@ -20,176 +20,64 @@
   "client_name": "Evergreen International School",
   "client_address": "21 Buona Vista Rd Singapore 275720",
   "client_email": "finance@evergreenintl.edu.sg",
-  "num_line_items": 20,
+  "num_line_items": 6,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 12287.11,
-      "discount_pct": 0,
-      "line_total": 61435.55
-    },
     {
       "description": "Architecture Fees",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 32982.37,
-      "discount_pct": 5,
-      "line_total": 93999.75
+      "quantity": 1,
+      "unit_price": 21781.24,
+      "discount_pct": 10,
+      "line_total": 19603.12
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 764.9,
-      "discount_pct": 15,
-      "line_total": 6501.65
+      "quantity": 25,
+      "unit_price": 1389.41,
+      "discount_pct": 5,
+      "line_total": 32998.49
     },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 86.65,
+      "unit_price": 159.22,
       "discount_pct": 0,
-      "line_total": 86.65
+      "line_total": 159.22
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 238.62,
-      "discount_pct": 0,
-      "line_total": 2386.2
+      "quantity": 25,
+      "unit_price": 143.07,
+      "discount_pct": 15,
+      "line_total": 3040.24
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2520.25,
-      "discount_pct": 5,
-      "line_total": 23942.38
+      "quantity": 5,
+      "unit_price": 1957.72,
+      "discount_pct": 0,
+      "line_total": 9788.6
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 8486.46,
-      "discount_pct": 5,
-      "line_total": 16124.27
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
       "quantity": 3,
-      "unit_price": 301.97,
-      "discount_pct": 20,
-      "line_total": 724.73
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 52.03,
-      "discount_pct": 0,
-      "line_total": 52.03
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 421.66,
-      "discount_pct": 0,
-      "line_total": 10541.5
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 25,
-      "unit_price": 1628.5,
-      "discount_pct": 15,
-      "line_total": 34605.62
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 50,
-      "unit_price": 471.77,
+      "unit_price": 6809.19,
       "discount_pct": 5,
-      "line_total": 22409.08
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 913.56,
-      "discount_pct": 0,
-      "line_total": 913.56
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1032.98,
-      "discount_pct": 0,
-      "line_total": 25824.5
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 25,
-      "unit_price": 104.24,
-      "discount_pct": 0,
-      "line_total": 2606.0
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 2,
-      "unit_price": 215.01,
-      "discount_pct": 0,
-      "line_total": 430.02
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 317.97,
-      "discount_pct": 5,
-      "line_total": 302.07
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1180.85,
-      "discount_pct": 5,
-      "line_total": 2243.61
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 2,
-      "unit_price": 7562.33,
-      "discount_pct": 5,
-      "line_total": 14368.43
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 412.14,
-      "discount_pct": 10,
-      "line_total": 370.93
+      "line_total": 19406.19
     }
   ],
-  "subtotal": 319868.53,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 31986.85,
+  "subtotal": 84995.86,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 19549.05,
   "shipping_amount": 0.0,
-  "total_due": 351855.38,
-  "notes": "Please direct billing queries to our accounts department.",
+  "total_due": 104544.91,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
@@ -197,6 +85,6 @@
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

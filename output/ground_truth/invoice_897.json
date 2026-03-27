@@ -1,17 +1,17 @@
 {
   "id": 897,
   "filename": "invoice_897.pdf",
-  "layout_style": "ledger",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 4,
+  "layout_style": "modern",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 6,
   "invoice_number": "INVOICE-42539",
-  "issue_date": "January 04 2024",
-  "due_date": "11/01/2024",
-  "payment_terms": "Upon completion",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-68950",
+  "issue_date": "16/04/2022",
+  "due_date": "May 07 2022",
+  "payment_terms": "2/10 Net 30",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": null,
   "seller_name": "Cactus and Clay Designs",
   "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
   "seller_email": "accounts@cactusclay.com",
@@ -20,59 +20,108 @@
   "client_name": "Royal Palm Hotels",
   "client_address": "Beachfront Drive Miami FL 33139 USA",
   "client_email": "finance@royalpalmhotels.com",
-  "num_line_items": 4,
+  "num_line_items": 10,
   "line_items": [
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 133.68,
-      "discount_pct": 15,
-      "line_total": 113.63
-    },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1086.8,
-      "discount_pct": 0,
-      "line_total": 10868.0
+      "quantity": 5,
+      "unit_price": 2607.31,
+      "discount_pct": 10,
+      "line_total": 11732.9
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 25,
-      "unit_price": 536.91,
-      "discount_pct": 5,
-      "line_total": 12751.61
+      "quantity": 50,
+      "unit_price": 655.35,
+      "discount_pct": 10,
+      "line_total": 29490.75
     },
     {
       "description": "Catering Services",
       "unit": "head",
+      "quantity": 50,
+      "unit_price": 39.21,
+      "discount_pct": 5,
+      "line_total": 1862.47
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
       "quantity": 2,
-      "unit_price": 75.65,
+      "unit_price": 2195.98,
+      "discount_pct": 20,
+      "line_total": 3513.57
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 6113.65,
+      "discount_pct": 0,
+      "line_total": 152841.25
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 6359.88,
+      "discount_pct": 0,
+      "line_total": 12719.76
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 198.61,
+      "discount_pct": 5,
+      "line_total": 377.36
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 9528.63,
       "discount_pct": 10,
-      "line_total": 136.17
+      "line_total": 8575.77
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1030.55,
+      "discount_pct": 0,
+      "line_total": 3091.65
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 417.79,
+      "discount_pct": 15,
+      "line_total": 355.12
     }
   ],
-  "subtotal": 23869.41,
+  "subtotal": 224560.6,
   "tax_label": "HST 13pct",
   "tax_rate_pct": 13.0,
-  "tax_amount": 3103.02,
-  "shipping_amount": 0.0,
-  "total_due": 26972.43,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "tax_amount": 29192.88,
+  "shipping_amount": 222.16,
+  "total_due": 253975.64,
+  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": true,
+  "has_shipping": true,
+  "has_po_number": false,
   "has_tax": true
 }

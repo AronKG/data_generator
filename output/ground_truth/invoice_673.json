@@ -3,14 +3,14 @@
   "filename": "invoice_673.pdf",
   "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "complexity_tier": "simple",
+  "color_palette_index": 6,
   "invoice_number": "TAX-INV4350",
-  "issue_date": "2024-08-12",
-  "due_date": "September 11 2024",
-  "payment_terms": "End of Month",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
+  "issue_date": "07/28/2023",
+  "due_date": "12 August 2023",
+  "payment_terms": "Net 21",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
@@ -20,94 +20,34 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 9,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2452.62,
-      "discount_pct": 5,
-      "line_total": 2329.99
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 217.82,
-      "discount_pct": 5,
-      "line_total": 206.93
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 1,
-      "unit_price": 93.81,
-      "discount_pct": 5,
-      "line_total": 89.12
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 7352.27,
+      "quantity": 10,
+      "unit_price": 277.74,
       "discount_pct": 0,
-      "line_total": 7352.27
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 5,
-      "unit_price": 148.48,
-      "discount_pct": 0,
-      "line_total": 742.4
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1091.75,
-      "discount_pct": 0,
-      "line_total": 3275.25
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 180.18,
-      "discount_pct": 0,
-      "line_total": 900.9
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 2675.92,
-      "discount_pct": 10,
-      "line_total": 60208.2
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 668.94,
-      "discount_pct": 0,
-      "line_total": 1337.88
+      "line_total": 2777.4
     }
   ],
-  "subtotal": 76442.94,
+  "subtotal": 2777.4,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 6306.54,
+  "tax_amount": 229.14,
   "shipping_amount": 0.0,
-  "total_due": 82749.48,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": null,
+  "total_due": 3006.54,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

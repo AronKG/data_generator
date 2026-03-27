@@ -1,0 +1,79 @@
+{
+  "id": 11,
+  "filename": "invoice_011.pdf",
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
+  "invoice_number": "REF/2023/53360",
+  "issue_date": "14 April 2023",
+  "due_date": "28/04/2023",
+  "payment_terms": "Upon completion",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-38279",
+  "seller_name": "Fjord Analytics AS",
+  "seller_address": "Drammensveien 60 0271 Oslo Norway",
+  "seller_email": "faktura@fjordanalytics.no",
+  "seller_phone": "+47 22 00 11 22",
+  "seller_tax_id": "Org.nr: 999888777",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 3,
+      "unit_price": 7773.94,
+      "discount_pct": 20,
+      "line_total": 18657.46
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 2579.08,
+      "discount_pct": 15,
+      "line_total": 6576.65
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1903.54,
+      "discount_pct": 0,
+      "line_total": 1903.54
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 994.51,
+      "discount_pct": 5,
+      "line_total": 944.78
+    }
+  ],
+  "subtotal": 28082.43,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 4212.36,
+  "shipping_amount": 0.0,
+  "total_due": 32294.79,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

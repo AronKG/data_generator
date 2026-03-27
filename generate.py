@@ -193,6 +193,9 @@ DATE_FORMATS     = ["%d %B %Y","%B %d %Y","%d/%m/%Y","%m/%d/%Y","%Y-%m-%d","%d-%
 PAGE_SIZES       = {"A4": A4, "letter": letter}
 INV_PREFIXES     = ["INV","INVOICE","SI","TAX-INV","BILL","REF","PROFORMA","RCPT"]
 
+SELLER_LAYOUT_MAP_SEED = 2026
+SECONDARY_TEMPLATE_PROB = 0.35
+
 # ── CRITICAL FIX 1: fmt_money always symbol-first, no trailing variant ────────
 def fmt_money(amount, sym):
     return f"{sym}{amount:,.2f}"
@@ -246,12 +249,31 @@ def balanced_seq(pool, n, weights=None):
     random.shuffle(seq)
     return seq
 
+
+def build_seller_layout_map(companies, layouts, seed=SELLER_LAYOUT_MAP_SEED,
+                            secondary_template_prob=SECONDARY_TEMPLATE_PROB):
+    """Assign each seller 1 primary template and optionally 1 secondary template."""
+    rng = random.Random(seed)
+    mapping = {}
+    for company in companies:
+        seller_name = company[0]
+        primary = rng.choice(layouts)
+        allowed = [primary]
+
+        if rng.random() < secondary_template_prob:
+            alternatives = [l for l in layouts if l != primary]
+            allowed.append(rng.choice(alternatives))
+
+        mapping[seller_name] = tuple(allowed)
+    return mapping
+
 # ── Data builder ──────────────────────────────────────────────────────────────
-def build(idx, layout, complexity, cur_idx, ps_name, pal_idx):
+def build(idx, complexity, cur_idx, ps_name, pal_idx, seller_layout_map):
     rng = random.Random(idx * 9999 + 7)
 
     seller   = rng.choice(COMPANIES)
     client   = rng.choice(CLIENTS)
+    layout   = rng.choice(seller_layout_map[seller[0]])
     cur, sym = CURRENCIES[cur_idx]
     pal      = PALETTES[pal_idx]
 
@@ -438,6 +460,22 @@ def draw_table(c, d, x, y, width, row_h=0.65*cm, fs=8.5):
         else:
             c.drawString(x,y,line)
     return y
+
+
+def estimate_table_height(d, row_h=0.65*cm):
+    """Estimate vertical space consumed by draw_table for overflow-safe layout decisions."""
+    header_h = row_h * 1.1
+    items_h = len(d["line_items"]) * row_h
+    summary_rows = 2 + int(d["has_tax"]) + int(d["has_shipping"])
+    summary_h = summary_rows * row_h
+
+    extra_h = 0.6 * cm  # separator + base spacing
+    if d["notes"]:
+        extra_h += 0.45 * cm
+    if d["bank_details"]:
+        extra_h += 0.85 * cm
+
+    return header_h + items_h + summary_h + extra_h
 
 # ── Meta info block (currency + PO always shown) ──────────────────────────────
 def draw_meta(c, d, x, y, fs=9):
@@ -775,7 +813,28 @@ def r_formal(c,d,W,H):
     c.setFont("Helvetica-Bold",9); c.drawString(m*1.5,H-6.8*cm,"BILL TO:")
     c.setFont("Helvetica",9)
     c.drawString(m*1.5,H-7.3*cm,d["client_name"]); c.drawString(m*1.5,H-7.8*cm,d["client_address"]); c.drawString(m*1.5,H-8.3*cm,d["client_email"])
-    draw_table(c,d,m*1.5,H-9.5*cm,W-3*m)
+
+    table_x = m * 1.5
+    table_y = H - 9.5 * cm
+    table_w = W - 3 * m
+    footer_y = m * 1.2
+    bottom_safe = footer_y + 1.0 * cm
+    available_h = table_y - bottom_safe
+
+    compact_opts = [
+        (0.65 * cm, 8.5),
+        (0.60 * cm, 8.0),
+        (0.55 * cm, 7.6),
+        (0.50 * cm, 7.2),
+        (0.45 * cm, 6.8),
+    ]
+    chosen_row_h, chosen_fs = compact_opts[-1]
+    for row_h, fs in compact_opts:
+        if estimate_table_height(d, row_h=row_h) <= available_h:
+            chosen_row_h, chosen_fs = row_h, fs
+            break
+
+    draw_table(c, d, table_x, table_y, table_w, row_h=chosen_row_h, fs=chosen_fs)
     c.setFont("Helvetica",8); c.setFillColor(colors.HexColor("#666"))
     sy=m*1.2; c.line(m*1.5,sy,m*1.5+5*cm,sy); c.drawString(m*1.5,sy-0.4*cm,"Authorised Signature")
     c.line(W-m*1.5-5*cm,sy,W-m*1.5,sy); c.drawRightString(W-m*1.5,sy-0.4*cm,"Date")
@@ -855,7 +914,6 @@ def main():
 
     # ── Balanced sequences ────────────────────────────────────────────────────
     random.seed(42)
-    LAYOUTS      = balanced_seq(LAYOUT_STYLES, N)
     COMPLEXITIES = balanced_seq(COMPLEXITY_TIERS, N,
                                 weights=[45/200, 60/200, 57/200, 38/200])
     CUR_IDXS     = balanced_seq(list(range(len(CURRENCIES))), N,
@@ -864,6 +922,7 @@ def main():
     PS_NAMES     = balanced_seq(["A4","letter"], N,
                                 weights=[115/200, 85/200])
     PAL_IDXS     = balanced_seq(list(range(len(PALETTES))), N)
+    seller_layout_map = build_seller_layout_map(COMPANIES, LAYOUT_STYLES)
 
     os.makedirs(args.pdf_dir, exist_ok=True)
     os.makedirs(args.gt_dir,  exist_ok=True)
@@ -872,8 +931,8 @@ def main():
 
     for si in range(N):
         idx = si + 1
-        d   = build(idx, LAYOUTS[si], COMPLEXITIES[si],
-                    CUR_IDXS[si], PS_NAMES[si], PAL_IDXS[si])
+        d   = build(idx, COMPLEXITIES[si], CUR_IDXS[si],
+                    PS_NAMES[si], PAL_IDXS[si], seller_layout_map)
 
         # ── Write PDF ─────────────────────────────────────────────────────────
         W, H = d["_ps"]

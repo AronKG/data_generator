@@ -1,17 +1,17 @@
 {
   "id": 506,
   "filename": "invoice_506.pdf",
-  "layout_style": "minimal",
+  "layout_style": "classic",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "complexity_tier": "simple",
+  "color_palette_index": 8,
   "invoice_number": "2022-25290",
-  "issue_date": "23-Apr-2022",
-  "due_date": "23-May-2022",
+  "issue_date": "2023-08-30",
+  "due_date": "10/29/2023",
   "payment_terms": "Cash on Delivery",
   "currency": "CAD",
   "currency_symbol": "CA$",
-  "po_number": null,
+  "po_number": "PO-72638",
   "seller_name": "Mirage Productions FZ-LLC",
   "seller_address": "Dubai Studio City Dubai UAE",
   "seller_email": "accounts@mirageproductions.ae",
@@ -20,64 +20,24 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 6,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1361.06,
-      "discount_pct": 10,
-      "line_total": 30623.85
-    },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 10,
-      "unit_price": 1216.77,
+      "quantity": 25,
+      "unit_price": 735.89,
       "discount_pct": 0,
-      "line_total": 12167.7
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 6240.5,
-      "discount_pct": 15,
-      "line_total": 5304.43
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 138.17,
-      "discount_pct": 20,
-      "line_total": 5526.8
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4778.27,
-      "discount_pct": 5,
-      "line_total": 4539.36
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 515.57,
-      "discount_pct": 5,
-      "line_total": 24489.58
+      "line_total": 18397.25
     }
   ],
-  "subtotal": 82651.72,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 5785.62,
+  "subtotal": 18397.25,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 4231.37,
   "shipping_amount": 0.0,
-  "total_due": 88437.34,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 22628.62,
+  "notes": "Please retain this invoice for your accounting records.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
@@ -85,6 +45,6 @@
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

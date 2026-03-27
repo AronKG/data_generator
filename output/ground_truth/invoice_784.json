@@ -1,17 +1,17 @@
 {
   "id": 784,
   "filename": "invoice_784.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "layout_style": "compact",
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 4,
   "invoice_number": "2022-68180",
-  "issue_date": "2024-02-05",
-  "due_date": "26-Feb-2024",
-  "payment_terms": "30 days from delivery",
+  "issue_date": "December 06 2024",
+  "due_date": "27-Dec-2024",
+  "payment_terms": "Due on Receipt",
   "currency": "AUD",
   "currency_symbol": "A$",
-  "po_number": null,
+  "po_number": "PO-78238",
   "seller_name": "StellarPrint Studios",
   "seller_address": "40 Printers Row Chicago IL 60605 USA",
   "seller_email": "invoices@stellarprint.com",
@@ -20,45 +20,85 @@
   "client_name": "Atlas Global Shipping",
   "client_address": "Freihafenstr 10 20457 Hamburg Germany",
   "client_email": "rechnungen@atlasglobal.de",
-  "num_line_items": 3,
+  "num_line_items": 8,
   "line_items": [
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1602.77,
-      "discount_pct": 0,
-      "line_total": 16027.7
+      "quantity": 1,
+      "unit_price": 1113.85,
+      "discount_pct": 10,
+      "line_total": 1002.46
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 478.29,
+      "discount_pct": 5,
+      "line_total": 22718.77
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 5,
-      "unit_price": 308.98,
+      "quantity": 1,
+      "unit_price": 212.58,
       "discount_pct": 0,
-      "line_total": 1544.9
+      "line_total": 212.58
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 2,
-      "unit_price": 418.34,
+      "quantity": 50,
+      "unit_price": 478.18,
       "discount_pct": 0,
-      "line_total": 836.68
+      "line_total": 23909.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 5,
+      "unit_price": 84.07,
+      "discount_pct": 10,
+      "line_total": 378.31
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 735.45,
+      "discount_pct": 5,
+      "line_total": 3493.39
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 371.62,
+      "discount_pct": 0,
+      "line_total": 371.62
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 7925.46,
+      "discount_pct": 0,
+      "line_total": 23776.38
     }
   ],
-  "subtotal": 18409.28,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
+  "subtotal": 75862.51,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 9862.13,
   "shipping_amount": 0.0,
-  "total_due": 18409.28,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "total_due": 85724.64,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
   "has_discount_column": false,
@@ -66,6 +106,6 @@
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": false
+  "has_po_number": true,
+  "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 832,
   "filename": "invoice_832.pdf",
-  "layout_style": "modern",
+  "layout_style": "formal",
   "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 4,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 3,
   "invoice_number": "PROFORMA/2025/93730",
-  "issue_date": "2024-03-23",
-  "due_date": "2024-05-07",
-  "payment_terms": "30 days from delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
-  "po_number": "PO-24070",
+  "issue_date": "November 11 2023",
+  "due_date": "2023-12-26",
+  "payment_terms": "Net 45",
+  "currency": "EUR",
+  "currency_symbol": "€",
+  "po_number": null,
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,39 +20,151 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 2,
+  "num_line_items": 16,
   "line_items": [
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 611.14,
-      "discount_pct": 0,
-      "line_total": 1222.28
-    },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4864.32,
+      "quantity": 50,
+      "unit_price": 4194.73,
       "discount_pct": 0,
-      "line_total": 14592.96
+      "line_total": 209736.5
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 31.32,
+      "discount_pct": 10,
+      "line_total": 28.19
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1181.72,
+      "discount_pct": 0,
+      "line_total": 1181.72
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 419.26,
+      "discount_pct": 15,
+      "line_total": 1781.86
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 3,
+      "unit_price": 581.51,
+      "discount_pct": 20,
+      "line_total": 1395.62
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3998.03,
+      "discount_pct": 0,
+      "line_total": 199901.5
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 3,
+      "unit_price": 2940.59,
+      "discount_pct": 20,
+      "line_total": 7057.42
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 1238.03,
+      "discount_pct": 10,
+      "line_total": 5571.14
+    },
+    {
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 19044.24,
+      "discount_pct": 0,
+      "line_total": 57132.72
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1416.9,
+      "discount_pct": 0,
+      "line_total": 7084.5
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1974.57,
+      "discount_pct": 10,
+      "line_total": 1777.11
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 59.76,
+      "discount_pct": 0,
+      "line_total": 59.76
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1885.73,
+      "discount_pct": 0,
+      "line_total": 1885.73
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 18267.44,
+      "discount_pct": 10,
+      "line_total": 82203.48
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 483.13,
+      "discount_pct": 15,
+      "line_total": 410.66
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 4682.3,
+      "discount_pct": 0,
+      "line_total": 117057.5
     }
   ],
-  "subtotal": 15815.24,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 3004.9,
+  "subtotal": 694265.41,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 159681.04,
   "shipping_amount": 0.0,
-  "total_due": 18820.14,
-  "notes": "This document is strictly private and confidential.",
+  "total_due": 853946.45,
+  "notes": null,
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": true,
+  "has_po_number": false,
   "has_tax": true
 }

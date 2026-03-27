@@ -1,17 +1,17 @@
 {
   "id": 761,
   "filename": "invoice_761.pdf",
-  "layout_style": "minimal",
+  "layout_style": "formal",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
   "invoice_number": "019729",
-  "issue_date": "January 17 2024",
-  "due_date": "07-Feb-2024",
-  "payment_terms": "Upon completion",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": "PO-48426",
+  "issue_date": "11/02/2023",
+  "due_date": "2023-02-25",
+  "payment_terms": "Cash on Delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-46408",
   "seller_name": "Quantum Leaf Labs",
   "seller_address": "500 Terry Francois Blvd San Francisco CA 94158",
   "seller_email": "billing@quantumleaf.io",
@@ -20,52 +20,127 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 3,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 50,
-      "unit_price": 435.69,
-      "discount_pct": 0,
-      "line_total": 21784.5
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 16552.86,
-      "discount_pct": 0,
-      "line_total": 49658.58
-    },
     {
       "description": "Export Documentation",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 256.99,
+      "unit_price": 220.47,
+      "discount_pct": 10,
+      "line_total": 198.42
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 18655.85,
       "discount_pct": 0,
-      "line_total": 256.99
+      "line_total": 93279.25
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 750.68,
+      "discount_pct": 0,
+      "line_total": 750.68
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1591.26,
+      "discount_pct": 10,
+      "line_total": 35803.35
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 886.9,
+      "discount_pct": 0,
+      "line_total": 22172.5
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 28748.62,
+      "discount_pct": 20,
+      "line_total": 1149944.8
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 138.7,
+      "discount_pct": 15,
+      "line_total": 2947.37
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1570.64,
+      "discount_pct": 0,
+      "line_total": 4711.92
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 6481.86,
+      "discount_pct": 0,
+      "line_total": 19445.58
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 286.52,
+      "discount_pct": 5,
+      "line_total": 2721.94
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3812.75,
+      "discount_pct": 20,
+      "line_total": 3050.2
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 909.42,
+      "discount_pct": 5,
+      "line_total": 8639.49
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1999.56,
+      "discount_pct": 0,
+      "line_total": 99978.0
     }
   ],
-  "subtotal": 71700.07,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 13623.01,
+  "subtotal": 1443643.5,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 85323.08,
-  "notes": "Please direct billing queries to our accounts department.",
-  "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
-  },
+  "total_due": 1443643.5,
+  "notes": "This document is strictly private and confidential.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
+  "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": true,
-  "has_tax": true
+  "has_tax": false
 }

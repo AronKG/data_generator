@@ -1,16 +1,16 @@
 {
   "id": 969,
   "filename": "invoice_969.pdf",
-  "layout_style": "compact",
+  "layout_style": "classic",
   "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 9,
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
   "invoice_number": "BILL-2025-11288",
-  "issue_date": "10/20/2024",
-  "due_date": "19-Nov-2024",
-  "payment_terms": "Due on Receipt",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "2023-08-02",
+  "due_date": "01/10/2023",
+  "payment_terms": "Net 15",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
@@ -20,130 +20,49 @@
   "client_name": "Brightside Retailers",
   "client_address": "99 Commerce Blvd Austin TX 78701 USA",
   "client_email": "ap@brightsideretail.com",
-  "num_line_items": 13,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 3,
-      "unit_price": 138.49,
-      "discount_pct": 10,
-      "line_total": 373.92
-    },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 614.26,
-      "discount_pct": 10,
-      "line_total": 552.83
+      "unit_price": 335.32,
+      "discount_pct": 0,
+      "line_total": 335.32
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 3,
-      "unit_price": 21.15,
-      "discount_pct": 15,
-      "line_total": 53.93
+      "quantity": 1,
+      "unit_price": 117.78,
+      "discount_pct": 0,
+      "line_total": 117.78
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 2,
-      "unit_price": 292.18,
-      "discount_pct": 10,
-      "line_total": 525.92
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 10,
-      "unit_price": 256.82,
-      "discount_pct": 20,
-      "line_total": 2054.56
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 2,
-      "unit_price": 3070.44,
-      "discount_pct": 20,
-      "line_total": 4912.7
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 96.59,
-      "discount_pct": 0,
-      "line_total": 96.59
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
       "quantity": 25,
-      "unit_price": 14949.6,
+      "unit_price": 123.11,
       "discount_pct": 0,
-      "line_total": 373740.0
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2185.36,
-      "discount_pct": 5,
-      "line_total": 2076.09
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 508.73,
-      "discount_pct": 15,
-      "line_total": 864.84
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 212.16,
-      "discount_pct": 0,
-      "line_total": 212.16
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 4086.14,
-      "discount_pct": 0,
-      "line_total": 102153.5
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 399.84,
-      "discount_pct": 10,
-      "line_total": 359.86
+      "line_total": 3077.75
     }
   ],
-  "subtotal": 487976.9,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 40258.09,
+  "subtotal": 3530.85,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 529.63,
   "shipping_amount": 0.0,
-  "total_due": 528234.99,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "total_due": 4060.48,
+  "notes": null,
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

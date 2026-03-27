@@ -1,17 +1,17 @@
 {
   "id": 498,
   "filename": "invoice_498.pdf",
-  "layout_style": "sidebar",
-  "page_size": "letter",
+  "layout_style": "formal",
+  "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 10,
+  "color_palette_index": 12,
   "invoice_number": "TAX-INV/2024/71529",
-  "issue_date": "July 22 2023",
-  "due_date": "August 12 2023",
-  "payment_terms": "End of Month",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-25856",
+  "issue_date": "03/09/2023",
+  "due_date": "2023-03-24",
+  "payment_terms": "Net 21",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": null,
   "seller_name": "Desert Bloom LLC",
   "seller_address": "9001 E Camelback Rd Scottsdale AZ 85251 USA",
   "seller_email": "invoices@desertbloom.com",
@@ -20,59 +20,52 @@
   "client_name": "Helix Biotech Corp.",
   "client_address": "One Kendall Sq Cambridge MA 02139 USA",
   "client_email": "ap@helixbiotech.com",
-  "num_line_items": 4,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 355.9,
-      "discount_pct": 10,
-      "line_total": 640.62
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1330.73,
+      "quantity": 2,
+      "unit_price": 781.49,
       "discount_pct": 0,
-      "line_total": 6653.65
+      "line_total": 1562.98
     },
     {
       "description": "Translation Services",
       "unit": "pg",
-      "quantity": 1,
-      "unit_price": 91.58,
+      "quantity": 5,
+      "unit_price": 105.38,
       "discount_pct": 0,
-      "line_total": 91.58
+      "line_total": 526.9
     },
     {
       "description": "Software Dev",
       "unit": "hr",
       "quantity": 3,
-      "unit_price": 159.83,
+      "unit_price": 227.52,
       "discount_pct": 0,
-      "line_total": 479.49
+      "line_total": 682.56
     }
   ],
-  "subtotal": 7865.34,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 471.92,
+  "subtotal": 2772.44,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 8337.26,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
+  "total_due": 2772.44,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
   },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
+  "has_discount_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
+  "has_po_number": false,
+  "has_tax": false
 }

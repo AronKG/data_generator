@@ -1,17 +1,17 @@
 {
   "id": 552,
   "filename": "invoice_552.pdf",
-  "layout_style": "formal",
+  "layout_style": "bold_header",
   "page_size": "A4",
-  "complexity_tier": "simple",
-  "color_palette_index": 2,
+  "complexity_tier": "medium",
+  "color_palette_index": 14,
   "invoice_number": "015906",
-  "issue_date": "07/12/2023",
-  "due_date": "14 December 2023",
-  "payment_terms": "Net 60",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "December 10 2024",
+  "due_date": "17-Dec-2024",
+  "payment_terms": "Immediate",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "po_number": "PO-47558",
   "seller_name": "Cobalt Digital Studio",
   "seller_address": "9F Tower 2 Times Square Causeway Bay HK",
   "seller_email": "studio@cobaltdigital.hk",
@@ -20,43 +20,67 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 2,
+  "num_line_items": 5,
   "line_items": [
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 1964.11,
-      "discount_pct": 0,
-      "line_total": 5892.33
+      "quantity": 1,
+      "unit_price": 1265.36,
+      "discount_pct": 20,
+      "line_total": 1012.29
     },
     {
       "description": "Security Services",
       "unit": "day",
       "quantity": 50,
-      "unit_price": 995.49,
+      "unit_price": 506.34,
+      "discount_pct": 15,
+      "line_total": 21519.45
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 3951.51,
       "discount_pct": 0,
-      "line_total": 49774.5
+      "line_total": 197575.5
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 340.67,
+      "discount_pct": 15,
+      "line_total": 289.57
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 75.28,
+      "discount_pct": 0,
+      "line_total": 75.28
     }
   ],
-  "subtotal": 55666.83,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 2783.34,
+  "subtotal": 220472.09,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 18188.95,
   "shipping_amount": 0.0,
-  "total_due": 58450.17,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 238661.04,
+  "notes": null,
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

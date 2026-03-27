@@ -2,15 +2,15 @@
   "id": 352,
   "filename": "invoice_352.pdf",
   "layout_style": "compact",
-  "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 12,
+  "page_size": "A4",
+  "complexity_tier": "complex",
+  "color_palette_index": 10,
   "invoice_number": "INV-2024-50101",
-  "issue_date": "02 July 2024",
-  "due_date": "01/08/2024",
-  "payment_terms": "30 days from delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "2023-09-25",
+  "due_date": "16/10/2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "USD",
+  "currency_symbol": "$",
   "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
@@ -20,32 +20,104 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 1,
+  "num_line_items": 10,
   "line_items": [
     {
-      "description": "Video Production",
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 111.99,
+      "discount_pct": 0,
+      "line_total": 111.99
+    },
+    {
+      "description": "SEO Optimization",
       "unit": "ea",
       "quantity": 25,
-      "unit_price": 7763.25,
+      "unit_price": 622.41,
+      "discount_pct": 15,
+      "line_total": 13226.21
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 3134.44,
       "discount_pct": 0,
-      "line_total": 194081.25
+      "line_total": 3134.44
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 153.78,
+      "discount_pct": 15,
+      "line_total": 653.56
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 6983.8,
+      "discount_pct": 0,
+      "line_total": 174595.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 93.89,
+      "discount_pct": 15,
+      "line_total": 79.81
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 47724.64,
+      "discount_pct": 0,
+      "line_total": 477246.4
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 2868.73,
+      "discount_pct": 20,
+      "line_total": 114749.2
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 710.51,
+      "discount_pct": 20,
+      "line_total": 28420.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 25,
+      "unit_price": 1240.72,
+      "discount_pct": 0,
+      "line_total": 31018.0
     }
   ],
-  "subtotal": 194081.25,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 36875.44,
+  "subtotal": 843235.01,
+  "tax_label": "HST 13pct",
+  "tax_rate_pct": 13.0,
+  "tax_amount": 109620.55,
   "shipping_amount": 0.0,
-  "total_due": 230956.69,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "total_due": 952855.56,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

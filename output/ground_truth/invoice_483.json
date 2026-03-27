@@ -1,17 +1,17 @@
 {
   "id": 483,
   "filename": "invoice_483.pdf",
-  "layout_style": "compact",
-  "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 1,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 12,
   "invoice_number": "PROFORMA-11747",
-  "issue_date": "2024-02-22",
-  "due_date": "2024-04-22",
-  "payment_terms": "Immediate",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "04/18/2024",
+  "due_date": "2024-06-02",
+  "payment_terms": "End of Month",
+  "currency": "CAD",
+  "currency_symbol": "CA$",
+  "po_number": "PO-62161",
   "seller_name": "Cactus and Clay Designs",
   "seller_address": "4501 N Central Ave Phoenix AZ 85012 USA",
   "seller_email": "accounts@cactusclay.com",
@@ -20,67 +20,156 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 5,
+  "num_line_items": 16,
   "line_items": [
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 252.64,
-      "discount_pct": 20,
-      "line_total": 5052.8
-    },
     {
       "description": "Digital Marketing",
       "unit": "ea",
       "quantity": 2,
-      "unit_price": 4576.49,
-      "discount_pct": 15,
-      "line_total": 7780.03
+      "unit_price": 6052.09,
+      "discount_pct": 0,
+      "line_total": 12104.18
     },
     {
       "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1680.44,
-      "discount_pct": 15,
-      "line_total": 4285.12
+      "quantity": 1,
+      "unit_price": 501.82,
+      "discount_pct": 0,
+      "line_total": 501.82
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 11160.32,
-      "discount_pct": 15,
-      "line_total": 9486.27
+      "quantity": 10,
+      "unit_price": 3118.72,
+      "discount_pct": 10,
+      "line_total": 28068.48
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
+      "quantity": 2,
+      "unit_price": 255.93,
+      "discount_pct": 10,
+      "line_total": 460.67
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
       "quantity": 1,
-      "unit_price": 84.0,
+      "unit_price": 5193.15,
+      "discount_pct": 10,
+      "line_total": 4673.84
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 2,
+      "unit_price": 603.7,
+      "discount_pct": 0,
+      "line_total": 1207.4
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 197.12,
+      "discount_pct": 10,
+      "line_total": 887.04
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3252.11,
+      "discount_pct": 0,
+      "line_total": 162605.5
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 1,
+      "unit_price": 134.89,
+      "discount_pct": 20,
+      "line_total": 107.91
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1931.35,
+      "discount_pct": 5,
+      "line_total": 5504.35
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1023.16,
+      "discount_pct": 0,
+      "line_total": 3069.48
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 87.72,
+      "discount_pct": 5,
+      "line_total": 83.33
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 444.88,
       "discount_pct": 15,
-      "line_total": 71.4
+      "line_total": 1890.74
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 7530.62,
+      "discount_pct": 0,
+      "line_total": 37653.1
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 18194.59,
+      "discount_pct": 20,
+      "line_total": 145556.72
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 262.03,
+      "discount_pct": 15,
+      "line_total": 2227.25
     }
   ],
-  "subtotal": 26675.62,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 5335.12,
-  "shipping_amount": 0.0,
-  "total_due": 32010.74,
-  "notes": "Please direct billing queries to our accounts department.",
+  "subtotal": 406601.81,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 20330.09,
+  "shipping_amount": 279.24,
+  "total_due": 427211.14,
+  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
   "bank_details": {
-    "Bank": "Emirates NBD",
-    "IBAN": "AE070331234567890123456",
-    "SWIFT": "EBILAEAD"
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": false,
-  "has_po_number": false,
+  "has_shipping": true,
+  "has_po_number": true,
   "has_tax": true
 }

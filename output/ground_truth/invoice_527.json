@@ -1,16 +1,16 @@
 {
   "id": 527,
   "filename": "invoice_527.pdf",
-  "layout_style": "formal",
+  "layout_style": "sidebar",
   "page_size": "letter",
-  "complexity_tier": "simple",
-  "color_palette_index": 6,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 2,
   "invoice_number": "RCPT-2024-71695",
-  "issue_date": "17/01/2022",
-  "due_date": "07 February 2022",
-  "payment_terms": "End of Month",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "issue_date": "08/04/2023",
+  "due_date": "2023-04-15",
+  "payment_terms": "Cash on Delivery",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Tesseract Labs",
   "seller_address": "2001 Infinite Loop Cupertino CA 95014 USA",
@@ -20,31 +20,228 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 1,
+  "num_line_items": 25,
   "line_items": [
     {
       "description": "Video Production",
       "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8428.57,
+      "discount_pct": 15,
+      "line_total": 7164.28
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
       "quantity": 10,
-      "unit_price": 4777.71,
+      "unit_price": 82.95,
       "discount_pct": 0,
-      "line_total": 47777.1
+      "line_total": 829.5
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 482.02,
+      "discount_pct": 0,
+      "line_total": 482.02
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 289.4,
+      "discount_pct": 0,
+      "line_total": 14470.0
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 421.82,
+      "discount_pct": 10,
+      "line_total": 1138.91
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 8391.07,
+      "discount_pct": 0,
+      "line_total": 419553.5
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 4212.32,
+      "discount_pct": 15,
+      "line_total": 3580.47
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1906.65,
+      "discount_pct": 15,
+      "line_total": 3241.31
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 225.34,
+      "discount_pct": 0,
+      "line_total": 225.34
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 3708.52,
+      "discount_pct": 0,
+      "line_total": 18542.6
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 684.45,
+      "discount_pct": 0,
+      "line_total": 3422.25
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 6819.25,
+      "discount_pct": 20,
+      "line_total": 5455.4
+    },
+    {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1054.72,
+      "discount_pct": 0,
+      "line_total": 1054.72
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 371.01,
+      "discount_pct": 5,
+      "line_total": 352.46
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 959.13,
+      "discount_pct": 0,
+      "line_total": 4795.65
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 117.07,
+      "discount_pct": 0,
+      "line_total": 117.07
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 2350.59,
+      "discount_pct": 20,
+      "line_total": 3760.94
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 711.48,
+      "discount_pct": 15,
+      "line_total": 1814.27
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 377.56,
+      "discount_pct": 0,
+      "line_total": 1132.68
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1127.98,
+      "discount_pct": 0,
+      "line_total": 2255.96
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1089.41,
+      "discount_pct": 0,
+      "line_total": 1089.41
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 51.2,
+      "discount_pct": 10,
+      "line_total": 46.08
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 2771.6,
+      "discount_pct": 0,
+      "line_total": 8314.8
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 1035.06,
+      "discount_pct": 15,
+      "line_total": 2639.4
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 845.0,
+      "discount_pct": 5,
+      "line_total": 40137.5
     }
   ],
-  "subtotal": 47777.1,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 3941.61,
-  "shipping_amount": 0.0,
-  "total_due": 51718.71,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
-  "bank_details": null,
+  "subtotal": 545616.52,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 54561.65,
+  "shipping_amount": 227.84,
+  "total_due": 600406.01,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Chase Bank",
+    "Account": "1234567890",
+    "Routing": "021000021",
+    "SWIFT": "CHASUS33"
+  },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
-  "has_shipping": false,
+  "has_discount_column": true,
+  "has_unit_column": false,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

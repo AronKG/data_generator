@@ -1,17 +1,17 @@
 {
   "id": 313,
   "filename": "invoice_313.pdf",
-  "layout_style": "creative",
+  "layout_style": "sidebar",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 3,
+  "complexity_tier": "complex",
+  "color_palette_index": 8,
   "invoice_number": "INVOICE-2023-77373",
-  "issue_date": "2024-07-07",
-  "due_date": "2024-07-21",
-  "payment_terms": "Net 21",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": null,
+  "issue_date": "01/06/2022",
+  "due_date": "30 August 2022",
+  "payment_terms": "Immediate",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-63571",
   "seller_name": "Greenleaf Organics",
   "seller_address": "Farm Road 7 Burlington VT 05401 USA",
   "seller_email": "orders@greenleaforganics.com",
@@ -20,196 +20,115 @@
   "client_name": "Summit Real Estate Advisors",
   "client_address": "101 Collins St Melbourne VIC 3000 Australia",
   "client_email": "finance@summitrea.com.au",
-  "num_line_items": 21,
+  "num_line_items": 11,
   "line_items": [
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 2,
-      "unit_price": 422.38,
-      "discount_pct": 0,
-      "line_total": 844.76
-    },
     {
       "description": "Consulting Day Rate",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 2589.89,
+      "quantity": 5,
+      "unit_price": 2238.95,
       "discount_pct": 0,
-      "line_total": 64747.25
+      "line_total": 11194.75
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 25,
-      "unit_price": 119.32,
+      "unit_price": 93.71,
       "discount_pct": 0,
-      "line_total": 2983.0
+      "line_total": 2342.75
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 544.21,
+      "quantity": 25,
+      "unit_price": 262.5,
       "discount_pct": 0,
-      "line_total": 544.21
+      "line_total": 6562.5
     },
     {
       "description": "Print Materials",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 221.12,
+      "quantity": 5,
+      "unit_price": 584.95,
       "discount_pct": 10,
-      "line_total": 597.02
+      "line_total": 2632.28
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 18705.82,
+      "discount_pct": 20,
+      "line_total": 14964.66
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 3,
-      "unit_price": 123.71,
-      "discount_pct": 15,
-      "line_total": 315.46
+      "quantity": 25,
+      "unit_price": 248.83,
+      "discount_pct": 0,
+      "line_total": 6220.75
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 10351.35,
-      "discount_pct": 5,
-      "line_total": 98337.82
+      "quantity": 1,
+      "unit_price": 17706.42,
+      "discount_pct": 0,
+      "line_total": 17706.42
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 1242.02,
+      "quantity": 3,
+      "unit_price": 992.39,
       "discount_pct": 10,
-      "line_total": 2235.64
+      "line_total": 2679.45
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 721.7,
-      "discount_pct": 10,
-      "line_total": 16238.25
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 698.86,
+      "discount_pct": 15,
+      "line_total": 1782.09
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1982.03,
-      "discount_pct": 0,
-      "line_total": 1982.03
+      "quantity": 10,
+      "unit_price": 1696.13,
+      "discount_pct": 5,
+      "line_total": 16113.24
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2548.46,
+      "quantity": 2,
+      "unit_price": 745.21,
       "discount_pct": 10,
-      "line_total": 22936.14
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 75.82,
-      "discount_pct": 5,
-      "line_total": 360.14
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 50,
-      "unit_price": 1959.19,
-      "discount_pct": 0,
-      "line_total": 97959.5
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 7998.76,
-      "discount_pct": 15,
-      "line_total": 6798.95
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 2442.56,
-      "discount_pct": 5,
-      "line_total": 23204.32
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3626.65,
-      "discount_pct": 0,
-      "line_total": 3626.65
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 14440.21,
-      "discount_pct": 5,
-      "line_total": 68591.0
-    },
-    {
-      "description": "Office Supplies",
-      "unit": "lot",
-      "quantity": 25,
-      "unit_price": 1275.29,
-      "discount_pct": 0,
-      "line_total": 31882.25
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 248.03,
-      "discount_pct": 20,
-      "line_total": 9921.2
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 5,
-      "unit_price": 45.73,
-      "discount_pct": 0,
-      "line_total": 228.65
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3726.63,
-      "discount_pct": 15,
-      "line_total": 3167.64
+      "line_total": 1341.38
     }
   ],
-  "subtotal": 457501.88,
+  "subtotal": 83540.27,
   "tax_label": "VAT 21pct",
   "tax_rate_pct": 21.0,
-  "tax_amount": 96075.39,
+  "tax_amount": 17543.46,
   "shipping_amount": 0.0,
-  "total_due": 553577.27,
-  "notes": null,
+  "total_due": 101083.73,
+  "notes": "This document is strictly private and confidential.",
   "bank_details": {
-    "Bank": "Handelsbanken",
-    "Account": "123 456 789",
-    "Clearing": "6000",
-    "IBAN": "SE4560000000012345678901"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": false,
+  "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

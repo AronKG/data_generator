@@ -1,17 +1,17 @@
 {
   "id": 633,
   "filename": "invoice_633.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 14,
+  "color_palette_index": 0,
   "invoice_number": "2024-92701",
-  "issue_date": "11/09/2022",
-  "due_date": "09/26/2022",
+  "issue_date": "08/10/2022",
+  "due_date": "01/06/2023",
   "payment_terms": "Net 15",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": null,
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-40300",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,71 +20,51 @@
   "client_name": "Luxe Fashion Collective",
   "client_address": "550 Seventh Ave New York NY 10018 USA",
   "client_email": "ap@luxefashion.com",
-  "num_line_items": 6,
+  "num_line_items": 3,
   "line_items": [
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 9345.63,
-      "discount_pct": 0,
-      "line_total": 9345.63
-    },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 3,
-      "unit_price": 2887.45,
-      "discount_pct": 20,
-      "line_total": 6929.88
+      "quantity": 10,
+      "unit_price": 5621.24,
+      "discount_pct": 0,
+      "line_total": 56212.4
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 1,
-      "unit_price": 56.64,
-      "discount_pct": 15,
-      "line_total": 48.14
+      "unit_price": 78.68,
+      "discount_pct": 0,
+      "line_total": 78.68
     },
     {
       "description": "Software License",
       "unit": "seat",
-      "quantity": 1,
-      "unit_price": 5283.52,
-      "discount_pct": 0,
-      "line_total": 5283.52
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
       "quantity": 5,
-      "unit_price": 967.89,
+      "unit_price": 3192.6,
       "discount_pct": 0,
-      "line_total": 4839.45
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 25,
-      "unit_price": 1862.82,
-      "discount_pct": 0,
-      "line_total": 46570.5
+      "line_total": 15963.0
     }
   ],
-  "subtotal": 73017.12,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 3650.86,
+  "subtotal": 72254.08,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 14450.82,
   "shipping_amount": 0.0,
-  "total_due": 76667.98,
-  "notes": "Goods remain property of seller until full payment received.",
-  "bank_details": null,
+  "total_due": 86704.9,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Emirates NBD",
+    "IBAN": "AE070331234567890123456",
+    "SWIFT": "EBILAEAD"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": true,
-  "has_bank_details": false,
+  "has_notes": false,
+  "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

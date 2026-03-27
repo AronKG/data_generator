@@ -1,0 +1,79 @@
+{
+  "id": 14,
+  "filename": "invoice_014.pdf",
+  "layout_style": "two_tone",
+  "page_size": "A4",
+  "complexity_tier": "medium",
+  "color_palette_index": 0,
+  "invoice_number": "SI-37712",
+  "issue_date": "24-Oct-2023",
+  "due_date": "07-Nov-2023",
+  "payment_terms": "End of Month",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "The Olive Branch Restaurant",
+  "client_address": "25 Gourmet Lane New Orleans LA 70112 USA",
+  "client_email": "finance@olivebranch.com",
+  "num_line_items": 4,
+  "line_items": [
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 10,
+      "unit_price": 248.04,
+      "discount_pct": 15,
+      "line_total": 2108.34
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 698.87,
+      "discount_pct": 20,
+      "line_total": 5590.96
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 539.39,
+      "discount_pct": 10,
+      "line_total": 1456.35
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1375.08,
+      "discount_pct": 15,
+      "line_total": 3506.45
+    }
+  ],
+  "subtotal": 12662.1,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 1266.21,
+  "shipping_amount": 0.0,
+  "total_due": 13928.31,
+  "notes": null,
+  "bank_details": {
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

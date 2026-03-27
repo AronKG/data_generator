@@ -1,17 +1,17 @@
 {
   "id": 952,
   "filename": "invoice_952.pdf",
-  "layout_style": "modern",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 5,
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
   "invoice_number": "INV55079",
-  "issue_date": "23 September 2022",
-  "due_date": "07-Nov-2022",
-  "payment_terms": "Net 60",
-  "currency": "GBP",
-  "currency_symbol": "£",
-  "po_number": null,
+  "issue_date": "2024-02-05",
+  "due_date": "21-Mar-2024",
+  "payment_terms": "Net 15",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-19658",
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,63 +20,127 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 5,
+  "num_line_items": 13,
   "line_items": [
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 969.02,
-      "discount_pct": 0,
-      "line_total": 969.02
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2186.78,
+      "unit_price": 2253.87,
       "discount_pct": 10,
-      "line_total": 1968.1
+      "line_total": 2028.48
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 137.11,
-      "discount_pct": 0,
-      "line_total": 137.11
+      "quantity": 10,
+      "unit_price": 164.06,
+      "discount_pct": 10,
+      "line_total": 1476.54
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 50,
-      "unit_price": 23.82,
+      "quantity": 25,
+      "unit_price": 123.03,
       "discount_pct": 10,
-      "line_total": 1071.9
+      "line_total": 2768.18
     },
     {
-      "description": "Contract Review",
-      "unit": "hr",
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 50,
+      "unit_price": 191.39,
+      "discount_pct": 20,
+      "line_total": 7655.6
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
       "quantity": 1,
-      "unit_price": 634.19,
-      "discount_pct": 10,
-      "line_total": 570.77
+      "unit_price": 1907.66,
+      "discount_pct": 0,
+      "line_total": 1907.66
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 156.59,
+      "discount_pct": 0,
+      "line_total": 3914.75
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 530.96,
+      "discount_pct": 0,
+      "line_total": 1592.88
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1112.23,
+      "discount_pct": 0,
+      "line_total": 1112.23
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 815.6,
+      "discount_pct": 5,
+      "line_total": 774.82
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 25,
+      "unit_price": 252.65,
+      "discount_pct": 20,
+      "line_total": 5053.0
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 25,
+      "unit_price": 382.01,
+      "discount_pct": 5,
+      "line_total": 9072.74
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 214.09,
+      "discount_pct": 20,
+      "line_total": 8563.6
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 3,
+      "unit_price": 107.77,
+      "discount_pct": 0,
+      "line_total": 323.31
     }
   ],
-  "subtotal": 4716.9,
-  "tax_label": "GST-HST 15pct",
-  "tax_rate_pct": 15.0,
-  "tax_amount": 707.53,
+  "subtotal": 46243.79,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 5424.43,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "total_due": 46243.79,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
-  "has_tax": true
+  "has_po_number": true,
+  "has_tax": false
 }

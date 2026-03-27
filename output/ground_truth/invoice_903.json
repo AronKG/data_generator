@@ -1,16 +1,16 @@
 {
   "id": 903,
   "filename": "invoice_903.pdf",
-  "layout_style": "ledger",
-  "page_size": "A4",
+  "layout_style": "classic",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "color_palette_index": 2,
   "invoice_number": "BILL/2023/32433",
-  "issue_date": "16 June 2022",
-  "due_date": "16 July 2022",
-  "payment_terms": "Net 45",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "issue_date": "2023-08-30",
+  "due_date": "09/14/2023",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "IronCore Manufacturing",
   "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
@@ -20,23 +20,15 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 4,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 142.33,
-      "discount_pct": 10,
-      "line_total": 1280.97
-    },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 25,
-      "unit_price": 27.64,
+      "quantity": 1,
+      "unit_price": 6.81,
       "discount_pct": 0,
-      "line_total": 691.0
+      "line_total": 6.81
     },
     {
       "description": "Managed Cloud",
@@ -47,29 +39,62 @@
       "line_total": 10653.82
     },
     {
-      "description": "Cloud Hosting",
+      "description": "Bookkeeping",
       "unit": "mo",
       "quantity": 3,
-      "unit_price": 969.84,
+      "unit_price": 1947.81,
       "discount_pct": 10,
-      "line_total": 2618.57
+      "line_total": 5259.09
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 407.92,
+      "discount_pct": 0,
+      "line_total": 10198.0
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 44.78,
+      "discount_pct": 20,
+      "line_total": 35.82
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 613.06,
+      "discount_pct": 0,
+      "line_total": 3065.3
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 702.17,
+      "discount_pct": 0,
+      "line_total": 702.17
     }
   ],
-  "subtotal": 15244.36,
-  "tax_label": "VAT 21pct",
-  "tax_rate_pct": 21.0,
-  "tax_amount": 3201.32,
+  "subtotal": 29921.01,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 1795.26,
   "shipping_amount": 0.0,
-  "total_due": 18445.68,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
+  "total_due": 31716.27,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
   },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": true,
+  "has_discount_column": false,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": true,
   "has_shipping": false,

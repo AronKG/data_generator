@@ -1,17 +1,17 @@
 {
   "id": 881,
   "filename": "invoice_881.pdf",
-  "layout_style": "modern",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "complexity_tier": "complex",
+  "color_palette_index": 7,
   "invoice_number": "INV-2025-4986",
-  "issue_date": "08/05/2023",
-  "due_date": "07/07/2023",
-  "payment_terms": "End of Month",
-  "currency": "CAD",
-  "currency_symbol": "CA$",
-  "po_number": null,
+  "issue_date": "03/11/2024",
+  "due_date": "26/03/2024",
+  "payment_terms": "Upon completion",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-93985",
   "seller_name": "MapleSoft Inc.",
   "seller_address": "200 King St W Toronto ON M5H 3T4 Canada",
   "seller_email": "ar@maplesoft.ca",
@@ -20,24 +20,8 @@
   "client_name": "Fernwood Property Group",
   "client_address": "300 Collins St Melbourne VIC 3000 Australia",
   "client_email": "ap@fernwoodproperty.com.au",
-  "num_line_items": 7,
+  "num_line_items": 8,
   "line_items": [
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 441.14,
-      "discount_pct": 20,
-      "line_total": 352.91
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 2,
-      "unit_price": 354.95,
-      "discount_pct": 10,
-      "line_total": 638.91
-    },
     {
       "description": "Training Workshop",
       "unit": "person",
@@ -47,12 +31,12 @@
       "line_total": 421.39
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
+      "description": "Legal Consultation",
+      "unit": "hr",
       "quantity": 1,
-      "unit_price": 620.07,
+      "unit_price": 234.72,
       "discount_pct": 5,
-      "line_total": 589.07
+      "line_total": 222.98
     },
     {
       "description": "Tech Writing",
@@ -77,26 +61,50 @@
       "unit_price": 1646.62,
       "discount_pct": 10,
       "line_total": 1481.96
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 8704.62,
+      "discount_pct": 20,
+      "line_total": 6963.7
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 50,
+      "unit_price": 1264.62,
+      "discount_pct": 10,
+      "line_total": 56907.9
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 10,
+      "unit_price": 147.28,
+      "discount_pct": 0,
+      "line_total": 1472.8
     }
   ],
-  "subtotal": 18085.29,
-  "tax_label": "HST 13pct",
-  "tax_rate_pct": 13.0,
-  "tax_amount": 2351.09,
+  "subtotal": 82071.78,
+  "tax_label": "GST-HST 15pct",
+  "tax_rate_pct": 15.0,
+  "tax_amount": 12310.77,
   "shipping_amount": 0.0,
-  "total_due": 20436.38,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "total_due": 94382.55,
+  "notes": null,
   "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
+    "Bank": "HSBC Hong Kong",
+    "Account": "400-123456-001",
+    "SWIFT": "HSBCHKHHHKH"
   },
   "has_logo": true,
   "has_discount_column": true,
   "has_unit_column": false,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

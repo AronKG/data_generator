@@ -1,16 +1,16 @@
 {
   "id": 141,
   "filename": "invoice_141.pdf",
-  "layout_style": "minimal",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 12,
+  "layout_style": "creative",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 13,
   "invoice_number": "BILL-2023-43669",
-  "issue_date": "08-Feb-2024",
-  "due_date": "23/02/2024",
+  "issue_date": "08 December 2022",
+  "due_date": "01/22/2023",
   "payment_terms": "Cash on Delivery",
-  "currency": "HKD",
-  "currency_symbol": "HK$",
+  "currency": "AUD",
+  "currency_symbol": "A$",
   "po_number": null,
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
@@ -20,66 +20,169 @@
   "client_name": "TerraFirm Construction",
   "client_address": "88 Builders Rd Denver CO 80202 USA",
   "client_email": "ap@terrafirm.com",
-  "num_line_items": 5,
+  "num_line_items": 18,
   "line_items": [
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 5,
-      "unit_price": 6915.87,
-      "discount_pct": 0,
-      "line_total": 34579.35
-    },
     {
       "description": "Brand Identity",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 5085.78,
-      "discount_pct": 20,
-      "line_total": 4068.62
+      "unit_price": 5115.73,
+      "discount_pct": 0,
+      "line_total": 5115.73
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1177.47,
+      "quantity": 3,
+      "unit_price": 1738.84,
       "discount_pct": 0,
-      "line_total": 11774.7
+      "line_total": 5216.52
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1755.86,
+      "quantity": 25,
+      "unit_price": 1111.91,
       "discount_pct": 5,
-      "line_total": 1668.07
+      "line_total": 26407.86
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 2107.88,
+      "unit_price": 2344.21,
       "discount_pct": 0,
-      "line_total": 2107.88
+      "line_total": 2344.21
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 11451.24,
+      "discount_pct": 10,
+      "line_total": 51530.58
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 37.3,
+      "discount_pct": 0,
+      "line_total": 74.6
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 3732.76,
+      "discount_pct": 5,
+      "line_total": 7092.24
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 205.7,
+      "discount_pct": 20,
+      "line_total": 4114.0
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 897.15,
+      "discount_pct": 0,
+      "line_total": 4485.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 759.29,
+      "discount_pct": 0,
+      "line_total": 7592.9
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 2352.57,
+      "discount_pct": 0,
+      "line_total": 11762.85
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 393.37,
+      "discount_pct": 0,
+      "line_total": 1180.11
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 225.45,
+      "discount_pct": 15,
+      "line_total": 1916.33
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 14872.26,
+      "discount_pct": 15,
+      "line_total": 37924.26
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 330.6,
+      "discount_pct": 0,
+      "line_total": 330.6
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 1193.86,
+      "discount_pct": 0,
+      "line_total": 11938.6
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 331.9,
+      "discount_pct": 15,
+      "line_total": 282.11
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 7238.65,
+      "discount_pct": 20,
+      "line_total": 28954.6
     }
   ],
-  "subtotal": 54198.62,
+  "subtotal": 208263.85,
   "tax_label": "VAT 19pct",
   "tax_rate_pct": 19.0,
-  "tax_amount": 10297.74,
+  "tax_amount": 39570.13,
   "shipping_amount": 0.0,
-  "total_due": 64496.36,
-  "notes": "Goods remain property of seller until full payment received.",
+  "total_due": 247833.98,
+  "notes": null,
   "bank_details": {
-    "Bank": "Chase Bank",
-    "Account": "1234567890",
-    "Routing": "021000021",
-    "SWIFT": "CHASUS33"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": false,
   "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,

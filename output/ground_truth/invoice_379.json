@@ -1,17 +1,17 @@
 {
   "id": 379,
   "filename": "invoice_379.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 9,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
   "invoice_number": "INV20796",
-  "issue_date": "October 23 2023",
-  "due_date": "13-Nov-2023",
-  "payment_terms": "Upon completion",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": null,
+  "issue_date": "March 22 2023",
+  "due_date": "May 21 2023",
+  "payment_terms": "Due on Receipt",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-22475",
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
   "seller_email": "finance@pearlriverco.hk",
@@ -20,132 +20,39 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 13,
+  "num_line_items": 2,
   "line_items": [
     {
-      "description": "Maintenance Contract",
+      "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 641.23,
+      "quantity": 25,
+      "unit_price": 1730.32,
       "discount_pct": 0,
-      "line_total": 1923.69
+      "line_total": 43258.0
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 25,
-      "unit_price": 515.66,
-      "discount_pct": 5,
-      "line_total": 12246.92
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 401.3,
-      "discount_pct": 10,
-      "line_total": 361.17
-    },
-    {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 10,
-      "unit_price": 103.1,
-      "discount_pct": 20,
-      "line_total": 824.8
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
       "quantity": 2,
-      "unit_price": 110.11,
+      "unit_price": 469.97,
       "discount_pct": 0,
-      "line_total": 220.22
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2061.3,
-      "discount_pct": 20,
-      "line_total": 82452.0
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 3,
-      "unit_price": 348.58,
-      "discount_pct": 0,
-      "line_total": 1045.74
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 762.88,
-      "discount_pct": 10,
-      "line_total": 6865.92
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1554.73,
-      "discount_pct": 10,
-      "line_total": 4197.77
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 134.77,
-      "discount_pct": 5,
-      "line_total": 6401.58
-    },
-    {
-      "description": "Catering Services",
-      "unit": "head",
-      "quantity": 5,
-      "unit_price": 37.89,
-      "discount_pct": 5,
-      "line_total": 179.98
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4267.08,
-      "discount_pct": 10,
-      "line_total": 3840.37
-    },
-    {
-      "description": "Equipment Rental",
-      "unit": "day",
-      "quantity": 25,
-      "unit_price": 637.04,
-      "discount_pct": 0,
-      "line_total": 15926.0
+      "line_total": 939.94
     }
   ],
-  "subtotal": 136486.16,
-  "tax_label": "VAT 19pct",
-  "tax_rate_pct": 19.0,
-  "tax_amount": 25932.37,
-  "shipping_amount": 35.58,
-  "total_due": 162454.11,
-  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
-  "bank_details": {
-    "Bank": "Barclays Bank",
-    "Sort Code": "20-00-01",
-    "Account": "87654321",
-    "IBAN": "GB12BARC20000187654321"
-  },
+  "subtotal": 44197.94,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 3646.33,
+  "shipping_amount": 0.0,
+  "total_due": 47844.27,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": true,
+  "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

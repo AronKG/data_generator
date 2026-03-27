@@ -1,17 +1,17 @@
 {
   "id": 333,
   "filename": "invoice_333.pdf",
-  "layout_style": "formal",
-  "page_size": "A4",
-  "complexity_tier": "medium",
-  "color_palette_index": 11,
+  "layout_style": "minimal",
+  "page_size": "letter",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 5,
   "invoice_number": "SI-23906",
-  "issue_date": "September 15 2024",
-  "due_date": "December 14 2024",
-  "payment_terms": "Due on Receipt",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": null,
+  "issue_date": "08/07/2024",
+  "due_date": "22/08/2024",
+  "payment_terms": "Net 90",
+  "currency": "AUD",
+  "currency_symbol": "A$",
+  "po_number": "PO-20451",
   "seller_name": "Meridian Consulting Group",
   "seller_address": "87 Fleet Street London EC4Y 1HB UK",
   "seller_email": "billing@meridiancg.co.uk",
@@ -20,59 +20,215 @@
   "client_name": "Copper Kettle Brewery",
   "client_address": "3300 Blake St Denver CO 80205 USA",
   "client_email": "purchasing@copperkettlebrew.com",
-  "num_line_items": 4,
+  "num_line_items": 24,
   "line_items": [
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 133.92,
+      "unit_price": 156.71,
       "discount_pct": 15,
-      "line_total": 113.83
+      "line_total": 133.2
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 10133.63,
-      "discount_pct": 20,
-      "line_total": 16213.81
+      "quantity": 25,
+      "unit_price": 14986.69,
+      "discount_pct": 0,
+      "line_total": 374667.25
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 141.41,
+      "quantity": 2,
+      "unit_price": 40.82,
       "discount_pct": 0,
-      "line_total": 141.41
+      "line_total": 81.64
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1374.34,
+      "discount_pct": 15,
+      "line_total": 1168.19
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 841.26,
+      "discount_pct": 5,
+      "line_total": 7991.97
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 215.35,
+      "discount_pct": 0,
+      "line_total": 1076.75
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1459.97,
+      "discount_pct": 15,
+      "line_total": 2481.95
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
       "quantity": 3,
-      "unit_price": 976.77,
+      "unit_price": 2784.85,
+      "discount_pct": 15,
+      "line_total": 7101.37
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4124.3,
+      "discount_pct": 15,
+      "line_total": 175282.75
+    },
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 838.59,
+      "discount_pct": 15,
+      "line_total": 7128.01
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 1,
+      "unit_price": 112.99,
       "discount_pct": 10,
-      "line_total": 2637.28
+      "line_total": 101.69
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 666.48,
+      "discount_pct": 0,
+      "line_total": 1332.96
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4289.45,
+      "discount_pct": 0,
+      "line_total": 214472.5
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 3,
+      "unit_price": 1676.45,
+      "discount_pct": 15,
+      "line_total": 4274.95
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 481.77,
+      "discount_pct": 10,
+      "line_total": 433.59
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 337.22,
+      "discount_pct": 0,
+      "line_total": 8430.5
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 1244.21,
+      "discount_pct": 5,
+      "line_total": 11819.99
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3867.75,
+      "discount_pct": 5,
+      "line_total": 3674.36
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1172.51,
+      "discount_pct": 20,
+      "line_total": 2814.02
+    },
+    {
+      "description": "Cloud Hosting",
+      "unit": "mo",
+      "quantity": 50,
+      "unit_price": 289.74,
+      "discount_pct": 20,
+      "line_total": 11589.6
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 7602.26,
+      "discount_pct": 15,
+      "line_total": 64619.21
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 414.52,
+      "discount_pct": 5,
+      "line_total": 393.79
+    },
+    {
+      "description": "Translation Services",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 37.91,
+      "discount_pct": 0,
+      "line_total": 189.55
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 7611.55,
+      "discount_pct": 10,
+      "line_total": 6850.4
     }
   ],
-  "subtotal": 19106.33,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 1576.27,
+  "subtotal": 908110.19,
+  "tax_label": "VAT 23pct",
+  "tax_rate_pct": 23.0,
+  "tax_amount": 208865.34,
   "shipping_amount": 0.0,
-  "total_due": 20682.6,
-  "notes": "Late payments subject to 1.5 percent monthly finance charge.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "total_due": 1116975.53,
+  "notes": null,
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
-  "has_notes": true,
-  "has_bank_details": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": false,
   "has_shipping": false,
-  "has_po_number": false,
+  "has_po_number": true,
   "has_tax": true
 }

@@ -1,17 +1,17 @@
 {
   "id": 336,
   "filename": "invoice_336.pdf",
-  "layout_style": "ledger",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "very_complex",
+  "color_palette_index": 6,
   "invoice_number": "RCPT-2022-12840",
-  "issue_date": "07/07/2022",
-  "due_date": "22/07/2022",
-  "payment_terms": "Cash on Delivery",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": "PO-79715",
+  "issue_date": "02-Nov-2022",
+  "due_date": "31/01/2023",
+  "payment_terms": "50% upfront balance on delivery",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "po_number": "PO-40071",
   "seller_name": "Apex Solutions Ltd.",
   "seller_address": "14 Baker Street London EC1A 1BB UK",
   "seller_email": "info@apexsolutions.co.uk",
@@ -20,103 +20,87 @@
   "client_name": "Polar Star Expeditions AS",
   "client_address": "Sjogata 4 9008 Tromso Norway",
   "client_email": "regnskap@polarstarexp.no",
-  "num_line_items": 14,
+  "num_line_items": 21,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1606.4,
-      "discount_pct": 0,
-      "line_total": 16064.0
-    },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 50,
-      "unit_price": 338.93,
-      "discount_pct": 0,
-      "line_total": 16946.5
+      "quantity": 1,
+      "unit_price": 753.03,
+      "discount_pct": 20,
+      "line_total": 602.42
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 86.27,
+      "unit_price": 510.74,
       "discount_pct": 20,
-      "line_total": 69.02
+      "line_total": 408.59
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
-      "quantity": 1,
-      "unit_price": 75.48,
-      "discount_pct": 20,
-      "line_total": 60.38
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
       "quantity": 2,
-      "unit_price": 2702.38,
+      "unit_price": 96.24,
       "discount_pct": 5,
-      "line_total": 5134.52
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 162.92,
-      "discount_pct": 15,
-      "line_total": 138.48
-    },
-    {
-      "description": "Print Materials",
-      "unit": "lot",
-      "quantity": 5,
-      "unit_price": 603.14,
-      "discount_pct": 5,
-      "line_total": 2864.91
-    },
-    {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 3,
-      "unit_price": 650.1,
-      "discount_pct": 0,
-      "line_total": 1950.3
+      "line_total": 182.86
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1297.56,
+      "discount_pct": 15,
+      "line_total": 1102.93
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 223.97,
+      "discount_pct": 5,
+      "line_total": 1063.86
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 283.86,
+      "discount_pct": 0,
+      "line_total": 851.58
+    },
+    {
+      "description": "Brand Identity",
+      "unit": "ea",
       "quantity": 25,
-      "unit_price": 2488.41,
+      "unit_price": 5968.27,
       "discount_pct": 20,
-      "line_total": 49768.2
+      "line_total": 119365.4
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 221.94,
+      "discount_pct": 10,
+      "line_total": 9987.3
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 1218.46,
+      "discount_pct": 10,
+      "line_total": 54830.7
     },
     {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 50,
-      "unit_price": 28.47,
-      "discount_pct": 10,
-      "line_total": 1281.15
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 1075.94,
-      "discount_pct": 10,
-      "line_total": 48417.3
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
       "quantity": 25,
-      "unit_price": 274.73,
+      "unit_price": 110.0,
       "discount_pct": 0,
-      "line_total": 6868.25
+      "line_total": 2750.0
     },
     {
       "description": "Mobile App Dev",
@@ -133,21 +117,98 @@
       "unit_price": 1318.69,
       "discount_pct": 0,
       "line_total": 1318.69
+    },
+    {
+      "description": "Video Production",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 5478.13,
+      "discount_pct": 0,
+      "line_total": 27390.65
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 5,
+      "unit_price": 286.82,
+      "discount_pct": 20,
+      "line_total": 1147.28
+    },
+    {
+      "description": "Bookkeeping",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1590.77,
+      "discount_pct": 0,
+      "line_total": 3181.54
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 206.32,
+      "discount_pct": 10,
+      "line_total": 557.06
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 2,
+      "unit_price": 140.06,
+      "discount_pct": 20,
+      "line_total": 224.1
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1188.84,
+      "discount_pct": 20,
+      "line_total": 951.07
+    },
+    {
+      "description": "Software License",
+      "unit": "seat",
+      "quantity": 10,
+      "unit_price": 8926.7,
+      "discount_pct": 0,
+      "line_total": 89267.0
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1887.19,
+      "discount_pct": 15,
+      "line_total": 1604.11
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 25,
+      "unit_price": 227.01,
+      "discount_pct": 0,
+      "line_total": 5675.25
     }
   ],
-  "subtotal": 160324.02,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 11222.68,
+  "subtotal": 331904.71,
+  "tax_label": "VAT 19pct",
+  "tax_rate_pct": 19.0,
+  "tax_amount": 63061.89,
   "shipping_amount": 0.0,
-  "total_due": 171546.7,
+  "total_due": 394966.6,
   "notes": "This document is strictly private and confidential.",
-  "bank_details": null,
+  "bank_details": {
+    "Bank": "Handelsbanken",
+    "Account": "123 456 789",
+    "Clearing": "6000",
+    "IBAN": "SE4560000000012345678901"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
   "has_tax": true

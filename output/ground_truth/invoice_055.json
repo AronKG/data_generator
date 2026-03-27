@@ -1,16 +1,16 @@
 {
   "id": 55,
   "filename": "invoice_055.pdf",
-  "layout_style": "bold_header",
-  "page_size": "A4",
+  "layout_style": "modern",
+  "page_size": "letter",
   "complexity_tier": "medium",
-  "color_palette_index": 3,
+  "color_palette_index": 9,
   "invoice_number": "PROFORMA13493",
-  "issue_date": "07/25/2023",
-  "due_date": "August 15 2023",
+  "issue_date": "05/06/2023",
+  "due_date": "May 13 2023",
   "payment_terms": "Net 60",
-  "currency": "SEK",
-  "currency_symbol": "kr",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": "PO-50892",
   "seller_name": "Pearl River Trading Co.",
   "seller_address": "22 Connaught Rd Central Hong Kong",
@@ -23,36 +23,36 @@
   "num_line_items": 3,
   "line_items": [
     {
-      "description": "Web Development",
-      "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 153.31,
-      "discount_pct": 0,
-      "line_total": 153.31
-    },
-    {
       "description": "Catering Services",
       "unit": "head",
-      "quantity": 1,
-      "unit_price": 43.51,
+      "quantity": 10,
+      "unit_price": 51.56,
       "discount_pct": 0,
-      "line_total": 43.51
+      "line_total": 515.6
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
       "quantity": 1,
-      "unit_price": 158.61,
+      "unit_price": 106.76,
       "discount_pct": 0,
-      "line_total": 158.61
+      "line_total": 106.76
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1057.39,
+      "discount_pct": 0,
+      "line_total": 1057.39
     }
   ],
-  "subtotal": 355.43,
+  "subtotal": 1679.75,
   "tax_label": "Sales Tax 8.25pct",
   "tax_rate_pct": 8.25,
-  "tax_amount": 29.32,
+  "tax_amount": 138.58,
   "shipping_amount": 0.0,
-  "total_due": 384.75,
+  "total_due": 1818.33,
   "notes": "This document is strictly private and confidential.",
   "bank_details": null,
   "has_logo": true,

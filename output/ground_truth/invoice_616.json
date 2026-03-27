@@ -1,16 +1,16 @@
 {
   "id": 616,
   "filename": "invoice_616.pdf",
-  "layout_style": "creative",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 2,
+  "color_palette_index": 8,
   "invoice_number": "2023-55144",
-  "issue_date": "2022-03-09",
-  "due_date": "03/24/2022",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "December 23 2022",
+  "due_date": "07-Jan-2023",
+  "payment_terms": "2/10 Net 30",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
   "po_number": null,
   "seller_name": "Helix Beratung GmbH",
   "seller_address": "Leopoldstrasse 82 80802 Munich Germany",
@@ -20,99 +20,79 @@
   "client_name": "ClearPath Medical Group",
   "client_address": "500 E Pratt St Baltimore MD 21202 USA",
   "client_email": "accounts@clearpathmed.com",
-  "num_line_items": 9,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 3015.89,
-      "discount_pct": 10,
-      "line_total": 2714.3
-    },
-    {
-      "description": "Logo Design",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1219.65,
-      "discount_pct": 20,
-      "line_total": 24393.0
-    },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 98.78,
-      "discount_pct": 0,
-      "line_total": 493.9
+      "quantity": 1,
+      "unit_price": 164.85,
+      "discount_pct": 10,
+      "line_total": 148.37
     },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 1,
-      "unit_price": 201.05,
-      "discount_pct": 10,
-      "line_total": 180.95
+      "quantity": 25,
+      "unit_price": 172.33,
+      "discount_pct": 20,
+      "line_total": 3446.6
     },
     {
       "description": "Photography Session",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 2511.18,
-      "discount_pct": 5,
-      "line_total": 119281.05
+      "quantity": 5,
+      "unit_price": 975.66,
+      "discount_pct": 0,
+      "line_total": 4878.3
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 1030.12,
-      "discount_pct": 15,
-      "line_total": 2626.81
+      "quantity": 1,
+      "unit_price": 1847.81,
+      "discount_pct": 10,
+      "line_total": 1663.03
     },
     {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 3,
-      "unit_price": 284.2,
-      "discount_pct": 0,
-      "line_total": 852.6
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 3315.65,
+      "discount_pct": 5,
+      "line_total": 157493.38
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 6103.23,
-      "discount_pct": 0,
-      "line_total": 12206.46
+      "quantity": 3,
+      "unit_price": 5515.37,
+      "discount_pct": 15,
+      "line_total": 14064.19
     },
     {
-      "description": "Digital Marketing",
+      "description": "iOS App Dev",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 6458.95,
-      "discount_pct": 15,
-      "line_total": 27450.54
+      "quantity": 3,
+      "unit_price": 18880.9,
+      "discount_pct": 0,
+      "line_total": 56642.7
     }
   ],
-  "subtotal": 190199.61,
-  "tax_label": "GST 5pct",
-  "tax_rate_pct": 5.0,
-  "tax_amount": 9509.98,
-  "shipping_amount": 0.0,
-  "total_due": 199709.59,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
-  "bank_details": {
-    "Bank": "Deutsche Bank",
-    "IBAN": "DE89370400440532013000",
-    "BIC": "DEUTDEDB370"
-  },
+  "subtotal": 238336.57,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 19662.77,
+  "shipping_amount": 82.46,
+  "total_due": 258081.8,
+  "notes": "Our standard warranty terms apply to all goods and services.",
+  "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": false,
+  "has_bank_details": false,
+  "has_shipping": true,
   "has_po_number": false,
   "has_tax": true
 }

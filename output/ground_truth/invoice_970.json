@@ -1,16 +1,16 @@
 {
   "id": 970,
   "filename": "invoice_970.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "compact",
   "page_size": "letter",
-  "complexity_tier": "medium",
-  "color_palette_index": 0,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 11,
   "invoice_number": "TAX-INV-80884",
-  "issue_date": "2024-04-28",
-  "due_date": "12/06/2024",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "AED",
-  "currency_symbol": "AED",
+  "issue_date": "10/21/2023",
+  "due_date": "20 December 2023",
+  "payment_terms": "Net 21",
+  "currency": "GBP",
+  "currency_symbol": "£",
   "po_number": null,
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
@@ -20,69 +20,157 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 6,
+  "num_line_items": 17,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 5769.28,
-      "discount_pct": 0,
-      "line_total": 5769.28
-    },
     {
       "description": "Print Materials",
       "unit": "lot",
       "quantity": 1,
-      "unit_price": 276.66,
-      "discount_pct": 10,
-      "line_total": 248.99
+      "unit_price": 509.57,
+      "discount_pct": 20,
+      "line_total": 407.66
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1454.04,
+      "quantity": 2,
+      "unit_price": 1360.49,
       "discount_pct": 5,
-      "line_total": 6906.69
+      "line_total": 2584.93
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
       "quantity": 5,
-      "unit_price": 412.56,
-      "discount_pct": 0,
-      "line_total": 2062.8
+      "unit_price": 592.62,
+      "discount_pct": 20,
+      "line_total": 2370.48
     },
     {
       "description": "Brand Identity",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 5259.06,
+      "quantity": 1,
+      "unit_price": 3531.31,
       "discount_pct": 0,
-      "line_total": 262953.0
+      "line_total": 3531.31
     },
     {
       "description": "Tech Writing",
       "unit": "pg",
+      "quantity": 5,
+      "unit_price": 183.63,
+      "discount_pct": 0,
+      "line_total": 918.15
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
       "quantity": 10,
-      "unit_price": 152.24,
+      "unit_price": 669.05,
+      "discount_pct": 15,
+      "line_total": 5686.93
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3506.19,
+      "discount_pct": 15,
+      "line_total": 2980.26
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 1,
+      "unit_price": 51.88,
+      "discount_pct": 10,
+      "line_total": 46.69
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 2,
+      "unit_price": 1054.37,
+      "discount_pct": 10,
+      "line_total": 1897.87
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 685.26,
+      "discount_pct": 5,
+      "line_total": 1301.99
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 824.66,
+      "discount_pct": 10,
+      "line_total": 742.19
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 456.71,
+      "discount_pct": 5,
+      "line_total": 433.87
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 122.97,
+      "discount_pct": 10,
+      "line_total": 553.37
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 2,
+      "unit_price": 149.0,
+      "discount_pct": 0,
+      "line_total": 298.0
+    },
+    {
+      "description": "Freight Forwarding",
+      "unit": "shpt",
+      "quantity": 25,
+      "unit_price": 1220.16,
+      "discount_pct": 0,
+      "line_total": 30504.0
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 30506.68,
       "discount_pct": 20,
-      "line_total": 1217.92
+      "line_total": 24405.34
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 1636.17,
+      "discount_pct": 5,
+      "line_total": 1554.36
     }
   ],
-  "subtotal": 279158.68,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 19541.11,
+  "subtotal": 80217.4,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 16043.48,
   "shipping_amount": 0.0,
-  "total_due": 298699.79,
-  "notes": null,
+  "total_due": 96260.88,
+  "notes": "All work performed in accordance with the signed service agreement.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
-  "has_notes": false,
+  "has_unit_column": true,
+  "has_notes": true,
   "has_bank_details": false,
   "has_shipping": false,
   "has_po_number": false,

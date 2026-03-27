@@ -1,17 +1,17 @@
 {
   "id": 423,
   "filename": "invoice_423.pdf",
-  "layout_style": "modern",
-  "page_size": "A4",
+  "layout_style": "two_tone",
+  "page_size": "letter",
   "complexity_tier": "complex",
-  "color_palette_index": 10,
+  "color_palette_index": 2,
   "invoice_number": "2022-68516",
-  "issue_date": "February 06 2024",
-  "due_date": "2024-02-21",
-  "payment_terms": "Cash on Delivery",
+  "issue_date": "11/08/2022",
+  "due_date": "22-Nov-2022",
+  "payment_terms": "Net 15",
   "currency": "HKD",
   "currency_symbol": "HK$",
-  "po_number": "PO-61658",
+  "po_number": "PO-40246",
   "seller_name": "Pacific Rim Exports",
   "seller_address": "88 Harbour Road Hong Kong",
   "seller_email": "accounts@pacificrimexports.hk",
@@ -23,84 +23,84 @@
   "num_line_items": 8,
   "line_items": [
     {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 5,
-      "unit_price": 303.35,
-      "discount_pct": 10,
-      "line_total": 1365.08
-    },
-    {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 1558.68,
-      "discount_pct": 0,
-      "line_total": 15586.8
+      "quantity": 50,
+      "unit_price": 1356.9,
+      "discount_pct": 10,
+      "line_total": 61060.5
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 10,
-      "unit_price": 18419.97,
+      "quantity": 3,
+      "unit_price": 17960.52,
       "discount_pct": 0,
-      "line_total": 184199.7
+      "line_total": 53881.56
     },
     {
       "description": "Market Research",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 8485.43,
-      "discount_pct": 5,
-      "line_total": 403057.92
+      "quantity": 1,
+      "unit_price": 14880.39,
+      "discount_pct": 10,
+      "line_total": 13392.35
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 1,
-      "unit_price": 157.9,
-      "discount_pct": 20,
-      "line_total": 126.32
+      "quantity": 25,
+      "unit_price": 217.91,
+      "discount_pct": 0,
+      "line_total": 5447.75
     },
     {
       "description": "Software Dev",
       "unit": "hr",
       "quantity": 25,
-      "unit_price": 279.65,
-      "discount_pct": 0,
-      "line_total": 6991.25
+      "unit_price": 161.83,
+      "discount_pct": 5,
+      "line_total": 3843.46
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 3733.16,
-      "discount_pct": 10,
-      "line_total": 167992.2
+      "quantity": 1,
+      "unit_price": 1028.31,
+      "discount_pct": 15,
+      "line_total": 874.06
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
       "quantity": 2,
-      "unit_price": 936.8,
-      "discount_pct": 0,
-      "line_total": 1873.6
+      "unit_price": 630.95,
+      "discount_pct": 20,
+      "line_total": 1009.52
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 2,
+      "unit_price": 1133.2,
+      "discount_pct": 20,
+      "line_total": 1813.12
     }
   ],
-  "subtotal": 781192.87,
-  "tax_label": "Service Tax 6pct",
-  "tax_rate_pct": 6.0,
-  "tax_amount": 46871.57,
-  "shipping_amount": 152.91,
-  "total_due": 828217.35,
-  "notes": "All work performed in accordance with the signed service agreement.",
+  "subtotal": 141322.32,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 29677.69,
+  "shipping_amount": 259.79,
+  "total_due": 171259.8,
+  "notes": "Subject to our standard terms and conditions of service.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
   },
   "has_logo": true,
-  "has_discount_column": false,
+  "has_discount_column": true,
   "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,

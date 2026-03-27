@@ -1,17 +1,17 @@
 {
   "id": 475,
   "filename": "invoice_475.pdf",
-  "layout_style": "two_tone",
-  "page_size": "letter",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 14,
+  "layout_style": "modern",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 13,
   "invoice_number": "2022-68188",
-  "issue_date": "10/10/2022",
-  "due_date": "24/11/2022",
-  "payment_terms": "30 days from delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-58906",
+  "issue_date": "26/11/2023",
+  "due_date": "2024-01-10",
+  "payment_terms": "Net 7",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-19998",
   "seller_name": "Inkwell Publishing House",
   "seller_address": "233 S Wacker Dr Chicago IL 60606 USA",
   "seller_email": "billing@inkwellpub.com",
@@ -20,175 +20,36 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 19,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "Photography Session",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 2821.13,
-      "discount_pct": 10,
-      "line_total": 7617.05
-    },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
       "quantity": 1,
-      "unit_price": 298.91,
-      "discount_pct": 15,
-      "line_total": 254.07
-    },
-    {
-      "description": "Social Media Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1449.37,
+      "unit_price": 582.85,
       "discount_pct": 0,
-      "line_total": 2898.74
-    },
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 7654.68,
-      "discount_pct": 20,
-      "line_total": 306187.2
-    },
-    {
-      "description": "Digital Marketing",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 6555.18,
-      "discount_pct": 20,
-      "line_total": 15732.43
-    },
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 5,
-      "unit_price": 155.94,
-      "discount_pct": 0,
-      "line_total": 779.7
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 3,
-      "unit_price": 532.66,
-      "discount_pct": 0,
-      "line_total": 1597.98
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 28162.03,
-      "discount_pct": 5,
-      "line_total": 1337696.43
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 1,
-      "unit_price": 389.99,
-      "discount_pct": 20,
-      "line_total": 311.99
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 2449.49,
-      "discount_pct": 0,
-      "line_total": 122474.5
-    },
-    {
-      "description": "Managed Cloud",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 578.62,
-      "discount_pct": 0,
-      "line_total": 578.62
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 50,
-      "unit_price": 202.51,
-      "discount_pct": 15,
-      "line_total": 8606.67
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 287.09,
-      "discount_pct": 0,
-      "line_total": 7177.25
-    },
-    {
-      "description": "Community Mgmt",
-      "unit": "mo",
-      "quantity": 2,
-      "unit_price": 1261.61,
-      "discount_pct": 0,
-      "line_total": 2523.22
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 133.7,
-      "discount_pct": 20,
-      "line_total": 2674.0
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 995.97,
-      "discount_pct": 15,
-      "line_total": 846.57
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 10,
-      "unit_price": 5717.15,
-      "discount_pct": 10,
-      "line_total": 51454.35
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 4592.28,
-      "discount_pct": 10,
-      "line_total": 8266.1
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 995.43,
-      "discount_pct": 0,
-      "line_total": 995.43
+      "line_total": 582.85
     }
   ],
-  "subtotal": 1878672.3,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 187867.23,
+  "subtotal": 582.85,
+  "tax_label": "No Tax",
+  "tax_rate_pct": 0.0,
+  "tax_amount": 0.0,
   "shipping_amount": 0.0,
-  "total_due": 2066539.53,
-  "notes": null,
-  "bank_details": null,
+  "total_due": 582.85,
+  "notes": "Please direct billing queries to our accounts department.",
+  "bank_details": {
+    "Bank": "Westpac",
+    "BSB": "032-000",
+    "Account": "123456",
+    "SWIFT": "WPACAU2S"
+  },
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
+  "has_notes": true,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": true,
-  "has_tax": true
+  "has_tax": false
 }

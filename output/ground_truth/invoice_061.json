@@ -1,16 +1,16 @@
 {
   "id": 61,
   "filename": "invoice_061.pdf",
-  "layout_style": "modern",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "complex",
-  "color_palette_index": 8,
+  "color_palette_index": 10,
   "invoice_number": "007393",
-  "issue_date": "2023-06-07",
-  "due_date": "08/06/2023",
-  "payment_terms": "Net 60",
-  "currency": "GBP",
-  "currency_symbol": "£",
+  "issue_date": "04/28/2024",
+  "due_date": "28 May 2024",
+  "payment_terms": "End of Month",
+  "currency": "SGD",
+  "currency_symbol": "S$",
   "po_number": null,
   "seller_name": "Fjord Analytics AS",
   "seller_address": "Drammensveien 60 0271 Oslo Norway",
@@ -20,16 +20,8 @@
   "client_name": "Rockridge Civil Engineers",
   "client_address": "1600 Wynkoop St Denver CO 80202 USA",
   "client_email": "ap@rockridgecivil.com",
-  "num_line_items": 11,
+  "num_line_items": 14,
   "line_items": [
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 4680.43,
-      "discount_pct": 15,
-      "line_total": 3978.37
-    },
     {
       "description": "Freight Forwarding",
       "unit": "shpt",
@@ -55,52 +47,52 @@
       "line_total": 26642.4
     },
     {
+      "description": "BI Reporting",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 565.04,
+      "discount_pct": 0,
+      "line_total": 5650.4
+    },
+    {
       "description": "Tech Writing",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 64.46,
-      "discount_pct": 0,
-      "line_total": 644.6
+      "quantity": 1,
+      "unit_price": 136.81,
+      "discount_pct": 5,
+      "line_total": 129.97
     },
     {
       "description": "Manufacturing Parts",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 2900.16,
-      "discount_pct": 5,
-      "line_total": 2755.15
+      "quantity": 3,
+      "unit_price": 1756.16,
+      "discount_pct": 20,
+      "line_total": 4214.78
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 3,
-      "unit_price": 4598.53,
+      "quantity": 5,
+      "unit_price": 18842.86,
       "discount_pct": 20,
-      "line_total": 11036.47
+      "line_total": 75371.44
     },
     {
       "description": "IT Support",
       "unit": "hr",
-      "quantity": 5,
-      "unit_price": 192.18,
-      "discount_pct": 20,
-      "line_total": 768.72
+      "quantity": 1,
+      "unit_price": 146.47,
+      "discount_pct": 10,
+      "line_total": 131.82
     },
     {
       "description": "Mobile App Dev",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 9433.18,
-      "discount_pct": 10,
-      "line_total": 8489.86
-    },
-    {
-      "description": "BI Reporting",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1828.84,
+      "unit_price": 6935.68,
       "discount_pct": 0,
-      "line_total": 1828.84
+      "line_total": 6935.68
     },
     {
       "description": "Community Mgmt",
@@ -109,26 +101,54 @@
       "unit_price": 1071.73,
       "discount_pct": 0,
       "line_total": 1071.73
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 2,
+      "unit_price": 264.93,
+      "discount_pct": 0,
+      "line_total": 529.86
+    },
+    {
+      "description": "Logo Design",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 2088.51,
+      "discount_pct": 0,
+      "line_total": 2088.51
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 5,
+      "unit_price": 12476.89,
+      "discount_pct": 0,
+      "line_total": 62384.45
+    },
+    {
+      "description": "Social Media Mgmt",
+      "unit": "mo",
+      "quantity": 25,
+      "unit_price": 1877.18,
+      "discount_pct": 20,
+      "line_total": 37543.6
     }
   ],
-  "subtotal": 65049.11,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 5366.55,
-  "shipping_amount": 24.48,
-  "total_due": 70440.14,
-  "notes": "Early payment discount of 2 percent available if paid within 10 days.",
-  "bank_details": {
-    "Bank": "HSBC Hong Kong",
-    "Account": "400-123456-001",
-    "SWIFT": "HSBCHKHHHKH"
-  },
+  "subtotal": 230527.61,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 11526.38,
+  "shipping_amount": 0.0,
+  "total_due": 242053.99,
+  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
   "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": true,
-  "has_shipping": true,
+  "has_bank_details": false,
+  "has_shipping": false,
   "has_po_number": false,
   "has_tax": true
 }

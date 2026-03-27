@@ -1,14 +1,14 @@
 {
   "id": 942,
   "filename": "invoice_942.pdf",
-  "layout_style": "classic",
+  "layout_style": "modern",
   "page_size": "A4",
   "complexity_tier": "medium",
-  "color_palette_index": 6,
+  "color_palette_index": 4,
   "invoice_number": "BILL/2025/38447",
-  "issue_date": "01/24/2022",
-  "due_date": "23 February 2022",
-  "payment_terms": "End of Month",
+  "issue_date": "September 25 2023",
+  "due_date": "24 December 2023",
+  "payment_terms": "Net 15",
   "currency": "SGD",
   "currency_symbol": "S$",
   "po_number": null,
@@ -20,31 +20,31 @@
   "client_name": "Neptune Logistics GmbH",
   "client_address": "Speicherstadt 5 20457 Hamburg Germany",
   "client_email": "rechnungen@neptunelogistics.de",
-  "num_line_items": 6,
+  "num_line_items": 5,
   "line_items": [
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 50,
-      "unit_price": 1809.95,
-      "discount_pct": 20,
-      "line_total": 72398.0
-    },
     {
       "description": "Office Supplies",
       "unit": "lot",
-      "quantity": 1,
-      "unit_price": 891.61,
-      "discount_pct": 10,
-      "line_total": 802.45
+      "quantity": 25,
+      "unit_price": 832.97,
+      "discount_pct": 0,
+      "line_total": 20824.25
     },
     {
       "description": "Raw Materials",
       "unit": "kg",
+      "quantity": 1,
+      "unit_price": 86.99,
+      "discount_pct": 10,
+      "line_total": 78.29
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
       "quantity": 3,
-      "unit_price": 124.49,
+      "unit_price": 2165.68,
       "discount_pct": 5,
-      "line_total": 354.8
+      "line_total": 6172.19
     },
     {
       "description": "Translation Services",
@@ -61,29 +61,25 @@
       "unit_price": 4181.09,
       "discount_pct": 5,
       "line_total": 3972.04
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 1106.25,
-      "discount_pct": 20,
-      "line_total": 22125.0
     }
   ],
-  "subtotal": 99752.03,
-  "tax_label": "Tax 7pct",
-  "tax_rate_pct": 7.0,
-  "tax_amount": 6982.64,
+  "subtotal": 31146.51,
+  "tax_label": "VAT 21pct",
+  "tax_rate_pct": 21.0,
+  "tax_amount": 6540.77,
   "shipping_amount": 0.0,
-  "total_due": 106734.67,
-  "notes": "All work performed in accordance with the signed service agreement.",
-  "bank_details": null,
+  "total_due": 37687.28,
+  "notes": "Subject to our standard terms and conditions of service.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

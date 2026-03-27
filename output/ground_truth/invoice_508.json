@@ -1,17 +1,17 @@
 {
   "id": 508,
   "filename": "invoice_508.pdf",
-  "layout_style": "two_tone",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 4,
+  "complexity_tier": "simple",
+  "color_palette_index": 2,
   "invoice_number": "REF/2022/33638",
-  "issue_date": "27 November 2023",
-  "due_date": "2024-01-26",
-  "payment_terms": "50% upfront balance on delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": null,
+  "issue_date": "29-Apr-2024",
+  "due_date": "13-May-2024",
+  "payment_terms": "30 days from delivery",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": "PO-91697",
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,143 +20,31 @@
   "client_name": "Apex Capital Advisors",
   "client_address": "555 California St San Francisco CA 94104 USA",
   "client_email": "invoices@apexcapital.com",
-  "num_line_items": 15,
+  "num_line_items": 1,
   "line_items": [
-    {
-      "description": "IT Support",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 94.14,
-      "discount_pct": 5,
-      "line_total": 2235.82
-    },
     {
       "description": "Software Dev",
       "unit": "hr",
-      "quantity": 10,
-      "unit_price": 215.88,
-      "discount_pct": 5,
-      "line_total": 2050.86
-    },
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 988.38,
-      "discount_pct": 0,
-      "line_total": 988.38
-    },
-    {
-      "description": "Content Writing",
-      "unit": "pg",
       "quantity": 2,
-      "unit_price": 296.18,
+      "unit_price": 108.33,
       "discount_pct": 0,
-      "line_total": 592.36
-    },
-    {
-      "description": "Market Research",
-      "unit": "ea",
-      "quantity": 50,
-      "unit_price": 6351.9,
-      "discount_pct": 5,
-      "line_total": 301715.25
-    },
-    {
-      "description": "Architecture Fees",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 21198.59,
-      "discount_pct": 20,
-      "line_total": 16958.87
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 1,
-      "unit_price": 113.26,
-      "discount_pct": 0,
-      "line_total": 113.26
-    },
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 11146.48,
-      "discount_pct": 10,
-      "line_total": 10031.83
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 372.97,
-      "discount_pct": 20,
-      "line_total": 298.38
-    },
-    {
-      "description": "Software License",
-      "unit": "seat",
-      "quantity": 3,
-      "unit_price": 9017.56,
-      "discount_pct": 0,
-      "line_total": 27052.68
-    },
-    {
-      "description": "Mobile App Dev",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 9725.93,
-      "discount_pct": 0,
-      "line_total": 243148.25
-    },
-    {
-      "description": "iOS App Dev",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 15520.18,
-      "discount_pct": 15,
-      "line_total": 26384.31
-    },
-    {
-      "description": "Translation Services",
-      "unit": "pg",
-      "quantity": 25,
-      "unit_price": 39.27,
-      "discount_pct": 0,
-      "line_total": 981.75
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 1,
-      "unit_price": 167.66,
-      "discount_pct": 10,
-      "line_total": 150.89
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 50,
-      "unit_price": 691.54,
-      "discount_pct": 20,
-      "line_total": 27661.6
+      "line_total": 216.66
     }
   ],
-  "subtotal": 660364.49,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 248.41,
-  "total_due": 660612.9,
-  "notes": "Disputes must be raised within 14 days of invoice date.",
+  "subtotal": 216.66,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 15.17,
+  "shipping_amount": 0.0,
+  "total_due": 231.83,
+  "notes": "All work performed in accordance with the signed service agreement.",
   "bank_details": null,
   "has_logo": true,
   "has_discount_column": false,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": false,
-  "has_tax": false
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
 }

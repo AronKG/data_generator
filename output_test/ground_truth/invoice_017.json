@@ -1,0 +1,151 @@
+{
+  "id": 17,
+  "filename": "invoice_017.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 0,
+  "invoice_number": "PROFORMA-2024-73513",
+  "issue_date": "09/03/2022",
+  "due_date": "18/10/2022",
+  "payment_terms": "Net 7",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": "PO-82498",
+  "seller_name": "Ironwood Precision Mfg.",
+  "seller_address": "500 Industrial Blvd Cleveland OH 44102 USA",
+  "seller_email": "ap@ironwoodprecision.com",
+  "seller_phone": "+1 216-555-0166",
+  "seller_tax_id": "EIN: 66-7890123",
+  "client_name": "Rockridge Civil Engineers",
+  "client_address": "1600 Wynkoop St Denver CO 80202 USA",
+  "client_email": "ap@rockridgecivil.com",
+  "num_line_items": 13,
+  "line_items": [
+    {
+      "description": "Security Services",
+      "unit": "day",
+      "quantity": 5,
+      "unit_price": 646.53,
+      "discount_pct": 0,
+      "line_total": 3232.65
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 346.34,
+      "discount_pct": 10,
+      "line_total": 3117.06
+    },
+    {
+      "description": "Export Documentation",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 267.0,
+      "discount_pct": 10,
+      "line_total": 480.6
+    },
+    {
+      "description": "SEO Optimization",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 4832.27,
+      "discount_pct": 0,
+      "line_total": 241613.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 844.31,
+      "discount_pct": 10,
+      "line_total": 759.88
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 774.56,
+      "discount_pct": 5,
+      "line_total": 735.83
+    },
+    {
+      "description": "Legal Consultation",
+      "unit": "hr",
+      "quantity": 5,
+      "unit_price": 332.66,
+      "discount_pct": 0,
+      "line_total": 1663.3
+    },
+    {
+      "description": "iOS App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 12741.15,
+      "discount_pct": 20,
+      "line_total": 20385.84
+    },
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 29364.51,
+      "discount_pct": 10,
+      "line_total": 26428.06
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 1,
+      "unit_price": 782.86,
+      "discount_pct": 5,
+      "line_total": 743.72
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 10,
+      "unit_price": 3618.12,
+      "discount_pct": 0,
+      "line_total": 36181.2
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1231.31,
+      "discount_pct": 10,
+      "line_total": 1108.18
+    },
+    {
+      "description": "Content Writing",
+      "unit": "pg",
+      "quantity": 50,
+      "unit_price": 191.66,
+      "discount_pct": 0,
+      "line_total": 9583.0
+    }
+  ],
+  "subtotal": 346032.82,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 17301.64,
+  "shipping_amount": 0.0,
+  "total_due": 363334.46,
+  "notes": null,
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": false,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": true,
+  "has_tax": true
+}

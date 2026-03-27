@@ -1,17 +1,17 @@
 {
   "id": 350,
   "filename": "invoice_350.pdf",
-  "layout_style": "ledger",
+  "layout_style": "compact",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 1,
+  "complexity_tier": "very_complex",
+  "color_palette_index": 14,
   "invoice_number": "PROFORMA-16643",
-  "issue_date": "2023-11-21",
-  "due_date": "05-Dec-2023",
-  "payment_terms": "30 days from delivery",
-  "currency": "EUR",
-  "currency_symbol": "€",
-  "po_number": null,
+  "issue_date": "06/04/2022",
+  "due_date": "25 June 2022",
+  "payment_terms": "Net 30",
+  "currency": "NOK",
+  "currency_symbol": "kr",
+  "po_number": "PO-88755",
   "seller_name": "Crimson and Co.",
   "seller_address": "3 Rue de Rivoli 75001 Paris France",
   "seller_email": "factures@crimsonco.fr",
@@ -20,107 +20,220 @@
   "client_name": "Vanguard Healthcare",
   "client_address": "1 Medical Center Dr Boston MA 02115 USA",
   "client_email": "payables@vanguardhealth.com",
-  "num_line_items": 10,
+  "num_line_items": 24,
   "line_items": [
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 131.04,
-      "discount_pct": 5,
-      "line_total": 1244.88
+      "quantity": 1,
+      "unit_price": 257.77,
+      "discount_pct": 0,
+      "line_total": 257.77
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
-      "quantity": 50,
-      "unit_price": 258.57,
-      "discount_pct": 0,
-      "line_total": 12928.5
+      "quantity": 5,
+      "unit_price": 171.67,
+      "discount_pct": 5,
+      "line_total": 815.43
     },
     {
       "description": "Translation Services",
       "unit": "pg",
       "quantity": 5,
-      "unit_price": 69.14,
-      "discount_pct": 0,
-      "line_total": 345.7
+      "unit_price": 123.23,
+      "discount_pct": 10,
+      "line_total": 554.53
     },
     {
       "description": "Bookkeeping",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 820.11,
+      "quantity": 1,
+      "unit_price": 1200.96,
       "discount_pct": 0,
-      "line_total": 4100.55
+      "line_total": 1200.96
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 399.99,
-      "discount_pct": 0,
-      "line_total": 399.99
+      "unit_price": 308.1,
+      "discount_pct": 20,
+      "line_total": 246.48
     },
     {
       "description": "Video Production",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2612.5,
-      "discount_pct": 5,
-      "line_total": 12409.38
+      "quantity": 25,
+      "unit_price": 5416.38,
+      "discount_pct": 20,
+      "line_total": 108327.6
     },
     {
       "description": "Cloud Hosting",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 787.05,
+      "quantity": 2,
+      "unit_price": 342.44,
       "discount_pct": 10,
-      "line_total": 3541.72
+      "line_total": 616.39
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1606.95,
-      "discount_pct": 0,
-      "line_total": 1606.95
+      "quantity": 25,
+      "unit_price": 1748.15,
+      "discount_pct": 5,
+      "line_total": 41518.56
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1248.61,
-      "discount_pct": 20,
-      "line_total": 998.89
+      "quantity": 5,
+      "unit_price": 497.43,
+      "discount_pct": 5,
+      "line_total": 2362.79
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 643.5,
+      "quantity": 3,
+      "unit_price": 843.63,
+      "discount_pct": 10,
+      "line_total": 2277.8
+    },
+    {
+      "description": "Photography Session",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 1580.65,
       "discount_pct": 20,
-      "line_total": 12870.0
+      "line_total": 3793.56
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 50,
+      "unit_price": 12276.35,
+      "discount_pct": 5,
+      "line_total": 583126.62
+    },
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 25,
+      "unit_price": 20.3,
+      "discount_pct": 5,
+      "line_total": 482.12
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 336.5,
+      "discount_pct": 0,
+      "line_total": 336.5
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 1,
+      "unit_price": 698.1,
+      "discount_pct": 0,
+      "line_total": 698.1
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 26.45,
+      "discount_pct": 15,
+      "line_total": 22.48
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 5,
+      "unit_price": 190.97,
+      "discount_pct": 20,
+      "line_total": 763.88
+    },
+    {
+      "description": "Digital Marketing",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 3338.98,
+      "discount_pct": 20,
+      "line_total": 2671.18
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 1,
+      "unit_price": 130.43,
+      "discount_pct": 0,
+      "line_total": 130.43
+    },
+    {
+      "description": "Maintenance Contract",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1270.33,
+      "discount_pct": 10,
+      "line_total": 5716.48
+    },
+    {
+      "description": "Managed Cloud",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1050.16,
+      "discount_pct": 0,
+      "line_total": 10501.6
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
+      "quantity": 10,
+      "unit_price": 486.1,
+      "discount_pct": 15,
+      "line_total": 4131.85
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1125.1,
+      "discount_pct": 0,
+      "line_total": 11251.0
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 50,
+      "unit_price": 1660.76,
+      "discount_pct": 20,
+      "line_total": 66430.4
     }
   ],
-  "subtotal": 50446.56,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 4161.84,
-  "shipping_amount": 187.38,
-  "total_due": 54795.78,
-  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "subtotal": 848234.51,
+  "tax_label": "VAT 20pct",
+  "tax_rate_pct": 20.0,
+  "tax_amount": 169646.9,
+  "shipping_amount": 0.0,
+  "total_due": 1017881.41,
+  "notes": "Please direct billing queries to our accounts department.",
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "TD Bank Canada",
+    "Transit": "00000",
+    "Institution": "004",
+    "Account": "1234567"
   },
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": false,
+  "has_discount_column": true,
+  "has_unit_column": true,
   "has_notes": true,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": false,
+  "has_shipping": false,
+  "has_po_number": true,
   "has_tax": true
 }

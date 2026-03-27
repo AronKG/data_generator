@@ -1,17 +1,17 @@
 {
   "id": 392,
   "filename": "invoice_392.pdf",
-  "layout_style": "classic",
+  "layout_style": "compact",
   "page_size": "A4",
   "complexity_tier": "very_complex",
-  "color_palette_index": 10,
+  "color_palette_index": 1,
   "invoice_number": "INVOICE/2022/76656",
-  "issue_date": "18 July 2024",
-  "due_date": "09/01/2024",
+  "issue_date": "2023-10-27",
+  "due_date": "11/03/2023",
   "payment_terms": "Due on Receipt",
-  "currency": "USD",
-  "currency_symbol": "$",
-  "po_number": "PO-91054",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Nordic Craft AB",
   "seller_address": "Kungsgatan 12 111 35 Stockholm Sweden",
   "seller_email": "faktura@nordiccraft.se",
@@ -20,139 +20,163 @@
   "client_name": "ClearSky Airlines",
   "client_address": "Terminal 5 Heathrow London TW6 1QG UK",
   "client_email": "procurement@clearskyair.com",
-  "num_line_items": 14,
+  "num_line_items": 17,
   "line_items": [
-    {
-      "description": "Freight Forwarding",
-      "unit": "shpt",
-      "quantity": 1,
-      "unit_price": 730.1,
-      "discount_pct": 0,
-      "line_total": 730.1
-    },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 750.76,
-      "discount_pct": 0,
-      "line_total": 750.76
+      "unit_price": 525.41,
+      "discount_pct": 10,
+      "line_total": 472.87
     },
     {
       "description": "Event Management",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 14171.83,
-      "discount_pct": 0,
-      "line_total": 354295.75
+      "quantity": 1,
+      "unit_price": 15297.01,
+      "discount_pct": 15,
+      "line_total": 13002.46
     },
     {
       "description": "Managed Cloud",
       "unit": "mo",
-      "quantity": 50,
-      "unit_price": 1126.52,
-      "discount_pct": 0,
-      "line_total": 56326.0
+      "quantity": 2,
+      "unit_price": 2470.49,
+      "discount_pct": 5,
+      "line_total": 4693.93
     },
     {
       "description": "Logo Design",
       "unit": "ea",
-      "quantity": 2,
-      "unit_price": 977.71,
+      "quantity": 3,
+      "unit_price": 893.44,
       "discount_pct": 0,
-      "line_total": 1955.42
+      "line_total": 2680.32
     },
     {
       "description": "Social Media Mgmt",
       "unit": "mo",
       "quantity": 3,
-      "unit_price": 1953.32,
+      "unit_price": 1351.71,
       "discount_pct": 0,
-      "line_total": 5859.96
+      "line_total": 4055.13
     },
     {
       "description": "Accounting Services",
       "unit": "mo",
-      "quantity": 5,
-      "unit_price": 1455.42,
+      "quantity": 2,
+      "unit_price": 630.56,
       "discount_pct": 0,
-      "line_total": 7277.1
+      "line_total": 1261.12
     },
     {
       "description": "SEO Optimization",
       "unit": "ea",
-      "quantity": 25,
-      "unit_price": 3664.1,
-      "discount_pct": 0,
-      "line_total": 91602.5
+      "quantity": 5,
+      "unit_price": 2706.66,
+      "discount_pct": 5,
+      "line_total": 12856.63
     },
     {
-      "description": "iOS App Dev",
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 2154.46,
+      "discount_pct": 0,
+      "line_total": 2154.46
+    },
+    {
+      "description": "BI Reporting",
       "unit": "ea",
-      "quantity": 5,
-      "unit_price": 19863.53,
-      "discount_pct": 15,
-      "line_total": 84420.0
+      "quantity": 25,
+      "unit_price": 1429.5,
+      "discount_pct": 0,
+      "line_total": 35737.5
     },
     {
       "description": "Security Services",
       "unit": "day",
-      "quantity": 25,
-      "unit_price": 485.9,
-      "discount_pct": 0,
-      "line_total": 12147.5
+      "quantity": 10,
+      "unit_price": 637.08,
+      "discount_pct": 10,
+      "line_total": 5733.72
     },
     {
       "description": "Export Documentation",
       "unit": "ea",
       "quantity": 10,
-      "unit_price": 292.62,
+      "unit_price": 409.33,
       "discount_pct": 10,
-      "line_total": 2633.58
+      "line_total": 3683.97
     },
     {
       "description": "Content Writing",
       "unit": "pg",
-      "quantity": 10,
-      "unit_price": 327.47,
-      "discount_pct": 10,
-      "line_total": 2947.23
+      "quantity": 1,
+      "unit_price": 263.27,
+      "discount_pct": 0,
+      "line_total": 263.27
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 1,
-      "unit_price": 1230.87,
-      "discount_pct": 0,
-      "line_total": 1230.87
+      "quantity": 5,
+      "unit_price": 313.72,
+      "discount_pct": 15,
+      "line_total": 1333.31
     },
     {
       "description": "IT Support",
       "unit": "hr",
+      "quantity": 1,
+      "unit_price": 100.18,
+      "discount_pct": 20,
+      "line_total": 80.14
+    },
+    {
+      "description": "Mobile App Dev",
+      "unit": "ea",
+      "quantity": 2,
+      "unit_price": 7597.0,
+      "discount_pct": 10,
+      "line_total": 13674.6
+    },
+    {
+      "description": "Print Materials",
+      "unit": "lot",
       "quantity": 5,
-      "unit_price": 82.9,
-      "discount_pct": 15,
-      "line_total": 352.32
+      "unit_price": 654.76,
+      "discount_pct": 0,
+      "line_total": 3273.8
+    },
+    {
+      "description": "Manufacturing Parts",
+      "unit": "lot",
+      "quantity": 3,
+      "unit_price": 6465.39,
+      "discount_pct": 10,
+      "line_total": 17456.55
     }
   ],
-  "subtotal": 622529.09,
-  "tax_label": "VAT 20pct",
-  "tax_rate_pct": 20.0,
-  "tax_amount": 124505.82,
-  "shipping_amount": 234.45,
-  "total_due": 747269.36,
-  "notes": "Our standard warranty terms apply to all goods and services.",
+  "subtotal": 122413.78,
+  "tax_label": "Sales Tax 8.25pct",
+  "tax_rate_pct": 8.25,
+  "tax_amount": 10099.14,
+  "shipping_amount": 0.0,
+  "total_due": 132512.92,
+  "notes": null,
   "bank_details": {
-    "Bank": "DNB Bank ASA",
-    "Account": "1503.12.34567",
-    "BIC": "DNBANOKK"
+    "Bank": "Deutsche Bank",
+    "IBAN": "DE89370400440532013000",
+    "BIC": "DEUTDEDB370"
   },
   "has_logo": true,
-  "has_discount_column": true,
+  "has_discount_column": false,
   "has_unit_column": false,
-  "has_notes": true,
+  "has_notes": false,
   "has_bank_details": true,
-  "has_shipping": true,
-  "has_po_number": true,
+  "has_shipping": false,
+  "has_po_number": false,
   "has_tax": true
 }

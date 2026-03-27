@@ -1,16 +1,16 @@
 {
   "id": 826,
   "filename": "invoice_826.pdf",
-  "layout_style": "classic",
+  "layout_style": "modern",
   "page_size": "A4",
-  "complexity_tier": "complex",
-  "color_palette_index": 11,
+  "complexity_tier": "medium",
+  "color_palette_index": 4,
   "invoice_number": "2023-81186",
-  "issue_date": "10/25/2024",
-  "due_date": "11/09/2024",
-  "payment_terms": "Net 45",
-  "currency": "AUD",
-  "currency_symbol": "A$",
+  "issue_date": "2024-03-14",
+  "due_date": "05/13/2024",
+  "payment_terms": "Net 21",
+  "currency": "NOK",
+  "currency_symbol": "kr",
   "po_number": null,
   "seller_name": "Sunrise Digital Agency",
   "seller_address": "12F 88 Queensway Admiralty Hong Kong",
@@ -20,126 +20,82 @@
   "client_name": "Prism Animation Works",
   "client_address": "45 Washington St Brooklyn NY 11201 USA",
   "client_email": "billing@prismanimation.com",
-  "num_line_items": 13,
+  "num_line_items": 7,
   "line_items": [
-    {
-      "description": "Event Management",
-      "unit": "ea",
-      "quantity": 3,
-      "unit_price": 17828.88,
-      "discount_pct": 0,
-      "line_total": 53486.64
-    },
-    {
-      "description": "Contract Review",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 532.8,
-      "discount_pct": 0,
-      "line_total": 532.8
-    },
     {
       "description": "Market Research",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 11318.68,
-      "discount_pct": 0,
-      "line_total": 11318.68
+      "unit_price": 14158.8,
+      "discount_pct": 5,
+      "line_total": 13450.86
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 1,
+      "unit_price": 1115.43,
+      "discount_pct": 15,
+      "line_total": 948.12
     },
     {
       "description": "Legal Consultation",
       "unit": "hr",
-      "quantity": 3,
-      "unit_price": 484.11,
-      "discount_pct": 0,
-      "line_total": 1452.33
+      "quantity": 1,
+      "unit_price": 467.49,
+      "discount_pct": 20,
+      "line_total": 373.99
     },
     {
       "description": "Data Analysis",
       "unit": "ea",
       "quantity": 1,
-      "unit_price": 2123.76,
+      "unit_price": 1797.62,
       "discount_pct": 0,
-      "line_total": 2123.76
+      "line_total": 1797.62
     },
     {
       "description": "IT Support",
       "unit": "hr",
       "quantity": 1,
-      "unit_price": 184.61,
-      "discount_pct": 5,
-      "line_total": 175.38
+      "unit_price": 164.6,
+      "discount_pct": 0,
+      "line_total": 164.6
     },
     {
-      "description": "Bookkeeping",
-      "unit": "mo",
-      "quantity": 10,
-      "unit_price": 1845.95,
-      "discount_pct": 5,
-      "line_total": 17536.52
+      "description": "Event Management",
+      "unit": "ea",
+      "quantity": 3,
+      "unit_price": 15235.73,
+      "discount_pct": 0,
+      "line_total": 45707.19
     },
     {
       "description": "Web Development",
       "unit": "hrs",
-      "quantity": 2,
-      "unit_price": 164.65,
-      "discount_pct": 0,
-      "line_total": 329.3
-    },
-    {
-      "description": "Tech Writing",
-      "unit": "pg",
-      "quantity": 10,
-      "unit_price": 290.45,
-      "discount_pct": 0,
-      "line_total": 2904.5
-    },
-    {
-      "description": "Export Documentation",
-      "unit": "ea",
-      "quantity": 2,
-      "unit_price": 445.7,
-      "discount_pct": 10,
-      "line_total": 802.26
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
       "quantity": 1,
-      "unit_price": 202.38,
+      "unit_price": 196.45,
       "discount_pct": 0,
-      "line_total": 202.38
-    },
-    {
-      "description": "Raw Materials",
-      "unit": "kg",
-      "quantity": 50,
-      "unit_price": 118.96,
-      "discount_pct": 5,
-      "line_total": 5650.6
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 2,
-      "unit_price": 261.97,
-      "discount_pct": 0,
-      "line_total": 523.94
+      "line_total": 196.45
     }
   ],
-  "subtotal": 97039.09,
-  "tax_label": "GST 10pct",
-  "tax_rate_pct": 10.0,
-  "tax_amount": 9703.91,
+  "subtotal": 62638.83,
+  "tax_label": "GST 5pct",
+  "tax_rate_pct": 5.0,
+  "tax_amount": 3131.94,
   "shipping_amount": 0.0,
-  "total_due": 106743.0,
-  "notes": "All prices exclusive of applicable taxes unless stated otherwise.",
-  "bank_details": null,
+  "total_due": 65770.77,
+  "notes": "This invoice is computer-generated and is valid without a signature.",
+  "bank_details": {
+    "Bank": "DBS Bank",
+    "Account": "012-345678-9",
+    "SWIFT": "DBSSSGSG"
+  },
   "has_logo": true,
   "has_discount_column": true,
-  "has_unit_column": false,
+  "has_unit_column": true,
   "has_notes": true,
-  "has_bank_details": false,
+  "has_bank_details": true,
   "has_shipping": false,
   "has_po_number": false,
   "has_tax": true

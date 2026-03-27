@@ -1,17 +1,17 @@
 {
   "id": 967,
   "filename": "invoice_967.pdf",
-  "layout_style": "compact",
+  "layout_style": "creative",
   "page_size": "A4",
-  "complexity_tier": "very_complex",
-  "color_palette_index": 2,
+  "complexity_tier": "medium",
+  "color_palette_index": 12,
   "invoice_number": "INV-2024-95711",
-  "issue_date": "05/15/2022",
-  "due_date": "14-Jun-2022",
-  "payment_terms": "End of Month",
-  "currency": "SGD",
-  "currency_symbol": "S$",
-  "po_number": "PO-77953",
+  "issue_date": "03/06/2023",
+  "due_date": "2023-06-18",
+  "payment_terms": "Due on Receipt",
+  "currency": "AED",
+  "currency_symbol": "AED",
+  "po_number": null,
   "seller_name": "Anchor and Sail Marine",
   "seller_address": "Port Lane 3 Auckland 1010 New Zealand",
   "seller_email": "billing@anchorsail.nz",
@@ -20,151 +20,55 @@
   "client_name": "SkyBridge Aviation PLC",
   "client_address": "Waterside Harmondsworth UB7 0GB UK",
   "client_email": "procurement@skybridgeav.com",
-  "num_line_items": 16,
+  "num_line_items": 4,
   "line_items": [
-    {
-      "description": "Video Production",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 2064.66,
-      "discount_pct": 10,
-      "line_total": 1858.19
-    },
     {
       "description": "Digital Marketing",
       "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1711.71,
-      "discount_pct": 0,
-      "line_total": 1711.71
+      "quantity": 3,
+      "unit_price": 1898.19,
+      "discount_pct": 5,
+      "line_total": 5409.84
     },
     {
       "description": "Community Mgmt",
       "unit": "mo",
-      "quantity": 3,
-      "unit_price": 1531.26,
-      "discount_pct": 15,
-      "line_total": 3904.71
+      "quantity": 50,
+      "unit_price": 2091.0,
+      "discount_pct": 0,
+      "line_total": 104550.0
     },
     {
       "description": "Catering Services",
       "unit": "head",
       "quantity": 3,
-      "unit_price": 63.61,
+      "unit_price": 76.84,
       "discount_pct": 0,
-      "line_total": 190.83
+      "line_total": 230.52
     },
     {
       "description": "Maintenance Contract",
       "unit": "mo",
-      "quantity": 2,
-      "unit_price": 322.35,
-      "discount_pct": 20,
-      "line_total": 515.76
-    },
-    {
-      "description": "Consulting Day Rate",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 1288.51,
-      "discount_pct": 0,
-      "line_total": 2577.02
-    },
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 5,
-      "unit_price": 2855.87,
-      "discount_pct": 20,
-      "line_total": 11423.48
-    },
-    {
-      "description": "SEO Optimization",
-      "unit": "ea",
       "quantity": 1,
-      "unit_price": 3523.92,
-      "discount_pct": 0,
-      "line_total": 3523.92
-    },
-    {
-      "description": "Software Dev",
-      "unit": "hr",
-      "quantity": 25,
-      "unit_price": 268.56,
-      "discount_pct": 20,
-      "line_total": 5371.2
-    },
-    {
-      "description": "Training Workshop",
-      "unit": "person",
-      "quantity": 1,
-      "unit_price": 300.55,
-      "discount_pct": 5,
-      "line_total": 285.52
-    },
-    {
-      "description": "Security Services",
-      "unit": "day",
-      "quantity": 2,
-      "unit_price": 333.73,
-      "discount_pct": 0,
-      "line_total": 667.46
-    },
-    {
-      "description": "Cloud Hosting",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 996.08,
-      "discount_pct": 0,
-      "line_total": 996.08
-    },
-    {
-      "description": "Accounting Services",
-      "unit": "mo",
-      "quantity": 1,
-      "unit_price": 902.79,
-      "discount_pct": 20,
-      "line_total": 722.23
-    },
-    {
-      "description": "Legal Consultation",
-      "unit": "hr",
-      "quantity": 1,
-      "unit_price": 478.48,
-      "discount_pct": 0,
-      "line_total": 478.48
-    },
-    {
-      "description": "Brand Identity",
-      "unit": "ea",
-      "quantity": 25,
-      "unit_price": 4259.8,
-      "discount_pct": 15,
-      "line_total": 90520.75
-    },
-    {
-      "description": "Manufacturing Parts",
-      "unit": "lot",
-      "quantity": 1,
-      "unit_price": 5037.9,
-      "discount_pct": 0,
-      "line_total": 5037.9
+      "unit_price": 1997.35,
+      "discount_pct": 10,
+      "line_total": 1797.62
     }
   ],
-  "subtotal": 129785.24,
-  "tax_label": "No Tax",
-  "tax_rate_pct": 0.0,
-  "tax_amount": 0.0,
-  "shipping_amount": 230.56,
-  "total_due": 130015.8,
-  "notes": "Payment accepted via SWIFT SEPA or major credit cards.",
+  "subtotal": 111987.98,
+  "tax_label": "GST 10pct",
+  "tax_rate_pct": 10.0,
+  "tax_amount": 11198.8,
+  "shipping_amount": 0.0,
+  "total_due": 123186.78,
+  "notes": "Goods remain property of seller until full payment received.",
   "bank_details": null,
   "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
+  "has_discount_column": true,
+  "has_unit_column": false,
   "has_notes": true,
   "has_bank_details": false,
-  "has_shipping": true,
-  "has_po_number": true,
-  "has_tax": false
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
 }
