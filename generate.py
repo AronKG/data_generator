@@ -845,24 +845,27 @@ def r_creative(c,d,W,H):
     left_x = m
     right_col_start = W - m - 6.8*cm
     left_max_w = max(4.0*cm, right_col_start - left_x - 0.2*cm)
+    logo_size = 2.2*cm
+    logo_x = W - m - 2.5*cm
+    right_anchor = logo_x - 0.25*cm
     c.setFillColor(pal["bg"]); c.circle(W+1*cm,H+1*cm,8*cm,fill=1,stroke=0)
     c.setFillColor(ink_on_white)
     draw_fit_text(c, d["seller_name"], left_x, H-1.8*cm, left_max_w,
                   font_name="Helvetica-Bold", font_size=22, min_size=11)
-    draw_logo(c,W-m-2.5*cm,H-3.0*cm,2.2*cm,pal,d["seller_name"])
+    draw_logo(c,logo_x,H-3.0*cm,logo_size,pal,d["seller_name"])
     c.setFillColor(colors.HexColor("#555"))
     draw_fit_text(c, d["seller_address"], left_x, H-2.4*cm, left_max_w,
                   font_name="Helvetica", font_size=8, min_size=6)
     draw_fit_text(c, d["seller_email"], left_x, H-2.9*cm, left_max_w,
                   font_name="Helvetica", font_size=8, min_size=6)
-    c.setFillColor(ink_on_white); c.setFont("Helvetica-Bold",13); c.drawRightString(W-m,H-1.8*cm,"INVOICE")
+    c.setFillColor(ink_on_white); c.setFont("Helvetica-Bold",13); c.drawRightString(right_anchor,H-1.8*cm,"INVOICE")
     c.setFont("Helvetica",9); c.setFillColor(colors.black)
-    c.drawRightString(W-m,H-2.15*cm,f"No: {d['invoice_number']}")
-    c.drawRightString(W-m,H-2.60*cm,f"Date: {d['issue_date']}")
-    c.drawRightString(W-m,H-3.05*cm,f"Due: {d['due_date']}")
-    c.drawRightString(W-m,H-3.50*cm,f"Currency: {d['currency']}")
-    c.drawRightString(W-m,H-3.95*cm,f"Terms: {d['payment_terms']}")
-    if d["po_number"]: c.drawRightString(W-m,H-4.40*cm,f"PO: {d['po_number']}")
+    c.drawRightString(right_anchor,H-2.15*cm,f"No: {d['invoice_number']}")
+    c.drawRightString(right_anchor,H-2.60*cm,f"Date: {d['issue_date']}")
+    c.drawRightString(right_anchor,H-3.05*cm,f"Due: {d['due_date']}")
+    c.drawRightString(right_anchor,H-3.50*cm,f"Currency: {d['currency']}")
+    c.drawRightString(right_anchor,H-3.95*cm,f"Terms: {d['payment_terms']}")
+    if d["po_number"]: c.drawRightString(right_anchor,H-4.40*cm,f"PO: {d['po_number']}")
     c.setFillColor(pal["primary"]); c.setFont("Helvetica-Bold",9); c.drawString(m,H-4.8*cm,"BILLED TO")
     c.setFont("Helvetica",9); c.setFillColor(colors.black)
     c.drawString(m,H-5.3*cm,d["client_name"]); c.drawString(m,H-5.8*cm,d["client_address"])

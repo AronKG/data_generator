@@ -1,0 +1,154 @@
+{
+  "id": 19,
+  "filename": "invoice_019.pdf",
+  "layout_style": "two_tone",
+  "page_size": "letter",
+  "complexity_tier": "complex",
+  "color_palette_index": 9,
+  "invoice_number": "2023-17951",
+  "issue_date": "06 August 2023",
+  "due_date": "2023-08-20",
+  "payment_terms": "Net 7",
+  "currency": "GBP",
+  "currency_symbol": "£",
+  "po_number": null,
+  "seller_name": "Pacific Rim Exports",
+  "seller_address": "88 Harbour Road Hong Kong",
+  "seller_email": "accounts@pacificrimexports.hk",
+  "seller_phone": "+852 2100 0000",
+  "seller_tax_id": "BR No: 12345678",
+  "client_name": "ClearPath Medical Group",
+  "client_address": "500 E Pratt St Baltimore MD 21202 USA",
+  "client_email": "accounts@clearpathmed.com",
+  "num_line_items": 14,
+  "line_items": [
+    {
+      "description": "Raw Materials",
+      "unit": "kg",
+      "quantity": 2,
+      "unit_price": 80.69,
+      "discount_pct": 10,
+      "line_total": 145.24
+    },
+    {
+      "description": "Accounting Services",
+      "unit": "mo",
+      "quantity": 5,
+      "unit_price": 1485.02,
+      "discount_pct": 0,
+      "line_total": 7425.1
+    },
+    {
+      "description": "Community Mgmt",
+      "unit": "mo",
+      "quantity": 10,
+      "unit_price": 1014.32,
+      "discount_pct": 20,
+      "line_total": 8114.56
+    },
+    {
+      "description": "Consulting Day Rate",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 2285.8,
+      "discount_pct": 5,
+      "line_total": 2171.51
+    },
+    {
+      "description": "Web Development",
+      "unit": "hrs",
+      "quantity": 50,
+      "unit_price": 89.65,
+      "discount_pct": 10,
+      "line_total": 4034.25
+    },
+    {
+      "description": "Data Analysis",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 1527.57,
+      "discount_pct": 20,
+      "line_total": 1222.06
+    },
+    {
+      "description": "Catering Services",
+      "unit": "head",
+      "quantity": 1,
+      "unit_price": 65.79,
+      "discount_pct": 0,
+      "line_total": 65.79
+    },
+    {
+      "description": "Contract Review",
+      "unit": "hr",
+      "quantity": 50,
+      "unit_price": 446.67,
+      "discount_pct": 10,
+      "line_total": 20100.15
+    },
+    {
+      "description": "Software Dev",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 123.01,
+      "discount_pct": 5,
+      "line_total": 1168.6
+    },
+    {
+      "description": "Office Supplies",
+      "unit": "lot",
+      "quantity": 25,
+      "unit_price": 448.4,
+      "discount_pct": 10,
+      "line_total": 10089.0
+    },
+    {
+      "description": "Market Research",
+      "unit": "ea",
+      "quantity": 1,
+      "unit_price": 13146.6,
+      "discount_pct": 0,
+      "line_total": 13146.6
+    },
+    {
+      "description": "Tech Writing",
+      "unit": "pg",
+      "quantity": 25,
+      "unit_price": 229.82,
+      "discount_pct": 0,
+      "line_total": 5745.5
+    },
+    {
+      "description": "Equipment Rental",
+      "unit": "day",
+      "quantity": 1,
+      "unit_price": 485.08,
+      "discount_pct": 5,
+      "line_total": 460.83
+    },
+    {
+      "description": "Training Workshop",
+      "unit": "person",
+      "quantity": 10,
+      "unit_price": 327.36,
+      "discount_pct": 0,
+      "line_total": 3273.6
+    }
+  ],
+  "subtotal": 77162.79,
+  "tax_label": "Service Tax 6pct",
+  "tax_rate_pct": 6.0,
+  "tax_amount": 4629.77,
+  "shipping_amount": 0.0,
+  "total_due": 81792.56,
+  "notes": "Payment via bank transfer or credit card. Reference invoice number.",
+  "bank_details": null,
+  "has_logo": true,
+  "has_discount_column": true,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": false,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}

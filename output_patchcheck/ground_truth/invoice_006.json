@@ -1,0 +1,63 @@
+{
+  "id": 6,
+  "filename": "invoice_006.pdf",
+  "layout_style": "classic",
+  "page_size": "A4",
+  "complexity_tier": "simple",
+  "color_palette_index": 11,
+  "invoice_number": "RCPT-2022-66120",
+  "issue_date": "August 18 2023",
+  "due_date": "2023-10-02",
+  "payment_terms": "30 days from delivery",
+  "currency": "HKD",
+  "currency_symbol": "HK$",
+  "po_number": null,
+  "seller_name": "Mirage Productions FZ-LLC",
+  "seller_address": "Dubai Studio City Dubai UAE",
+  "seller_email": "accounts@mirageproductions.ae",
+  "seller_phone": "+971 4 444 0199",
+  "seller_tax_id": "TRN: 100987654321003",
+  "client_name": "Summit Real Estate Advisors",
+  "client_address": "101 Collins St Melbourne VIC 3000 Australia",
+  "client_email": "finance@summitrea.com.au",
+  "num_line_items": 2,
+  "line_items": [
+    {
+      "description": "Architecture Fees",
+      "unit": "ea",
+      "quantity": 10,
+      "unit_price": 26835.32,
+      "discount_pct": 0,
+      "line_total": 268353.2
+    },
+    {
+      "description": "IT Support",
+      "unit": "hr",
+      "quantity": 10,
+      "unit_price": 104.22,
+      "discount_pct": 0,
+      "line_total": 1042.2
+    }
+  ],
+  "subtotal": 269395.4,
+  "tax_label": "Tax 7pct",
+  "tax_rate_pct": 7.0,
+  "tax_amount": 18857.68,
+  "shipping_amount": 0.0,
+  "total_due": 288253.08,
+  "notes": "Goods remain property of seller until full payment received.",
+  "bank_details": {
+    "Bank": "Barclays Bank",
+    "Sort Code": "20-00-01",
+    "Account": "87654321",
+    "IBAN": "GB12BARC20000187654321"
+  },
+  "has_logo": true,
+  "has_discount_column": false,
+  "has_unit_column": true,
+  "has_notes": true,
+  "has_bank_details": true,
+  "has_shipping": false,
+  "has_po_number": false,
+  "has_tax": true
+}
