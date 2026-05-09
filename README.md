@@ -1,197 +1,153 @@
 # Synthetic Invoice Dataset Generator
 
-Generates 1,000 synthetic invoice PDFs with paired JSON ground truth files.
-Designed for training and evaluating document understanding models such as
-LayoutLMv3, Donut, and similar architectures.
+Generates synthetic invoice PDFs with paired JSON ground-truth files.
+The PDF and JSON are generated from the same in-memory record, which keeps values aligned across both outputs.
 
----
+## Project Structure
 
-## File Structure
-
-```
+```text
 invoice_dataset_generator/
-│
-├── generate.py          # Main script — generates all PDFs and JSONs
-├── verify.py            # Checks every JSON field appears in its PDF
-├── stats.py             # Prints full dataset statistics
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
+├── generate.py
+├── verify.py
+├── stats.py
+├── requirements.txt
+└── README.md
 
-output/                  # Created automatically when you run generate.py
+output/
 ├── pdfs/
-│   ├── invoice_001.pdf
-│   ├── invoice_002.pdf
-│   └── ... (1000 files)
 ├── ground_truth/
-│   ├── invoice_001.json
-│   ├── invoice_002.json
-│   └── ... (1000 files)
-├── pdfs.zip             # Only if --zip flag used
-└── ground_truth.zip     # Only if --zip flag used
+├── pdfs.zip                # only when --zip is used
+└── ground_truth.zip        # only when --zip is used
 ```
 
----
+## Requirements
 
-## Installation
+- Python 3.9+
+- Dependencies in requirements.txt:
+  - reportlab==4.4.10
+  - pdfplumber==0.10.3
+  - pillow==10.2.0
+
+Install:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Tested with Python 3.9, 3.10, 3.11.
+## Quick Start
 
----
+Run all commands from the repository root.
 
-## Usage
+Generate default dataset (1000 invoices):
 
-### Generate 1,000 invoices (default)
 ```bash
 python generate.py
 ```
 
-### Generate with ZIP archives
+Generate a custom size/location:
+
+```bash
+python generate.py --n 100 --pdf_dir output_test/pdfs --gt_dir output_test/ground_truth
+```
+
+Generate and zip outputs:
+
 ```bash
 python generate.py --zip
 ```
 
-### Generate a smaller set (e.g. 100 for testing)
-```bash
-python generate.py --n 100 --pdf_dir test_pdfs --gt_dir test_jsons
-```
+## Validation
 
-### Verify PDF/JSON alignment
+Verify JSON-to-PDF field presence:
+
 ```bash
 python verify.py
 ```
-Expected output: `VERIFICATION RESULTS: 1000/1000 PASSED`
 
-### Verify alignment + contrast safety
+Verify field presence + color contrast:
+
 ```bash
 python verify.py --check_contrast
 ```
-Also prints a contrast audit summary (default threshold: `4.5`).
 
-### Print dataset statistics
+Notes on verification behavior:
+
+- PDF text is extracted with pdfplumber.
+- Matching is normalization-based (case-insensitive, whitespace-collapsed substring check).
+- Required core fields are always checked.
+- Conditional fields are checked only when enabled in JSON (tax, PO, shipping, notes, bank details).
+- Contrast check uses WCAG-style relative luminance and contrast ratio with default threshold 4.5.
+
+## Dataset Statistics
+
+Print summary statistics from generated JSON files:
+
 ```bash
 python stats.py
 ```
 
----
+Current values for the latest generated set (n=1000 in output/):
+
+- Total documents: 1000
+- Total line items: 8642
+- Average line items/document: 8.6
+- Line-item range: 1 to 25
+- Unique sellers: 30
+- Unique clients: 30
+- Page sizes: A4=575, Letter=425
+- Currency count: 10
+
+## Generation Logic
+
+- The generator supports 10 layout styles.
+- Company-to-template mapping is deterministic and realistic:
+  - each seller is assigned 1 primary template,
+  - some sellers get 1 additional template,
+  - so each seller uses at most 2 templates.
+- Complexity tiers are balanced with fixed weights.
+- Optional fields (notes, bank details, PO, shipping, discount/unit columns) are conditionally included.
 
 ## Reproducibility
 
-The dataset is fully deterministic given the same random seeds:
+Generation is deterministic with fixed seeds:
 
-| Seed | Controls |
-|---|---|
-| `random.seed(42)` | Which layout, currency, palette, page size each invoice gets |
-| `random.Random(idx * 9999 + 7)` | All content inside each individual invoice |
+- global sequence seed: 42
+- per-document content seed: index * 9999 + 7
+- invoice number seed: index * 3571
+- seller-template mapping seed: 2026
 
-Running `generate.py` twice on the same machine with the same library
-versions produces bit-identical output files.
+Given the same code, dependencies, and seeds, regenerated datasets are reproducible.
 
----
+## Ground Truth Schema (Summary)
 
-## Dataset Properties
+Each invoice JSON has 39 top-level keys:
 
-| Property | Value |
-|---|---|
-| Total documents | 1,000 |
-| Layout styles | 10 (100 each) |
-| Colour palettes | 15 |
-| Currencies | 10 |
-| Page sizes | A4 (575), Letter (425) |
-| Unique sellers | 30 |
-| Unique clients | 30 |
-| Complexity tiers | 4 (simple / medium / complex / very_complex) |
-| Line items range | 1 – 25 per invoice |
-| Total line items | 8,698 |
-| Invoice number formats | 17+ variants |
-| Date formats | 6 variants |
-| Tax regimes | 12 variants |
-| Payment terms | 15 variants |
-| JSON fields per document | 38 + line_items array |
+- 38 scalar/object keys
+- 1 array key: line_items
 
----
+Important key groups:
 
-## JSON Ground Truth Schema
+- metadata: id, filename, layout_style, page_size, complexity_tier
+- document header: invoice_number, issue_date, due_date, payment_terms, currency
+- parties: seller_* and client_*
+- amounts: subtotal, tax_*, shipping_amount, total_due
+- options/flags: has_tax, has_notes, has_bank_details, has_shipping, has_po_number, etc.
 
-Each `invoice_NNN.json` contains:
+## Troubleshooting
 
-```json
-{
-  "id": 1,
-  "filename": "invoice_001.pdf",
-  "layout_style": "two_tone",
-  "page_size": "letter",
-  "complexity_tier": "complex",
-  "color_palette_index": 1,
-  "invoice_number": "2025-25526",
-  "issue_date": "December 17 2022",
-  "due_date": "January 01 2023",
-  "payment_terms": "Cash on Delivery",
-  "currency": "AUD",
-  "currency_symbol": "A$",
-  "po_number": "PO-74733",
-  "seller_name": "IronCore Manufacturing",
-  "seller_address": "77 Steel Drive Pittsburgh PA 15201 USA",
-  "seller_email": "ar@ironcoremfg.com",
-  "seller_phone": "+1 412-555-0177",
-  "seller_tax_id": "EIN: 45-6789012",
-  "client_name": "Quantum Dynamics Corp",
-  "client_address": "1000 Innovation Pkwy Cambridge MA 02139 USA",
-  "client_email": "accounts@quantumdynamics.com",
-  "num_line_items": 9,
-  "line_items": [
-    {
-      "description": "Data Analysis",
-      "unit": "ea",
-      "quantity": 1,
-      "unit_price": 1160.95,
-      "discount_pct": 0,
-      "line_total": 1160.95
-    }
-  ],
-  "subtotal": 213367.41,
-  "tax_label": "Sales Tax 8.25pct",
-  "tax_rate_pct": 8.25,
-  "tax_amount": 17602.81,
-  "shipping_amount": 0.0,
-  "total_due": 230970.22,
-  "notes": null,
-  "bank_details": null,
-  "has_logo": true,
-  "has_discount_column": false,
-  "has_unit_column": true,
-  "has_notes": false,
-  "has_bank_details": false,
-  "has_shipping": false,
-  "has_po_number": true,
-  "has_tax": true
-}
-```
-
----
-
-## Known Limitations
-
-| Issue | Count | Description |
-|---|---|---|
-| Low contrast header text | 66 | White text on light primary colour, contrast < 4.5:1 |
-| Sidebar name truncation | 33 | Seller names > 22 chars may be clipped in sidebar layout |
-| Page overflow risk | 16 | Very complex invoices in compact layout may exceed page height |
-| Payment terms overflow | 7 | Long terms string may overflow single line in compact layout |
-
-These are intentional — real invoice datasets contain the same imperfections.
-
----
+- If verify reports missing fields:
+  - regenerate with python generate.py,
+  - rerun python verify.py,
+  - inspect the reported invoice IDs for layout overflow or text collisions.
+- If contrast check fails to import generate:
+  - ensure you run from repository root,
+  - ensure dependencies are installed in the active environment.
 
 ## Citation
 
-If you use this dataset in your research, please cite as:
+If you use this dataset in research, cite this repository and include:
 
-```
-Synthetic Invoice Dataset, generated using Python 3 and ReportLab 4.4.10.
-Random seeds: global=42, per-document=index*9999+7.
-1,000 documents across 10 layout styles, 10 currencies, 15 colour palettes.
-```
+- generator: Python + ReportLab
+- dataset size (n)
+- seed configuration
+- validation method (verify.py, optional contrast check)
