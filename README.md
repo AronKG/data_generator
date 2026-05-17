@@ -143,11 +143,3 @@ Important key groups:
   - ensure you run from repository root,
   - ensure dependencies are installed in the active environment.
 
-## Citation
-
-If you use this dataset in research, cite this repository and include:
-
-- generator: Python + ReportLab
-- dataset size (n)
-- seed configuration
-- validation method (verify.py, optional contrast check)
